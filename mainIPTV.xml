@@ -2,56 +2,56 @@
 
 <dir>
     <title>Entertainment</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/list.xml</link>
-    <thumbnail>https://sitejerk.com/images/4k-png-14.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/english.m3u</link>
+    <thumbnail>https://i2.wp.com/www.somersetcounty4h.org/wp-content/uploads/entertainment-icon.png?fit=567%2C567</thumbnail>
 </dir>
 
 <dir>
     <title>Movies</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kidsmovies.xml</link>
-    <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/movies.m3u</link>
+    <thumbnail>https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/movies.png</thumbnail>
 </dir>
 
 <dir>
     <title>Kids</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
-    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/kids.m3u</link>
+    <thumbnail>https://yt3.ggpht.com/a/AGF-l7-eRsuCOQ43Hj9WVVU1xGY2L6sgA8S1DZLM2w=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
 </dir>
 
 <dir>
     <title>Sports</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/list.xml</link>
-    <thumbnail>https://sitejerk.com/images/4k-png-14.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/sports.m3u</link>
+    <thumbnail>https://images.all-free-download.com/images/graphicthumb/free_sport_vector_pack_557881.jpg</thumbnail>
 </dir>
 
 <dir>
     <title>News</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kidsmovies.xml</link>
-    <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/news.m3u</link>
+    <thumbnail>https://esemag.com/wp-content/uploads/2015/11/News-Items.jpg</thumbnail>
 </dir>
 
 <dir>
     <title>Music</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
-    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/music.m3u</link>
+    <thumbnail>https://c8.alamy.com/comp/PE2FM5/vector-cartoon-music-icon-in-comic-style-sound-note-sign-illustration-pictogram-melody-music-business-splash-effect-concept-PE2FM5.jpg</thumbnail>
 </dir>
 
 <dir>
     <title>24/7</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
-    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/24-7.m3u</link>
+    <thumbnail>https://depo8.com/wp-content/uploads/2014/07/24-7-icon.png</thumbnail>
 </dir>
 
 <dir>
     <title>Pluto TV</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
-    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/pluto.m3u</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/519H2haYtzL._SY355_.png</thumbnail>
 </dir>
 
 <dir>
     <title>Foreign Channels</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
-    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign.xml</link>
+    <thumbnail>https://www.inquirer.com/resizer/eVOmYXsz5FaBFcUDeCAosuKSCYM=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/X7GA4RXELJH7JFMTU4ONBWEPFU.jpgg</thumbnail>
 </dir>
 
 </xml>
