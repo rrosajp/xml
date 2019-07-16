@@ -15,11 +15,10 @@
 <dir>
     <title>The Big Bang Theory</title>
     <meta>
-    <seasons>seasons</seasons>
     <content>tvshows</content>
     <imdb>tt0898266</imdb>
     <tvdb>80379</tvdb>
-    <tvshowtitle>The Big Bang Theory</tvshowtitle>
+    <title>The Big Bang Theory</title>
     <year>2007</year>
     </meta>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/big_bang/list.xml</link>
