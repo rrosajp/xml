@@ -2,14 +2,6 @@
 
 <dir>
     <title>Arrow</title>
-    <meta>
-    <tvshows>8</tvshows>
-    <content>tvshows</content>
-    <imdb>tt0898266</imdb>
-    <tvdb>80379</tvdb>
-    <tvshowtitle>The Big Bang Theory</tvshowtitle>
-    <year>2007</year>
-    </meta>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/arrow/list.xml</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
 </dir>
@@ -22,6 +14,14 @@
 
 <dir>
     <title>The Big Bang Theory</title>
+    <meta>
+    <tvshows>12</tvshows>
+    <content>tvshows</content>
+    <imdb>tt0898266</imdb>
+    <tvdb>80379</tvdb>
+    <tvshowtitle>The Big Bang Theory</tvshowtitle>
+    <year>2007</year>
+    </meta>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/big_bang/list.xml</link>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg</thumbnail>
 </dir>
