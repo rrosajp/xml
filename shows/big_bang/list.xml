@@ -2,6 +2,13 @@
 
 <dir>
     <title>Season 1</title>
+    <meta>
+    <content>season</content>
+    <imdb>tt0898266</imdb>
+    <tvdb>80379</tvdb>
+    <tvshowtitle>The Big Bang Theory</tvshowtitle>
+    <year>2007</year>
+    </meta>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/big_bang/season1.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Big_Bang_Theory_Season_1.jpg/220px-The_Big_Bang_Theory_Season_1.jpg</thumbnail>
 </dir>
