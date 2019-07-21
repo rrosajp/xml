@@ -4,7 +4,7 @@
 https://fastly.tubi.video/ed208f0b-7382-4451-9491-a096a589e75e/dviq4yf85k.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjI5Nzk5NTgsInBsYXRmb3JtIjoid2ViIn0.9iVI4ntR45VFSPTnnn02AZE3TIeyIn0iKoFI8PVi_ao
 
 #EXTINF:-1, tvg-logo="" group-title="",USA Network
-https://videoserver1.org/live/K4FwK2leTYwX3DQPdE_yig/1563689502/d3517d7d92455b3cf3eb3e774acb4406.m3u8
+https://videoserver1.org/live/K4FwK2leTYwX3DQPdE_yig/1563689502/d3517d7d92455b3cf3eb3e774acb4406.m3u8|'Referer: https://www.arconaitv.us'
 
 #EXTINF:-1, tvg-logo="" group-title="",Alf S01E02
 https://fastly.tubi.video/b3af2d8b-b594-4846-b4dd-3ef9941ec586/logsu6bsk7.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjI5ODAxMDYsInBsYXRmb3JtIjoid2ViIn0.ZoLBtMTYTv_JiKneg1ZCqGmaK9Ye3KCPLffOw5b393w
