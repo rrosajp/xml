@@ -1,32 +1,144 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="",TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="",CW HD
-http://voxtv.dynns.com:8000/live/USA/USA/2268.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
-#EXTINF:-1 tvg-logo="https://heavyeditorial.files.wordpress.com/2016/01/freeform.jpg?quality=65&strip=all&w=780" group-title="",FREE FORM HD
-http://voxtv.dynns.com:8000/live/USA/USA/2300.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1875933911/fx_hd.jpg" group-title="",FX HD
-http://voxtv.dynns.com:8000/live/USA/USA/2289.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/A%26E%20Network/A%26E%20HD.jpg" group-title="",A&E HD
-http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qRsfLLrGkuM/maxresdefault.jpg" group-title="",ABC HD
-#http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/A%26E%20Network/A%26E%20HD.jpg" group-title="",A&E
+https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/A%26E%20Network/A%26E%20HD.jpg" group-title="",A&E
+https://api.vpnmate.com/play/?vlc=1&channel=200410&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/A%26E%20Network/A%26E%20HD.jpg" group-title="",A&E
+https://api.vpnmate.com/play/?vlc=1&channel=203844&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="",ABC
+https://api.vpnmate.com/play/?vlc=1&channel=206053&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="",ABC (Opt-1)
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="",DISCOVERY HD
-http://voxtv.dynns.com:8000/live/USA/USA/2280.m3u8
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/SFY.jpg" group-title="",SyFy HD
-http://voxtv.dynns.com:8000/live/USA/USA/2341.m3u8
-#EXTINF:-1 tvg-logo="https://fiber.storage.googleapis.com/channels/logos/tbsHd.png" group-title="",TBS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2342.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/TNTHDBLACK.jpg" group-title="",TNT HD
-http://voxtv.dynns.com:8000/live/USA/USA/2343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-http://voxtv.dynns.com:8000/live/USA/USA/2324.m3u8
+#EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/23/20/7/imgbin-american-broadcasting-company-logo-big-three-television-networks-freeform-abc-news-jingdong-broadcasting-co-KWKAkEcDZv6dkyE2FuYVv0MpA_t.jpg" group-title="",ABC (Opt-2)
+http://185.246.209.109:8080/ABC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="",ABC
+https://api.vpnmate.com/play/?vlc=1&channel=206053&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/adultswim-269x151.png" group-title="",Adult Swim
+https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adult Swim (Opt-1)
+https://adultswimhls-i.akamaihd.net/hls/live/238460-b/adultswim/main/1/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adult Swim (Opt-2)
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="",Adult Swim (Opt-3)
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment",Adult Swim Animation Marathon
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Adult Swim HD
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Comedy Central US (200412)
+https://api.vpnmate.com/play/?vlc=1&channel=200412&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Comedy Central US (206060)
+https://api.vpnmate.com/play/?vlc=1&channel=206060&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="",CW (WSFL) (EST) (Opt-1)
+http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="",CW (WSFL) (EST) (Opt-2)
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="",CW Boston (WHDH) (Opt-1)
+http://185.246.209.109:8080/CW/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="",CW Boston (WHDH) (Opt-2)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1875933911/fx_hd.jpg" group-title="",FX
+https://api.vpnmate.com/play/?vlc=1&channel=5016256&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",FX Movie Channel (200421)
+https://api.vpnmate.com/play/?vlc=1&channel=200421&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",FXM (5025097)
+https://api.vpnmate.com/play/?vlc=1&channel=5025097&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",FXX (5013435)
+https://api.vpnmate.com/play/?vlc=1&channel=5013435&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://heavyeditorial.files.wordpress.com/2016/01/freeform.jpg?quality=65&strip=all&w=780" group-title="",Freeform
+https://api.vpnmate.com/play/?vlc=1&channel=3005892&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FuseTV.us.png" group-title="",Fuse
+http://185.246.209.109:8080/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FUSE TV (West) (3005891)
+https://api.vpnmate.com/play/?vlc=1&channel=3005891&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Channel (5025747)
+https://api.vpnmate.com/play/?vlc=1&channel=5025747&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Channel US (3005920)
+https://api.vpnmate.com/play/?vlc=1&channel=3005920&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Drama (5025736)
+https://api.vpnmate.com/play/?vlc=1&channel=5025736&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Drama US (3005879)
+https://api.vpnmate.com/play/?vlc=1&channel=3005879&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Movies & Mysteries (5025746)
+https://api.vpnmate.com/play/?vlc=1&channel=5025746&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Movies Mysteries US (3005853)
+https://api.vpnmate.com/play/?vlc=1&channel=3005853&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Hallmark Movies Mysteries US (6067)
+https://api.vpnmate.com/play/?vlc=1&channel=6067&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",HGTV (5025075)
+https://api.vpnmate.com/play/?vlc=1&channel=5025075&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",HGTV (East) (6069)
+https://api.vpnmate.com/play/?vlc=1&channel=6069&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",HGTV (West) (1044606)
+https://api.vpnmate.com/play/?vlc=1&channel=1044606&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",History Channel US (200584)
+https://api.vpnmate.com/play/?vlc=1&channel=200584&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",HLN (3005797)
+https://api.vpnmate.com/play/?vlc=1&channel=3005797&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",HLN (5025167)
+https://api.vpnmate.com/play/?vlc=1&channel=5025167&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",Lifetime Movies (East) (3005852)
+https://api.vpnmate.com/play/?vlc=1&channel=3005852&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Lifetime Network (East) (3005921)
+https://api.vpnmate.com/play/?vlc=1&channel=3005921&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV 2 US (3005911)
+https://api.vpnmate.com/play/?vlc=1&channel=3005911&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Mtv Live US (200726)
+https://api.vpnmate.com/play/?vlc=1&channel=200726&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",MTV US (200557)
+https://api.vpnmate.com/play/?vlc=1&channel=200557&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",Paramount Network (203900)
+https://api.vpnmate.com/play/?vlc=1&channel=203900&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/SFY.jpg" group-title="",SYFY
+https://api.vpnmate.com/play/?vlc=1&channel=200598&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/SFY.jpg" group-title="",SYFY
+https://api.vpnmate.com/play/?vlc=1&channel=3005894&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/SFY.jpg" group-title="",SYFY
+https://api.vpnmate.com/play/?vlc=1&channel=5013460&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/SFY.jpg" group-title="",SYFY
+https://api.vpnmate.com/play/?vlc=1&channel=6063&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="https://fiber.storage.googleapis.com/channels/logos/tbsHd.png" group-title="",TBS
+https://api.vpnmate.com/play/?vlc=1&channel=200576&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://fiber.storage.googleapis.com/channels/logos/tbsHd.png" group-title="",TBS
+https://api.vpnmate.com/play/?vlc=1&channel=5005375&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="",TLC
+https://api.vpnmate.com/play/?vlc=1&channel=5002755&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="",TLC
+https://api.vpnmate.com/play/?vlc=1&channel=203903&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/TNTHDBLACK.jpg" group-title="",TNT
+https://api.vpnmate.com/play/?vlc=1&channel=5024998&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/TNTHDBLACK.jpg" group-title="",TNT
+https://api.vpnmate.com/play/?vlc=1&channel=200525&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",truTV (200634)
+https://api.vpnmate.com/play/?vlc=1&channel=200634&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",truTV (5025030)
+https://api.vpnmate.com/play/?vlc=1&channel=5025030&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",Tv Land US (212307)
+https://api.vpnmate.com/play/?vlc=1&channel=212307&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",TV One (1018228)
+https://api.vpnmate.com/play/?vlc=1&channel=1018228&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
+#EXTINF:-1 tvg-logo="" group-title="",USA Network (East) (1018221)
+https://api.vpnmate.com/play/?vlc=1&channel=1018221&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="" group-title="",USA Network (West) (1023819)
+https://api.vpnmate.com/play/?vlc=1&channel=1023819&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="",30A TV
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="",ABC (WPBF) (EST)
