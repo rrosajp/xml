@@ -3,10 +3,10 @@
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="",Baby TV 
 http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="",Disney Channel 
+#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-e6lzoj_4c65a315.jpeg?region=0,0,600,600&width=480" group-title="",Disney Channel 
 https://api.vpnmate.com/play/?vlc=1&channel=5025023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:2 tvg-logo="" group-title="",Disney Channel
+#EXTINF:2 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-e6lzoj_4c65a315.jpeg?region=0,0,600,600&width=480" group-title="",Disney Channel
 https://api.vpnmate.com/play/?vlc=1&channel=200585&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
 #EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="",Disney Jr 
@@ -15,29 +15,26 @@ https://api.vpnmate.com/play/?vlc=1&channel=201064&token=Bdf4vqpoh8_R:ODFiMDEyNj
 #EXTINF:4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="",Disney Junior 
 https://api.vpnmate.com/play/?vlc=1&channel=5025272&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:5 tvg-logo="" group-title="",Disney XD 
+#EXTINF:5 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-5KqEhVTI8F7QjPgdY9nuVsd74k7kpLOkxug=s900-c-k-c0xffffffff-no-rj-mo" group-title="",Disney XD 
 https://api.vpnmate.com/play/?vlc=1&channel=5012865&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:6 tvg-logo="" group-title="",Disney XD
+#EXTINF:6 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-5KqEhVTI8F7QjPgdY9nuVsd74k7kpLOkxug=s900-c-k-c0xffffffff-no-rj-mo" group-title="",Disney XD
 https://api.vpnmate.com/play/?vlc=1&channel=201063&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:7 tvg-logo="" group-title="",Disney XD
+#EXTINF:7 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-5KqEhVTI8F7QjPgdY9nuVsd74k7kpLOkxug=s900-c-k-c0xffffffff-no-rj-mo" group-title="",Disney XD
 https://api.vpnmate.com/play/?vlc=1&channel=205901&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:8 tvg-logo="" group-title="",Nick Jr 
+#EXTINF:8 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="",Nick Jr 
 https://api.vpnmate.com/play/?vlc=1&channel=3005814&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:9 tvg-logo="" group-title="",Nickelodeon 
+#EXTINF:9 tvg-logo="https://smallcaps.com.au/wp-content/uploads/2019/06/Emerge-Gaming-ASX-EM1-Viacom-NickX-eSports-game-Nickelodeon-ArcadeX-640x400.jpg" group-title="",Nickelodeon 
 https://api.vpnmate.com/play/?vlc=1&channel=200560&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:10 tvg-logo="" group-title="",NickMusic 
+#EXTINF:10 tvg-logo="https://pmcvariety.files.wordpress.com/2016/08/14051706_1756584314596667_1229740014207235146_n.jpg?w=600&h=563&crop=1" group-title="",NickMusic 
 https://api.vpnmate.com/play/?vlc=1&channel=3005902&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:11 tvg-logo="" group-title="",Nicktoons 
+#EXTINF:11 tvg-logo="https://i.ytimg.com/vi/ZXKBObUl2fA/maxresdefault.jpg" group-title="",Nicktoons 
 https://api.vpnmate.com/play/?vlc=1&channel=3005813&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-
-#EXTINF:12 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png" group-title="",Nickelodeon 
-http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:48:53:86&uid=471
 
 #EXTINF:13 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="",Duck TV 
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
@@ -45,7 +42,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:14 tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="",PBS Kids Channel 
 https://live-cdn.pbskids.org/out/u/est.m3u8
 
-#EXTINF:15 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT) (EST) 
+#EXTINF:15 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT) (EST) 
 http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
 
 #EXTINF:16 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA GEO",PBS Kids (Op-1) (Geo) 
@@ -54,5 +51,5 @@ http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
 #EXTINF:17 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA GEO",PBS Kids (Op-3) (Geo) 
 http://live-cdn.pbskids.org/out/u/pst.m3u8
 
-#EXTINF:18 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA/Canada",Nick Radio 
+#EXTINF:18 tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA/Canada",Nick Radio 
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
