@@ -21,6 +21,17 @@
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2000px-Flag_of_Algeria.svg.png</thumbnail>
 </dir>
 
+<dir>
+    <title>Andorra</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ad.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/243px-Flag_of_Andorra.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Angola</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ao.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/255px-Flag_of_Angola.svg.png</thumbnail>
+</dir>
 
 <dir>
     <title>Argentina</title>
@@ -33,6 +44,12 @@
     <title>Armenia</title>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/am.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Aruba</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/aw.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/2000px-Flag_of_Aruba.svg.png</thumbnail>
 </dir>
 
 <dir>
@@ -53,6 +70,11 @@
     <thumbnail>https://cdn2.trend.az/media/thumbnails/410x307/2009/12/30/Flag_Azerbaijan_301209.jpg</thumbnail>
 </dir>
 
+<dir>
+    <title>Bahamas</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/bs.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1280px-Flag_of_the_Bahamas.svg.png</thumbnail>
+</dir>
 
 <dir>
     <title>Bahrain</title>
@@ -112,6 +134,11 @@
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Cambodia_vertical.svg/2000px-Flag_of_Cambodia_vertical.svg.png</thumbnail>
 </dir>
 
+<dir>
+    <title>Cameroon</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/cm.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2000px-Flag_of_Cameroon.svg.png</thumbnail>
+</dir>
 
 <dir>
     <title>Canada</title>
@@ -158,6 +185,11 @@
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/2000px-Flag_of_Cuba.svg.png</thumbnail>
 </dir>
 
+<dir>
+    <title>Curaçao</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/cw.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/2000px-Flag_of_Cura%C3%A7ao.svg.png</thumbnail>
+</dir>
 
 <dir>
     <title>Cyprus</title>
@@ -536,15 +568,171 @@
 </dir>
 
 <dir>
+    <title>Slovenia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/si.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/255px-Flag_of_Slovenia.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Somalia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/so.m3u</link>
+    <thumbnail>https://www.bestcustomflags.com/wp-content/uploads/2016/06/somalia-flag.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>South Africa</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/za.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2000px-Flag_of_South_Africa.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>South Korea</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/kr.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png</thumbnail>
+</dir>
+
+<dir>
     <title>Spain</title>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/es.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png</thumbnail>
 </dir>
 
 <dir>
+    <title>Sri Lanka</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/lk.m3u</link>
+    <thumbnail>https://aaaipright.com/wp-content/uploads/2018/12/sri-lanka-zastava-fotowikimediaorg-9120b03a9ae0a43bac242569d56c1fdd_view_article_new.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Sudan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/sd.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/2000px-Flag_of_Sudan.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Sweden</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/se.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Union_Jack_of_Sweden_and_Norway_%281844-1905%29.svg/2000px-Union_Jack_of_Sweden_and_Norway_%281844-1905%29.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Switzerland</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ch.m3u</link>
+    <thumbnail>http://www.wur.nl/upload_mm/7/3/a/ac296ed9-4d3e-413c-b856-bc55caf1057b_Switzerland%20flag.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Syria</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/sy.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Syria_2011%2C_observed.svg/2000px-Flag_of_Syria_2011%2C_observed.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Taiwan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/tw.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/2000px-Flag_of_the_Republic_of_China.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Tanzania</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/tz.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Thailand</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/th.m3u</link>
+    <thumbnail>https://www.worldatlas.com/r/w728-h425-c728x425/upload/cc/c8/e0/shutterstock-93129790-1.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Trinidad and Tobago</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/tt.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/2000px-Flag_of_Trinidad_and_Tobago.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Tunisia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/tn.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Presidential_Standard_of_Tunisia.svg/2000px-Presidential_Standard_of_Tunisia.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Turkey</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/tr.m3u</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41ZpsKOBO6L._SL1200_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Turkmenistan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/tm.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/2000px-Flag_of_Turkmenistan.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Uganda</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ug.m3u</link>
+    <thumbnail>https://ak6.picdn.net/shutterstock/videos/21707746/thumb/1.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Ukraine</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ua.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2000px-Flag_of_Ukraine.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>United Arab Emirates</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ae.m3u</link>
+    <thumbnail>https://images2.pics4learning.com/catalog/u/unitedarabemiratesfl.jpg</thumbnail>
+</dir>
+
+<dir>
     <title>United Kingdom</title>
     <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/uk.m3u</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512-H5HhT6L._SX425_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Uruguay</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/uy.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Uzbekistan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/uz.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1280px-Flag_of_Uzbekistan.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Venezuela</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ve.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1200px-Flag_of_Venezuela_%28state%29.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Vietnam</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/vn.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/255px-Flag_of_Vietnam.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Western Sahara</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/eh.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/2000px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Yemen</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ye.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/2000px-Flag_of_Yemen.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Zimbabwe</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/zw.m3u</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/2000px-Flag_of_Zimbabwe.svg.png</thumbnail>
 </dir>
 
 </xml>
