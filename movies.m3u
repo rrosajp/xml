@@ -3,20 +3,20 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="Movies", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cinemax (5025353)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cinemax
 https://api.vpnmate.com/play/?vlc=1&channel=5025353&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cinemax (East) US (200470)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cinemax (East)
 https://api.vpnmate.com/play/?vlc=1&channel=200470&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cinemax (West) US (215023)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cinemax (West)
 https://api.vpnmate.com/play/?vlc=1&channel=215023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CineMax Action US (1018459)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CineMax Action
 https://api.vpnmate.com/play/?vlc=1&channel=1018459&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (5025349)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
 https://api.vpnmate.com/play/?vlc=1&channel=5025349&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (East) (1044296)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1044296&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (East) (3005871)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (East)
 https://api.vpnmate.com/play/?vlc=1&channel=3005871&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="",HBO (LA)
 http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
@@ -24,55 +24,55 @@ http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (Opt-2)
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (West) (1025818)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (West)
 https://api.vpnmate.com/play/?vlc=1&channel=1025818&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (West) (3005874)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO (West)
 https://api.vpnmate.com/play/?vlc=1&channel=3005874&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Movies",HBO 2
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO 2 (East) (1018358)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO 2 (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018358&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="",HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Comedy (East) (1018357)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Comedy (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018357&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Family (East) (1018356)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Family (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018356&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Signature (East) (1018355)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Signature (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018355&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Zone (East) US (1018354)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Zone (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018354&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Zone (East) US (204614)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO Zone (East)
 https://api.vpnmate.com/play/?vlc=1&channel=204614&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2 [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movee 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (5025174)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime
 https://api.vpnmate.com/play/?vlc=1&channel=5025174&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (east) US (1018264)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (east)
 https://api.vpnmate.com/play/?vlc=1&channel=1018264&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (east) US (3005866)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (east)
 https://api.vpnmate.com/play/?vlc=1&channel=3005866&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west) US (1018263)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west)
 https://api.vpnmate.com/play/?vlc=1&channel=1018263&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west) US (1102832)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west)
 https://api.vpnmate.com/play/?vlc=1&channel=1102832&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west) US (3005864)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime (west)
 https://api.vpnmate.com/play/?vlc=1&channel=3005864&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime 2 (east) US (1018262)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime 2 (east)
 https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime 2 (west) US (1018261)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime 2 (west)
 https://api.vpnmate.com/play/?vlc=1&channel=1018261&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Beyond US (1102879)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Beyond US
 https://api.vpnmate.com/play/?vlc=1&channel=1102879&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Extreme (1018260)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Extreme
 https://api.vpnmate.com/play/?vlc=1&channel=1018260&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Showcase US (1018258)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Showcase
 https://api.vpnmate.com/play/?vlc=1&channel=1018258&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Woman US (1102881)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Showtime Woman
 https://api.vpnmate.com/play/?vlc=1&channel=1102881&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies", FOX PREMIUM MOVIES
@@ -90,23 +90,23 @@ http://161.0.157.91/PLTV/88888888/224/3221227042/03.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/FOX-HD.png" group-title="", FOX HD
 http://161.0.157.9/PLTV/88888888/224/3221227013/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz (East) (3005856)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz (East)
 https://api.vpnmate.com/play/?vlc=1&channel=3005856&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz (West) (3005855)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz (West)
 https://api.vpnmate.com/play/?vlc=1&channel=3005855&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Comedy (East) (1018254)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Comedy (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018254&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Edge US (1018253)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Edge
 https://api.vpnmate.com/play/?vlc=1&channel=1018253&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Encore (East) (1018252)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Encore (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018252&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Encore US (200468)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Encore
 https://api.vpnmate.com/play/?vlc=1&channel=200468&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz In Black (1105194)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz In Black
 https://api.vpnmate.com/play/?vlc=1&channel=1105194&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Kids Family US (1018250)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Kids Family
 https://api.vpnmate.com/play/?vlc=1&channel=1018250&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Suspense (East) (1018248)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Suspense (East)
 https://api.vpnmate.com/play/?vlc=1&channel=1018248&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Westerns US (1102883)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Starz Westerns
 https://api.vpnmate.com/play/?vlc=1&channel=1102883&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
