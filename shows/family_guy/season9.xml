@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S09 E01" tvg-logo="http://lltv.xyz:80/images/SukYS3n1lTKjEMEw0Y2bo3AGBJ_small.jpg" group-title="US | TV Series",S09E01: "And Then There Were Fewer"
@@ -36,3 +38,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92180.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92181.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S09 E18" tvg-logo="http://lltv.xyz:80/images/cIWwD5RsUAzWxfKZZcXj6qdESca_small.jpg" group-title="US | TV Series",S09E18: "It's a Trap!"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92182.mkv 
+
+</xml>

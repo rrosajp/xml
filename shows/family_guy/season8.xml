@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S08 E01" tvg-logo="http://lltv.xyz:80/images/lxqJQgRgUb1VJfzUYJ4OC4XWnEH_small.jpg" group-title="US | TV Series",S08E01: "Road to the Multiverse"
@@ -40,3 +42,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92162.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92163.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S08 E20" tvg-logo="http://lltv.xyz:80/images/wx0EJqtfatuhCAXDGAK912b0hgU_small.jpg" group-title="US | TV Series",S08E20: "Something, Something, Something, Dark Side"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92164.mkv 
+
+</xml>

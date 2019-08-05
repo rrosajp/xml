@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E01" tvg-logo="http://lltv.xyz:80/images/8tQpqmgCU3vTbIB2tBrj9FzmsBt_small.jpg" group-title="US | TV Series",S10E01: "Lottery Fever"
@@ -46,3 +48,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92203.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92204.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E23" tvg-logo="http://lltv.xyz:80/images/dbVB46UaREV7jR5Df6teRl9G0eD_small.jpg" group-title="US | TV Series",S10E23: "Internal Affairs"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92205.mkv 
+
+</xml>

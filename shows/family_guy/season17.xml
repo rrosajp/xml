@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E01: "Married... with Cancer"
@@ -40,3 +42,5 @@ http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E18.720p.WEB.x264-B2HD.m
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E19.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E20: "Adam West High"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E20.720p.WEB.x264-B2HD.mkv
+
+</xml>

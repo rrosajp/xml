@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p] (Opt-1)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p] (Opt-2)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p] (Opt-3)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p] (Opt-4)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p] (Opt-5)
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p] (Opt-6)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/penthouse_hd.png" group-title="XXX",Penthouse HD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8

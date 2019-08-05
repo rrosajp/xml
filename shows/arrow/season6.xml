@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U8
 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E01" tvg-logo="http://lltv.xyz:80/images/tku04rIOjFHIwdkjeSGi6DQiOQp_small.jpg" group-title="US | TV Series",Arrow S06 E01
@@ -38,3 +40,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93178.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93179.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E19" tvg-logo="http://lltv.xyz:80/images/cknHTRfyBpPFwiZtytY5xbDxONu_small.jpg" group-title="US | TV Series",Arrow S06 E19
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93180.mp4
+
+</xml>

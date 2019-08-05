@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E01" tvg-logo="http://lltv.xyz:80/images/lfriId7Gv10TxxBOfrW0r22q5ee_small.jpg" group-title="US | TV Series",S07E01: "Love, Blactually"
@@ -32,3 +34,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92142.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92143.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E16" tvg-logo="http://lltv.xyz:80/images/a7BudGSy3iiVw1cEB0bglhozvAQ_small.jpg" group-title="US | TV Series",S07E16: "Peter's Progress"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92144.mkv 
+
+</xml>

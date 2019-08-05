@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S01 E01" tvg-logo="http://lltv.xyz:80/images/z9Jd3tN6lclBKhap2xC2Ttq7PPf_small.jpg" group-title="",S01E01: "Death Has a Shadow"
@@ -20,3 +22,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92027.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S01 E07" tvg-logo="http://lltv.xyz:80/images/q0yey9OLb5rt4PfgZ7V2wNdzTxV_small.jpg" group-title="",S01E07: "Brian: Portrait of a Dog"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92028.mkv
+
+</xml>

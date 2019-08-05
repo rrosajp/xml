@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E01" tvg-logo="http://lltv.xyz:80/images/3E9otVWejUziqGeEZGSAG4A79NG_small.jpg" group-title="US | TV Series",Ballers S02 E01
@@ -20,3 +22,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96926.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96927.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E10" tvg-logo="http://lltv.xyz:80/images/8Tt6qFHHsgOCe93mzsWNAaVqllh_small.jpg" group-title="US | TV Series",Ballers S02 E10
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96928.mkv 
+
+</xml>

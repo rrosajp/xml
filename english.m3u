@@ -43,13 +43,13 @@ http://185.246.209.109:8080/CW/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="",CW Boston (WHDH) (Opt-2)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Discovery)
+#EXTINF:-1 tvg-logo="" group-title="",Discovery
 https://api.vpnmate.com/play/?vlc=1&channel=5025076&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Channel)
+#EXTINF:-1 tvg-logo="" group-title="",Discovery Channel
 https://api.vpnmate.com/play/?vlc=1&channel=200428&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Family)
+#EXTINF:-1 tvg-logo="" group-title="",Discovery Family
 https://api.vpnmate.com/play/?vlc=1&channel=5025095&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-logo="" group-title="",Discovery Family)
+#EXTINF:-1 tvg-logo="" group-title="",Discovery Family
 https://api.vpnmate.com/play/?vlc=1&channel=206062&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Life
 https://api.vpnmate.com/play/?vlc=1&channel=244568&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==

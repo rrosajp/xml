@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S06 E01" tvg-logo="http://lltv.xyz:80/images/buVlVwZWzSlx5nKkPSO10srBLPy_small.jpg" group-title="US | TV Series",S06E01: "Blue Harvest"
@@ -24,3 +26,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92126.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92127.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S06 E12" tvg-logo="http://lltv.xyz:80/images/jjUl4ZlznRBQbteCQYCAvYXYrRl_small.jpg" group-title="US | TV Series",S06E12: "Long John Peter"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92128.mkv
+
+</xml>

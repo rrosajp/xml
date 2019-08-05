@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S02 E01" tvg-logo="http://lltv.xyz:80/images/moqEaKxH2MwuSuyMAR4ogL5SGIZ_small.jpg" group-title="US | TV Series",Chicago P.D. S02 E01
@@ -46,3 +48,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93468.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93469.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S02 E23" tvg-logo="http://lltv.xyz:80/images/c1nlTW8OiXmUUTcNvyH8vhV3uXN_small.jpg" group-title="US | TV Series",Chicago P.D. S02 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93470.mkv 
+
+</xml>

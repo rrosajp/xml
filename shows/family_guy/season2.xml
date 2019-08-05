@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E01" tvg-logo="http://lltv.xyz:80/images/yyJ7amwesHCgO1GwFtvgbUOObUV_small.jpg" group-title="",S02E01: "Peter, Peter, Caviar Eater"
@@ -62,3 +64,5 @@ http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E20.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E21: "Fore, Father"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E21.mkv
+
+</xml>

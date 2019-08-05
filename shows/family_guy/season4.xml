@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81iB1SamyOL._SY445_.jpg" group-title="",S04E01: "North by North Quahog"
@@ -56,3 +58,5 @@ http://dl.upload8.net/Serial/Family%20Guy/S04/Family.Guy.S04E26.mkv
 http://dl.upload8.net/Serial/Family%20Guy/S04/Family.Guy.S04E27.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81iB1SamyOL._SY445_.jpg" group-title="",S04E28-29-30: "Stewie B. Goode", "Bango Was His Name, Oh!", "Stu and Stewie's Excellent Adventure"
 http://dl.upload8.net/Serial/Family%20Guy/S04/Family.Guy.S04E28-E29-E30.mkv
+
+</xml>

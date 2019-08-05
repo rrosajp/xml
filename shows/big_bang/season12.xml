@@ -1,3 +1,5 @@
+<xml>
+
 #EXTM3U8
 
 #EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 E01" tvg-logo="http://lltv.xyz:80/images/tH6udsYfheFElUCMtc10PoxzhHH_small.jpg" group-title="US | TV Series",The Big Bang Theory S12 E01
@@ -42,3 +44,5 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94534.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94535.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S12 E21" tvg-logo="http://lltv.xyz:80/images/A0ITQQkoL0GDlWuxnA0FUyXxdM2_small.jpg" group-title="US | TV Series",The Big Bang Theory S12 E21
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94536.mkv 
+
+</xml>
