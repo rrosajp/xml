@@ -1,13 +1,26 @@
 <xml>
+    <item>
+        <title>S02E01: "City of Heroes"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93070.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/zqnAl9XvKYgiGpdyxDntJR9Lzn2_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
-#EXTM3U8
+    <item>
+        <title>S02E02: "Identity"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93071.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/pHgCSAYAUuUmHtZjyvVsbK3E1hc_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E01" tvg-logo="http://lltv.xyz:80/images/zqnAl9XvKYgiGpdyxDntJR9Lzn2_small.jpg" group-title="US | TV Series",Arrow S02 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93070.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E02" tvg-logo="http://lltv.xyz:80/images/pHgCSAYAUuUmHtZjyvVsbK3E1hc_small.jpg" group-title="US | TV Series",Arrow S02 E02
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93071.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E03" tvg-logo="http://lltv.xyz:80/images/7hbE9j8YOyH9cyX46wripewOl99_small.jpg" group-title="US | TV Series",Arrow S02 E03
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93072.mkv 
+    <item>
+        <title>S02E03: 	"Broken Dolls"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93072.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/7hbE9j8YOyH9cyX46wripewOl99_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+    
+
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E04" tvg-logo="http://lltv.xyz:80/images/yODDDqN7I0pGpwhILnFaM5rUQQi_small.jpg" group-title="US | TV Series",Arrow S02 E04
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93073.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S02 E05" tvg-logo="http://lltv.xyz:80/images/qkwlm99g3YPQE8o0BIDBn4ADVdE_small.jpg" group-title="US | TV Series",Arrow S02 E05
