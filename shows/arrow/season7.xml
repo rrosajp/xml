@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S07E01: "Inmate 4587"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93181.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/6pGaon1J1z7H3cDAWIKqTRPWoKw_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E01" tvg-logo="http://lltv.xyz:80/images/6pGaon1J1z7H3cDAWIKqTRPWoKw_small.jpg" group-title="US | TV Series",Arrow S07 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93181.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E02" tvg-logo="http://lltv.xyz:80/images/iFxzAJNYZBPhTEACL9JPaegMGG9_small.jpg" group-title="US | TV Series",Arrow S07 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93182.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E03" tvg-logo="http://lltv.xyz:80/images/1A9JEQeFibzGGPRLiKi0MySQGsM_small.jpg" group-title="US | TV Series",Arrow S07 E03

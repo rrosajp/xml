@@ -3,16 +3,12 @@
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/u0ToXlZ.png" group-title="",Abruzzo Live TV
-https://59ef7ad665d1d.streamlock.net:1443/abchannel/_definst_/abchannel/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALICE.png" group-title="",Alice
 https://1.ip2stream.icu/live/alice_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ALTO ADIGE TV [480p]
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="",Animal Planet Italia
 https://1.ip2stream.icu/live/animal_planet_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w1I3uAu.png" group-title="",Antenna Blu Genova
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662061/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud Puglia
 http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ANTENNA TRE NORDEST [480p]
@@ -95,8 +91,6 @@ http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
 http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ETV Marche (Opt-3)
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dZn0mJT.png" group-title="",ETV Rete7
-http://live.sloode.com:1935/etv_live/etv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="",EuroSports 1 Italia
 https://1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/felzsi.jpg" group-title="",FM Italia
@@ -123,8 +117,6 @@ https://1.ip2stream.icu/live/gambero_rosso_hd/chunks.m3u8
 https://1.ip2stream.icu/live/giallo_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GIALLO.png" group-title="",Giallo (Opt-2)
 https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cbIdMsw.png" group-title="",Globus TV Sicilia
-https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8Nba42X.png" group-title="",Gold TV Roma
 http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="",History Italia
@@ -143,8 +135,6 @@ http://media.ilmeteo.it/video/iphone/oggi.m4v
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/it/Iris.it.png" group-title="",Iris
 https://1.ip2stream.icu/live/iris_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/it/Italia1.it.png" group-title="",Italia 1
-https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png" group-title="",Italia 141
 http://streamcloud-idc.azureedge.net/ac024_live/iphone1/chunklist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/it/Italia2.it.png" group-title="",Italia 2
@@ -243,6 +233,8 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nododigordio.org/assets/uploads/2018/10/RL_06-300x168.png" group-title="",Radio Lombardia TV
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Radio m2o
@@ -265,8 +257,6 @@ http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8
 http://str03.fluidstream.net/RadioSystemTV/livestream/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png" group-title="",Radio Taormina
 http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Taormina
-http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Tivù Azzurra
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Radio Universal Tv
@@ -283,8 +273,6 @@ http://ott-cdn.ucom.am/s29/04.m3u8
 http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1 (Opt-3)
 http://92.43.140.249/s29/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2000px-Rai_2_-_Logo_2016.svg.png" group-title="",Rai 2
-http://176.10.117.21:8081/aypitv/RAI2HDZUG/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2TCH5e.png" group-title="",Rai 4 (Opt-1)
@@ -311,8 +299,6 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.realtime.it/media/images/realtime_copy.png" group-title="",Real Time
-https://1.ip2stream.icu/live/real_time_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EiIygb1.png" group-title="",Rei TV Sicilia
@@ -331,10 +317,10 @@ http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxu
 http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="",RTC Quarta Rete
 http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="",RTC Telecalabria
-http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria (Opt-1)
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="",RTC Telecalabria (Opt-2)
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",RTL 102.5 TV
 http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="",RTL Radio
@@ -351,12 +337,6 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playli
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Senato della Repubblica
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3781590/logo_sicilia%20media%20tv.png" group-title="",Sicilia Media TV
-http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uKiiXXl.png" group-title="",Sicilia TV (Opt-1)
-https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.siciliatv.org/wp-content/uploads/2018/08/USR_USR_appicon_1525360433_9119.png" group-title="",Sicilia TV (Opt-2)
-https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="",Sky Arte HD
 https://1.ip2stream.icu/live/sky_arte_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sky_Cinema_%2B24_HD_-_Logo_2018.svg/1280px-Sky_Cinema_%2B24_HD_-_Logo_2018.svg.png" group-title="",Sky Cinema +24
@@ -369,12 +349,6 @@ https://1.ip2stream.icu/live/skcl4/playlist.m3u8
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pvZzPPd.png" group-title="",SporTV (Opt-2)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pvZzPPd.png" group-title="",SporTVL (Opt-1)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/qzrjvl.jpg" group-title="",Standby TV
-http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STUDIO 100 PUGLIA
 http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Studio 100 TV SD
@@ -385,27 +359,21 @@ https://1.ip2stream.icu/live/studio_universal/playlist.m3u8
 https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.supertennis.tv/images/supertennis-logo-new.png" group-title="",Super Tennis
 https://1.ip2stream.icu/live/supertennis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TrFJ6tD.png" group-title="",Supersix Friuli
-https://dcunilive35-lh.akamaihd.net/i/dclive_1@677812/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SUPERTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YBdq3Y2.png" group-title="",Tele 8 TV Mazara
 http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/flg9vfT.png" group-title="",Tele One Palermo
 http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="",Tele Pegaso Catania
-https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://storiaradiotv.it/LOGO%20NUOVA%20TELEABRUZZO.jpg" group-title="",Teleabruzzo TV
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELEARENA
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/elkcKum.png" group-title="",Teleblu Foggia
 https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECHIARA
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.telecitta.tv/wp-content/uploads/2017/01/telecitta-logo.jpg" group-title="",Telecitta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.telecitta.tv/wp-content/uploads/2017/01/telecitta-logo.jpg" group-title="",Telecitta (Opt-1)
 http://213.187.12.18:80/live/tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bPFcGBW.png" group-title="",Telecitta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bPFcGBW.png" group-title="",Telecitta (Opt-2)
 http://213.187.12.18/live/tv1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg" group-title="",Telefriuli
 http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
@@ -443,16 +411,10 @@ https://54627d4fc5996.streamlock.net/teleponte/teleponte/playlist.m3u8?fluxustv.
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NmvOzhg.png" group-title="",TeleRama Lecce
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELEROMAGNA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Teleromagna (Opt-1)
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="",Teleromagna News
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELEROMAGNA RADIO ITALIA VISION
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",TELEROMAGNA SPORT [240p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Teleromagna (Opt-2)
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELEROMAGNA TR24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U1BjkEl.png" group-title="",TeleTerni
 https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="",Teletricolore Reggio
@@ -471,6 +433,10 @@ https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
 http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/topcrime.png" group-title="",Top Crime
 https://1.ip2stream.icu/live/top_crime_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="",TR Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRENTINO TV
 http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/32xXpaS.png" group-title="",TRG Umbria
@@ -501,6 +467,12 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
 http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVA VICENZA
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVL (Opt-1)
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVL (Opt-2)
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVL (Opt-3)
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9cQYTkQ.png" group-title="",TVL Toscana
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0vLfpFD.png" group-title="",TVR Xenon Caltagirone
@@ -517,10 +489,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxust
 http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvdream.net/immagini/video-brescia.jpg" group-title="",Video Brescia
 http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIDEO BRESCIA
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIDEO BRESCIA 2
-http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIDEO CALABRIA
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIDEO MEDITERRANEO

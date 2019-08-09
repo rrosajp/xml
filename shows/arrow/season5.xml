@@ -1,9 +1,12 @@
 <xml>
+    <item>
+        <title>S05E01: "Legacy"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93139.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/uJmQsMSHKJiNuTSpYpJRWtRssCK_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
-#EXTM3U8
 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E01" tvg-logo="http://lltv.xyz:80/images/uJmQsMSHKJiNuTSpYpJRWtRssCK_small.jpg" group-title="US | TV Series",Arrow S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93139.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E02" tvg-logo="http://lltv.xyz:80/images/5DEcSaUFIu54CERwqv9S9hc99xo_small.jpg" group-title="US | TV Series",Arrow S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93140.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S05 E03" tvg-logo="http://lltv.xyz:80/images/AuhEfrU3I7zCcMb9arnBPsN7h4h_small.jpg" group-title="US | TV Series",Arrow S05 E03

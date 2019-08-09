@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S06E01: "Fallout"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93162.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/tku04rIOjFHIwdkjeSGi6DQiOQp_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E01" tvg-logo="http://lltv.xyz:80/images/tku04rIOjFHIwdkjeSGi6DQiOQp_small.jpg" group-title="US | TV Series",Arrow S06 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93162.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E02" tvg-logo="http://lltv.xyz:80/images/eGwGlULe1PLqEtJf2yllWhVVrhv_small.jpg" group-title="US | TV Series",Arrow S06 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93163.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E03" tvg-logo="http://lltv.xyz:80/images/l1hti1YBjCLiFcUC5aqqxUZsU4K_small.jpg" group-title="US | TV Series",Arrow S06 E03
