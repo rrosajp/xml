@@ -1,5 +1,4 @@
 <xml>
-
     <dir>
         <title>Movies</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/1_movies.xml</link>
@@ -8,7 +7,7 @@
 
     <dir>
         <title>Box Sets</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/kidsmovies.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/box_sets.xml</link>
         <thumbnail>https://www.propermusic.com/cache/images/c/c/8/cc80ec997b94bf5ee4b84c734e9d2890.jpg</thumbnail>
     </dir>
 
@@ -23,5 +22,4 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/3dmovies.xml</link>
         <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
     </dir>
-
 </xml>

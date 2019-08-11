@@ -1,57 +1,157 @@
 <xml>
+    <item>
+        <title>After</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/After.2019.1080p.10bit.BluRay.6CH.x265.HEVC.PSA.LavinMovie.mkv</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/After.2019.720p.BRRip.MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Alita Battle Angel</title>
+        <link>
+        <sublink name="4K ">http://dl5.lavinmovie.net/Movies/2019/Alita.Battle.Angel.2019.2160p.UHD.BluRay%20x265.Terminal.LavinMovie.mkv</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Alita.Battle.Angel.2019.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Alita.Battle.Angel.2019.720p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
+        <sublink name="1080p 3D">http://dl5.lavinmovie.net/Movies/2019/Alita.Battle.Angel.2019.1080p.3D.10bit.BrRip.H-SBS.6CH.x265.HEVC.PSA.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://img02.mgo-images.com/image/thumbnail?id=MMV000E944A9C938D3D0D727AE4C47D5C2D6&ql=70&sizes=310x465</thumbnail>
+    </item>
+
+    <item>
+        <title>Avengement</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Avengement.2019.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Avengement.2019.720p.BrRip.MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>http://static1.squarespace.com/static/5c1f65fd697a98b026860fd6/5c1f8c18562fa7219b05c85f/5c1f6962d6cd3da3f94df410/1556651580192/Avengement-Movie-Poster.jpg?format=1500w</thumbnail>
+    </item>
+
+    <item>
+        <title>Breakthrough</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Breakthrough.2019.1080p.BluRay.x264-%5BYTS.LT%5D.LavinMovie.mp4</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Breakthrough.2019.720p.BRRip.x264-MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://yt3.ggpht.com/a/AGF-l7_J1lrTax5j9RYIcFLJ9lZy5zHqAeQEiMs4NA=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
+    </item>
 
     <item>
         <title>Captain Marvel</title>
         <link>
         <sublink name="4K ">http://86.28.138.203:88/4K%20Films/Captain%20Marvel%20%282019%29.mkv</sublink>
-        <sublink name="1080p ">https://lh3.googleusercontent.com/iYx2cxh1VtlaLRd12IXVNrXz-8LUm0LoJmwoO_XzGIWBGjAB25WZ3_YaEOo9IVjZXc1_15Sc6A=m37</sublink>
-        <sublink name="720p ">https://lh3.googleusercontent.com/iYx2cxh1VtlaLRd12IXVNrXz-8LUm0LoJmwoO_XzGIWBGjAB25WZ3_YaEOo9IVjZXc1_15Sc6A=m22</sublink>
-        <sublink name="SD ">https://lh3.googleusercontent.com/iYx2cxh1VtlaLRd12IXVNrXz-8LUm0LoJmwoO_XzGIWBGjAB25WZ3_YaEOo9IVjZXc1_15Sc6A=m18</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Captain.Marvel.2019.1080p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Captain.Marvel.2019.720p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
         </link>
         <thumbnail>https://cdn.shopify.com/s/files/1/1402/3931/products/Captain_Marvel_4K_2048x.png?v=1559336513</thumbnail>
     </item>
 
     <item>
-        <title>Deadpool</title>
+        <title>Domino</title>
         <link>
-        <sublink name="1080p ">https://lh3.googleusercontent.com/ETySIiFvSS73e0_q5uRHbd-Pr3xBWNRyFlcZBGXLRV2Mbgpw5BWDxPkveZJkK4wmXnJx_CdmPw=m37</sublink>
-        <sublink name="720p ">https://lh3.googleusercontent.com/ETySIiFvSS73e0_q5uRHbd-Pr3xBWNRyFlcZBGXLRV2Mbgpw5BWDxPkveZJkK4wmXnJx_CdmPw=m22</sublink>
-        <sublink name="SD ">https://lh3.googleusercontent.com/ETySIiFvSS73e0_q5uRHbd-Pr3xBWNRyFlcZBGXLRV2Mbgpw5BWDxPkveZJkK4wmXnJx_CdmPw=m18</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Domino.2019.1080p.BluRay.H264.AAC-RARBG.LavinMovie.mp4</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Domino.2019.720p.BluRay.800MB.x264-GalaxyRG.LavinMovie.mkv</sublink>
         </link>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png</thumbnail>
+        <thumbnail>https://cdn10.bigcommerce.com/s-vzuks4/products/5070/images/5877/domino_2019__21914.1563160729.1280.1280.jpg?c=2</thumbnail>
+    </item>
+
+    <item>
+        <title>Dumbo</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Dumbo.2019.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Dumbo.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://pics.filmaffinity.com/dumbo-807586129-large.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Escape Plan The Extractors</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Escape.Plan.The.Extractors.2019.1080p.BRRip.x264.MkvCage.LavinMovie.mkv</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Escape.Plan.The.Extractors.2019.720p.BluRay.x264.BRMP.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>http://motivatevalmorgan.com/wp-content/uploads/2019/07/escape-plan-the-extractors-dutch-movie-cover.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Extremely Wicked Shockingly Evil And Vile</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Extremely.Wicked%2C.Shockingly.Evil.And.Vile.2019.1080p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Extremely.Wicked%2C.Shockingly.Evil.And.Vile.2019.720p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
+        </link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjM4ZjY5ZmQtNjUwYi00Yzk2LWIwNmMtYTg1NmU0MWExZTMzXkEyXkFqcGdeQXVyMTg2MDEyMzM@._V1_.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Fisherman's Friends</title>
+        <link>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Fisherman%27s.Friends.2019.1080p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Fisherman%27s.Friends.2019.720p.BluRay.x264.YIFY.LavinMovie.mp4</sublink>
+        </link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNDljZmIxOWQtYmFiZS00ODE4LTg1ODgtMmFlOTlkOTZmMTdiXkEyXkFqcGdeQXVyMjkyNzYwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
     </item>
 
     <item>
         <title>Glass</title>
         <link>
         <sublink name="4K ">http://dl.srv-dl.com/My30nama/4K%20UHD%202160p%20HDR/2019/Glass.2019.UHD.2160p.HDR.5.1.x265.10bit.PSA.My30nama.Net.mkv</sublink>
-        <sublink name="1080p ">https://lh3.googleusercontent.com/dKUT0sb0wmrVNJIG5BGVz1QNFk5FwO0cKHmljc_MaXabt6MyuEYorB5m-VrjCcrig48iJ3SQ5w=m37</sublink>
-        <sublink name="720p ">https://lh3.googleusercontent.com/dKUT0sb0wmrVNJIG5BGVz1QNFk5FwO0cKHmljc_MaXabt6MyuEYorB5m-VrjCcrig48iJ3SQ5w=m22</sublink>
-        <sublink name="SD ">https://lh3.googleusercontent.com/dKUT0sb0wmrVNJIG5BGVz1QNFk5FwO0cKHmljc_MaXabt6MyuEYorB5m-VrjCcrig48iJ3SQ5w=m18</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Glass.%282019%29.%281080p.BluRay.x265.10bit.Tigole%29.LavinMovie.mkv</sublink>
         </link>
-        <thumbnail>https://hdbest.net/uploads/video_thumb/9944.jpg</thumbnail>
+        <thumbnail>https://bloximages.chicago2.vip.townnews.com/newsbug.info/content/tncms/assets/v3/editorial/3/d8/3d848e2e-424b-54e6-b413-f79d9e63c1c2/5c45f403845ef.image.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Hellboy</title>
+        <link>
+        <sublink name="4K ">http://dl5.lavinmovie.net/Movies/2019/Hellboy.2019.1080p.BRRip.x264-MkvCage.LavinMovie.mkv</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Hellboy.2019.720p.BRRip.x264-MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://d2lzb5v10mb0lj.cloudfront.net/covers/600/30/3003982.jpg</thumbnail>
     </item>
 
     <item>
         <title>How to Train Your Dragon: The Hidden World</title>
         <link>
         <sublink name="4K ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95846.mkv</sublink>
-        <sublink name="1080p ">https://lh3.googleusercontent.com/dKUT0sb0wmrVNJIG5BGVz1QNFk5FwO0cKHmljc_MaXabt6MyuEYorB5m-VrjCcrig48iJ3SQ5w=m37</sublink>
-        <sublink name="720p ">https://lh3.googleusercontent.com/dKUT0sb0wmrVNJIG5BGVz1QNFk5FwO0cKHmljc_MaXabt6MyuEYorB5m-VrjCcrig48iJ3SQ5w=m22</sublink>
-        <sublink name="SD ">https://lh3.googleusercontent.com/dKUT0sb0wmrVNJIG5BGVz1QNFk5FwO0cKHmljc_MaXabt6MyuEYorB5m-VrjCcrig48iJ3SQ5w=m18</sublink>
         </link>
         <thumbnail>http://lltv.xyz:80/images/xvx4Yhf0DVH8G4LzNISpMfFBDy2_small.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Little</title>
+        <link>
+        <sublink name="4K ">http://dl5.lavinmovie.net/Movies/2019/Little.2019.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Little.2019.720p.BRRip.x264-MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://images.mymovies.net/images/film/cin/350x522/fid19195.jpg</thumbnail>
     </item>
 
     <item>
         <title>Nancy Drew and the Hidden Staircase</title>
         <link>
         <sublink name="4K ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/90035.mp4</sublink>
-        <sublink name="1080p ">https://lh3.googleusercontent.com/UIt3pu1mi7pxie8oZLSrn9s6Q40Tgeuq-p0occyRxFxFJljSxV2mz_ewAS1oDkwh-aVFizD-_XE=m37</sublink>
-        <sublink name="720p ">https://lh3.googleusercontent.com/UIt3pu1mi7pxie8oZLSrn9s6Q40Tgeuq-p0occyRxFxFJljSxV2mz_ewAS1oDkwh-aVFizD-_XE=m22</sublink>
-        <sublink name="SD ">https://lh3.googleusercontent.com/UIt3pu1mi7pxie8oZLSrn9s6Q40Tgeuq-p0occyRxFxFJljSxV2mz_ewAS1oDkwh-aVFizD-_XE=m18</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Nancy.Drew.and.the.Hidden.Staircase.2019.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/2019/Pet.Sematary.2019.720p.BRRip.x264-MkvCage.LavinMovie.mkv</sublink>
         </link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Nancy_Drew_and_the_Hidden_Staircase_%282019_film%29.png/220px-Nancy_Drew_and_the_Hidden_Staircase_%282019_film%29.png</thumbnail>
     </item>
 
+    <item>
+        <title>Pet Sematary</title>
+        <link>
+        <sublink name="4K ">http://dl5.lavinmovie.net/Movies/2019/Pet.Sematary.2019.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.LavinMovie.mkv</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Pet.Sematary.2019.720p.BRRip.x264-MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZTgxMGQwM2UtZTAxNi00M2JhLTk4ZTgtZmFlODI0NmI3ZDViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>Pokemon Detective Pikachu</title>
+        <link>
+        <sublink name="4K ">http://dl5.lavinmovie.net/Movies/2019/Pokemon.Detective.Pikachu.2019.1080p.BrRip.6CH.MkvCage.LavinMovie.mkv</sublink>
+        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/2019/Pokemon.Detective.Pikachu.2019.720p.BrRip.MkvCage.LavinMovie.mkv</sublink>
+        </link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_.jpg</thumbnail>
+    </item>
 </xml>

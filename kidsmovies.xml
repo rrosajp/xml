@@ -1,15 +1,8 @@
 <xml>
-
     <item>
-        <title>Prince Charming 2018</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89942.avi</link>
-        <thumbnail>http://lltv.xyz:80/images/yayzDar0dL3AvNoP1vPDFtinNYc_small.jpg</thumbnail>
-    </item>
-
-    <item>
-        <title>101 Dalmatians</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89912.avi</link>
-        <thumbnail>http://lltv.xyz:80/images/8o2ADoAyG796UwTjwBFjPyBz0yG_small.jpg</thumbnail>
+        <title>3 Ninjas Knuckle Up 1995</title>
+        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89914.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/bd9if2VRAxBrXxkhT28hXMiusY1_small.jpg</thumbnail>
     </item>
 
     <item>
@@ -19,9 +12,9 @@
     </item>
 
     <item>
-        <title>3 Ninjas Knuckle Up 1995</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89914.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/bd9if2VRAxBrXxkhT28hXMiusY1_small.jpg</thumbnail>
+        <title>101 Dalmatians</title>
+        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89912.avi</link>
+        <thumbnail>http://lltv.xyz:80/images/8o2ADoAyG796UwTjwBFjPyBz0yG_small.jpg</thumbnail>
     </item>
 
     <item>
@@ -48,9 +41,25 @@
         <thumbnail>http://lltv.xyz:80/images/2Lcpn1Q3Fxwb7ZHy8UTFhogWhR2_small.jpg</thumbnail>
     </item>
 
+    <item>
+        <title>Cinderella and the Secret Prince 2019</title>
+        <link>http://dl5.lavinmovie.net/Movies/2019/Cinderella.and.the.Secret.Prince.2019.720p.WEB-DL.MkvCage.LavinMovie.mkv</link>
+        <thumbnail>https://popcornusa.s3.amazonaws.com/movies/650/9357-0-Cindereljpg</thumbnail>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="A Matter of Loaf and Death (2008) [1080p]" tvg-logo="http://lltv.xyz:80/images/e4L9XUCmNhiwbLICMiISh73PySF_small.jpg" group-title="Movies | Kids",A Matter of Loaf and Death (2008) [1080p]
-http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89919.mkv 
+    <item>
+        <title>Prince Charming 2018</title>
+        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89942.avi</link>
+        <thumbnail>http://lltv.xyz:80/images/yayzDar0dL3AvNoP1vPDFtinNYc_small.jpg</thumbnail>
+    </item>
+
+    <item>
+        <title>A Matter of Loaf and Death 2008</title>
+        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89919.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/e4L9XUCmNhiwbLICMiISh73PySF_small.jpg</thumbnail>
+    </item>
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Aladdin 1992" tvg-logo="http://lltv.xyz:80/images/7f53XAE4nPiGe9XprpGAeWHuKPw_small.jpg" group-title="Movies | Kids",Aladdin 1992
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89920.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="The Return of Jafar" tvg-logo="http://lltv.xyz:80/images/sC4wDVBMPMxmn5JJqPalMOhQ35U_small.jpg" group-title="Movies | Kids",The Return of Jafar

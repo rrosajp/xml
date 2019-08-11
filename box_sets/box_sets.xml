@@ -1,9 +1,19 @@
 <xml>
-
     <dir>
         <title>Halloween</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/halloween.xml</link>
-        <thumbnail>http://lltv.xyz:80/images/yayzDar0dL3AvNoP1vPDFtinNYc_small.jpg</thumbnail>
+        <thumbnail>https://miro.medium.com/max/1121/1*6i4NIYaDhVNyANe-LyqfAQ@2x.jpeg</thumbnail>
     </dir>
 
+    <dir>
+        <title>Harry Potter</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/potter.xml</link>
+        <thumbnail>https://i.pinimg.com/originals/39/d1/02/39d10260056b2def845648d037885722.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Matrix</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/matrix.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71-%2B2B-BJWL._SY445_.jpg</thumbnail>
+    </dir>
 </xml>
