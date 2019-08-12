@@ -27,37 +27,136 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E04" tvg-logo="" group-title="US | TV Series",Arrow S06 E04
+    <item>
+        <title>S06E05: "Deathstroke Returns"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93166.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/iKpNoDp4onqXa0PtiA6jrBhT1Sv_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E05" tvg-logo="http://lltv.xyz:80/images/iKpNoDp4onqXa0PtiA6jrBhT1Sv_small.jpg" group-title="US | TV Series",Arrow S06 E05
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93166.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E06" tvg-logo="http://lltv.xyz:80/images/6fGdUj9jrxeUJAu6y9wZRb98Nb0_small.jpg" group-title="US | TV Series",Arrow S06 E06
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93167.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E07" tvg-logo="http://lltv.xyz:80/images/adarSKMQhzSmupOpMlEx0P54pu4_small.jpg" group-title="US | TV Series",Arrow S06 E07
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93168.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E08" tvg-logo="http://lltv.xyz:80/images/c4UH5hWH75qK3CIziYyzoARKuq4_small.jpg" group-title="US | TV Series",Arrow S06 E08
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93169.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E09" tvg-logo="http://lltv.xyz:80/images/674MdRWyRSEYkzzKuY7K0m92cAd_small.jpg" group-title="US | TV Series",Arrow S06 E09
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93170.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E10" tvg-logo="http://lltv.xyz:80/images/4SzRLUqe0sVkxMwVPXtu4q7sYo3_small.jpg" group-title="US | TV Series",Arrow S06 E10
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93171.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E11" tvg-logo="http://lltv.xyz:80/images/ez3yUFmi2EtjH9ZPugyUnB1WGO4_small.jpg" group-title="US | TV Series",Arrow S06 E11
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93172.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E12" tvg-logo="http://lltv.xyz:80/images/FyxBXoa2ZwpuNN94pAU25gZ6vN_small.jpg" group-title="US | TV Series",Arrow S06 E12
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93173.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E13" tvg-logo="http://lltv.xyz:80/images/v7sBGkfvxylH1aP5ZEsPGd0XTJw_small.jpg" group-title="US | TV Series",Arrow S06 E13
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93174.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E14" tvg-logo="http://lltv.xyz:80/images/e24WMrUA1H8Uutj2ipo0CZdWpZ1_small.jpg" group-title="US | TV Series",Arrow S06 E14
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93175.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E15" tvg-logo="http://lltv.xyz:80/images/bDe17biudys90VpMvYxdv1cLlSM_small.jpg" group-title="US | TV Series",Arrow S06 E15
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93176.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E16" tvg-logo="http://lltv.xyz:80/images/qTFEkwjqJj3ejLcT9OlrknoFI1s_small.jpg" group-title="US | TV Series",Arrow S06 E16
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93177.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E17" tvg-logo="http://lltv.xyz:80/images/9ml4ZM3NHwRGvhS05mlvv5s3Gzo_small.jpg" group-title="US | TV Series",Arrow S06 E17
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93178.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E18" tvg-logo="http://lltv.xyz:80/images/qSSyqmCePubD0dkX2yqeubZJi2R_small.jpg" group-title="US | TV Series",Arrow S06 E18
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93179.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S06 E19" tvg-logo="http://lltv.xyz:80/images/cknHTRfyBpPFwiZtytY5xbDxONu_small.jpg" group-title="US | TV Series",Arrow S06 E19
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93180.mp4
+    <item>
+        <title>S06E06: "Promises Kept"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93167.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/6fGdUj9jrxeUJAu6y9wZRb98Nb0_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 
+    <item>
+        <title>S06E07: "Thanksgiving"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93168.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/adarSKMQhzSmupOpMlEx0P54pu4_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E08: "Crisis on Earth-X, Part 2"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93169.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/c4UH5hWH75qK3CIziYyzoARKuq4_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E09: "Irreconcilable Differences"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93170.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/674MdRWyRSEYkzzKuY7K0m92cAd_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E10: "Divided"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93171.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/4SzRLUqe0sVkxMwVPXtu4q7sYo3_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E11: "We Fall"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93172.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/ez3yUFmi2EtjH9ZPugyUnB1WGO4_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E12: "All for Nothing"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93173.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/FyxBXoa2ZwpuNN94pAU25gZ6vN_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E13: "The Devil's Greatest Trick"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93174.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/v7sBGkfvxylH1aP5ZEsPGd0XTJw_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E14: "Collision Course"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93175.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/e24WMrUA1H8Uutj2ipo0CZdWpZ1_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E15: "Doppelganger"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93176.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/bDe17biudys90VpMvYxdv1cLlSM_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E16: "The Thanatos Guild"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93177.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/qTFEkwjqJj3ejLcT9OlrknoFI1s_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E17: "Brothers in Arms"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93178.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/9ml4ZM3NHwRGvhS05mlvv5s3Gzo_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E18: "Fundamentals"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93179.mkv</link>
+        <thumbnail>http://lltv.xyz:80/images/qSSyqmCePubD0dkX2yqeubZJi2R_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E19: "The Dragon"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93180.mp4</link>
+        <thumbnail>http://lltv.xyz:80/images/cknHTRfyBpPFwiZtytY5xbDxONu_small.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E20: "Shifting Allegiances"</title>
+        <link>http://54.39.19.165/disco3/TV%20Shows/A/Arrow/Season%2006/Arrow%206x20.mkv</link>
+        <thumbnail>https://tv-fanatic-res.cloudinary.com/iu/s--S_VBLDJD--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1524751183/working-together-again-arrow-s6e20.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E21: "Docket No. 11-19-41-73"</title>
+        <link>http://54.39.19.165/disco3/TV%20Shows/A/Arrow/Season%2006/Arrow%206x21.mkv</link>
+        <thumbnail>https://tv-fanatic-res.cloudinary.com/iu/s--Nc6gRKT3--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1525400503/what-happens-next-arrow-s6e21.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E22: "The Ties That Bind"</title>
+        <link>http://54.39.19.165/disco3/TV%20Shows/A/Arrow/Season%2006/Arrow%206x21.mkv</link>
+        <thumbnail>https://imagesvc.timeincapp.com/v3/fan/image?url=https://hiddenremote.com/files/2016/04/ARR622a_0072b.jpg&c=sc&w=850&h=560</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S06E23: "Life Sentence"</title>
+        <link>http://54.39.19.165/disco3/TV%20Shows/A/Arrow/Season%2006/Arrow%206x21.mkv</link>
+        <thumbnail>https://tv-fanatic-res.cloudinary.com/iu/s--cZo0gPpi--/t_xlarge_l/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1526428166/an-epic-final-battle-arrow.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </item>
 </xml>

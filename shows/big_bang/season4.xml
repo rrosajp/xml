@@ -1,54 +1,169 @@
 <xml>
+    <item>
+        <title>S04E01: "The Robotic Manipulation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94585.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2405541.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 
-#EXTM3U8
+    <item>
+        <title>S04E02: "The Cruciferous Vegetable"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94586.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2813551.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E01" tvg-logo="http://lltv.xyz:80/images/mWb1Pqj69defY79lWT5whB93amH_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94585.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E02" tvg-logo="http://lltv.xyz:80/images/z5HaxRkizr5mXY2h6t48NeW7WHc_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E02
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94586.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E03" tvg-logo="http://lltv.xyz:80/images/zzirlcKXa59InOVr0XqQqptWI9u_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E03
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94587.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E04" tvg-logo="http://lltv.xyz:80/images/cRmRUBDVIzIW7goyI1RYfOKzOru_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E04
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94588.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E05" tvg-logo="http://lltv.xyz:80/images/eC8uxQxHQl1f7IaMxguuvzZ0IFS_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E05
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94589.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E06" tvg-logo="http://lltv.xyz:80/images/hSGsvcjqOYDE0OjSO8YGCUZu4uS_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E06
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94590.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E07" tvg-logo="http://lltv.xyz:80/images/t0WHy5iJwTpEzatBsIKcnBN5Mim_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E07
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94591.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E08" tvg-logo="http://lltv.xyz:80/images/sUqV1mRRIHSTURqaB91TJa3STYS_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E08
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94592.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E09" tvg-logo="http://lltv.xyz:80/images/wf22T6mMkuAlvASCmfxYb4TeLja_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E09
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94593.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E10" tvg-logo="http://lltv.xyz:80/images/fQ0f0ctLmE4AoY2Vxx0FVFDmOJj_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E10
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94594.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E11" tvg-logo="http://lltv.xyz:80/images/tXv9ip8xDHB03iCvX9E7MPMJnlD_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E11
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94595.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E12" tvg-logo="http://lltv.xyz:80/images/ksC48YK2UFV8GeBETu11fTM7r0a_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E12
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94596.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E13" tvg-logo="http://lltv.xyz:80/images/eYBLpaag18wl4LfRmyTdSNNDMw4_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E13
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94597.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E14" tvg-logo="http://lltv.xyz:80/images/j2iZFSk4Nd16GmPAZwXCr4JX8HO_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E14
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94598.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E15" tvg-logo="http://lltv.xyz:80/images/bwcoYIObcrLUgbgQCRZKHYU8o2o_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E15
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94599.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E16" tvg-logo="http://lltv.xyz:80/images/diipQcaojYFyHWXZIv6BaPnFU4s_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E16
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94600.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E17" tvg-logo="http://lltv.xyz:80/images/oLOcwFRUvREspaavAhlzyBZaHdB_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E17
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94601.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E18" tvg-logo="http://lltv.xyz:80/images/eyRxvkPeegoTP9h9mw7TVuIKFdU_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E18
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94602.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E19" tvg-logo="http://lltv.xyz:80/images/yjfkO1wNV8l3oyDyHR8caqnhcff_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E19
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94603.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E20" tvg-logo="http://lltv.xyz:80/images/AqRkNvMif7UKW1grguHuXaO92le_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E20
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94604.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E21" tvg-logo="http://lltv.xyz:80/images/nDmwd3iWFqmO9PoC21xWg8EIF9Q_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E21
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94605.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E22" tvg-logo="http://lltv.xyz:80/images/nyeGKYQVp5WHmFgSaqT6FaeaR7j_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E22
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94606.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E23" tvg-logo="http://lltv.xyz:80/images/tj2ZwG0xRGjAtmjshIx8J3vsgvp_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E23
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94607.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S04 E24" tvg-logo="http://lltv.xyz:80/images/mWA4sWG1t1ekD1A7sy6wy0FnxEM_small.jpg" group-title="US | TV Series",The Big Bang Theory S04 E24
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94608.mkv
+    <item>
+        <title>S04E03: "The Zazzy Substitution"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94587.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2828801.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 
+    <item>
+        <title>S04E04: "The Hot Troll Deviation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94588.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2828811.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E05: "The Desperation Emanation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94589.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2903361.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E06: "The Irish Pub Formulation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94590.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2969761.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E07: "The Apology Insufficiency"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94591.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/2995711.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E08: "The 21-Second Excitation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94592.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3066471.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E09: "The Boyfriend Complexity"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94593.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3110921.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E10: "The Alien Parasite Hypothesis"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94594.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3168381.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E11: "The Justice League"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94595.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3198011.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E12: "The Bus Pants Utilization"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94596.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3270941.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E13: "The Love Car Displacement"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94597.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3392921.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E14: "The Thespian Catalyst"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94598.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3473151.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E15: "The Benefactor Factor"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94599.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3509831.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E16: "The Cohabitation Formulation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94600.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3616341.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E17: "The Toast Derivation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94601.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3682891.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E18: "The Prestidigitation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94602.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3770211.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E19: "The Zarnecki Incursion"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94603.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3892111.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E20: "The Herb Garden Germination"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94604.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/3911231.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E21: "The Agreement Dissection"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94605.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4062871.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E22: "The Wildebeest Implementation"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94606.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4066721.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E23: "The Engagement Reaction"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94607.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4066741.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S04E24: "The Roommate"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94608.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4066751.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 </xml>

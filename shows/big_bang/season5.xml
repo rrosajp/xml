@@ -1,8 +1,23 @@
 <xml>
+    <item>
+        <title>S05E01: "The Skank Reflex Analysis"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94609.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4123308.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 
-#EXTM3U8
+    <item>
+        <title>S05E02: "The Infestation Hypothesis"</title>
+        <link>http://s2.tinydl.info/Series/6c59ec7454274d8d03691a1b9f6b723e/05/x265%20BluRay%201080p/The_Big_Bang_Theory_S05E02_1080p_Bluray_Joy_TINYMZ.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4123309.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S05 E01" tvg-logo="http://lltv.xyz:80/images/p4iEiMNcp4twY8UExrJEAFgfKNN_small.jpg" group-title="US | TV Series",The Big Bang Theory S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94609.mkv 
+    <item>
+        <title>S05E03: "The Pulled Groin Extrapolation"</title>
+        <link>http://s2.tinydl.info/Series/6c59ec7454274d8d03691a1b9f6b723e/05/x265%20BluRay%201080p/The_Big_Bang_Theory_S05E03_1080p_Bluray_Joy_TINYMZ.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/80379/4170663.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-66.jpg</fanart>
+    </item>
 
 </xml>
