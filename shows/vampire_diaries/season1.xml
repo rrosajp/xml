@@ -1,67 +1,155 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S01E01: "Pilot"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E01.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/669801.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://occ-0-1722-1723.1.nflxso.net/art/fa7d1/1908410cef87f758540160c50897d45bd70fa7d1.jpg" group-title="",Vampire Diaries S01 E01
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E01.mkv
+    <item>
+        <title>S01E02: "The Night of the Comet"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E02.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1069311.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7270/37270-h" group-title="",Vampire Diaries S01 E02
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E02.mkv
+    <item>
+        <title>S01E03: "Friday Night Bites"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S03.E01.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1069321.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://menuiresgeekfestival.com/img/the-vampire-diaries-season-2-episode-3-online.jpg" group-title="",Vampire Diaries S01 E03
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S03.E01.mkv
+    <item>
+        <title>S01E04: "Family Ties"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E04.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1069331.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://images5.fanpop.com/image/photos/24800000/Stefan-and-Elena-stefan-and-elena-24877092-1024-768.jpg" group-title="",Vampire Diaries S01 E04
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E04.mkv
+    <item>
+        <title>S01E05: "You're Undead to Me"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E05.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1134381.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-1.jpg?itok=lU8qm_Cl" group-title="",Vampire Diaries S01 E05
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E05.mkv
+    <item>
+        <title>S01E06: "Lost Girls"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E06.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1135771.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--Wt67gzOC--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371132733/ready-for-a-story.png" group-title="",Vampire Diaries S01 E06
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E06.mkv
+    <item>
+        <title>S01E07: "Haunted"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E07.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1135781.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cfm.yidio.com/images/tv/2311/141167/episode-image-320x180.jpg" group-title="",Vampire Diaries S01 E07
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E07.mkv
+    <item>
+        <title>S01E08: "162 Candles"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E08.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1135791.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--P2oHi-BA--/t_full_episode_show/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371133305/damon-and-elena.png" group-title="",Vampire Diaries S01 E08
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E08.mkv
+    <item>
+        <title>S01E09: "History Repeating"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E09.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1216291.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x9/The-Vampire-Diaries-Season-1-Episode-9-14-a338.jpg" group-title="",Vampire Diaries S01 E09
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E09.mkv
+    <item>
+        <title>S01E10: "The Turning Point"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E10.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1216301.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x10/The-Vampire-Diaries-Season-1-Episode-10-10-9002.jpg" group-title="",Vampire Diaries S01 E10
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E10.mkv
+    <item>
+        <title>S01E11: "Bloodlines"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E11.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1314511.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x11/The-Vampire-Diaries-Season-1-Episode-11-8-893b.jpg" group-title="",Vampire Diaries S01 E11
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E11.mkv
+    <item>
+        <title>S01E12: "Unpleasantville"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E12.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1314521.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x12/The-Vampire-Diaries-Season-1-Episode-12-4-b493.jpg" group-title="",Vampire Diaries S01 E12
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E12.mkv
+    <item>
+        <title>S01E13: "Children of the Damned"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E13.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1318211.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x13/The-Vampire-Diaries-Season-1-Episode-13-5-6650.jpg" group-title="",Vampire Diaries S01 E13
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E13.mkv
+    <item>
+        <title>S01E14: "Fool Me Once"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E14.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1579671.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x14/The-Vampire-Diaries-Season-1-Episode-14-14-0814.jpg" group-title="",Vampire Diaries S01 E14
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E14.mkv
+    <item>
+        <title>S01E15: "A Few Good Men"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E15.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1635541.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/5x15/The-Vampire-Diaries-Season-5-Episode-15-1-0232.jpg" group-title="",Vampire Diaries S01 E15
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E15.mkv
+    <item>
+        <title>S01E16: "There Goes the Neighborhood"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E16.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1857541.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x16/The-Vampire-Diaries-Season-1-Episode-16-2-dc62.jpg" group-title="",Vampire Diaries S01 E16
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E16.mkv
+    <item>
+        <title>S01E17: "Let the Right One In"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E17.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1912081.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x17/The-Vampire-Diaries-Season-1-Episode-17-10-8283.jpg" group-title="",Vampire Diaries S01 E17
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E17.mkv
+    <item>
+        <title>S01E18: "Under Control"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E18.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1955981.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x18/The-Vampire-Diaries-Season-1-Episode-18-2-64f5.jpg" group-title="",Vampire Diaries S01 E18
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E18.mkv
+    <item>
+        <title>S01E19: "Miss Mystic Falls"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E19.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/1983761.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x19/The-Vampire-Diaries-Season-1-Episode-19-27-a58e.jpg" group-title="",Vampire Diaries S01 E19
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E19.mkv
+    <item>
+        <title>S01E20: "Blood Brothers"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E20.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/2042031.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x20/The-Vampire-Diaries-Season-1-Episode-20-6-d8bd.jpg" group-title="",Vampire Diaries S01 E20
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E20.mkv
+    <item>
+        <title>S01E21: "Isobel"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E21.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/2070241.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x21/The-Vampire-Diaries-Season-1-Episode-21-10-2855.jpg" group-title="",Vampire Diaries S01 E21
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E21.mkv
-
-#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x22/The-Vampire-Diaries-Season-1-Episode-22-4-f736.jpg" group-title="",Vampire Diaries S01 E22
-http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E22.mkv
+    <item>
+        <title>S01E22: "Founder's Day"</title>
+        <link>http://dl.parsvideos.org/serials/vampire/s1/Vpr.Dres_S01.E22.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/2092671.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
+</xml>

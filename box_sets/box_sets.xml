@@ -30,6 +30,12 @@
     </dir>
 
     <dir>
+        <title>Ghostbusters</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/ghostbusters.xml</link>
+        <thumbnail>https://i.pinimg.com/originals/e7/b6/5e/e7b65edf2386c3d3089d8638788afb38.jpg</thumbnail>
+    </dir>
+
+    <dir>
         <title>Halloween</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/halloween.xml</link>
         <thumbnail>https://miro.medium.com/max/1121/1*6i4NIYaDhVNyANe-LyqfAQ@2x.jpeg</thumbnail>
@@ -72,6 +78,12 @@
     </dir>
 
     <dir>
+        <title>Jurassic Park</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/jurassic_park.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61DirW2qQ3L._SL1001_.jpg</thumbnail>
+    </dir>
+
+    <dir>
         <title>Kung Fu Panda</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/kung_fu.xml</link>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/517M%2BF7msHL._SY445_.jpg</thumbnail>
@@ -93,5 +105,23 @@
         <title>Mighty Ducks</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/mighty_ducks.xml</link>
         <thumbnail>https://i.pinimg.com/originals/1a/44/b7/1a44b7af09b474e0d5311633005e91e7.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Police Academy</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/police_academy.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61DirW2qQ3L._SL1001_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Rush Hour</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/rush_hour.xml</link>
+        <thumbnail>https://prodimage.images-bn.com/pimages/0794043147944_p0_v3_s550x406.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Scary Movie</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/scary_movie.xml</link>
+        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/4b/54/a8/4b54a87b-543e-d3ab-9143-36f3236a7ed0/mza_6764792502277162300.jpg/268x0w.jpg</thumbnail>
     </dir>
 </xml>
