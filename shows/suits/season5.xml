@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S05E01: "Denial"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95437.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/247808/5186434.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5b6b0a69bb945.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Suits S05 E01" tvg-logo="http://lltv.xyz:80/images/6Pw2OFFGxv34Szk8rlWIa5st31J_small.jpg" group-title="US | TV Series",Suits S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95437.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S05 E02" tvg-logo="http://lltv.xyz:80/images/9PeYpa8VvP70ROMlHZ5ffwMrdNZ_small.jpg" group-title="US | TV Series",Suits S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95438.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S05 E03" tvg-logo="http://lltv.xyz:80/images/mZ0YmsvDdcXDQ3P3yEBRQeb3K4J_small.jpg" group-title="US | TV Series",Suits S05 E03
@@ -32,3 +36,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95450.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95451.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S05 E16" tvg-logo="http://lltv.xyz:80/images/gkq4vJQe0xqidAU1vtIvZvx34mc_small.jpg" group-title="US | TV Series",Suits S05 E16
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95452.mkv 
+</xml>

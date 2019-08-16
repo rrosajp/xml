@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S09E01: "And Then There Were Fewer"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92165.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/2452271.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S09 E01" tvg-logo="http://lltv.xyz:80/images/SukYS3n1lTKjEMEw0Y2bo3AGBJ_small.jpg" group-title="US | TV Series",S09E01: "And Then There Were Fewer"
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92165.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S09 E02" tvg-logo="http://lltv.xyz:80/images/pOTtj54gRwtBWHYPqytfguIJ7W_small.jpg" group-title="US | TV Series",S09E02: "Excellence in Broadcasting"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92166.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S09 E03" tvg-logo="http://lltv.xyz:80/images/vJbZ501urN82m74td6gpJaOTiiX_small.jpg" group-title="US | TV Series",S09E03: "Welcome Back, Carter"

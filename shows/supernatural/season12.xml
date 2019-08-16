@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S12E01: "Keep Calm and Carry On"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96103.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/5651091.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E01" tvg-logo="http://lltv.xyz:80/images/kkC090DloV9Gt1UL5e9VAoT20hG_small.jpg" group-title="US | TV Series",Supernatural S12 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96103.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E02" tvg-logo="http://lltv.xyz:80/images/hSjm8KvK3UUU33hqKU8570AvaOW_small.jpg" group-title="US | TV Series",Supernatural S12 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96104.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E03" tvg-logo="http://lltv.xyz:80/images/pVBD4ptxZjnS0d4g4JO3NVMZarL_small.jpg" group-title="US | TV Series",Supernatural S12 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96123.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96124.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E23" tvg-logo="http://lltv.xyz:80/images/uxmhXLFOo1LfSo9UIk0tmp7dPlw_small.jpg" group-title="US | TV Series",Supernatural S12 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96125.mkv 
+</xml>

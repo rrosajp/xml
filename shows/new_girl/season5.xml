@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S05E01: "Big Mama P"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94232.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/248682/5336738.jpg</thumbnail>
+        <fanart>hhttps://www.thetvdb.com/banners/fanart/original/248682-49.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="New Girl S05 E01" tvg-logo="http://lltv.xyz:80/images/zY1bkkACo1pWTc2iYN1Bgi7fKeV_small.jpg" group-title="US | TV Series",New Girl S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94232.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S05 E02" tvg-logo="http://lltv.xyz:80/images/n1g4eManmmvIIGROtsYTqfd13aS_small.jpg" group-title="US | TV Series",New Girl S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94233.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S05 E03" tvg-logo="http://lltv.xyz:80/images/4AoykMWnEzMX8ctwG9JaTYpXyv3_small.jpg" group-title="US | TV Series",New Girl S05 E03
@@ -44,3 +48,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94251.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94252.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S05 E22" tvg-logo="http://lltv.xyz:80/images/4BVKr25HBHQfDdzuJrt8L9kohfk_small.jpg" group-title="US | TV Series",New Girl S05 E22
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94253.mkv 
+</xml>

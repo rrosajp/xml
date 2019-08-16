@@ -1,9 +1,12 @@
 <xml>
+    <item>
+        <title>S02E01: "Face of the Franchise"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96919.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/281714/5586360.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281714-4.jpg</fanart>
+    </item>
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E01" tvg-logo="http://lltv.xyz:80/images/3E9otVWejUziqGeEZGSAG4A79NG_small.jpg" group-title="US | TV Series",Ballers S02 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96919.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E02" tvg-logo="http://lltv.xyz:80/images/vvuAaq3qDGQ8OQysbsmq27phdDT_small.jpg" group-title="US | TV Series",Ballers S02 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96920.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E03" tvg-logo="http://lltv.xyz:80/images/yY07sCb5EFNeX1Sbgr3JPRJ53ZQ_small.jpg" group-title="US | TV Series",Ballers S02 E03

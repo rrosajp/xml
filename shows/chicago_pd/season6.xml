@@ -1,9 +1,12 @@
 <xml>
+    <item>
+        <title>S06E01: "New Normal"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93538.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/269641/6732022.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5c93abe7a6752.jpg</fanart>
+    </item>
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E01" tvg-logo="http://lltv.xyz:80/images/yhlCdEyOORvWwalKK6lczzJk5Cn_small.jpg" group-title="US | TV Series",Chicago P.D. S06 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93538.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E02" tvg-logo="http://lltv.xyz:80/images/wjwaGPSLnXNoSJMLemEAhfO4KT3_small.jpg" group-title="US | TV Series",Chicago P.D. S06 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93539.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E03" tvg-logo="http://lltv.xyz:80/images/7ac5Q8p3ZT2LLRjiukCiqSocUah_small.jpg" group-title="US | TV Series",Chicago P.D. S06 E03

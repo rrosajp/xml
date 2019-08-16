@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S01E01: "Children of the Gods (1)"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96714.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/72449/295696.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/72449-6.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S01 E01" tvg-logo="http://lltv.xyz:80/images/gvUNea586UfEeMyXbzgI02HzEJT_small.jpg" group-title="US | TV Series",Stargate SG-1 S01 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96714.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S01 E02" tvg-logo="http://lltv.xyz:80/images/53I9owrjVTMuGP103HnuyjqwRvA_small.jpg" group-title="US | TV Series",Stargate SG-1 S01 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96715.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S01 E03" tvg-logo="http://lltv.xyz:80/images/oHuBK6BVB7Ln368NGo5li5c90oi_small.jpg" group-title="US | TV Series",Stargate SG-1 S01 E03
@@ -42,3 +46,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96732.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96733.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S01 E21" tvg-logo="http://lltv.xyz:80/images/sjtZL2RHRsDAX3lRvoHZeXKrCZd_small.jpg" group-title="US | TV Series",Stargate SG-1 S01 E21
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96734.mkv 
+</xml>

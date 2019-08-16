@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S06E01: "House Hunt"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94254.avi</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/248682/5649959.jpg</thumbnail>
+        <fanart>hhttps://www.thetvdb.com/banners/fanart/original/248682-49.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="New Girl S06 E01" tvg-logo="http://lltv.xyz:80/images/tLWBL6ecgatdmPOc5xjLlPFEIzh_small.jpg" group-title="US | TV Series",New Girl S06 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94254.avi 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S06 E02" tvg-logo="http://lltv.xyz:80/images/w9cBwq8xAP5kAaB0DupCqCvEusf_small.jpg" group-title="US | TV Series",New Girl S06 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94255.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S06 E03" tvg-logo="http://lltv.xyz:80/images/jNinLng3MzZ2CspYi3H81gqSvHe_small.jpg" group-title="US | TV Series",New Girl S06 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94736.mp4
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94737.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S06 E23" tvg-logo="http://lltv.xyz:80/images/quBdxrE1FZwkC43lVJOkLzVH7PC_small.jpg" group-title="US | TV Series",New Girl S06 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94738.mkv 
+</xml>

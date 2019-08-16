@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S07E01: "Skin in the Game"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95469.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/247808/6042593.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5b6b0a69bb945.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Suits S07 E01" tvg-logo="http://lltv.xyz:80/images/6yXn3wrebhbZ8DYhO1MflQ8ycjV_small.jpg" group-title="US | TV Series",Suits S07 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95469.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S07 E02" tvg-logo="http://lltv.xyz:80/images/r10NvlwUAqgfldrokUWsA0Ilw5c_small.jpg" group-title="US | TV Series",Suits S07 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95470.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S07 E03" tvg-logo="http://lltv.xyz:80/images/oybNYUXWLY8u1Wdw4kFYS5d53BE_small.jpg" group-title="US | TV Series",Suits S07 E03
@@ -32,3 +36,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95482.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95483.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S07 E16" tvg-logo="http://lltv.xyz:80/images/2Tf11LtXCMJELjhw1KjSBYpN3d5_small.jpg" group-title="US | TV Series",Suits S07 E16
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95484.mp4 
+</xml>

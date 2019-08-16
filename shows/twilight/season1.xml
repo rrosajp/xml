@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S01E01: "The Comedian"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93427.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/358915/7069455.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ca2881b288eb.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E01" tvg-logo="http://lltv.xyz:80/images/887W6MzZew5JGfEn6XMpfjPoaoi_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93427.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E02" tvg-logo="http://lltv.xyz:80/images/7cVMsPWchlbLWUdTA5mMbSUSpvT_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93428.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E03" tvg-logo="http://lltv.xyz:80/images/4oCWffLtV8rcvMiNaF1ITUBqTYQ_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E03
@@ -20,3 +24,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96348.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96349.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E10" tvg-logo="http://lltv.xyz:80/images/z0inO23raAgYNlKoYkkeD6z5fQW_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E10
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96891.mkv
+</xml>

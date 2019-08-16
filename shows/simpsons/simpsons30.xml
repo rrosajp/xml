@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S30E01: "Bart's Not Dead"</title>
+        <link>http://s19.bitdl.ir/Series/The.Simpsons/S30/The.Simpsons.S30E01.720p.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/71663/6695838.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5c5d4d81d5c28.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663" group-title="",S30E01: "Bart's Not Dead"
-http://s19.bitdl.ir/Series/The.Simpsons/S30/The.Simpsons.S30E01.720p.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663" group-title="",S30E02: "Heartbreak Hotel"
 http://s19.bitdl.ir/Series/The.Simpsons/S30/The.Simpsons.S30E02.720p.HEVC.x265-MeGusta.Bia2HD.mkv
 #EXTINF:-1 tvg-logo="http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663" group-title="",S30E03: "My Way or the Highway to Heaven"
@@ -46,3 +50,4 @@ http://s19.bitdl.ir/Series/The.Simpsons/S30/The.Simpsons.S30E21.720p.WEB.HEVC.x2
 http://s19.bitdl.ir/Series/The.Simpsons/S30/The.Simpsons.S30E22.720p.WEB.HEVC.x265-RMTeam.Bia2HD.mkv
 #EXTINF:-1 tvg-logo="http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663" group-title="",S30E23: "Crystal Blue-Haired Persuasion"
 http://s19.bitdl.ir/Series/The.Simpsons/S30/The.Simpsons.S30E23.720p.HEVC.x265-MeGusta.Bia2HD.mkv
+</xml>

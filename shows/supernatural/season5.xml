@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S05E01: "Sympathy for the Devil"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95935.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/797391.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S05 E01" tvg-logo="http://lltv.xyz:80/images/z3NlH5V5mHJq64DEUv6HgCs8Q3L_small.jpg" group-title="US | TV Series",Supernatural S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95935.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S05 E02" tvg-logo="http://lltv.xyz:80/images/zbg59Zmvi4Xq9C9LHlQB0ycXqY4_small.jpg" group-title="US | TV Series",Supernatural S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95936.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S05 E03" tvg-logo="http://lltv.xyz:80/images/wdHktf8ZJzfD90GzgxfYgVQaVYi_small.jpg" group-title="US | TV Series",Supernatural S05 E03
@@ -44,3 +48,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95963.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95964.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S05 E22" tvg-logo="http://lltv.xyz:80/images/tUbTbLw8kjYT8qTARN1z7C294id_small.jpg" group-title="US | TV Series",Supernatural S05 E22
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95965.mkv 
+</xml>

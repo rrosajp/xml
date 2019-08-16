@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S09E01: "I Think I'm Gonna Like It Here"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96034.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/4599505.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S09 E01" tvg-logo="http://lltv.xyz:80/images/reLKD5eh5O4fbipDVwcJPvEkvdW_small.jpg" group-title="US | TV Series",Supernatural S09 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96034.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S09 E02" tvg-logo="http://lltv.xyz:80/images/bEzDP2L6o8RTUD1alZYnqFLDfjW_small.jpg" group-title="US | TV Series",Supernatural S09 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96035.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S09 E03" tvg-logo="http://lltv.xyz:80/images/zIFT1uSKYkoBILI722X55q49MQI_small.jpg" group-title="US | TV Series",Supernatural S09 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96054.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96055.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S09 E23" tvg-logo="http://lltv.xyz:80/images/9vlbX0RUxQuBLB32KSV4dVmivum_small.jpg" group-title="US | TV Series",Supernatural S09 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96056.mkv 
+</xml>

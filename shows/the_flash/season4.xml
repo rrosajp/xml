@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S04E01: "The Flash Reborn"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91665.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/279121/6124789.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/279121-15.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E01" tvg-logo="http://lltv.xyz:80/images/37q3ZTE4XZLGKpH0NZNg13CEvdk_small.jpg" group-title="US | TV Series",The Flash S04 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91665.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E02" tvg-logo="http://lltv.xyz:80/images/aJOLJB9rUEuQ5D5yQVC4ZnWHmil_small.jpg" group-title="US | TV Series",The Flash S04 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91666.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E03" tvg-logo="http://lltv.xyz:80/images/po8WZLj87FWUX6K0MZkODR2zSJb_small.jpg" group-title="US | TV Series",The Flash S04 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91685.mp4
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91686.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E23" tvg-logo="http://lltv.xyz:80/images/1yGRFdczeYj7LhVNY8KEVQrSuFL_small.jpg" group-title="US | TV Series",The Flash S04 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91695.mkv
+</xml>

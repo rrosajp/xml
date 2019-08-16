@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S08E01: "We Need To Talk About Kevin"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96011.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/4351905.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S08 E01" tvg-logo="http://lltv.xyz:80/images/sm3cYFZiimCspfwScThtxDSJLA_small.jpg" group-title="US | TV Series",Supernatural S08 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96011.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S08 E02" tvg-logo="http://lltv.xyz:80/images/hQgdJ8VBsyZkWigCJWC4xnz7PoT_small.jpg" group-title="US | TV Series",Supernatural S08 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96012.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S08 E03" tvg-logo="http://lltv.xyz:80/images/jXXlCIgYVmgb7RsYSbsSL0P5RUh_small.jpg" group-title="US | TV Series",Supernatural S08 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96031.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96032.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S08 E23" tvg-logo="http://lltv.xyz:80/images/f9YUVfe5guUUv9EvTZXt3hDf743_small.jpg" group-title="US | TV Series",Supernatural S08 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96033.mkv 
+</xml>

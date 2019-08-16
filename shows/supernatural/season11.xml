@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S11E01: "Out of the Darkness, Into the Fire"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96080.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/5307960.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S11 E01" tvg-logo="http://lltv.xyz:80/images/j1HjRHySaByiHRFyux0GkoseIB1_small.jpg" group-title="US | TV Series",Supernatural S11 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96080.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S11 E02" tvg-logo="http://lltv.xyz:80/images/5E2iqdvFEmQSWggXym0rj4bs9M_small.jpg" group-title="US | TV Series",Supernatural S11 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96081.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S11 E03" tvg-logo="http://lltv.xyz:80/images/6tjGWIxQDLmTj99asNWkApCz65g_small.jpg" group-title="US | TV Series",Supernatural S11 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96100.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96101.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S11 E23" tvg-logo="http://lltv.xyz:80/images/z56RwqT5AUS6nfqNVlrhffRl5wa_small.jpg" group-title="US | TV Series",Supernatural S11 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96102.mkv 
+</xml>

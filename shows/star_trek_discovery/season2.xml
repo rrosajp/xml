@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S02E01: "Brother"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94120.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/328711/6854213.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5cc59d7b7bca2.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E01" tvg-logo="http://lltv.xyz:80/images/jT0JIyQvtXw5BDAqPFSuT4meLAd_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94120.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E02" tvg-logo="http://lltv.xyz:80/images/h9ZYhEnqvJSwuv6cKIxVSR2gN1o_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94121.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E03" tvg-logo="http://lltv.xyz:80/images/7y1Zy7TYi1aJuAhrEV3Q0GZCQXu_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E03
@@ -28,3 +32,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94131.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94132.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E14" tvg-logo="http://lltv.xyz:80/images/soKZNBBM6gko0GTITyoOqQo0zhX_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E14
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94133.mkv 
+</xml>

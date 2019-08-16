@@ -1,7 +1,10 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/12/the-simpsons-season-1-episode-1.jpg?itok=HDaTo1dE" group-title="",The Simpsons S01 E01
-http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E01.720p.HDTV.[Mojoo.ir].mkv
+<zml>
+    <item>
+        <title>S01E01: "Simpsons Roasting on an Open Fire"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E01.720p.HDTV.[Mojoo.ir].mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/71663/55452.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5c5d4d81d5c28.jpg</fanart>
+    </item>
 
 #EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--tgII6HAb--/t_episode_lf/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371141897/bart-the-genius-pic.png" group-title="",The Simpsons S01 E02
 http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E02.720p.HDTV.[Mojoo.ir].mkv
@@ -38,3 +41,4 @@ http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S0
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x13/The-Simpsons-Season-1-Episode-13-10-6738.jpg" group-title="",The Simpsons S01 E13
 http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E13.720p.HDTV.[Mojoo.ir].mkv
+</zml>

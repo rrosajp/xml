@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S02E01: "One Year In"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95691.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/311876/6158696.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/311876-11.jpg</fanart>
+    </item>
 
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Designated Survivor S02 E01" tvg-logo="http://lltv.xyz:80/images/by23X7AzEoRn2zYK7xX1AWZGfeN_small.jpg" group-title="Netflix | Originals",Designated Survivor S02 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95691.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Designated Survivor S02 E02" tvg-logo="http://lltv.xyz:80/images/et4JapXznGtwAF1L6sg6NY1fOlk_small.jpg" group-title="Netflix | Originals",Designated Survivor S02 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95692.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Designated Survivor S02 E03" tvg-logo="http://lltv.xyz:80/images/xfcWlj7JJMaQKQRaTNAfqbgd9Jj_small.jpg" group-title="Netflix | Originals",Designated Survivor S02 E03

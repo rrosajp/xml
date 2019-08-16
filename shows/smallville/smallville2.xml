@@ -1,7 +1,13 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S02E01: "Vortex"</title>
+        <link>http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E01.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/72218/77838.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/72218-92.jpg</fanart>
+    </item>
 
 #EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E01: "Vortex"
-http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E01.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E02: "Heat"
 http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E02.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
@@ -68,3 +74,4 @@ http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E22.720
 
 #EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E23: "Exodus"
 http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E23.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+</xml>

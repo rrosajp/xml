@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S01E01: "Pilot"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95670.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/311876/5661531.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/311876-11.jpg</fanart>
+    </item>
 
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Designated Survivor S01 E01" tvg-logo="http://lltv.xyz:80/images/qaYfFcIqlzlqqRw5MN16nMb3MPF_small.jpg" group-title="Netflix | Originals",Designated Survivor S01 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95670.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Designated Survivor S01 E02" tvg-logo="http://lltv.xyz:80/images/p12fc59MiwrIomlW9pMpVUbCtYr_small.jpg" group-title="Netflix | Originals",Designated Survivor S01 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95671.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Designated Survivor S01 E03" tvg-logo="http://lltv.xyz:80/images/bE0hpviTLAYlF7JLhlo7ZlcgMqs_small.jpg" group-title="Netflix | Originals",Designated Survivor S01 E03

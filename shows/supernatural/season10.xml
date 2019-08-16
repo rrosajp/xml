@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S10E01: "Black"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96057.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/4917403.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S10 E01" tvg-logo="http://lltv.xyz:80/images/kjrtS0Vc72EoGqvTQj3aUXGW3Mf_small.jpg" group-title="US | TV Series",Supernatural S10 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96057.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S10 E02" tvg-logo="http://lltv.xyz:80/images/sGAePN7qjJDP9rIfJMBue3Ak2KJ_small.jpg" group-title="US | TV Series",Supernatural S10 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96058.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S10 E03" tvg-logo="http://lltv.xyz:80/images/6W3SKMKw73jUclhMvyfD40TiL7V_small.jpg" group-title="US | TV Series",Supernatural S10 E03
@@ -46,3 +50,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96077.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96078.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Supernatural S10 E23" tvg-logo="http://lltv.xyz:80/images/1rNqxT80PTUDa024jsZS00jITey_small.jpg" group-title="US | TV Series",Supernatural S10 E23
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96079.mkv 
+</xml>

@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S05E01: "Enemies (2)"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96801.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/72449/85839.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/72449-6.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S05 E01" tvg-logo="http://lltv.xyz:80/images/ec2GN09XGmbK8hvcxyr9GdiDtio_small.jpg" group-title="US | TV Series",Stargate SG-1 S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96801.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S05 E02" tvg-logo="http://lltv.xyz:80/images/u2JlFXj8Hkl916Y1KGTpcRHLGp8_small.jpg" group-title="US | TV Series",Stargate SG-1 S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96802.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S05 E03" tvg-logo="http://lltv.xyz:80/images/vrRtiX1YKxh1ZHNrgUtdhaYu0uv_small.jpg" group-title="US | TV Series",Stargate SG-1 S05 E03
@@ -38,3 +42,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96817.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96818.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S05 E19" tvg-logo="http://lltv.xyz:80/images/gKB88qgqW04nCx3nUVWxrVfyT2w_small.jpg" group-title="US | TV Series",Stargate SG-1 S05 E19
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96819.mkv 
+</xml>

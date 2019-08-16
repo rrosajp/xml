@@ -1,7 +1,10 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2019/01/supernatural-season-15-confirmed-news.jpg?itok=vTOt45Fm" group-title="",Supernatural S14 E01
-http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e01.1080p.web-dl.mkv
+<xml>
+    <item>
+        <title>S14E01: "Stranger in a Strange Land"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e01.1080p.web-dl.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/78901/6733451.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78901-29.jpg</fanart>
+    </item>
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/10/supernatural-season-14-episode-2-review-gods-and-monsters.jpg?itok=6DLwcMYz" group-title="",Supernatural S14 E02
 http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e02.1080p.web-dl.mkv
@@ -59,3 +62,4 @@ http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E19.10
 
 #EXTINF:-1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fewedit.files.wordpress.com%2F2019%2F04%2Fsn1420c_0867r.jpg&w=400&c=sc&poi=face&q=85" group-title="",Supernatural S14 E20
 http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E20.1080p.[Mojoo.ir].mkv
+</xml>

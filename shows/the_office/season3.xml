@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S03E01: "Gay Witch Hunt"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93887.avi</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/73244/307725.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/73244-1.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Office S03 E01" tvg-logo="http://lltv.xyz:80/images/cffoDjYcruoKeVnWYawicpntM6y_small.jpg" group-title="US | TV Series",The Office S03 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93887.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S03 E02" tvg-logo="http://lltv.xyz:80/images/mR568L55qjchHzGKoyoWPfpJRmk_small.jpg" group-title="US | TV Series",The Office S03 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93888.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S03 E03" tvg-logo="http://lltv.xyz:80/images/84QC4UQT78RoAIph8j9cCtkQRPe_small.jpg" group-title="US | TV Series",The Office S03 E03
@@ -44,3 +48,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93906.avi
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93907.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S03 E22" tvg-logo="http://lltv.xyz:80/images/qWnJzyZhyy74gjpSjIXWmuk0ifX_small.jpg" group-title="US | TV Series",The Office S03 E22
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93908.avi 
+</xml>

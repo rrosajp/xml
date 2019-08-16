@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S05E01: "Weight Loss"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93921.avi</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/73244/389875.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/73244-1.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Office S05 E01" tvg-logo="http://lltv.xyz:80/images/lNNeH1mWK9KIORf3CAOfxJPCey5_small.jpg" group-title="US | TV Series",The Office S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93921.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S05 E02" tvg-logo="http://lltv.xyz:80/images/eGvkkZ1icRbScXIEEBq6taDmF1N_small.jpg" group-title="US | TV Series",The Office S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93922.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S05 E03" tvg-logo="http://lltv.xyz:80/images/eL9yxMohx1j0pd5WfIa9D4k4bez_small.jpg" group-title="US | TV Series",The Office S05 E03
@@ -52,3 +56,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93944.avi
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93945.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S05 E26" tvg-logo="http://lltv.xyz:80/images/hcd6YWqf4haPor5l0m9sIXwodSh_small.jpg" group-title="US | TV Series",The Office S05 E26
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93946.avi 
+</xml>

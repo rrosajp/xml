@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S02E01: "Re-Launch"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94162.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/248682/4345293.jpg</thumbnail>
+        <fanart>hhttps://www.thetvdb.com/banners/fanart/original/248682-49.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="New Girl S02 E01" tvg-logo="http://lltv.xyz:80/images/79pYzi2MtKmCORbdylkLSmsRWn1_small.jpg" group-title="US | TV Series",New Girl S02 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94162.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S02 E02" tvg-logo="http://lltv.xyz:80/images/ajHOouRdpu1Dp8xCoOwcAEkhoAv_small.jpg" group-title="US | TV Series",New Girl S02 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94163.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S02 E03" tvg-logo="http://lltv.xyz:80/images/iAb1Ni27Vdn1WUtQALocjeRARMh_small.jpg" group-title="US | TV Series",New Girl S02 E03
@@ -50,3 +54,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94184.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94185.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="New Girl S02 E25" tvg-logo="http://lltv.xyz:80/images/xkoMKgpnBuSEd1RWmydGfdmTqjA_small.jpg" group-title="US | TV Series",New Girl S02 E25
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94186.mkv 
+</xml>

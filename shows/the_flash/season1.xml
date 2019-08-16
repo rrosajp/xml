@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S01E01: "Pilot"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91597.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/279121/4812524.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/279121-15.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E01" tvg-logo="http://lltv.xyz:80/images/i4eBf15GpOgFoiBo4tFRfvkoTYO_small.jpg" group-title="US | TV Series",The Flash S01 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91597.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E02" tvg-logo="http://lltv.xyz:80/images/tM61prhWhwHNDYAybsHAgRJbUZk_small.jpg" group-title="US | TV Series",The Flash S01 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91598.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E03" tvg-logo="http://lltv.xyz:80/images/wY1omkKIuqZILjniPssbGlfZ0NY_small.jpg" group-title="US | TV Series",The Flash S01 E03
@@ -44,3 +48,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91616.mp4
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91617.mp4 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E22" tvg-logo="http://lltv.xyz:80/images/aepBBreYvTwsaGuqOygBgsYs4n_small.jpg" group-title="US | TV Series",The Flash S01 E22
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91618.mp4
+</xml>

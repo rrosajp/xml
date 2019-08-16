@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S04E01: "Fun Run (1)"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93909.avi</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/73244/335408.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/73244-1.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Office S04 E01" tvg-logo="http://lltv.xyz:80/images/hu1kz8e9nUp69Kxgm6M6ItUJJFq_small.jpg" group-title="US | TV Series",The Office S04 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93909.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S04 E02" tvg-logo="http://lltv.xyz:80/images/fgyCNrZF0bCLB5Ik1LxHVvODqS3_small.jpg" group-title="US | TV Series",The Office S04 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93910.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S04 E03" tvg-logo="http://lltv.xyz:80/images/w9CASez9306zcPc9F3wmBE1nRZS_small.jpg" group-title="US | TV Series",The Office S04 E03
@@ -24,3 +28,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93918.avi
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93919.avi 
 #EXTINF:-1 tvg-id="" tvg-name="The Office S04 E12" tvg-logo="http://lltv.xyz:80/images/gaEVELpUVW2B67lCobOPSB8n9xx_small.jpg" group-title="US | TV Series",The Office S04 E12
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93920.avi 
+</xml>

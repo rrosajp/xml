@@ -1,68 +1,148 @@
 <xml>
+    <item>
+        <title>S02E01: "Peter, Peter, Caviar Eater"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92029.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181122.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTM3U
+    <item>
+        <title>S02E02: "Holy Crap"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92030.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181123.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E01" tvg-logo="http://lltv.xyz:80/images/yyJ7amwesHCgO1GwFtvgbUOObUV_small.jpg" group-title="",S02E01: "Peter, Peter, Caviar Eater"
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92029.mkv 
+    <item>
+        <title>S02E03: "Da Boom"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92031.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181124.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E02" tvg-logo="http://lltv.xyz:80/images/8LVwCbxsKrAcJ3PnE6T0REefJHK_small.jpg" group-title="",S02E02: "Holy Crap"
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92030.mkv
+    <item>
+        <title>S02E04: "Brian in Love"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92032.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181125.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E03" tvg-logo="http://lltv.xyz:80/images/7LRupEpZPr3w2X9YROouBimoiHZ_small.jpg" group-title="",S02E03: "Da Boom"
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92031.mkv
+    <item>
+        <title>S02E05: "Love Thy Trophy"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E05.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181126.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E04" tvg-logo="http://lltv.xyz:80/images/fyNRzjUeg8Mx61uRyNMtq96Ah5_small.jpg" group-title="",S02E04: "Brian in Love"
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92032.mkv
+    <item>
+        <title>S02E06: "Death is a Bitch"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E06.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181127.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E05: "Love Thy Trophy"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E05.mkv
+    <item>
+        <title>S02E07: "The King is Dead"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E07.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181128.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E06: "Death Is a Bitch"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E06.mkv
+    <item>
+        <title>S02E08: "I Am Peter, Hear Me Roar"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E08.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181129.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E07: "The King Is Dead"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E07.mkv
+    <item>
+        <title>S02E09: "If I'm Dyin', I'm Lyin'"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E09.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181130.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E08: "I Am Peter, Hear Me Roar"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E08.mkv
+    <item>
+        <title>S02E10: "Running Mates"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E10.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181131.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E09: "If I'm Dyin', I'm Lyin'"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E09.mkv
+    <item>
+        <title>S02E11: "A Picture's Worth A Thousand Bucks"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E11.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181132.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E10: "Running Mates"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E10.mkv
+    <item>
+        <title>S02E12: "Fifteen Minutes of Shame"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E12.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181133.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E11: "A Picture is Worth 1,000 Bucks"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E11.mkv
+    <item>
+        <title>S02E13: "Road to Rhode Island"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E13.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181134.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E12: "Fifteen Minutes of Shame"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E12.mkv
+    <item>
+        <title>S02E14: "Let's Go to the Hop"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E14.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181135.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E13: "Road to Rhode Island"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E13.mkv
+    <item>
+        <title>S02E15: "Dammit Janet"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E15.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181136.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E14: "Let's Go to the Hop"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E14.mkv
+    <item>
+        <title>S02E16: "There's Something About Paulie"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E16.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181137.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E15: "Dammit Janet"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E15.mkv
+    <item>
+        <title>S02E17: "He's Too Sexy For His Fat"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E17.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181138.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E16: "There's Something About Paulie"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E16.mkv
+    <item>
+        <title>S02E18: "E. Peterbus Unum"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E18.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181139.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E17: "He's Too Sexy for His Fat"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E17.mkv
+    <item>
+        <title>S02E19: "The Story on Page One"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E19.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181140.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E18: "E. Peterbus Unum"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E18.mkv
+    <item>
+        <title>S02E20: "Wasted Talent"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E20.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181141.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E19: "The Story on Page One"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E19.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E20: "Wasted Talent"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E20.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E21: "Fore, Father"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E21.mkv
-
+    <item>
+        <title>S02E21: "Fore, Father"</title>
+        <link>http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E21.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/181142.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 </xml>

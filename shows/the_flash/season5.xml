@@ -1,7 +1,11 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S05E01: "Nora"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91687.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/279121/6733441.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/279121-15.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E01" tvg-logo="http://lltv.xyz:80/images/kdbAmRoJeBmlIjTYanTvs38s5Pg_small.jpg" group-title="US | TV Series",The Flash S05 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91687.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E02" tvg-logo="http://lltv.xyz:80/images/y8ReSqVo0wSrLs1HpzmIxnsxM4g_small.jpg" group-title="US | TV Series",The Flash S05 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91688.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E03" tvg-logo="http://lltv.xyz:80/images/4pjOR6WAZ6csJEolp4o4iqZRa33_small.jpg" group-title="US | TV Series",The Flash S05 E03
@@ -28,3 +32,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91596.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94545.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E14" tvg-logo="http://lltv.xyz:80/images/61qsBdF6a8gXi7VnV1sty5rJhWp_small.jpg" group-title="US | TV Series",The Flash S05 E14
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95164.mkv 
+</xml>

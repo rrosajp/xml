@@ -1,7 +1,13 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S08E01: "Right-Hand Man"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95485.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/247808/6702129.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5b6b0a69bb945.jpg</fanart>
+    </item>
 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S08 E01" tvg-logo="http://lltv.xyz:80/images/irMbpaKsh9ZMUfc1gfFxUQVUsOV_small.jpg" group-title="US | TV Series",Suits S08 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95485.mkv 
+
 #EXTINF:-1 tvg-id="" tvg-name="Suits S08 E02" tvg-logo="http://lltv.xyz:80/images/7yYz3wf2tXV6bDpOFGa6zdQ12YT_small.jpg" group-title="US | TV Series",Suits S08 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95486.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S08 E03" tvg-logo="http://lltv.xyz:80/images/8ne0bbK22gDzWoTSQwyZZgYPZlF_small.jpg" group-title="US | TV Series",Suits S08 E03
@@ -32,3 +38,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95498.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95499.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S08 E16" tvg-logo="http://lltv.xyz:80/images/aLu4shQMUrEQWE2MTXD9gKw4g0m_small.jpg" group-title="US | TV Series",Suits S08 E16
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95500.mkv 
+</xml>

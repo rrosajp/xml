@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S03E01: "Seeds of Expansion"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96929.avi</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/281714/6005243.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281714-4.jpg</fanart>
+    </item>
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E01" tvg-logo="http://lltv.xyz:80/images/5GvZzMyDpIIT6c4ASXuUebChfPv_small.jpg" group-title="US | TV Series",Ballers S03 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96929.avi 
 #EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E02" tvg-logo="http://lltv.xyz:80/images/xTgyIA3c6Ko9iJsER7hXIp22wUU_small.jpg" group-title="US | TV Series",Ballers S03 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96930.avi 
 #EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E03" tvg-logo="http://lltv.xyz:80/images/yOJE3ujZYeMrNawul7nPuBKYHNA_small.jpg" group-title="US | TV Series",Ballers S03 E03

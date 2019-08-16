@@ -1,7 +1,12 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S01E01: "Pilot"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95377.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/247808/4077754.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5b6b0a69bb945.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Suits S01 E01" tvg-logo="http://lltv.xyz:80/images/2GmJD80FGtMIcca1UuLIIuIm2c1_small.jpg" group-title="US | TV Series",Suits S01 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95377.mkv 
+
 #EXTINF:-1 tvg-id="" tvg-name="Suits S01 E02" tvg-logo="http://lltv.xyz:80/images/n0bGqpX5jZaxG3vvw4Gq5InvxFF_small.jpg" group-title="US | TV Series",Suits S01 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95378.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S01 E03" tvg-logo="http://lltv.xyz:80/images/rohDcpKFJwRXvHrEuh3j6eGOuLw_small.jpg" group-title="US | TV Series",Suits S01 E03
@@ -24,3 +29,4 @@ http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95386.mkv
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95387.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Suits S01 E12" tvg-logo="http://lltv.xyz:80/images/cssJ7NhSXYfWNHdDJYXmDGgGYEp_small.jpg" group-title="US | TV Series",Suits S01 E12
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95388.mkv 
+</xml>

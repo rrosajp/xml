@@ -1,7 +1,11 @@
-#EXTM3U
+<xml>
+    <item>
+        <title>S03E01: "Into the Fire"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96757.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/72449/85795.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/72449-6.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E01" tvg-logo="http://lltv.xyz:80/images/sz6IiF1JR8WRsBMa4HxnqA5GCRp_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96757.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E02" tvg-logo="http://lltv.xyz:80/images/lJIWA2IJRub2RcSIZ6pUrjEl9q1_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E02
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96758.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E03" tvg-logo="http://lltv.xyz:80/images/zqMp6vcusTtO02ZgwGMQsY4n2Sq_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E03
