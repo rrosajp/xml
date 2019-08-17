@@ -5,3 +5,6 @@ https://fastly.tubi.video/ed208f0b-7382-4451-9491-a096a589e75e/hfii2p1h/stream.m
 
 #EXTINF:-1, tvg-logo="." group-title="",Alf S01E02
 https://fastly.tubi.video/b3af2d8b-b594-4846-b4dd-3ef9941ec586/kajt5oxy/stream.m3u8
+
+#EXTINF:-1, tvg-logo="." group-title="",24/7
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/70942
