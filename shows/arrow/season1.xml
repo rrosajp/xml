@@ -1,21 +1,14 @@
 <xml>
     <item>
         <title>S01E01: "Pilot"</title>
-       <metacachecache>
+       <meta>
            <episode>1</episode>
            <content>episode</content>
            <imdb>tt2193021</imdb>
            <tvdb>113</tvdb>
            <tvshowtitle>arrow</tvshowtitle>
-           <plot>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five
-               years before being discovered alive on a remote island in the Pacific. Back in Starling City, Oliver
-               slowly reconnects with those closest to him. Oliver has brought back many new skills from his time on
-               the island and despite the watchful eye of his new bodyguard John Diggle, Oliver manages to secretly
-               create the persona of Arrow – a vigilante – to right the wrongs of his family and fight the ills of
-               society. As Arrow, Oliver will atone for the past sins of his family while he searches for the personal
-               redemption he needs.</plot>
            <year>2012</year>
-        </metacachecache>
+        </meta>
         <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93047.mkv</link>
         <thumbnail>http://lltv.xyz:80/images/zaqAlAdjZGBuFMsHsLUYjDlgm9r_small.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
