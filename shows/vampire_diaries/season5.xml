@@ -1,37 +1,87 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S05E01: "I Know What You Did Last Summer"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E01.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4599504.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-1.jpg?itok=lU8qm_Cl" group-title="",Vampire Diaries S05 E01
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E01.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E02: "True Lies"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E02.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4661158.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2017/02/the-vampire-diaries-recap-1.jpg?w=620" group-title="",Vampire Diaries S05 E02
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E02.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E03: "Original Sin"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E03.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4661159.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_0.jpg?itok=ayGyn9N4" group-title="",Vampire Diaries S05 E03
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E03.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E04: "For Whom the Bell Tolls"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E04.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4661160.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-4.jpg?itok=HJcr3Fvq" group-title="",Vampire Diaries S05 E04
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E04.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E05: "Monster's Ball"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E05.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4661161.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-5.jpg?itok=11m-LEiW" group-title="",Vampire Diaries S05 E05
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E05.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E06: "Handle with Care"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E06.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4688783.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-6.jpg?itok=BN3AY-tV" group-title="",Vampire Diaries S05 E06
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E06.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E07: "Death and the Maiden"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E07.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4661162.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-7.jpg?itok=3juyxcdp" group-title="",Vampire Diaries S05 E07
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E07.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E08: "Dead Man on Campus"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E08.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4694732.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-8.jpg?itok=uHzGs8Vn" group-title="",Vampire Diaries S05 E08
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E08.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E09: "The Cell"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E09.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4709986.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-9.jpg?itok=-54oKXN1" group-title="",Vampire Diaries S05 E09
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E09.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E10: "Fifty Shades of Grayson"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E10.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4694733.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-10.jpg?itok=odyFoHP2" group-title="",Vampire Diaries S05 E10
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E10.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E11: "500 Years of Solitude"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E11.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4724123.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://bladeofthesashurai.files.wordpress.com/2014/01/tvd-11.jpg" group-title="",Vampire Diaries S05 E11
-http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E11.x265.720p.BluRay.mkv
+    <item>
+        <title>S05E12: "The Devil Inside"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E11.x265.720p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/4738666.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/vampirediaries/images/5/5c/Devil02.jpg/revision/latest?cb=20140124004022" group-title="",Vampire Diaries S05 E12
 http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E12.x265.720p.BluRay.mkv
@@ -65,3 +115,4 @@ http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E21.x265.7
 
 #EXTINF:-1 tvg-logo="https://gossipandgab.com/wp-content/uploads/2014/05/The-Vampire-Diaries-Season-5-Episode-22-4-460x306.jpg" group-title="",Vampire Diaries S05 E22
 http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E22.x265.720p.BluRay.mkv
+</xml>
