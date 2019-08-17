@@ -2,8 +2,9 @@
     <item>
         <title>S01E01: "Pilot"</title>
        <meta>
+            <episode>1</episode>
             <content>episode</content>
-            <imdb>tt1837492</imdb>
+            <imdb>tt2193021</imdb>
             <tvdb>113</tvdb>
             <tvshowtitle>arrow</tvshowtitle>
         </meta>
