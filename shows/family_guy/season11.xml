@@ -1,9 +1,11 @@
 <xml>
+    <item>
+        <title>S11E01: "Into Fat Air"</title>
+        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92206.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/4292749.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S11 E01" tvg-logo="http://lltv.xyz:80/images/gTsi5qZtWp5S9cV1CJGVQyZ7xOV_small.jpg" group-title="US | TV Series",S11E01: "Into Fat Air"
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92206.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S11 E02" tvg-logo="http://lltv.xyz:80/images/9YLnp8xl37MGoVq2NCDPYNagv55_small.jpg" group-title="US | TV Series",S11E02: "Ratings Guy"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92207.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="Family Guy S11 E03" tvg-logo="http://lltv.xyz:80/images/1s6WJxJkSXHUmw0hTXipN5UGcgn_small.jpg" group-title="US | TV Series",S11E03: "The Old Man and the Big 'C'"
