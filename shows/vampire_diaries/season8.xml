@@ -1,49 +1,113 @@
-#EXTM3U8
+<xml>
+    <item>
+        <title>S08E01: "Hello, Brother"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E01.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5651090.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1280/1*DJHnL_4VYD_xSmSvf14kXA.jpeg" group-title="",Vampire Diaries S08 E01
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E01.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E02: "Today Will Be Different"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E02.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5705998.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/10/the-vampire-diaries-recap-2.jpg?w=620" group-title="",Vampire Diaries S08 E02
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E02.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E03: "You Decided That I Was Worth"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E03.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5719854.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/11/the-vampire-diaries-recap.jpg?w=620" group-title="",Vampire Diaries S08 E03
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E03.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E04: "An Eternity of Misery"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E04.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5755893.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/11/the-vampire-diaries-recap-2.jpg?w=620" group-title="",Vampire Diaries S08 E04
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E04.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E05: "Coming Home Was a Mistake"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E05.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5755894.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/11/the-vampire-diaries-recap-11.jpg?w=620" group-title="",Vampire Diaries S08 E05
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E05.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E06: "Detoured On Some Random"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E06.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5824411.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/12/the-vampire-diaries-recap-3.jpg?w=620" group-title="",Vampire Diaries S08 E06
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E06.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E07: "The Next Time I Hurt Somebody, It Could Be You"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E07.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5832510.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/12/the-vampire-diaries-recap-1.jpg?w=620" group-title="",Vampire Diaries S08 E07
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E07.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E08: "We Have History Together"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E08.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5832511.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2017/01/the-vampire-diaries-spoilers1.jpg" group-title="",Vampire Diaries S08 E08
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E08.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E09: "The Simple Intimacy of the Near Touch"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E09.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5829212.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2017/01/the-vampire-diaries-recap1.jpg?w=620" group-title="",Vampire Diaries S08 E09
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E09.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E10: "Nostalgia's a Bitch"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E10.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5921291.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2017/01/the-vampire-diaries-recap2.jpg?w=620" group-title="",Vampire Diaries S08 E10
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E10.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E11: "You Made a Choice to Be Good"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E11.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5928035.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2017/02/the-vampire-diaries-recap.jpg?w=620&h=420&crop=1" group-title="",Vampire Diaries S08 E11
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E11.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E12: "What Are You?"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E12.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5937412.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://data1.ibtimes.co.in/cache-img-550-366/en/full/569665/1486365976_michael-malarkey.jpg" group-title="",Vampire Diaries S08 E12
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E12.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E13: "The Lies Are Going to Catch Up with You"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E13.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5937414.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2017/02/the-vampire-diaries-recap2.jpg?w=620" group-title="",Vampire Diaries S08 E13
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E13.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E14: "It's Been a Hell of a Ride"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E14.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5937415.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--3zIqRjL8--/t_slideshow/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1487169079/fighting-to-the-death-the-vampire-diaries-s8e14.png" group-title="",Vampire Diaries S08 E14
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E14.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E15: "We're Planning a June Wedding"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E15.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5937416.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://images.latintimes.com/sites/latintimes.com/files/2017/03/02/vampire-diaries-season-8-episode-15.jpg" group-title="",Vampire Diaries S08 E15
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E15.x265.1080p.BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2017/03/vampire-diaries-series-finale.jpg?w=1000" group-title="",Vampire Diaries S08 E16
-http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E16.x265.1080p.BluRay.mkv
+    <item>
+        <title>S08E16: "I Was Feeling Epic"</title>
+        <link>http://185.49.85.30/upload/film/tv-shows/VD/s8/The.Vampire.Diaries.S08E16.x265.1080p.BluRay.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/95491/5937417.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/95491-68.jpg</fanart>
+    </item>
+</xml>
