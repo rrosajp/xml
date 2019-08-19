@@ -1,6 +1,11 @@
 <xml>
+    <item>
+        <title>S17E01: "Emmy-Winning Episode"</title>
+        <link>http://dl2.lavinmovie.net/series/Family%20Guy/S15/1080p%20x265/Family.Guy.S15E01.1080p.BluRay.HEVC.x265.10bit.AAC.5.1.ImE.LavinMovie.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/5649967.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E01: "Married... with Cancer"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E01.720p.x264-B2HD.mkv
