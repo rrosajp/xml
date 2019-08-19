@@ -59,4 +59,30 @@ http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71363
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US| STARZ IN BLACK FHD" tvg-logo="https://www.indiewire.com/wp-content/uploads/2013/11/starz_in_black.jpg" group-title="US | Cinema",US| STARZ IN BLACK FHD
 http://lltv.xyz:80/ianjones123/x8k9ntIkHG/69576
 #EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US| Starz Kids & Family HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Starz_Kids_%26_Family_2005.svg/revision/latest/scale-to-width-down/200?cb=20151217010446" group-title="US | Cinema",US| Starz Kids & Family HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8944 
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8944
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="US| BABY FIRST TV" tvg-logo="http://brentreser.com/wp-content/uploads/2018/01/BabyFirst-TV-2.png" group-title="US | Kids",US| BABY FIRST TV
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89618
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US| Boomerang HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/Boomerang_from_Cartoon_Network.svg/revision/latest/scale-to-width-down/640?cb=20160522194040" group-title="US | Kids",US| Boomerang HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/87
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US| Cartoon Network HD" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-1992.png" group-title="US | Kids",US| Cartoon Network HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3935
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="US| Discovery Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Discovery_Family_Channel_logo.png" group-title="US | Kids",US| Discovery Family HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/73
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US| Disney Channel HD" tvg-logo="http://i.huffpost.com/gen/2844042/images/o-DISNEY-CHANNEL-facebook.jpg" group-title="US | Kids",US| Disney Channel HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/70
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US| Disney Jr. HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/32/Disney_Junior_The_Channel_logo.png/revision/latest?cb=20120326012341" group-title="US | Kids",US| Disney Jr. HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/69
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US| Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2000px-Logo_Disney_XD.svg.png" group-title="US | Kids",US| Disney XD HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/68
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US| Nick HD" tvg-logo="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/offlinehbpl.hbpl.co.uk/news/OMC/AE5EB225-C604-1BCC-FCFB798D3649101F.jpg" group-title="US | Kids",US| Nick HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/7490
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US| Nick Jr. HD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="US | Kids",US| Nick Jr. HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/24
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US| Nick toons HD" tvg-logo="https://vignette4.wikia.nocookie.net/ultradragonball/images/6/6d/Nicktoons2010UK.png/revision/latest?cb=20120102163016" group-title="US | Kids",US| Nick toons HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/23
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="US| PBS kids" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/08/PBS-kids-tv-shows.png" group-title="US | Kids",US| PBS kids
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/42919
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="US| Teen Nick" tvg-logo="https://4.bp.blogspot.com/-RjeYV0WFfps/WQeNEEElJlI/AAAAAAAAu7Y/ik1uyZ_g6doDXzVQUDV5u-MYOjoWN8U-ACLcB/s1600/NickSplat-Logo-Nick-Splat-Nickelodeon.png" group-title="US | Kids",US| Teen Nick
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/25
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="US| Universal Kids Sprout HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/1200px-Universal_Kids.svg.png" group-title="US | Kids",US| Universal Kids Sprout HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/15 
