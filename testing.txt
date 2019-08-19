@@ -5,3 +5,58 @@ https://fastly.tubi.video/ed208f0b-7382-4451-9491-a096a589e75e/hfii2p1h/stream.m
 
 #EXTINF:-1, tvg-logo="." group-title="",Alf S01E02
 https://fastly.tubi.video/b3af2d8b-b594-4846-b4dd-3ef9941ec586/kajt5oxy/stream.m3u8
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US| HBO FHD" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/HBO-Channel-logo.png" group-title="US | Cinema",US| HBO FHD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/816
+#EXTINF:-1 tvg-id="" tvg-name="US| HBO FHD [WEST]" tvg-logo="http://livetvi.com/wp-content/uploads/2016/03/HBO-Live.png" group-title="US | Cinema",US| HBO FHD [WEST]
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US| HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="US | Cinema",US| HBO 2 HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3930
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US| HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png" group-title="US | Cinema",US| HBO Comedy HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/43
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US| HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png" group-title="US | Cinema",US| HBO Family HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3929
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US| HBO Signature HD" tvg-logo="http://www.ilovesatellitetv.com/images/hbo-signature-logo.jpg" group-title="US | Cinema",US| HBO Signature HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/41
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US| HBO Zone HD" tvg-logo="https://i1.wp.com/www.freeurtv.com/wp-content/uploads/2016/08/HBO_Zone_logo-1.png?resize=555%2C310" group-title="US | Cinema",US| HBO Zone HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/40
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US| Lifetime Movies FHD" tvg-logo="https://pbs.twimg.com/profile_images/884890131513126913/ZmrZn7Y4.jpg" group-title="US | Cinema",US| Lifetime Movies FHD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/11815
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US| Sony Movie Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png" group-title="US | Cinema",US| Sony Movie Channel FHD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/72733
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US| SHOWTIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="US | Cinema",US| SHOWTIME FHD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/650
+#EXTINF:-1 tvg-id="Showtime (West) (SHO) US" tvg-name="US| Showtime FHD [WEST]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="US | Cinema",US| Showtime FHD [WEST]
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/20
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US| Showtime 2 HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/shoto.png" group-title="US | Cinema",US| Showtime 2 HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3941
+#EXTINF:-1 tvg-id="showtimebeyond.us" tvg-name="US| Showtime Beyond" tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOB.PNG" group-title="US | Cinema",US| Showtime Beyond
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71454
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US| Showtime Extreme HD" tvg-logo="http://dishcostsless.com/wp-content/uploads/2015/12/DISH-Network-Showtime-Extreme-Logo.png" group-title="US | Cinema",US| Showtime Extreme HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/36435
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="US| Showtime Family Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1024px-Showtime_Family_Zone.svg.png" group-title="US | Cinema",US| Showtime Family Zone
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3901
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US| Showtime Next" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3f/Showtime_next.png/revision/latest?cb=20121117045306" group-title="US | Cinema",US| Showtime Next
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/64708
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US| Showtime Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/270px-Showtime.svg.png" group-title="US | Cinema",US| Showtime Showcase
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/36434
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US| Showtime Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png" group-title="US | Cinema",US| Showtime Women
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/18
+#EXTINF:-1 tvg-id="starz.us" tvg-name="US| Starz HD" tvg-logo="http://logok.org/wp-content/uploads/2014/12/Starz-logo-2016-1024x768.png" group-title="US | Cinema",US| Starz HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/146
+#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="US| Starz West" tvg-logo="https://www.wyattresearch.com/wp-content/uploads/2015/06/Starz_Logo-650x204.png" group-title="US | Cinema",US| Starz West
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/85308
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US| Starz Comedy" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzcomedy_2016_vert_wh_rgb.jpg" group-title="US | Cinema",US| Starz Comedy
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3900
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US| STARZ EDGE HD" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzedge_2016_vert_wh_rgb.jpg" group-title="US | Cinema",US| STARZ EDGE HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89616
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US| Starz Encore HD" tvg-logo="http://www.bevcomm.net/zimages/TV_Starz_Encore_Thumb.jpg" group-title="US | Cinema",US| Starz Encore HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/890
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US| STARZ ENCORE SUSPENSE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/953px-Starz_Encore_Suspense.svg.png" group-title="US | Cinema",US| STARZ ENCORE SUSPENSE HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89617
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US| STARZ ENCORE WESTERNS" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2015/01/Encore-Westerns.png" group-title="US | Cinema",US| STARZ ENCORE WESTERNS
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71363
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US| STARZ IN BLACK FHD" tvg-logo="https://www.indiewire.com/wp-content/uploads/2013/11/starz_in_black.jpg" group-title="US | Cinema",US| STARZ IN BLACK FHD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/69576
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US| Starz Kids & Family HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Starz_Kids_%26_Family_2005.svg/revision/latest/scale-to-width-down/200?cb=20151217010446" group-title="US | Cinema",US| Starz Kids & Family HD
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8944 
