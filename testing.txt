@@ -6,399 +6,341 @@ https://fastly.tubi.video/ed208f0b-7382-4451-9491-a096a589e75e/hfii2p1h/stream.m
 #EXTINF:-1, tvg-logo="." group-title="",Alf S01E02
 https://fastly.tubi.video/b3af2d8b-b594-4846-b4dd-3ef9941ec586/kajt5oxy/stream.m3u8
 
-#EXTINF:-1 tvg-id="aande.us" tvg-name="US| A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1200px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="US | Entertainment",US| A&E FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1064
-#EXTINF:-1 tvg-id="aande.us" tvg-name="US| A&E Tv FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="US | Entertainment",US| A&E Tv FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/15739
-#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="US| ABC 5 Boston FHD" tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| ABC 5 Boston FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/9031
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="US| ABC NY FHD" tvg-logo="https://mediakit.go.com/wp-content/uploads/2017/03/logo_abc.png" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| ABC NY FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1059
-#EXTINF:-1 tvg-id="ABC7WXYZ.us" tvg-name="US| ABC 7 DET FHD" tvg-logo="http://www.mygirlyparty.com/wxyz_7.jpg" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| ABC 7 DET FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/38255
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US| American Heroes Channel FHD" tvg-logo="https://i.pinimg.com/originals/a8/e8/78/a8e878dbf94f8410b6f82ed2d63a0fa4.png" group-title="US | Entertainment",US| American Heroes Channel FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1044
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US| AMC FHD" tvg-logo="https://www.cabletv.com/images/ctv_responsive/channels/amc.png" group-title="US | Entertainment",US| AMC FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1045?token=ShpbVksLEQIRUFFdXQNXUwkEVAgJWVBTU1VVXVYEWVdUD1cAD1MEAAVAG0YWQ0QHUVk6UV0aDwYBUQEVRhQSU0NnWlMaWRELBVMHVUcbFBZZWQAaAwkAAQdXAAFRUVMaE0haUxpZEQsBVwdTVhUaQFVMEV1LVlRbbgFRTw0CBBQLVkZbVE8RV109UwEIVlgGEg5HCBsUF15CFRYDRiA1EGUYcFhKEx0aH0BVDRFFVxZVFl8aDQEBARNJFloLFA9CQ0ERDRo2YBofQFIcEVJYEVlbCxoDGkFEE0kWUBc+E1NCTEFSWQ5WShFYFVVHGxQPUUw6W1ZWW1JSEV1WChJDDBMJERsaDlxWWhZYFjpHXwYSDkcLAQ0HAgBHSQ==
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US| Animal Planet FHD" tvg-logo="http://www.asiasat.com/channelguide/images/animal_planet_us.png" group-title="US | Entertainment",US| Animal Planet FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1128
-#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="US| Antenna Tv HD" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/11/Antenna-TV.png" group-title="US | Entertainment",US| Antenna Tv HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/37741
-#EXTINF:-1 tvg-id="AspireTV.us" tvg-name="US| ASPIRE TV" tvg-logo="https://aspire.tv/wp-content/themes/aspire/img/aspire-fallback-logo-720x405.jpg" group-title="US | Entertainment",US| ASPIRE TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3877
-#EXTINF:-1 tvg-id="AWealthofEntertainment.us" tvg-name="US| AWE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awe_us.png" group-title="US | Entertainment",US| AWE HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71395
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="US| AXS TV" tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/08/axs-tv-logo.jpg" group-title="US | Entertainment",US| AXS TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45813
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US| BBC America HD" tvg-logo="http://www.tvweek.com/wp-content/uploads/2014/09/BBC-America-logo.jpg" group-title="US | Entertainment",US| BBC America HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1037
-#EXTINF:-1 tvg-id="bet.us" tvg-name="US| BET HD" tvg-logo="http://images3.wikia.nocookie.net/__cb20120615191442/logopedia/images/e/ea/Bet-hd-logo.png" group-title="US | Entertainment",US| BET HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89
-#EXTINF:-1 tvg-id="bet.us" tvg-name="US| BET Black Ent Tv" tvg-logo="http://sportsntvlive.com/wp-content/uploads/2016/10/BET-Channel-300x158.jpg" group-title="US | Entertainment",US| BET Black Ent Tv
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/424
-#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="US| Bet Gospel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Bet_gospel.png" group-title="US | Entertainment",US| Bet Gospel
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/87400
-#EXTINF:-1 tvg-id="bether.us" tvg-name="US| BET Her* (Centric)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/1200px-BET_Her.svg.png" group-title="US | Entertainment",US| BET Her* (Centric)
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/15917
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="US| Bounce TV" tvg-logo="http://pathmegazine.com/wp-content/uploads/2013/03/bounce.jpeg" group-title="US | Entertainment",US| Bounce TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1028
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="US| Bravo FHD" tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2016/02/logo-17.png" group-title="US | Entertainment",US| Bravo FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1026
-#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US| Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="US | Entertainment",US| Buzzr
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71361
-#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="US: CBS WEST [USREG]" tvg-logo="http://logok.org/wp-content/uploads/2014/03/CBS-logo-old.png" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US: CBS WEST [USREG]
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3873
-#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="US| CBS NY FHD" tvg-logo="https://cbsnewyork.files.wordpress.com/2016/12/newyork_cbs_tv_2_2.png?w=310&h=310&crop=1" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| CBS NY FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/84
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="US| CMT FHD" tvg-logo="http://s3.netwurk.com/cms/cmtpress/content/B3CD4805-DA44-4B8F-BB2C8E0EBBBD2054-M.jpg" group-title="US | Entertainment",US| CMT FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/920
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US| Comedy Central HD" tvg-logo="http://logok.org/wp-content/uploads/2014/03/Comedy-Central-wordmark-logo.png" group-title="US | Entertainment",US| Comedy Central HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8950
-#EXTINF:-1 tvg-id="comet.us" tvg-name="US| Comet Tv" tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="US | Entertainment",US| Comet Tv
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/55591
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US| Cooking Channel FHD" tvg-logo="http://www.scrippsnetworksinteractive.com/our-brands/PublishingImages/Home-Page-Logos-White/logo_brand_cooking4.png" group-title="US | Entertainment",US| Cooking Channel FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3894
-#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="US| COZI TV FHD" tvg-logo="https://media.cozitv.com/designimages/cozi-logo.png" group-title="US | Entertainment",US| COZI TV FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/910
-#EXTINF:-1 tvg-id="CW57WPSG.us" tvg-name="US| CW HD" tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2015/08/the-cw-logo__140313224549.png" group-title="US | Entertainment",US| CW HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/74
-#EXTINF:-1 tvg-id="" tvg-name="US| CW Tampa" tvg-logo="https://cbscw44.files.wordpress.com/2013/05/cw44.png" group-title="US | Entertainment",US| CW Tampa
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71406
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="US| Destination America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="US | Entertainment",US| Destination America HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/905
-#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="US| DIY FHD" tvg-logo="http://allvectorlogo.com/img/2016/07/diy-network-logo.png" group-title="US | Entertainment",US| DIY FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/67
-#EXTINF:-1 tvg-id="dogtv.us" tvg-name="US| Dog TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/DOGTV_Logo.png" group-title="US | Entertainment",US| Dog TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/85306
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US| E! Entertainment FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="US | Entertainment",US| E! Entertainment FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/896
-#EXTINF:-1 tvg-id="elrey.us" tvg-name="US| El Rey Network FHD" tvg-logo="https://d24zi7txpvjltt.cloudfront.net/assets/db278216-807b-11e4-bda5-0aa5fff1abf1.jpg?v=3" group-title="US | Entertainment",US| El Rey Network FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/894
-#EXTINF:-1 tvg-id="escape.us" tvg-name="US| Escape" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Escape_TV_logo.png/265px-Escape_TV_logo.png" group-title="US | Entertainment",US| Escape
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3888
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US| Food Network FHD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/c9/Food_Network_HD.png/revision/latest?cb=20110408023419" group-title="US | Entertainment",US| Food Network FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/58
-#EXTINF:-1 tvg-id="FOX PORTLAND" tvg-name="US| FOX 12 FHD" tvg-logo="https://pbs.twimg.com/profile_images/569948019890475008/4wCAZWMq.png" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| FOX 12 FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3971
-#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="US| FOX 5 NY FHD" tvg-logo="http://www.redtechbox.com/wp-content/uploads/2014/09/Fox_hd.png" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| FOX 5 NY FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3886
-#EXTINF:-1 tvg-id="foxwxix.us" tvg-name="US| FOX 19 FHD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/da/FOX19_NOW-BLACK.png/revision/latest/scale-to-width-down/496?cb=20160427182602" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| FOX 19 FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/9062
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="US| FreeForm FHD" tvg-logo="https://www.cspire.com/resources/images/fiberhome/super_hdtv/tv_guide_logos/logo-freeform.jpg" group-title="US | Entertainment",US| FreeForm FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/52
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US| Fuse FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="US | Entertainment",US| Fuse FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8863
-#EXTINF:-1 tvg-id="fusion.us" tvg-name="US| Fusion FHD" tvg-logo="http://fusion.net/wp-content/themes/fusion-theme/assets/images/fusion_logo.png" group-title="US | Entertainment",US| Fusion FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8955
-#EXTINF:-1 tvg-id="fx.us" tvg-name="US| FX FHD" tvg-logo="http://livetvi.com/wp-content/uploads/2016/04/FX-tv-Live-Streaming.jpg" group-title="US | Entertainment",US| FX FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/51
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="US| FXX FHD" tvg-logo="http://cdn.skim.gs/images/ekzwvdmjcdosay9ysjfg/tv-shows-renewed-fxx" group-title="US | Entertainment",US| FXX FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/833
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="US| FYI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="US | Entertainment",US| FYI FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/7537
-#EXTINF:-1 tvg-id="grit.us" tvg-name="US| Grit" tvg-logo="http://sbgi.net/wp-content/themes/sbgi-sparkling/station-logos-tiles/grit.jpg" group-title="US | Entertainment",US| Grit
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71364
-#EXTINF:-1 tvg-id="GreatAmericanCountry.us" tvg-name="US| GREAT AMERICAN COUNTRY (GAC)" tvg-logo="http://ww1.prweb.com/prfiles/2007/02/07/503430/GACGoldShadow.jpg" group-title="US | Entertainment",US| GREAT AMERICAN COUNTRY (GAC)
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71403
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US| GSN FHD" tvg-logo="https://www.underconsideration.com/brandnew/archives/gsn_2015_logo_detail.png" group-title="US | Entertainment",US| GSN FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/819
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US| Hallmark FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1200px-Hallmark_Channel.svg.png" group-title="US | Entertainment",US| Hallmark FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/817
-#EXTINF:-1 tvg-id="HeroesAndIconsTV.us" tvg-name="US| Heroes & Icons" tvg-logo="https://www.handitv.com/images/show_default.png" group-title="US | Entertainment",US| Heroes & Icons
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71459
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US| HGTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="US | Entertainment",US| HGTV FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/813
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US| IFC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IFC_%28Canada%29_logo.svg/1200px-IFC_%28Canada%29_logo.svg.png" group-title="US | Entertainment",US| IFC FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/803
-#EXTINF:-1 tvg-id="insp.us" tvg-name="US| INSP" tvg-logo="http://gaither.com/sites/gaither.com/files/insp.logo2011.jpg" group-title="US | Entertainment",US| INSP
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/36436
-#EXTINF:-1 tvg-id="ion.us" tvg-name="US| ION Tv FHD" tvg-logo="https://tvbtn.files.wordpress.com/2013/03/ion-television-logo-new.jpg" group-title="US | Entertainment",US| ION Tv FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/801
-#EXTINF:-1 tvg-id="KCAL.us" tvg-name="US| KCAL 9" tvg-logo="http://presstelegram.readerschoice.la/wp-content/uploads/2014/05/kcal9.jpg" group-title="US | Entertainment",US| KCAL 9
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/58720
-#EXTINF:-1 tvg-id="KTLA.us" tvg-name="US| KTLA 5" tvg-logo="http://a4.mzstatic.com/us/r30/Purple2/v4/39/f2/3d/39f23de7-afd0-c598-8626-460b0e8f84b1/mzl.lzzatylq.png" group-title="US | Entertainment",US| KTLA 5
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/85391
-#EXTINF:-1 tvg-id="lafftv.us" tvg-name="US| Laff Tv" tvg-logo="http://cdn.abclocal.go.com/content/kgo/images/cms/051115-laff-logo-img.jpg" group-title="US | Entertainment",US| Laff Tv
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/42957
-#EXTINF:-1 tvg-id="" tvg-name="US| Law and Crime Network" tvg-logo="https://cdnuploads.muvi.com/2018/04/04-01.jpg" group-title="US | Entertainment",US| Law and Crime Network
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/85299
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US| Lifetime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="US | Entertainment",US| Lifetime FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3895
-#EXTINF:-1 tvg-id="logo.us" tvg-name="US| Logo" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/1800x1500.jpg" group-title="US | Entertainment",US| Logo
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/85302
-#EXTINF:-1 tvg-id="MeTVWJLP.us" tvg-name="US| ME TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MeTV_logo_2014.png" group-title="US | Entertainment",US| ME TV HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8930
-#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="US| Motor Trend Network" tvg-logo="https://cdn.subscriptioninsider.com/media/newspics/340/Motor-Trend-Logo.png" group-title="US | Entertainment",US| Motor Trend Network
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3904
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="US| MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1024px-MTV_Live.svg.png" group-title="US | Entertainment",US| MTV HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3906
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US| MTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Mtv2_logo.svg/250px-Mtv2_logo.svg.png" group-title="US | Entertainment",US| MTV 2
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71458
-#EXTINF:-1 tvg-id="nbckcra.us" tvg-name="US| NBC 3 Sacramento" tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2017/10/KCRA-3-NBC.jpg" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| NBC 3 Sacramento
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/28
-#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="US| NBC 4 NY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US | Local Channels (ABC, CBS, FOX, NBC, MYTV)",US| NBC 4 NY FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3963
-#EXTINF:-1 tvg-id="ovation.us" tvg-name="US| Ovation TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ovation_2013.svg/1200px-Ovation_2013.svg.png" group-title="US | Entertainment",US| Ovation TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3965
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="US| OWN FHD" tvg-logo="https://www.tvweek.com/wp-content/uploads/2015/03/own-oprah-winfrey-network-logo.png" group-title="US | Entertainment",US| OWN FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/694
-#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US| Oxygen FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Oxygen_logo_2008.svg/revision/latest/scale-to-width-down/200?cb=20091120173612" group-title="US | Entertainment",US| Oxygen FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/693
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US| Paramount Network FHD" tvg-logo="https://orig00.deviantart.net/6253/f/2017/274/0/1/paramount_network_logo_by_westralinc-dbp6ta4.png" group-title="US | Entertainment",US| Paramount Network FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8951
-#EXTINF:-1 tvg-id="pbswliw21.us" tvg-name="US| PBS FHD" tvg-logo="https://4.bp.blogspot.com/-IANRIgZLAlM/WbpuX5Z6CXI/AAAAAAAASS0/lLmrJGZ__fIs6tx-68RpWBHYQB4pIJt6wCLcBGAs/s1600/z-PBSA.png" group-title="US | Entertainment",US| PBS FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45799
-#EXTINF:-1 tvg-id="CBSPop.us" tvg-name="US| POP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="US | Entertainment",US| POP FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8850
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="US| QVC" tvg-logo="https://creditcardpayment.net/wp-content/uploads/2012/10/qvc.jpg" group-title="US | Entertainment",US| QVC
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/73273
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="US| Reelz HD" tvg-logo="http://www.txcable.com/wp-content/uploads/2017/09/Reelz_logo_logotype-1024x219.png" group-title="US | Entertainment",US| Reelz HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/865
-#EXTINF:-1 tvg-id="Revolt.us" tvg-name="US| Revolt FHD" tvg-logo="http://clizbeats.com/wp-content/uploads/revoltlogonewsite.jpg" group-title="US | Entertainment",US| Revolt FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8849
-#EXTINF:-1 tvg-id="RFDTV.us" tvg-name="US| RFD TV" tvg-logo="http://www.rbr.com/wp-content/uploads/RFD-TV.jpg" group-title="US | Entertainment",US| RFD TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89106
-#EXTINF:-1 tvg-id="StartTV.us" tvg-name="US| Start Tv" tvg-logo="https://media.tvnewscheck.com/wp/content/uploads/2018/07/Start-TV-Logo-e1531940010421.png" group-title="US | Entertainment",US| Start Tv
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/820
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="US| Sundance HD" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/sundancetv-logo.jpg?w=670&h=377&crop=1" group-title="US | Entertainment",US| Sundance HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/13
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US| SyFy HD" tvg-logo="http://www.everythingaction.com/wp-content/uploads/2014/05/Watch-SYFY-Channel-USA-Live-250x140.jpg" group-title="US | Entertainment",US| SyFy HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/12
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="US| TBS FHD" tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png" group-title="US | Entertainment",US| TBS FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/625
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="US| TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="US | Entertainment",US| TLC FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45389
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="US| TNT HD" tvg-logo="https://i.ytimg.com/vi/b9EyURZxiHA/maxresdefault.jpg" group-title="US | Entertainment",US| TNT HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/9
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US| Travel Channel FHD" tvg-logo="http://thebrandusa.info/enews/wp-content/uploads/sites/12/2015/08/travel_channel_logo.jpg" group-title="US | Entertainment",US| Travel Channel FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3910
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="US| Tru Tv FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="US | Entertainment",US| Tru Tv FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3876
-#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="US| Tv Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="US | Entertainment",US| Tv Land HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/6
-#EXTINF:-1 tvg-id="TVOne.us" tvg-name="US| TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/TV_One_%28US%29_logo.svg/1280px-TV_One_%28US%29_logo.svg.png" group-title="US | Entertainment",US| TV ONE
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/590
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US| USA Network FHD" tvg-logo="http://www.cableone.net/img/channel-logos/usa-network.png" group-title="US | Entertainment",US| USA Network FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3974
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="US| VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="US | Entertainment",US| VH1 HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/460
-#EXTINF:-1 tvg-id="Viceland.us" tvg-name="US| Viceland FHD" tvg-logo="https://yt3.ggpht.com/-eHn3-vaOb3Y/AAAAAAAAAAI/AAAAAAAAAAA/2y3py4kCs5A/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US | Entertainment",US| Viceland FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/459
-#EXTINF:-1 tvg-id="WomensEntertainment.us" tvg-name="US| WE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/WE_tv.svg/400px-WE_tv.svg.png" group-title="US | Entertainment",US| WE TV HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/2
-#EXTINF:-1 tvg-id="WPIX.us" tvg-name="US| WPIX 11" tvg-logo="http://www.northpine.com/broadcast/captures/ny/wpix11082008_logo.jpg" group-title="US | Entertainment",US| WPIX 11
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/64710
-#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="US| CRIME & INVESTIGATION FHD" tvg-logo="http://deow9bq0xqvbj.cloudfront.net/image-logo/1077763/Resized-PTKH5.jpg" group-title="US | Documentary",US| CRIME & INVESTIGATION FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/60
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US| Discovery Channel FHD" tvg-logo="https://i.pinimg.com/originals/c0/6a/db/c06adb9a0d23713c84462dd9ba7d8b68.jpg" group-title="US | Documentary",US| Discovery Channel FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/904
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="US| Discovery Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Discovery_Life_Logo_2016.jpg" group-title="US | Documentary",US| Discovery Life HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71659
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US| Discovery Science HD" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DSC/DSC_425x243.png" group-title="US | Documentary",US| Discovery Science HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8946
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US| History Channel FHD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2010/12/history_logo.jpg" group-title="US | Documentary",US| History Channel FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/38
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US| INVESTIGATION DISCOVERY FHD" tvg-logo="http://www.rtmc.net/images/app_desktop/InvestigationDiscovery.png" group-title="US | Documentary",US| INVESTIGATION DISCOVERY FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/903
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US| NAT GEO FHD" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NATIONAL-GEOGRAPHIC-CHANNEL-HD.jpg" group-title="US | Documentary",US| NAT GEO FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45397
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="US | Documentary",US| Nat Geo Wild FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/30
-#EXTINF:-1 tvg-id="actionmax.us" tvg-name="US| Cinemax Actionmax HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/acmax.png" group-title="US | Cinema",US| Cinemax Actionmax HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3926
-#EXTINF:-1 tvg-id="Cinemax HDTV (West) (MAXHDW) US" tvg-name="US| CINEMAX HD [PACIFIC]" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/11/Cinemax_2011_Logo.png" group-title="US | Cinema",US| CINEMAX HD [PACIFIC]
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/928
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US| Cinemax HD" tvg-logo="http://livetvi.com/wp-content/uploads/2016/04/Cinemax-TV-live.png" group-title="US | Cinema",US| Cinemax HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/82?token=ShpbVksLEQIRUFFdXQNXUwkEVAgJWVBTU1VVXVYEWVdUD1cAD1MEAAVAG0YWQ0QHUVk6UV0aDwYBUQEVRhQSU0NnWlMaWRELBVMHVUcbFBZZWQAaAwkAAQdXAAFRUVMaE0haUxpZEQsBVwdTVhUaQFVMEV1LVlRbbgFRTw0CBBQLVkZbVE8RV109UwEIVlgGEg5HCBsUF15CFRYDRiA1EGUYcFhKEx0aH0BVDRFFVxZVFl8aDQEBARNJFloLFA9CQ0ERDRo2YBofQFIcEVJYEVlbCxoDGkFEE0kWUBc+E1NCTEFSWQ5WShFYFVVHGxQPUUw6W1ZWW1JSEV1WChJDDBMJERsaDlxWWhZYFjpHXwYSDkcLAQ0HAgBHSQ==
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US| Cinemax Moremax HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moremax.png" group-title="US | Cinema",US| Cinemax Moremax HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/81
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="US| Cinemax Outermax" tvg-logo="http://static.ontvtonight.com/static/2/Open/Comcast%20Logos/Comcast%20Source%20Logos/OuterMaxHD_2400_color_dark_light.png" group-title="US | Cinema",US| Cinemax Outermax
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8956
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US| Cinemax Thrillermax HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" group-title="US | Cinema",US| Cinemax Thrillermax HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8947
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US| 5 Star Max" tvg-logo="https://csa.dishnetwork.com/images/logos/5-max.png" group-title="US | Cinema",US| 5 Star Max
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/627
-#EXTINF:-1 tvg-id="epix.us" tvg-name="US| EPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/1200px-Epix_Logo_2015.svg.png" group-title="US | Cinema",US| EPIX FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/64
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="US| EPIX 2 HD" tvg-logo="https://planetdish.com/wp-content/uploads/2015/12/DISH-Network-Sling-TV-EPIX-2-Logo.png" group-title="US | Cinema",US| EPIX 2 HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/889
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="US| Epix Hits FHD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/ff/Epix-hits-logo.jpg/revision/latest?cb=20150930093838" group-title="US | Cinema",US| Epix Hits FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8105
-#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="US| FXM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" group-title="US | Cinema",US| FXM FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8860
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US| Hallmark Movies & Mysteries FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="US | Cinema",US| Hallmark Movies & Mysteries FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/46
-#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="US| Hallmark Drama FHD" tvg-logo="http://www.cfu.net/webres/Image/newsletter/Hallmark%20drama%202.jpg" group-title="US | Cinema",US| Hallmark Drama FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/15516
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US| HBO FHD" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/HBO-Channel-logo.png" group-title="US | Cinema",US| HBO FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/816
-#EXTINF:-1 tvg-id="" tvg-name="US| HBO FHD [WEST]" tvg-logo="http://livetvi.com/wp-content/uploads/2016/03/HBO-Live.png" group-title="US | Cinema",US| HBO FHD [WEST]
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US| HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="US | Cinema",US| HBO 2 HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3930
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US| HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png" group-title="US | Cinema",US| HBO Comedy HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/43
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US| HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png" group-title="US | Cinema",US| HBO Family HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3929
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US| HBO Signature HD" tvg-logo="http://www.ilovesatellitetv.com/images/hbo-signature-logo.jpg" group-title="US | Cinema",US| HBO Signature HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/41
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US| HBO Zone HD" tvg-logo="https://i1.wp.com/www.freeurtv.com/wp-content/uploads/2016/08/HBO_Zone_logo-1.png?resize=555%2C310" group-title="US | Cinema",US| HBO Zone HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/40
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US| Lifetime Movies FHD" tvg-logo="https://pbs.twimg.com/profile_images/884890131513126913/ZmrZn7Y4.jpg" group-title="US | Cinema",US| Lifetime Movies FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/11815
-#EXTINF:-1 tvg-id="sony.us" tvg-name="US| Sony Movie Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png" group-title="US | Cinema",US| Sony Movie Channel FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/72733
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="US| SHOWTIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="US | Cinema",US| SHOWTIME FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/650
-#EXTINF:-1 tvg-id="Showtime (West) (SHO) US" tvg-name="US| Showtime FHD [WEST]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="US | Cinema",US| Showtime FHD [WEST]
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/20
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US| Showtime 2 HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/shoto.png" group-title="US | Cinema",US| Showtime 2 HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3941
-#EXTINF:-1 tvg-id="showtimebeyond.us" tvg-name="US| Showtime Beyond" tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOB.PNG" group-title="US | Cinema",US| Showtime Beyond
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71454
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US| Showtime Extreme HD" tvg-logo="http://dishcostsless.com/wp-content/uploads/2015/12/DISH-Network-Showtime-Extreme-Logo.png" group-title="US | Cinema",US| Showtime Extreme HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/36435
-#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="US| Showtime Family Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1024px-Showtime_Family_Zone.svg.png" group-title="US | Cinema",US| Showtime Family Zone
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3901
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US| Showtime Next" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3f/Showtime_next.png/revision/latest?cb=20121117045306" group-title="US | Cinema",US| Showtime Next
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/64708
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US| Showtime Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/270px-Showtime.svg.png" group-title="US | Cinema",US| Showtime Showcase
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/36434
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US| Showtime Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png" group-title="US | Cinema",US| Showtime Women
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/18
-#EXTINF:-1 tvg-id="starz.us" tvg-name="US| Starz HD" tvg-logo="http://logok.org/wp-content/uploads/2014/12/Starz-logo-2016-1024x768.png" group-title="US | Cinema",US| Starz HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/146
-#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="US| Starz West" tvg-logo="https://www.wyattresearch.com/wp-content/uploads/2015/06/Starz_Logo-650x204.png" group-title="US | Cinema",US| Starz West
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/85308
-#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US| Starz Comedy" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzcomedy_2016_vert_wh_rgb.jpg" group-title="US | Cinema",US| Starz Comedy
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3900
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US| STARZ EDGE HD" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzedge_2016_vert_wh_rgb.jpg" group-title="US | Cinema",US| STARZ EDGE HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89616
-#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US| Starz Encore HD" tvg-logo="http://www.bevcomm.net/zimages/TV_Starz_Encore_Thumb.jpg" group-title="US | Cinema",US| Starz Encore HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/890
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US| STARZ ENCORE SUSPENSE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/953px-Starz_Encore_Suspense.svg.png" group-title="US | Cinema",US| STARZ ENCORE SUSPENSE HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89617
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US| STARZ ENCORE WESTERNS" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2015/01/Encore-Westerns.png" group-title="US | Cinema",US| STARZ ENCORE WESTERNS
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71363
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US| STARZ IN BLACK FHD" tvg-logo="https://www.indiewire.com/wp-content/uploads/2013/11/starz_in_black.jpg" group-title="US | Cinema",US| STARZ IN BLACK FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/69576
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US| Starz Kids & Family HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Starz_Kids_%26_Family_2005.svg/revision/latest/scale-to-width-down/200?cb=20151217010446" group-title="US | Cinema",US| Starz Kids & Family HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8944
-#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US| TCM HD" tvg-logo="http://www.printmag.com/wp-content/uploads/tcm_logo1.gif" group-title="US | Cinema",US| TCM HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/45695
-#EXTINF:-1 tvg-id="tmc.us" tvg-name="US| The Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/1280px-The_Movie_Channel.svg.png" group-title="US | Cinema",US| The Movie Channel HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89615
-#EXTINF:-1 tvg-id="tmcxtra.us" tvg-name="US| THE MOVIE CHANNEL XTRA HD" tvg-logo="http://www.satellitesolutions.com/dishnetwork/images/channels/tmcxtra.png" group-title="US | Cinema",US| THE MOVIE CHANNEL XTRA HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89614
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="US| BABY FIRST TV" tvg-logo="http://brentreser.com/wp-content/uploads/2018/01/BabyFirst-TV-2.png" group-title="US | Kids",US| BABY FIRST TV
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89618
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US| Boomerang HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/Boomerang_from_Cartoon_Network.svg/revision/latest/scale-to-width-down/640?cb=20160522194040" group-title="US | Kids",US| Boomerang HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/87
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US| Cartoon Network HD" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-1992.png" group-title="US | Kids",US| Cartoon Network HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3935
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="US| Discovery Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Discovery_Family_Channel_logo.png" group-title="US | Kids",US| Discovery Family HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/73
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US| Disney Channel HD" tvg-logo="http://i.huffpost.com/gen/2844042/images/o-DISNEY-CHANNEL-facebook.jpg" group-title="US | Kids",US| Disney Channel HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/70
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US| Disney Jr. HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/32/Disney_Junior_The_Channel_logo.png/revision/latest?cb=20120326012341" group-title="US | Kids",US| Disney Jr. HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/69
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US| Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2000px-Logo_Disney_XD.svg.png" group-title="US | Kids",US| Disney XD HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/68
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US| Nick HD" tvg-logo="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/offlinehbpl.hbpl.co.uk/news/OMC/AE5EB225-C604-1BCC-FCFB798D3649101F.jpg" group-title="US | Kids",US| Nick HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/7490
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US| Nick Jr. HD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="US | Kids",US| Nick Jr. HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/24
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US| Nick toons HD" tvg-logo="https://vignette4.wikia.nocookie.net/ultradragonball/images/6/6d/Nicktoons2010UK.png/revision/latest?cb=20120102163016" group-title="US | Kids",US| Nick toons HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/23
-#EXTINF:-1 tvg-id="pbskids.us" tvg-name="US| PBS kids" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/08/PBS-kids-tv-shows.png" group-title="US | Kids",US| PBS kids
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/42919
-#EXTINF:-1 tvg-id="teennick.us" tvg-name="US| Teen Nick" tvg-logo="https://4.bp.blogspot.com/-RjeYV0WFfps/WQeNEEElJlI/AAAAAAAAu7Y/ik1uyZ_g6doDXzVQUDV5u-MYOjoWN8U-ACLcB/s1600/NickSplat-Logo-Nick-Splat-Nickelodeon.png" group-title="US | Kids",US| Teen Nick
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/25
-#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="US| Universal Kids Sprout HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/1200px-Universal_Kids.svg.png" group-title="US | Kids",US| Universal Kids Sprout HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/15
-#EXTINF:-1 tvg-id="" tvg-name="US| ABC News" tvg-logo="https://image.roku.com/blog/wp-content/uploads/2015/03/ABC-News-logo.jpg" group-title="US/CA | News",US| ABC News
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/37746
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US| Bloomberg" tvg-logo="https://dianeswonk.com/wp-content/uploads/2016/04/BLOOMBERG-tv-LOGO-1.png" group-title="US/CA | News",US| Bloomberg
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3966
-#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA| CBC NEWS HD" tvg-logo="https://www.cbc.ca/mediacentre/content/images/620x296-CBC_News_Network.jpg" group-title="US/CA | News",CA| CBC NEWS HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8936
-#EXTINF:-1 tvg-id="" tvg-name="US| CBN News" tvg-logo="http://tv14.net/wp-content/uploads/2010/01/CBN-News.jpg" group-title="US/CA | News",US| CBN News
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71460
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS News" tvg-logo="https://hypnosisbritain.files.wordpress.com/2015/08/cbs_news-svg.png" group-title="US/CA | News",US| CBS News
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/931
-#EXTINF:-1 tvg-id="" tvg-name="US| Cheddar News" tvg-logo="https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="US/CA | News",US| Cheddar News
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1018
-#EXTINF:-1 tvg-id="" tvg-name="US| Cheddar Business" tvg-logo="https://cdn-images-1.medium.com/max/1200/1*8DxooK17-w7-LthKX1PQ9w.jpeg" group-title="US/CA | News",US| Cheddar Business
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1017
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US| CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="US/CA | News",US| CNBC HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/919
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="US| CNN HD" tvg-logo="http://www.zahipedia.net/wp-content/uploads/2009/07/zahipedia_cnn-450x450.jpg" group-title="US/CA | News",US| CNN HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/918
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="US| CNN HD" tvg-logo="https://the1995blog.files.wordpress.com/2015/01/cnn-logo.png" group-title="US/CA | News",US| CNN HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/78
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA| CP 24 HD" tvg-logo="https://pbs.twimg.com/profile_images/459428906571804672/jx_823KA.png" group-title="US/CA | News",CA| CP 24 HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/8934
-#EXTINF:-1 tvg-id="cspan.us" tvg-name="US| C-Span 1 FHD" tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/10161/s10161_h3_aa.png" group-title="US/CA | News",US| C-Span 1 FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1019
-#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA| CTV News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CTV_News.svg/1200px-CTV_News.svg.png" group-title="US/CA | News",CA| CTV News HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/996
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US| Fox Business FHD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/39/Fox_Business_HD.png/revision/latest?cb=20110408025208" group-title="US/CA | News",US| Fox Business FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/842
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US| FOX News FHD" tvg-logo="https://pmcvariety.files.wordpress.com/2013/12/fox-news-logo.jpg?w=1000" group-title="US/CA | News",US| FOX News FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/841
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US| Fox News HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png/revision/latest?cb=20121107232621" group-title="US/CA | News",US| Fox News HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/520
-#EXTINF:-1 tvg-id="hln.us" tvg-name="US| HLN FHD" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/01/hln-tv-network-logo.png" group-title="US/CA | News",US| HLN FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/807
-#EXTINF:-1 tvg-id="msnbc.ca" tvg-name="CA| MSNBC HD" tvg-logo="http://static.tumblr.com/dfb789c4a40473c9d520c43bf5e3787a/47f9iix/VUymgzq36/tumblr_static_msnbc-tumblr.jpg" group-title="US/CA | News",CA| MSNBC HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/963
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US| MSNBC FHD" tvg-logo="http://static.tumblr.com/dfb789c4a40473c9d520c43bf5e3787a/47f9iix/VUymgzq36/tumblr_static_msnbc-tumblr.jpg" group-title="US/CA | News",US| MSNBC FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/33
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 Brooklyn" tvg-logo="http://images.wikia.com/logopedia/images/9/96/News_12_brooklyn_logo.png" group-title="US/CA | News",US| News 12 Brooklyn
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/711
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 Bronx" tvg-logo="http://www.nbanimalrescue.org/prgo/wp-content/uploads/2015/05/news12.jpg" group-title="US/CA | News",US| News 12 Bronx
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/712
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 CONNECTICUT" tvg-logo="http://blindfilmcritic.com/wp-content/uploads/2011/05/News_12_CT_BFC_Featured_02.jpg" group-title="US/CA | News",US| News 12 CONNECTICUT
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71393
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 Hudson Valley" tvg-logo="http://images4.wikia.nocookie.net/__cb20120623191360/logopedia/images/2/23/News_12_Hudson_Valley_Logo_From_The_Late_2000%27s.jpg" group-title="US/CA | News",US| News 12 Hudson Valley
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/709
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 Long Island" tvg-logo="http://usspost.com/wp-content/uploads/2011/01/News-12-Long-Island.jpg" group-title="US/CA | News",US| News 12 Long Island
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/708
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 NJ" tvg-logo="https://hiya.com/blog/wp-content/uploads/2017/08/News12NJ.png" group-title="US/CA | News",US| News 12 NJ
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/707
-#EXTINF:-1 tvg-id="" tvg-name="US| News 12 Westchester" tvg-logo="http://www.mklm.org/wp-content/uploads/2017/11/news12-_westchester-logo.jpg" group-title="US/CA | News",US| News 12 Westchester
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71394
-#EXTINF:-1 tvg-id="NewEnglandCableNews.us" tvg-name="US| NECN News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NECN_Logo_2015.png" group-title="US/CA | News",US| NECN News FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/9381
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US| One America News OAN" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2015/04/OANlogo.jpg" group-title="US/CA | News",US| One America News OAN
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89619
-#EXTINF:-1 tvg-id="" tvg-name="US| WGN NEWS Chicago FHD" tvg-logo="http://gabiury.com/masiswillchangedawirld/wp-content/uploads/2014/11/WGN9News.jpg" group-title="US/CA | News",US| WGN NEWS Chicago FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/453
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA| The Weather Network Toronto  ca" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/The-Weather-Network.png" group-title="US/CA | News",CA| The Weather Network Toronto  ca
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/943
-#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="US| The Weather Channel" tvg-logo="http://a3.mzstatic.com/us/r30/Purple/v4/41/0a/77/410a7745-75e8-8209-8de7-196626a0578b/mzl.zczuvrts.png" group-title="US/CA | News",US| The Weather Channel
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/73227
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="US| UFC FIGHT PASS 24/7" tvg-logo="http://mmanewssource.com/wp-content/uploads/2015/09/UFC-Fight-Pass.png" group-title="Pay Per View",US| UFC FIGHT PASS 24/7
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/69574
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="US| UFC Live HD" tvg-logo="http://cdn.mmanews.com/wp-content/uploads/2014/11/ufc-fight-pass-logo-1.jpg" group-title="Pay Per View",US| UFC Live HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/16006
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV FHD*" tvg-logo="https://i2.wp.com/sportsmedianews.com/wordpress/wp-content/uploads/2014/01/NBA-TV-Logo.jpg" group-title="US | NBA League Pass",NBA TV FHD*
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/719
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="NBA Tv HD (ca)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/NBA_TV_Canada.svg/250px-NBA_TV_Canada.svg.png" group-title="US | NBA League Pass",NBA Tv HD (ca)
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/4028
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US| NFL Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="US | NFL Games",US| NFL Network HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/704
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US| NFL Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="US | NFL Games",US| NFL Network FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3985
-#EXTINF:-1 tvg-id="NFL.us" tvg-name="SP| NFL Direct  NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="US | NFL Games",SP| NFL Direct  NETWORK
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/71509
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US| MLB NETWORK FHD" tvg-logo="https://exstreamist.com/wp-content/uploads/2017/02/Watch-MLB-Network-Online.jpg" group-title="US | MLB Extra Innings",US| MLB NETWORK FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/728
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US| NHL Network HD" tvg-logo="https://hd-report.com/wp-content/uploads/2016/10/NHL_Network_logo-600x334.jpg" group-title="US | NHL Center Ice",US| NHL Network HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/26
-#EXTINF:-1 tvg-id="NHL.us" tvg-name="US| NHL NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/NHL_Network_2011.svg/800px-NHL_Network_2011.svg.png" group-title="US | NHL Center Ice",US| NHL NETWORK FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/702
-#EXTINF:-1 tvg-id="BETjams.us" tvg-name="US| BET JAMS" tvg-logo="https://sc.dish.com/shared/images/station-logos/BETJM.png" group-title="US | Music",US| BET JAMS
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89908
-#EXTINF:-1 tvg-id="" tvg-name="US| BET SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" group-title="US | Music",US| BET SOUL
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89907
+#EXTINF:-1,A&E | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101290.m3u8
+#EXTINF:-1,AMC | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101289.m3u8
+#EXTINF:-1,AMERICAN HERO | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101288.m3u8
+#EXTINF:-1,ANIMAL PLANET (East) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101287.m3u8
+#EXTINF:-1,ANIMAL PLANET | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101286.m3u8
+#EXTINF:-1,AXS TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101285.m3u8
+#EXTINF:-1,BABY TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101284.m3u8
+#EXTINF:-1,BBC AMERICA | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101283.m3u8
+#EXTINF:-1,BEIN SPORT | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101282.m3u8
+#EXTINF:-1,BEIN SPORTS ? | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101280.m3u8
+#EXTINF:-1,BEIN SPORTS (espa?ol) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101281.m3u8
+#EXTINF:-1,BET (East) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101279.m3u8
+#EXTINF:-1,BET (West) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101278.m3u8
+#EXTINF:-1,BET HER | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101277.m3u8
+#EXTINF:-1,BET INTERNATIONAL | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101276.m3u8
+#EXTINF:-1,BET JAMZ | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101275.m3u8
+#EXTINF:-1,BIG TEN NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101274.m3u8
+#EXTINF:-1,Bloomberg TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101273.m3u8
+#EXTINF:-1,BOOMERANG | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101272.m3u8
+#EXTINF:-1,BOUNCE TV | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101271.m3u8
+#EXTINF:-1,BRAVO (West) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101270.m3u8
+#EXTINF:-1,BRAVO | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101269.m3u8
+#EXTINF:-1,BUZZER TV | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101268.m3u8
+#EXTINF:-1,BYU TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101267.m3u8
+#EXTINF:-1,CARTOON NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101266.m3u8
+#EXTINF:-1,CINEMAX (West) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101265.m3u8
+#EXTINF:-1,CINEMAX ACTION | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101264.m3u8
+#EXTINF:-1,CINEMAX ACTION | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101263.m3u8
+#EXTINF:-1,CINEMAX EAST | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101262.m3u8
+#EXTINF:-1,CINEMAX MOREMAX | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101261.m3u8
+#EXTINF:-1,CINEMAX OUTERMAX | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101260.m3u8
+#EXTINF:-1,CINEMAX THRILLER | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101259.m3u8
+#EXTINF:-1,CMT | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101258.m3u8
+#EXTINF:-1,CNBC | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101257.m3u8
+#EXTINF:-1,CNBC WORLD | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101256.m3u8
+#EXTINF:-1,CNN | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101255.m3u8
+#EXTINF:-1,CNN | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101254.m3u8
+#EXTINF:-1,COMEDY CENTRAL | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101253.m3u8
+#EXTINF:-1,COOKING CHANNEL | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101252.m3u8
+#EXTINF:-1,COUNTRY MUSIC | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101251.m3u8
+#EXTINF:-1,CW (Central PA) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101250.m3u8
+#EXTINF:-1,CW | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101249.m3u8
+#EXTINF:-1,DESTINATION AMERICA | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101330.m3u8
+#EXTINF:-1,DESTINATION AMERICA | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101329.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101328.m3u8
+#EXTINF:-1,DISCOVERY FAMILY | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101327.m3u8
+#EXTINF:-1,DISCOVERY LIFE | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101326.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101325.m3u8
+#EXTINF:-1,DISCOVERY VELOCITY | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101324.m3u8
+#EXTINF:-1,DISNEY CHANNEL | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101323.m3u8
+#EXTINF:-1,DISNEY JR (West) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101322.m3u8
+#EXTINF:-1,DISNEY JR. | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101321.m3u8
+#EXTINF:-1,DISNEY XD (West) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101320.m3u8
+#EXTINF:-1,DISNEY XD | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101319.m3u8
+#EXTINF:-1,DISNEY XD | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101318.m3u8
+#EXTINF:-1,DIY NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101317.m3u8
+#EXTINF:-1,E! (East) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101316.m3u8
+#EXTINF:-1,E! (West) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101315.m3u8
+#EXTINF:-1,E! | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101314.m3u8
+#EXTINF:-1,EL REY NETWORK | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101313.m3u8
+#EXTINF:-1,EPIX | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101312.m3u8
+#EXTINF:-1,EPIX DRIVE IN | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101311.m3u8
+#EXTINF:-1,EPIX HITS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101310.m3u8
+#EXTINF:-1,ESPN | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101309.m3u8
+#EXTINF:-1,ESPN 2 | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101308.m3u8
+#EXTINF:-1,ESPN 3 | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101307.m3u8
+#EXTINF:-1,ESPN CLASSIC | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101306.m3u8
+#EXTINF:-1,ESPN News | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101305.m3u8
+#EXTINF:-1,ESPN U | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101304.m3u8
+#EXTINF:-1,FANTASY NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101303.m3u8
+#EXTINF:-1,FIGHT BOX | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101302.m3u8
+#EXTINF:-1,FIGHT NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101301.m3u8
+#EXTINF:-1,FOOD NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101300.m3u8
+#EXTINF:-1,FOX SOCCER PLUS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101299.m3u8
+#EXTINF:-1,FOX SPORTS 1 | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101298.m3u8
+#EXTINF:-1,FOX SPORTS 1 | HD*
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101297.m3u8
+#EXTINF:-1,FOX SPORTS 2 | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101296.m3u8
+#EXTINF:-1,FOX SPORTS 2 | HD*
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101295.m3u8
+#EXTINF:-1,FUSE | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101294.m3u8
+#EXTINF:-1,FUSION | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101293.m3u8
+#EXTINF:-1,FX | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101368.m3u8
+#EXTINF:-1,FXM | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101367.m3u8
+#EXTINF:-1,FXM RETRO | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101366.m3u8
+#EXTINF:-1,FXX | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101365.m3u8
+#EXTINF:-1,FXX WEST | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101364.m3u8
+#EXTINF:-1,FYI | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101363.m3u8
+#EXTINF:-1,GOL TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101362.m3u8
+#EXTINF:-1,GRIT TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101361.m3u8
+#EXTINF:-1,GSN | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101360.m3u8
+#EXTINF:-1,HALLMARK CHANNEL | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101359.m3u8
+#EXTINF:-1,HALLMARK DRAMA | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101358.m3u8
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101357.m3u8
+#EXTINF:-1,HBO ( West ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101356.m3u8
+#EXTINF:-1,HBO | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101355.m3u8
+#EXTINF:-1,HBO 2 | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101354.m3u8
+#EXTINF:-1,HBO COMEDY | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101353.m3u8
+#EXTINF:-1,HBO FAMILY | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101352.m3u8
+#EXTINF:-1,HBO SIGNATURE (West) | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101351.m3u8
+#EXTINF:-1,HBO ZONE | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101350.m3u8
+#EXTINF:-1,HBO ZONE | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101349.m3u8
+#EXTINF:-1,HDNET MOVIES | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101348.m3u8
+#EXTINF:-1,HGTV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101347.m3u8
+#EXTINF:-1,ION | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101346.m3u8
+#EXTINF:-1,LIFETIME | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101345.m3u8
+#EXTINF:-1,LIFETIME | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101344.m3u8
+#EXTINF:-1,LIFETIME MOVIES | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101343.m3u8
+#EXTINF:-1,LOGO | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101342.m3u8
+#EXTINF:-1,NAT GEO ( WEST ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101341.m3u8
+#EXTINF:-1,NAT GEO | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101340.m3u8
+#EXTINF:-1,NAT GEO WILD | FHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101339.m3u8
+#EXTINF:-1,NBA TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101338.m3u8
+#EXTINF:-1,NBC GOLF CHANNEL | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101337.m3u8
+#EXTINF:-1,NBC SPORTS (Chicago) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101336.m3u8
+#EXTINF:-1,NBC SPORTS BAY AREA | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101335.m3u8
+#EXTINF:-1,NBC Sports Network | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101334.m3u8
+#EXTINF:-1,NFL NOW | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101333.m3u8
+#EXTINF:-1,NFL REDZONE | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101332.m3u8
+#EXTINF:-1,NHL NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101331.m3u8
+#EXTINF:-1,NICKELODEON | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101419.m3u8
+#EXTINF:-1,NICKTOONS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101418.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101417.m3u8
+#EXTINF:-1,OWN | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101416.m3u8
+#EXTINF:-1,OWN | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101415.m3u8
+#EXTINF:-1,OXYGEN | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101414.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101413.m3u8
+#EXTINF:-1,PBS KIDS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101412.m3u8
+#EXTINF:-1,PBS KIDS 2 | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101411.m3u8
+#EXTINF:-1,PEOPLE TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101410.m3u8
+#EXTINF:-1,POP TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101409.m3u8
+#EXTINF:-1,PURSUIT CHANNEL | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101408.m3u8
+#EXTINF:-1,QVC | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101407.m3u8
+#EXTINF:-1,RED BULL TV | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101406.m3u8
+#EXTINF:-1,REVOLT | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101405.m3u8
+#EXTINF:-1,SONY MOVIE CHANNEL | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101404.m3u8
+#EXTINF:-1,SPORTS NETWORK (NY) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101403.m3u8
+#EXTINF:-1,SPORTSMAN CHANNEL | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101402.m3u8
+#EXTINF:-1,SPORTSNET LA (Los Angeles) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101401.m3u8
+#EXTINF:-1,STARZ | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101400.m3u8
+#EXTINF:-1,STARZ CINEMA | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101399.m3u8
+#EXTINF:-1,STARZ COMEDY | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101398.m3u8
+#EXTINF:-1,STARZ EDGE | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101397.m3u8
+#EXTINF:-1,STARZ ENCORE | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101396.m3u8
+#EXTINF:-1,STARZ KIDS & FAMILY | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101395.m3u8
+#EXTINF:-1,STARZ KIDS & FAMILY | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101394.m3u8
+#EXTINF:-1,STARZ SUSPENSE | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101393.m3u8
+#EXTINF:-1,STARZ WESTERNS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101392.m3u8
+#EXTINF:-1,SUNDANCE | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101391.m3u8
+#EXTINF:-1,SYFY ( West ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101390.m3u8
+#EXTINF:-1,SYFY | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101389.m3u8
+#EXTINF:-1,TLC ( West ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101388.m3u8
+#EXTINF:-1,TLC | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101387.m3u8
+#EXTINF:-1,TLC | UHD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101386.m3u8
+#EXTINF:-1,TNT ( West ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101385.m3u8
+#EXTINF:-1,TNT (East) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101384.m3u8
+#EXTINF:-1,TRU TV ( West ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101383.m3u8
+#EXTINF:-1,TRU TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101382.m3u8
+#EXTINF:-1,TUFF TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101381.m3u8
+#EXTINF:-1,UFC FIGHT PASS | HD*
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101380.m3u8
+#EXTINF:-1,UFC NETWORK | SD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101379.m3u8
+#EXTINF:-1,UFC TV | 720
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101378.m3u8
+#EXTINF:-1,UNIMAS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101377.m3u8
+#EXTINF:-1,UNIVERSAL KIDS | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101376.m3u8
+#EXTINF:-1,UNIVISION | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101375.m3u8
+#EXTINF:-1,Univision Deportes | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101374.m3u8
+#EXTINF:-1,USA NETWORK ( West ) | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101373.m3u8
+#EXTINF:-1,USA NETWORK | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101372.m3u8
+#EXTINF:-1,VH1 | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101371.m3u8
+#EXTINF:-1,VICE LAND | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101370.m3u8
+#EXTINF:-1,WE TV | HD
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101369.m3u8
