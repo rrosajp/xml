@@ -19,7 +19,7 @@ http://lltv.xyz:80/ianjones123/x8k9ntIkHG/38255
 #EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US| American Heroes Channel FHD" tvg-logo="https://i.pinimg.com/originals/a8/e8/78/a8e878dbf94f8410b6f82ed2d63a0fa4.png" group-title="US | Entertainment",US| American Heroes Channel FHD
 http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1044
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US| AMC FHD" tvg-logo="https://www.cabletv.com/images/ctv_responsive/channels/amc.png" group-title="US | Entertainment",US| AMC FHD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1045
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1045?token=ShpbVksLEQIRUFFdXQNXUwkEVAgJWVBTU1VVXVYEWVdUD1cAD1MEAAVAG0YWQ0QHUVk6UV0aDwYBUQEVRhQSU0NnWlMaWRELBVMHVUcbFBZZWQAaAwkAAQdXAAFRUVMaE0haUxpZEQsBVwdTVhUaQFVMEV1LVlRbbgFRTw0CBBQLVkZbVE8RV109UwEIVlgGEg5HCBsUF15CFRYDRiA1EGUYcFhKEx0aH0BVDRFFVxZVFl8aDQEBARNJFloLFA9CQ0ERDRo2YBofQFIcEVJYEVlbCxoDGkFEE0kWUBc+E1NCTEFSWQ5WShFYFVVHGxQPUUw6W1ZWW1JSEV1WChJDDBMJERsaDlxWWhZYFjpHXwYSDkcLAQ0HAgBHSQ==
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US| Animal Planet FHD" tvg-logo="http://www.asiasat.com/channelguide/images/animal_planet_us.png" group-title="US | Entertainment",US| Animal Planet FHD
 http://lltv.xyz:80/ianjones123/x8k9ntIkHG/1128
 #EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="US| Antenna Tv HD" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/11/Antenna-TV.png" group-title="US | Entertainment",US| Antenna Tv HD
@@ -209,7 +209,7 @@ http://lltv.xyz:80/ianjones123/x8k9ntIkHG/3926
 #EXTINF:-1 tvg-id="Cinemax HDTV (West) (MAXHDW) US" tvg-name="US| CINEMAX HD [PACIFIC]" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/11/Cinemax_2011_Logo.png" group-title="US | Cinema",US| CINEMAX HD [PACIFIC]
 http://lltv.xyz:80/ianjones123/x8k9ntIkHG/928
 #EXTINF:-1 tvg-id="cinemax.us" tvg-name="US| Cinemax HD" tvg-logo="http://livetvi.com/wp-content/uploads/2016/04/Cinemax-TV-live.png" group-title="US | Cinema",US| Cinemax HD
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/82
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/82?token=ShpbVksLEQIRUFFdXQNXUwkEVAgJWVBTU1VVXVYEWVdUD1cAD1MEAAVAG0YWQ0QHUVk6UV0aDwYBUQEVRhQSU0NnWlMaWRELBVMHVUcbFBZZWQAaAwkAAQdXAAFRUVMaE0haUxpZEQsBVwdTVhUaQFVMEV1LVlRbbgFRTw0CBBQLVkZbVE8RV109UwEIVlgGEg5HCBsUF15CFRYDRiA1EGUYcFhKEx0aH0BVDRFFVxZVFl8aDQEBARNJFloLFA9CQ0ERDRo2YBofQFIcEVJYEVlbCxoDGkFEE0kWUBc+E1NCTEFSWQ5WShFYFVVHGxQPUUw6W1ZWW1JSEV1WChJDDBMJERsaDlxWWhZYFjpHXwYSDkcLAQ0HAgBHSQ==
 #EXTINF:-1 tvg-id="moremax.us" tvg-name="US| Cinemax Moremax HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moremax.png" group-title="US | Cinema",US| Cinemax Moremax HD
 http://lltv.xyz:80/ianjones123/x8k9ntIkHG/81
 #EXTINF:-1 tvg-id="outermax.us" tvg-name="US| Cinemax Outermax" tvg-logo="http://static.ontvtonight.com/static/2/Open/Comcast%20Logos/Comcast%20Source%20Logos/OuterMaxHD_2400_color_dark_light.png" group-title="US | Cinema",US| Cinemax Outermax
@@ -401,4 +401,4 @@ http://lltv.xyz:80/ianjones123/x8k9ntIkHG/702
 #EXTINF:-1 tvg-id="BETjams.us" tvg-name="US| BET JAMS" tvg-logo="https://sc.dish.com/shared/images/station-logos/BETJM.png" group-title="US | Music",US| BET JAMS
 http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89908
 #EXTINF:-1 tvg-id="" tvg-name="US| BET SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" group-title="US | Music",US| BET SOUL
-http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89907 
+http://lltv.xyz:80/ianjones123/x8k9ntIkHG/89907
