@@ -1,31 +1,41 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideromania.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Actualitatea TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="6 TV" tvg-logo="https://new.6tv.ro/wp-content/uploads/2017/08/6tv_logo.png" group-title="",6 TV
+https://stream.chrominance.ro/enescu/encoder1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Actualitatea TV (Opt-1)
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Actualitatea TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Actualitatea TV (Opt-2)
 http://46.214.146.46:81/tv4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="",Acum TV (Opt-1)
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Acum TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Acum TV (Opt-2)
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="",Alfa Media TV
 http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img00.deviantart.net/473b/i/2016/214/9/8/catali2016_s_logo_remake__alfa_omega_tv_2016_by_catali2016-dace34w.png" group-title="",Alfa Omega TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",Alfa Omega TV (Opt-1)
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img00.deviantart.net/473b/i/2016/214/9/8/catali2016_s_logo_remake__alfa_omega_tv_2016_by_catali2016-dace34w.png" group-title="Religious",Alfa Omega TV (Opt-2)
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1 tvg-id="" tvg-name="Alpha Media TV" tvg-logo="http://stvron.com/canale/512/tv-alpha-media.png" group-title="",Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-logo="https://assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS.png" group-title="",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" group-title="",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="",B1 (Opt-1)
 http://stream.adunity.com/b1/b1_640-.m3u8
 #EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="",B1 (Opt-2)
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bit TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Bit TV
 http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bucuresti TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Bucuresti TV
 http://77.36.61.147/hls/channel3/bitrate4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://columna.mipadoweb.ro/wp-content/uploads/2019/01/lg2-320x92-300x86.png" group-title="",Columna
 http://77.36.61.147/hls/channel4/bitrate4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Credo TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-48n8Ahbntvc/AAAAAAAAAAI/AAAAAAAAAAA/PudXnVCofrI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",Cromtel TV
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
@@ -35,17 +45,17 @@ http://37.152.135.169:9002/play/a005/index.m3u8
 http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="https://www.digi24.ro/static/theme-repo/bin/images/digi24-logo.png" group-title="News",Digi24 (Opt-2)
 http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="" group-title="News",Digi24 (Opt-3)
+#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="." group-title="News",Digi24 (Opt-3)
 http://82.76.40.76/digi24edge/digi24.smil/.m3u8
 #EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="News",Digi24 (Opt-4)
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="" group-title="News",Digi24 (Opt-5)
+#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="." group-title="News",Digi24 (Opt-5)
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="" group-title="News",Digi24 (Opt-6)
+#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="." group-title="News",Digi24 (Opt-6)
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="" group-title="News",Digi24 (Opt-7)
+#EXTINF:-1 tvg-id="Digi24 RO" tvg-name="Digi24 RO" tvg-logo="." group-title="News",Digi24 (Opt-7)
 http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Elita TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Elita TV
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/iasi-tv-life.png" group-title="",Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
@@ -55,7 +65,7 @@ http://163.172.172.80:8080/hls/InfoHd.m3u8
 http://163.172.172.80:8080/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="Kiss TV RO" tvg-name="Kiss TV RO" tvg-logo="https://www.residentadvisor.net/images/promoter/ro-kissfmkisstv.jpg" group-title="Music",Kiss TV
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEst TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",NEst TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" group-title="",Pro 2
 https://vid.hls.protv.ro/pro2n/pro2_high/index.m3u8?1

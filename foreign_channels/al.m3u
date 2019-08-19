@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pGGBPBs.png" group-title="",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6hhXqlT.jpg" group-title="",Apollon TV
+https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqhRPKb.jpg" group-title="",Channel One
 http://145.239.2.153:8081/channelone/channelone/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q1UOlkA.png" group-title="Music",EUROAL
@@ -43,3 +45,5 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 https://cdn.tvtopsound.com:1443/TopSoundTV/stream/TopSoundTV/live_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="",TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8

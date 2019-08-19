@@ -7,6 +7,8 @@ http://adtv.ercdn.net/addrama/addrama_480p.m3u8?fluxustv.m3u8
 http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama (Opt-4)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama (Opt-5)
+http://adtv.ercdn.net/addrama/addrama.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="Sport",Abu Dhabi Sports (Opt-1)
 https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="Sport",Abu Dhabi Sports (Opt-2)
@@ -63,6 +65,8 @@ http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV (Opt-3)
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV (Opt-4)
+http://adtv.ercdn.net/adaloula/adaloula.m3u8
 #EXTINF:-1 tvg-id="Ajman TV ARB" tvg-name="Ajman TV ARB" tvg-logo="http://www.ajmantv.com/img/ajmantv_logo.png" group-title="",Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="",Al Arabiya
@@ -113,6 +117,8 @@ http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
 #EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV (Opt-3)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV (Opt-4)
+http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
 #EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="",Music Now (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
 #EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="",Music Now (Opt-2)
@@ -151,9 +157,9 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Yas TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",Yas TV (Opt-1)
 http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Yas TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",Yas TV (Opt-2)
 http://adtv.ercdn.net/adsportextra/adsportextra_360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NI7etUW.png" group-title="Sport",Yas TV (Opt-3)
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8?IPTVBRASILHD

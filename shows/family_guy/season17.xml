@@ -1,51 +1,141 @@
 <xml>
     <item>
-        <title>S17E01: "Emmy-Winning Episode"</title>
-        <link>http://dl2.lavinmovie.net/series/Family%20Guy/S15/1080p%20x265/Family.Guy.S15E01.1080p.BluRay.HEVC.x265.10bit.AAC.5.1.ImE.LavinMovie.mkv</link>
-        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/5649967.jpg</thumbnail>
+        <title>S17E01: "Married… with Cancer"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E01.720p.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6743014.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
     </item>
 
+    <item>
+        <title>S17E02: "Dead Dog Walking"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E02.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6773132.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E01: "Married... with Cancer"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E01.720p.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E02: "Dead Dog Walking"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E02.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E03: "Pal Stewie"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E03.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E04: "Big Trouble in Little Quahog"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E04.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E05: "Regarding Carter"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E05.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E06: "Stand by Meg"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E06.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E07: "The Griffin Winter Games"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E07.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E08: "Con Heiress"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E08.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E09: "Pawtucket Pete"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E09.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E10: "Hefty Shades of Gray"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E10.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E11: "Trump Guy"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E11.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E12: "Bri, Robot"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E12.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E13: "Trans-Fat"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E13.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E14: "Family Guy Lite"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E14.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E15: "No Giggity, No Doubt"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E15.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E16: "You Can't Handle the Booth!"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E16.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E17: "Island Adventure"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E17.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E18: "Throw It Away"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E18.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E19: "Girl, Internetted"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E19.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E20: "Adam West High"
-http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E20.720p.WEB.x264-B2HD.mkv
+    <item>
+        <title>S17E03: "Pal Stewie"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E03.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6773133.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 
+    <item>
+        <title>S17E04: "Big Trouble in Little Quahog"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E04.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6841621.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E05: "Regarding Carter"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E05.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6859022.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E06: "Stand by Meg"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E06.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6868403.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E07: "The Griffin Winter Games"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E07.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6875382.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E08: "Con Heiress"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E08.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6877896.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E09: "Pawtucket Pete"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E09.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6904608.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E10: "Hefty Shades of Gray"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E10.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6938512.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E11: "Trump Guy"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E11.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6944590.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E12: "Bri, Robot"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E12.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/6999539.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E13: "Trans-Fat"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E13.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7033335.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E14: "Family Guy Lite"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E14.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7045338.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E15: "No Giggity, No Doubt"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E15.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7045339.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E16: "You Can't Handle the Booth"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E16.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7093002.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E17: "Island Adventure"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E17.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7065371.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E18: "Throw It Away"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E18.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7078110.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E19: "Girl, Internetted"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E19.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7128970.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
+
+    <item>
+        <title>S17E20: "Adam West High"</title>
+        <link>http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E20.720p.WEB.x264-B2HD.mkv</link>
+        <thumbnail>https://www.thetvdb.com/banners/episodes/75978/7128972.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-13.jpg</fanart>
+    </item>
 </xml>
