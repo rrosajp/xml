@@ -150,49 +150,49 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 http://23.237.22.82:8086/udp/127.0.0.1:56076
 
 
-#EXTINF:-1 group-title="Entertainment",ABC
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",ABC
 http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",HBO
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",HBO
 http://live.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",USA Network
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",USA Network
 http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",AMC
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",AMC
 http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",Oxygen
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",Oxygen
 http://live.savitar.tv/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",Tru Tv
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",Tru Tv
 http://live.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",Showtime
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",Showtime
 http://live.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",Starz
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",Starz
 http://live.savitar.tv/Starz/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",FX
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",FX
 http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",Syfy
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",Syfy
 http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",CBS
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",CBS
 http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",WWE Network
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",WWE Network
 http://162.210.195.121:8080/WWETVHD/index.m3u8
-#EXTINF:-1 group-title="Entertainment",WE TV
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",WE TV
 http://live.savitar.tv/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",TNT
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",TNT
 http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",CW
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",CW
 http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Entertainment",E!
+#EXTINF:-1, tvg-logo="." group-title="Entertainment",E!
 http://live.savitar.tv/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Boomerang
+#EXTINF:-1, tvg-logo="." group-title="Kids",Boomerang
 http://live.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Disney Jr
+#EXTINF:-1, tvg-logo="." group-title="Kids",Disney Jr
 http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Nicktoons
+#EXTINF:-1, tvg-logo="." group-title="Kids",Nicktoons
 http://live.savitar.tv/nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Disney XD
+#EXTINF:-1, tvg-logo="." group-title="Kids",Disney XD
 http://live.savitar.tv/DisneyXd/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Disney
+#EXTINF:-1, tvg-logo="." group-title="Kids",Disney
 http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Nickelodeon
+#EXTINF:-1, tvg-logo="." group-title="Kids",Nickelodeon
 http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="Kids",Cartoon Network
+#EXTINF:-1, tvg-logo="." group-title="Kids",Cartoon Network
 http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE5IDM6NDU6NDEgUE0maGFzaF92YWx1ZT03bmtLaE1SRFAvWnRBNm04aVlVVHhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
