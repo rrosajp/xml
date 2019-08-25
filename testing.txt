@@ -14,8 +14,8 @@ http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1711
 http://23.237.22.82:8086/udp/127.0.0.1:56250
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FXX
 http://23.237.22.82:8086/udp/127.0.0.1:56251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",Sundance
-http://tvpc.us/player/embed.php?cid=394&autoplay=yes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",Starz
+http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Movies",HBO Family
 http://203.207.56.228/live/iptv004.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
