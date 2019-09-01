@@ -121,13 +121,17 @@ http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",History Lab (Opt-2)
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="",History Lab (Opt-3)
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mobile.ilmeteo.it/img/app-plus-icon-2.png" group-title="",Il Meteo.It Domani
 http://media.ilmeteo.it/video/iphone/domani.m4v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mobile.ilmeteo.it/img/app-plus-icon-2.png" group-title="",Il Meteo.It Oggi
 http://media.ilmeteo.it/video/iphone/oggi.m4v
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="",IRC Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",IRC Sport TV (Opt-1)
+http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="Sport",IRC Sport TV (Opt-2)
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Iris IT" tvg-name="Iris IT" tvg-logo="https://static.iptv-epg.com/it/Iris.it.png" group-title="",Iris
 https://1.ip2stream.icu/live/iris_hd/playlist.m3u8
@@ -155,6 +159,12 @@ http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="." group-title="Music",m2o TV (Opt-2)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="." group-title="Music",m2o TV (Opt-3)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="Music",m2o TV (Opt-4)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music",m2o TV (Opt-5)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="Auto",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="Nat Geo People IT" tvg-name="Nat Geo People IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="",Nat Geo People
@@ -173,10 +183,14 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ottofm.com/wp-content/uploads/2017/07/01anni80.png" group-title="",Otto FM TV (Opt-2)
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="",Padre Pio TV
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="",Paradise TV
 https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Paramount Channel IT" tvg-name="Paramount Channel IT" tvg-logo="https://static.iptv-epg.com/us/ParamountNetwork.us.png" group-title="",Paramount Channel
 https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SjbqyAx.png" group-title="",Parole di Vita
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624452/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PHmQHas.png" group-title="",Pescara TV
 http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Premium Action HD IT" tvg-name="Premium Action HD IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/8a/Mediaset_premium_action.png" group-title="",Premium Action
@@ -199,18 +213,28 @@ http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
 http://live-fs.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="QVC IT" tvg-name="QVC IT" tvg-logo="https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg" group-title="",QVC
 http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio 105 (Opt-1)
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio 105 (Opt-2)
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Radio Bruno IT" tvg-name="Radio Bruno IT" tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="",Radio Bruno
 http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="",Radio Capital Tivù (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Bruno TV
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="",Radio Capital TV (Opt-1)
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Capital Tivù (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Capital TV (Opt-2)
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Capital Tivù (Opt-3)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Capital TV (Opt-3)
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Capital Tivù (Opt-4)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Radio Capital TV (Opt-4)
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-120126-main_images-Capital_FM_Network_logo_0--default--300.png" group-title="",Radio Capital TV (Opt-5)
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="",Radio Freccia
 https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="",Radio Iglesias (Opt-1)
@@ -229,6 +253,14 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 http://tv.105.net/live/rmc3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="Music",Radio Monte Carlo TV (Opt-3)
 http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Radio Monte Carlo TV (Opt-4)
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/b2f4d5bb1b78b392048436a272d6e7ac.jpeg" group-title="Music",Radio Monte Carlo TV (Opt-5)
+http://tv.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wE5N6H3.jpg" group-title="Music",Radio Monte Carlo TV (Opt-6)
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Radio Monte Carlo TV (Opt-7)
+http://bit.ly/2GeFyWc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="Music",Radio Piter Pan TV
@@ -237,8 +269,6 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fl
 http://video-4.radioradicale.it:1935/diretta/padtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiosienatv.it/wp-content/themes/newstube-child/img/logo-radiosienatv-nero.png" group-title="",Radio Siena TV
 http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HG2IoXr.png" group-title="Music",Radio System
-http://str03.fluidstream.net/RadioSystemTV/livestream/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png" group-title="Music",Radio Taormina
 http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Radio Tivù Azzurra
@@ -261,8 +291,10 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="." group-title="",Rai 4 (Opt-2)
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="." group-title="",Rai 5
+#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="." group-title="",Rai 5 (Opt-1)
 http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="." group-title="",Rai 5 (Opt-2)
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Rai Gulp IT" tvg-name="Rai Gulp IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie IT" tvg-logo="." group-title="Movies",Rai Movie
@@ -297,6 +329,8 @@ https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mekD49a.png" group-title="",RMM TV
 http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",RT TV
+https://str-2.mediabay.tv/RTTV/playlist.m3u8?token=7baedcf04d98a361dd1e2152743b1a7f554e9fec-18f967055a64889e5a660c3ce83cb6c1-1566594086-1566583286
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="",RTC Quarta Rete
 http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria (Opt-1)
@@ -307,12 +341,16 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="",RTL 102.5 TV (Opt-2)
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/529.png" group-title="",RTL 102.5 TV (Opt-3)
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="",RTP
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZmpQGTr.png" group-title="",RTR 99 TV
 https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",RTTR
 http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VZvOidh.png" group-title="",RTV Ilirida
+http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Sport",RTV Sport (San Marino)
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
@@ -385,8 +423,6 @@ http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TelePavia (Opt-3)
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fhtGWqG.png" group-title="",Teleponte Teramo
-https://54627d4fc5996.streamlock.net/teleponte/teleponte/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.saladellamemoriaheysel.it/IMMAGINI/Logo_Tele_Quattro.png" group-title="",TeleQuattro
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NmvOzhg.png" group-title="",TeleRama
@@ -433,18 +469,20 @@ http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
 http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/154AQjl.png" group-title="",TV Qui (Modena)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1280px-Logo_tv2000_2015.svg.png" group-title="Religious",TV2000 (Opt-1)
+#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1280px-Logo_tv2000_2015.svg.png" group-title="",TV2000 (Opt-1)
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="." group-title="Religious",TV2000 (Opt-2)
+#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="." group-title="",TV2000 (Opt-2)
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://i.imgur.com/C5FuJmG.png" group-title="",TV2000 (Opt-3)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CM1bQ1I.png" group-title="",TV7 Benevento
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ndFoo4V.png" group-title="",TV7 Triveneta
 http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TVA (Vicenza)
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9cQYTkQ.png" group-title="",TVL (Toscana)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oVsMybF.jpg" group-title="",TVL Toscana
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0vLfpFD.png" group-title="",TVR Xenon (Caltagirone)
 http://player.adobemediaserver.it/speedweb-hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TVRS
@@ -469,7 +507,7 @@ http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
 http://sb.top-ix.org/avtv04/_definst_/streaming/manifest.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg" group-title="",Videostar TV (Lombardia)
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gf0j6RM.png" group-title="",WLTV (Siracusa)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iOJkDQ1.png" group-title="",WLTV Siracusa
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@531020/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NUCVVx8.png" group-title="Music",Zerouno TV
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8

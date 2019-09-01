@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="",13 Max (Opt-1)
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="",13 MAX [720p] (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="",13 Max (Opt-2)
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="",24/7 Canal de Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
@@ -15,10 +15,6 @@ http://stream02.shockmedia.com.ar:1935/canal2tunuyan/_definst_/canal2tunuyan/chu
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WdcZeNF.jpg" group-title="",Aire de Santa Fe
 http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",ARGENTINA:Canal 26 (Opt-8)
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",ARGENTINA:Canal 26 (Opt-9)
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="",Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",BA Buenos Aires
@@ -33,22 +29,28 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 (Opt-1)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 Argentina" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1520.png" group-title="",Canal 26 (Opt-6)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="",Canal 26 (Opt-10)
+http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 (Opt-2)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 (Opt-3)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 (Opt-4)
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 (Opt-5)
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1520.png" group-title="",Canal 26 (Opt-6)
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="",Canal 26 (Opt-7)
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 [360p] (Opt-2)
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 [360p] (Opt-3)
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 [720p] (Opt-4)
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Canal 26 [720p] (Opt-5)
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Canal 26 (Opt-8)
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Canal 26 (Opt-9)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CANAL 3 PINAMAR DIGITAL [360p]
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://photocall.tv/images/canal4j.png" group-title="",Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hyOtap9.png" group-title="",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/chunklist_w621402693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg" group-title="",Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OnURMJx.png" group-title="",Canal 41 XFN
@@ -71,8 +73,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OTyIxNK.jpg" group-title="",Canal Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg" group-title="",Canal Local Olavarria
-http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CANAL PROVINCIAL SAN MIGUEL [360p]
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="",Chacra TV
@@ -95,6 +95,8 @@ http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4tpwonh.png" group-title="",EL TV10 Salta
 https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Fenix
+https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w1713688974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2XhjIqS.png" group-title="",Frecuencia Musical TV
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="",Garage TV
@@ -139,6 +141,8 @@ http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" group-title="",T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Telemax
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/byxXHzq.png" group-title="",TeleNord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/anhdazU.jpg" group-title="",TELERED (Costa Rica)
@@ -163,7 +167,13 @@ http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?i
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="",TLX (Opt-7)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmana1.com/img/logo_tv_mana_1.png" group-title="",TV Maná
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1550.png" group-title="",TV Maná 1
+http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fV6ki6B.jpg" group-title="",TV Máná Argentina
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wyi8EZA.jpg" group-title="",TV Teleoro Canal 13* (Dominican Republic)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Télam 4
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8

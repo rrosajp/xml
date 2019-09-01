@@ -21,6 +21,8 @@ https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2KjJq8r.jpg" group-title="Music",BritAsia TV
 https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KFWIXZx.png" group-title="",British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="Kids",CBBC
 https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
 #EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/challenge.png" group-title="",Challenge
@@ -41,8 +43,12 @@ https://live2.hoolatv.com/live/e4_hi/chunks.m3u8?__fvd__
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="Shop",Gemporia (Opt-2)
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",God TV UK
+https://str-2.mediabay.tv/GODUnitedKingdom/playlist.m3u8?token=eb3db6c4f651ec9936048ec697460f9ba0a7c749-bb9ed7947b89bf967c52dd4164372354-1566591582-1566580782
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/skjSMOO.png" group-title="",Islam Channel
+http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="",ITV
 https://live2.hoolatv.com/live/itv_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="",ITV2
@@ -69,13 +75,17 @@ https://live2.hoolatv.com/live/questred_hi/chunks.m3u8?__fvd__
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News",RT UK (Opt-2)
 https://rt-uk.secure.footprint.net/1106.m3u8
+#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News",RT UK (Opt-3)
+https://str-2.mediabay.tv/RussiaTodayUnitedKingdom/playlist.m3u8?token=770312f2343a0fe62a4175fae955f63b6faf54b4-3567629e02cf76de989a729456ac92e0-1566590830-1566580030
 #EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/s4c.png" group-title="",S4C
 https://live2.hoolatv.com/live/s4c_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="",Sheffield TV
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JWJ8nJB.jpg" group-title="Music",V2BEAT TV
-https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV (Opt-1)
+https://a.jsrdn.com/rtmp/22690/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="",Venus TV (Opt-2)
+http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pYEGZrO.png" group-title="",Vox Africa UK
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8

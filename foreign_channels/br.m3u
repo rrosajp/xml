@@ -7,14 +7,16 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="Sport",All Sports (Opt-4)
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zX5c4CG.png" group-title="",Boa Vontade TV
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="",Canal Ricos
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 #EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022014/untitled-1_11.png" group-title="",Canção Nova (Opt-1)
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="http://www.brstugatutoriais.tk/canais/cancaonova.gif" group-title="",Canção Nova (Opt-2)
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="http://www.brstugatutoriais.tk/canais/cancaonova.gif" group-title="",Canção Nova (Opt-3)
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CBTV
+https://sa-all13.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1662090379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CBTV Internacional
 https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="",Cine+
@@ -25,6 +27,8 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",G2PTV (Opt-2)
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SGupCEL.png" group-title="",In Paradise TV
 https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elcorteingles.es/centroscomerciales/uploads/service/logo/68/medium_ITV.png" group-title="",Itú TV
@@ -35,6 +39,10 @@ http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religious",Novo Tempo (Opt-2)
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (Opt-3)
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",Nuevo Tempo
+https://str-4.mediabay.tv/Nuevo_Tempo/playlist.m3u8?token=fd5deb133b3fc1934ccf47fa17e791c9c4ab3707-521d1149d42acea0e63d88574cfd8b91-1566594669-1566583869
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="",PUC TV Goiás
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="",RecordTV
@@ -99,10 +107,16 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="",Summer TV
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://www.brstugatutoriais.tk/canais/tvaparecida.gif" group-title="",TV Aparecida (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV Aparecida (Opt-1)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://www.brstugatutoriais.tk/canais/tvaparecida.gif" group-title="",TV Aparecida (Opt-2)
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="",TV Aparecida (Opt-2)
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="",TV Aparecida (Opt-3)
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="",TV Aparecida (Opt-4)
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="",TV Aparecida (Opt-5)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bno.nl/theme_bno/static/src/img/icon/BNO.png" group-title="",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JYzvqeF.png" group-title="",TV Carioca
@@ -123,16 +137,24 @@ http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="",TV Educativa de Porto Alegre (Opt-2)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV Faap
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV Faap (Opt-1)
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="",TV Gazeta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV Faap (Opt-2)
+http://bit.ly/2CyHmr0
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="",TV Gazeta (Opt-1)
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta" tvg-logo="." group-title="",TV Gazeta (Opt-2)
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5HMLv9.png" group-title="",TV Gidoes
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AFYij7t.png" group-title="",TV Guarany
 http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8qwFc7d.png" group-title="",TV Japi
 http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1mRw1.png" group-title="",TV Litoral Panorama
 http://streaming03.zas.media:1935/panorama/panorama/chunklist_w425951872.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0mlQZ8F.png" group-title="",TV Louvar
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV MCJ
 http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pampa.com.br/atualizacao/wp-content/uploads/2018/09/logo-pampa-mobile.png" group-title="",TV Pampa
@@ -141,13 +163,21 @@ https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w600062362.m3
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="",TV Rio Preto
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="",TV Teen Net
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=40007737
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7bTT8mw.png" group-title="",TV Transamérica
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NlB8ioY.png" group-title="",TVCI
 http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="",TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TVE Bahia (Opt-1)
+http://bit.ly/2CJEDOV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="",TVE Bahia (Opt-2)
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/DQySJY" group-title="",UAI
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8

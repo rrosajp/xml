@@ -51,15 +51,17 @@ http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="",Canal Macau (Opt-2) (New!)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1D941LM.png" group-title="",CCTV 1 (Opt-4)
+http://cctv1-lh.akamaihd.net/i/cctv1_1@619500/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" group-title="",CCTV 高尔夫·网球频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CCTV-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1D941LM.png" group-title="",CCTV-1
 http://www.szmgiptv.com:14437/hls/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CCTV-1 (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1D941LM.png" group-title="",CCTV-1 (Opt-1)
 http://hhab.chinashadt.com:2136/live/di1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CCTV-1 (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1D941LM.png" group-title="",CCTV-1 (Opt-2)
 http://36476.hlsplay.aodianyun.com/guangdianyun_36476/tv_channel_416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CCTV-1 (Opt-3)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1D941LM.png" group-title="",CCTV-1 (Opt-3)
 http://hljjms.chinashadt.com:2036/live/1002.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV-1 综合 (Opt-1)
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
@@ -113,8 +115,6 @@ http://cctv.v.kcdnvip.com/live/cctv3_1/index.m3u8?adapt=0&BR=audio
 http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CCTV-4 中文国际 (Opt-1)
 http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_中文国际.svg/1280px-CCTV-4_中文国际.svg.png" group-title="",CCTV-4 中文国际 (Opt-2)
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="",CCTV-4 中文国际 (Opt-3)
 http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="",CCTV-4 中文国际 (Opt-4)
@@ -373,8 +373,6 @@ http://ls.qingting.fm/live/1006.m3u8
 http://ls.qingting.fm/live/1002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CRI 闽南之音 (Opt-2)
 http://sk.cri.cn/minnan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",FASHION TV
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Fox movies asia
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="",Good TV 15
@@ -453,6 +451,8 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="",Hong Kong Open TV (HK) (Opt-1) (New!)
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="",Hope Channel
+http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234U14N.jpg" group-title="",HRB娱乐
 http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.66zhibo.net/d/file/2018/0721/938896480f3c5699c186d281de8be5df.jpg" group-title="",HRB影视
@@ -483,6 +483,8 @@ http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
 http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZpSb5PD.png" group-title="",NewTV Sports (New!)
 http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",NEWTV Super sports HD
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZpSb5PD.png" group-title="",NewTV Suspense (New!)
 http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="",Newtv 中国功夫
@@ -553,6 +555,10 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gg.gg/china-tv" group-title="",Phim TQ (Yitian Shoulong)
 http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gg.gg/china-tv" group-title="",Phim TQ 55（ThànhLong）
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gg.gg/china-tv" group-title="",Phim TQ（RăngđồngrăngsắtJiXiaolan ）
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="",RTHK 32 (Hong Kong)
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="",RTHK TV 31 (HK) (Opt-1) (New!)
@@ -569,6 +575,8 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Shemale Tube TV 2
 http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sinovision" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/915.png" group-title="",Sinovision
+http://ec.sinovision.net/video/ts/newlv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="",SinoVision (US)
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM HD Macau (Opt-1) (New!)
@@ -617,8 +625,6 @@ http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",万载综合频道
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",三亚天涯之声 FM104.6
-http://ls.qingting.fm/live/68236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",三明公共频道
 http://stream.smntv.cn/smtv2/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",三明新闻综合
@@ -1055,12 +1061,6 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u
 http://live.streamingfast.net/osmflivech12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",台-GOODTV美食旅游台
 http://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",台-壹电视新闻台 (Opt-1)
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",台-壹电视新闻台 (Opt-2)
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",台湾-壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",台湾希望电视
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",叶县一套
@@ -1255,26 +1255,12 @@ http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 http://31022.hlsplay.aodianyun.com/lms_31022/tv_channel_126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",宿松新闻综合
 http://31022.hlsplay.aodianyun.com/lms_31022/tv_channel_99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东乡村广播 FM91.9
-http://ls.qingting.fm/live/60264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东交通广播 FM101.1
-http://ls.qingting.fm/live/60262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东体育广播 FM102.1
-http://ls.qingting.fm/live/60266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="",山东卫视
 http://112.50.243.8/PLTV/88888888/224/3221225943/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东女主播电台 FM97.5
-http://ls.qingting.fm/live/60258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdetv.jpg" group-title="",山东教育
-http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东教育 (Opt-1)
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/shandongjy/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东新闻广播 FM95
-http://ls.qingting.fm/live/60180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东生活广播 MyFM FM105
-http://ls.qingting.fm/live/60260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山东音乐广播 FM99.1
-http://ls.qingting.fm/live/1665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdetv.jpg" group-title="",山东教育 (Opt-2)
+http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",山丹综合频道
 http://32553.hlsplay.aodianyun.com/guangdianyun_32553/tv_channel_180.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" group-title="",山西卫视 (Opt-1)
@@ -1435,8 +1421,6 @@ http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.sxrtv.com/images/2012/11/12/201211121352686059578_57.jpg" group-title="",彩民在线
 http://39.135.16.142:6060/PLTV/88888888/224/3221225724/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",德国音乐mv
-http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=14e4b49cc03d70cf4cfaad0bc0e7b63d/f31fbe096b63f62400badfa68e44ebf81b4ca3b4.jpg" group-title="",德州都市
 http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",心约之声公益广播
@@ -1647,10 +1631,10 @@ http://live.scbtv.cn/hls/news.m3u8
 http://111.12.83.7:6410/000000001000/lzkj/1.m3u8?livemode=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",栖霞新闻频道
 http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",株洲新闻综合
-http://vod.zzlknews.cn:40731/live/_definst_/zzzh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",株洲新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",株洲新闻综合 (Opt-1)
 http://live.zzbtv.com/live/live122/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",株洲新闻综合 (Opt-2)
+http://vod.zzlknews.cn:40731/live/_definst_/zzzh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",株洲法制频道
 http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/yulin.jpg" group-title="",桂林公共
@@ -1807,10 +1791,10 @@ http://weblive.hebtv.com/live/hbws_lc/index.m3u8
 http://weblive.hebtv.com/live/hbse_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北少儿 (Opt-2)
 http://weblive.hebtv.com/live/hbse_lc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北影视
-http://weblive.hebtv.com/live/hbys_lc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北影视 (Opt-1)
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北影视 (Opt-2)
+http://weblive.hebtv.com/live/hbys_lc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北故事广播 FM107.9
 http://ls.qingting.fm/live/1645.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河北新闻广播 FM104.3
@@ -1867,8 +1851,6 @@ http://ls.qingting.fm/live/1208.m3u8
 http://ls.qingting.fm/live/1207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河池教育频道
 http://222.218.142.198:81/hls/jy3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河池新闻综合
-http://222.218.142.198:81/hls/ch3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",河源综合
 http://dslive.grtn.cn/hyzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",沾化新闻综合广播 FM104.2
@@ -1983,10 +1965,10 @@ http://www.szmgiptv.com:14436/hls/22.m3u8
 http://ls.qingting.fm/live/1270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",深圳公共
 http://www.szmgiptv.com:14436/hls/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/szgjpd.jpg" group-title="",深圳国际
-http://61.58.60.230:9319/live/235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",深圳国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",深圳国际 (Opt-1)
 http://www.szmgiptv.com:14436/hls/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/szgjpd.jpg" group-title="",深圳国际 (Opt-2)
+http://61.58.60.230:9319/live/235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",深圳快乐1062(交通广播)
 http://ls.qingting.fm/live/1272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",深圳私家车广播 FM94.2
@@ -2769,10 +2751,10 @@ http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
 http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",黄骅互动
 http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="",黑龙江卫视
-http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",黑龙江卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",黑龙江卫视 (Opt-1)
 http://hljjms.chinashadt.com:2036/live/1003.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="",黑龙江卫视 (Opt-2)
+http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",黑龙江卫视高清
 http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",黔西南交通旅游广播 FM88.3
@@ -2785,10 +2767,10 @@ http://ls.qingting.fm/live/5045.m3u8
 http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙广乡村广播 AM945
-http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙广乡村广播 AM945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙广乡村广播 AM945 (Opt-1)
 http://ls.qingting.fm/live/4977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙广乡村广播 AM945 (Opt-2)
+http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙广交通广播 FM99.8
 http://ls.qingting.fm/live/4973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",龙广北大荒之声 FM104.6
