@@ -9,13 +9,13 @@ http://nn.geo.joj.sk/hls/joj-540.m3u8
 http://nn.geo.joj.sk/hls/joj-720.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wKJpGke.jpg" group-title="",JOJ
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="",JOJ Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="",JOJ Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
 http://nn.geo.joj.sk/hls/family-360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="",JOJ Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
 http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="",JOJ Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
 http://nn2.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="",Košice:dnes
 http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
@@ -27,7 +27,7 @@ http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nbBdVPs.jpg" group-title="Sport",Orange Sport
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",Orange Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Orange Sport
 http://2ng.ru/31y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvoravia.sk/wp-content/uploads/thegem-logos/logo_798fb82d7e99c59716e3c6233e898800_1x.png" group-title="",Oravia
 http://ottst05.flexitv.sk/822-tv-pc.m3u8
