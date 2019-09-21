@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz"
 #EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="",Discovery
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Elektrika TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1 HD-CZ" tvg-name="Eurosport 1 HD-CZ" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sport",EuroSports 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
@@ -41,7 +41,7 @@ http://92.62.234.223/101/mystream.m3u8
 http://70.32.0.9:5000/live/518/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Retro Music Television
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="" group-title="Music",Retro Music Television
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="." group-title="Music",Retro Music Television
 http://bit.ly/2m3sY3Y
 #EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="Music",Retro Music Television
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
@@ -59,13 +59,13 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgrat
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="",Východočeská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Óčko
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Óčko
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Óčko Expres
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Óčko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Óčko Gold
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Óčko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music",Óčko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8

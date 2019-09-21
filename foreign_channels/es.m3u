@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidespain.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1459.png" group-title="News",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
@@ -9,11 +9,11 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aos
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="",25 TV
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",3/24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",3/24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",3/24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="Local",7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
@@ -25,13 +25,13 @@ http://5.39.65.105/hls/alacantixa.m3u8?fluxustv.m3u8
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Be Mad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gD5eYVs.jpg" group-title="",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="",Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="" group-title="Kids",Boing
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="." group-title="Kids",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Boing_circular_500.png" group-title="Kids",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
@@ -47,17 +47,17 @@ http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal 4 Tenerife
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Canal 4 Tenerife
 http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Local",Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canal56.com/wp-content/uploads/2017/06/logoc56header.png" group-title="Local",Canal 56
 https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Extremadura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Extremadura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extremadura TV" tvg-logo="" group-title="Local",Canal Extremadura
+#EXTINF:-1 tvg-id="" tvg-name="Extremadura TV" tvg-logo="." group-title="Local",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MCaturZ.png" group-title="Local",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
@@ -73,7 +73,7 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 http://common01.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9OirosV.png" group-title="",Canal Sur Andalucia
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Sur Cocina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Canal Sur Cocina
 http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-5-300x200.png" group-title="Local",Canal Sur Cocina
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
@@ -87,9 +87,9 @@ http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/ev
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CIOQGyj.png" group-title="",Canal Sur Flamenco
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Sur La Banda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Canal Sur La Banda
 http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Sur La Banda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Canal Sur La Banda
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w1970326303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diariodesevilla.es/resources/images/0001688255.jpg" group-title="Local",Canal Sur La Banda
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
@@ -121,7 +121,7 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nMXmRPZ.png" group-title="",CYL TV Castilla Leon
 http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Divinity
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="General",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
@@ -129,17 +129,17 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mRnasqG.png" group-title="",Ecija Comarca TV
 http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",EITB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg" group-title="Local",EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",EITB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",EITB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/1200px-33_%28CCMA%29.svg.png" group-title="",El 33
 http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",El 33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",El 33
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/1200px-33_%28CCMA%29.svg.png" group-title="",El 33
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8?fluxustv.m3u8
@@ -151,7 +151,7 @@ https://streaming.elche7tv.es/hls/canal1.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://static.iptv-epg.com/es/Energy.es.png" group-title="General",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",ESport3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",ESport3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.couperogers.com/wp-content/uploads/sites/3/2015/06/Logo-TVA-Sports-1-vertical-CMYK.jpg" group-title="Sport",ESport3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
@@ -167,7 +167,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/1200px-ETB2_Spain.svg.png" group-title="Local",ETB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="" group-title="",FDF
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="." group-title="",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/225px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
@@ -177,7 +177,7 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 https://5940924978228.streamlock.net/8155/8155/chunklist_w707917731.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="",Hamaika Telebista
 http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Movies",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="",Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8
@@ -215,7 +215,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Onda Cádiz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Onda Cádiz
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png" group-title="",Onda Madrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8?fluxustv.m3u8
@@ -231,13 +231,13 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="Sport",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="." group-title="Sport",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png" group-title="Sport",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="Sport",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="." group-title="Sport",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png" group-title="Sport",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -255,13 +255,13 @@ http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
 http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Local",RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",RTVE
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Super3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",Super3
 http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",Taroteame TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",Taroteame TV
 http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0w1W0vE.png" group-title="Religious",TBN España
 http://wowzaprod161-i.akamaihd.net/hls/live/598486/e049734e/playlist.m3u8
@@ -291,11 +291,11 @@ http://amodino-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="",TV Municipal Cordoba
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="" group-title="Local",TV3
+#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="." group-title="Local",TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 #EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1355.png" group-title="Local",TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="" group-title="Local",TV3
+#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="." group-title="Local",TV3
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 #EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1200px-TV3CAT.svg.png" group-title="Local",TV3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8

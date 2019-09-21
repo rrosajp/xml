@@ -18,7 +18,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movies",HBO Zone
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Movies",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Movies",HBO2
@@ -60,7 +60,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",24/7 Retro TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Movies",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/SFO/KTVUDT3.png" group-title="",Movies!
