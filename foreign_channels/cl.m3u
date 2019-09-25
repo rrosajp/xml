@@ -21,7 +21,7 @@ https://v2.tustreaming.cl/canal11aysen/live1/tracks-v1a1/mono.m3u8
 http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lt6eQkt.jpg" group-title="",Canal 2 San Antonio
 http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CDO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ols6oB6.png" group-title="",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w72729836.m3u8
@@ -35,7 +35,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B87ttUg.png" group-title="",Desierto TV
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",El Pinguino TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="",El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
@@ -63,7 +63,7 @@ https://video.mediostream.cl/graciatv/live1/tracks-v1a1/mono.m3u8
 https://v2.tustreaming.cl/graciatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DZTIv7w.png" group-title="",Holvoet TV
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Holvoet TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Holvoet TV
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DZTIv7w.png" group-title="",Holvoet TV
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8
@@ -83,7 +83,7 @@ http://video-ply.pauta.cl/playlist/stream.m3u8
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="",Pintana TV
 https://tls.cdnz.cl/lapintana/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="Music",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -91,7 +91,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a7iI5NO.jpg" group-title="",Quinta TV
 https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8?fluxustv.m3u8
@@ -109,13 +109,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;r
 https://590c5dc5c3271.streamlock.net/carlos107/carlos107/chunklist_w1171406684.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YsHJxPn.png" group-title="",T13 Radio
 https://t13-radio-live.cdn.nedmedia.io/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tele13 Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Tele13 Radio
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="",Teletrak
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8SmeHUA.jpg" group-title="",Temuco Televisión
 https://593d7fe3c9b0d.streamlock.net/8172/8172/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV Senado
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV Senado
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="",TV5 Linares
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
@@ -143,5 +143,5 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iNmceyy.png" group-title="",Wow (El Salvador)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zero Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Zero Tv
 http://unlimited5-cl.dps.live/zerotv/zerotv.smil/zerotv/livestream1/chunks.m3u8
