@@ -1,24 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MeaSmiv.jpg" group-title="",15TV Sabinas
-http://bit.ly/2O6t5rO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MeaSmiv.jpg" group-title="",15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MeaSmiv.jpg" group-title="",15TV Sabinas
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="",ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rbDb5mb.png" group-title="",Aprende TV
 https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="",Azteca Mas
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="",Azteca Mas
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="",Azteca Mas
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="",Azteca Mas
-https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KWwbYPs.jpg" group-title="",BBLACK
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V0o0yn4.jpg" group-title="",C7 Cultura
@@ -69,10 +57,6 @@ http://api.new.livestream.com/accounts/dominio/events/8405951/live.m3u8
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqDCsoS.png" group-title="",FOROtv
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqDCsoS.png" group-title="",FOROtv
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqDCsoS.png" group-title="",FOROtv
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="",Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CA0LESg.jpg" group-title="",Ingenio TV
@@ -119,10 +103,6 @@ http://189.204.137.189:8888/canal6mobiles.m3u8
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SkoIyOx.png" group-title="",PRESUMIENDO
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NsPz9Tr.png" group-title="",RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NsPz9Tr.png" group-title="",RCG 1 Saltillo SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="",RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pxs1swY.png" group-title="",ROCK | SD (MX)

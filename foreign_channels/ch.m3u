@@ -35,8 +35,6 @@ http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w847296835.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oyxClat.png" group-title="",RTS 1
 https://s1.tntendirect.com/rts1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1sdALZc.png" group-title="",RTS 2
-https://s1.tntendirect.com/rts2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",RTS Couleur 3
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Sport",Sportal HD
@@ -54,7 +52,7 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe
 #EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel HD CH" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="",Telebasel HD
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="",TeleBielingue
-https://edge7.vedge.infomaniak.com/livecast/telebielinguech/manifest.m3u8
+https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="",TeleTicino
 https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T26G8fr.jpg" group-title="",TVM3

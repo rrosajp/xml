@@ -135,13 +135,13 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",KBS World (Indonesia)
 http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="",Kix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="",Kix
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Kix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="",Kix
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="",Kix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="",Kix
 http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Kix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="",Kix
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -149,9 +149,7 @@ http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=00
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="",Madani
 http://210.210.155.35/qwr9ew/s/s41/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Metro TV
-http://45.126.83.51/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B2Q5hcQ.png" group-title="",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Mix TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
@@ -215,8 +213,6 @@ http://210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8
 http://210.210.155.35/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="",SCTV
 http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="",SCTV
-http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/300px-Spacetoon.png" group-title="",Spacetoon Indonesia
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Sport",Super Soccer TV
@@ -251,8 +247,6 @@ http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=0
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2931201906232251491158010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-ntWIQ3h6jfY/VtxHKTuef4I/AAAAAAAAAEg/GHp3iYd9Bmw/s1600/TRANS_TV.png" group-title="",Trans TV
 http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="",Trans TV
-http://id6.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="",TV1

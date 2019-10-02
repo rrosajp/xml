@@ -19,13 +19,17 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playli
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local",7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/clUzCYJ.jpg" group-title="Local",7 TeleValencia
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="Local",A Punt
 https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/InD2uAT.png" group-title="",Alacanti TV
 http://5.39.65.105/hls/alacantixa.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://i.imgur.com/1Zip59u.png" group-title="",Aragon TV
+#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://i.imgur.com/j6zrg4O.jpg" group-title="Sport",Aragón Deporte HD
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
+#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://i.imgur.com/1Zip59u.png" group-title="",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gD5eYVs.jpg" group-title="",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
@@ -47,10 +51,6 @@ http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/65AQSk3.png" group-title="Local",Canal 4 Tenerife
-http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/65AQSk3.png" group-title="Local",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/laEKihH.jpg" group-title="Local",Canal 56
 https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extremadura TV" tvg-logo="https://i.imgur.com/hOV89v8.jpg" group-title="Local",Canal Extremadura
@@ -63,8 +63,6 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/logo1.png" group-title="Local",Canal Málaga
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tZEu1dV.png" group-title="",Canal Parlament de Catalunya
 http://cdn.s6.eu.nice264.com:1935/niceLiveServer/pcatlive_canal1_MB_800/.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U842Z2c.png" group-title="",Canal Parlamento
@@ -119,8 +117,6 @@ http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?fluxustv.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="General",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nMXmRPZ.png" group-title="",CYL TV Castilla Leon
-http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OwsmMWu.png" group-title="",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="General",Divinity
@@ -181,18 +177,14 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/onKYVw2.png" group-title="Music",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NORVfZj.png" group-title="",Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="",Interalmeria TV
 http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N3jCV3M.png" group-title="",Intereconomia TV
 https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 ES" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="LA 2 ES" tvg-name="LA 2 ES" tvg-logo="https://i.imgur.com/jVxJ4lW.png" group-title="",La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsUhfg3.png" group-title="Local",La 7 Castilla
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsUhfg3.png" group-title="Local",La 7 Castilla
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Entertainment",La Voz 24h
 https://pull12.atresmedia.com/lavoz/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oe66woA.png" group-title="",Lebrija TV
