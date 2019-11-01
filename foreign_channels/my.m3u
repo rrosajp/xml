@@ -3,7 +3,7 @@
 http://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="" group-title="Movies",CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="." group-title="Movies",CELESTIAL MOVIES
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8

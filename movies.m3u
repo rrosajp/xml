@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="Movies", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Movies",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Movies",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
