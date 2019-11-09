@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<xml>
     <item>
         <title>[COLORpurple]--(Real Debrid required)--[/COLOR]</title>
     </item>
 
     <item>
         <title>Ghostbusters</title>
-        <link>
-        <sublink name="1080p ">magnet:?xt=urn:btih:ae484e4bee9a1ea4b11d03dce045146bf50a22db</sublink>
-        </link>
-        <thumbnail>http://lltv.xyz:80/images/4qnJ1hsMADxzwnOmnwjZTNp0rKT_small.jpg</thumbnail>
+        <link> name="1080p ">magnet:?xt=urn:btih:ae484e4bee9a1ea4b11d03dce045146bf50a22db </link>
+        <thumbnail>https://usercontent2.hubstatic.com/14661211_f520.jpg</thumbnail>
     </item>
-
+</xml>
 
