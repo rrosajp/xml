@@ -2,30 +2,33 @@
     <item>
         <title>The Matrix</title>
         <link>
-        <sublink name="4K ">http://dl5.lavinmovie.net/Movies/1999/The.Matrix.1999.2160p.10bit.HDR.BluRay.8CH.x265.HEVC.PSA.LavinMovie.mkv</sublink>
-        <sublink name="1080p ">http://dl5.lavinmovie.net/Movies/1999/The.Matrix.1999.1080p.10bit.BluRay.6CH.x265.HEVC.PSA.LavinMovie.mkv</sublink>
-        <sublink name="720p ">http://dl5.lavinmovie.net/Movies/1999/The.Matrix.1999.720p.10bit.BluRay.6CH.x265.HEVC.PSA.LavinMovie.mkv</sublink>
+        <sublink name="4K ">https://real-debrid.com/d/ICJFFU2UW5NZG</sublink>
+        <sublink name="1080p ">https://real-debrid.com/d/OOCPLZE5UBLWI</sublink>
+        <sublink name="720p ">https://real-debrid.com/d/KTE3UOFCPLCTS</sublink>
         </link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51EG732BV3L._SY445_.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/lZpWprJqbIFpEV5uoHfoK0KCnTW.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/icmmSD4vTTDKOq2vvdulafOGw93.jpg</fanart>
     </item>
 
     <item>
         <title>The Matrix Reloaded</title>
         <link>
-        <sublink name="4K ">http://dl.lavinmovie.net/movie/2003/The.Matrix.Reloaded.2003.2160p.BluRay.HEVC.x265.10bit.AAC.7.1.Joy.LavinMovie.mkv</sublink>
-        <sublink name="1080p ">http://dl.lavinmovie.net/movie/2003/The.Matrix.Reloaded.2003.1080p.BluRay.REMUX.AVC.Atmos.EPSiLON.LavinMovie.mkv</sublink>
-        <sublink name="720p ">http://dl.lavinmovie.net/movie/2003/The.Matrix.Reloaded.2003.720p.BluRay.AC3.AdiT.LavinMovie.mkv</sublink>
+        <sublink name="4K ">https://real-debrid.com/d/NCH3UZVBCZSI2</sublink>
+        <sublink name="1080p ">https://real-debrid.com/d/7GE44WUXVAKD2</sublink>
+        <sublink name="720p ">https://real-debrid.com/d/LPSJSLMIZNJF6</sublink>
         </link>
-        <thumbnail>https://s3-ap-southeast-2.amazonaws.com/fna-wordpress-website06/wp-content/uploads/2018/09/05151330/matrixreloaded-1440x960.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ezIurBz2fdUc68d98Fp9dRf5ihv.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/uWsG8o3qFZGlhLDkwVH7BCCsoCJ.jpg</fanart>
     </item>
 
     <item>
         <title>The Matrix Revolutions</title>
         <link>
-        <sublink name="4K ">http://dl.lavinmovie.net/movie/2003/The.Matrix.Revolutions.2003.2160p.BluRay.HEVC.x265.10bit.AAC.7.1.Joy.LavinMovie.mkv</sublink>
-        <sublink name="1080p ">http://dl.lavinmovie.net/movie/2003/The.Matrix.Revolutions.2003.USA.Remastered.1080p.Blu-ray.Remux.AVC.TrueHD.Atmos.7.1.BluDragon.LavinMovie.mkv</sublink>
-        <sublink name="720p ">http://dl.lavinmovie.net/movie/2003/The.Matrix.Revolutions.2003.720p.BluRay.AC3.AdiT.LavinMovie.mkv</sublink>
+        <sublink name="4K ">https://real-debrid.com/d/MNXVROIWGGJKK</sublink>
+        <sublink name="1080p ">https://real-debrid.com/d/4WZ2IJQRZ3NY4</sublink>
+        <sublink name="720p ">https://real-debrid.com/d/U55I73ZGAX2OQ</sublink>
         </link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BNzNlZTZjMDctZjYwNi00NzljLWIwN2QtZWZmYmJiYzQ0MTk2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sKogjhfs5q3azmpW7DFKKAeLEG8.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yrP75y32N1aMRzgBdgPCWYz9sRO.jpg</fanart>
     </item>
 </xml>
