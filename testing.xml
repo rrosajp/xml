@@ -47,5 +47,24 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/J1UDZYfVaLJjoIfw0VDmpBZ2Sm.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3Gvj33dyiAXHGqWKItDQ9anap7c.jpg</fanart>
     </item>
+
+    <item>
+        <title>Repo Man</title>
+        <link>
+        <sublink name="720p ">https://real-debrid.com/d/VIO6A5AW5YVXK</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9l48hWNQ5vH5dwzIVmXxb0D6bjc.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ljq6BMUPWmbrImI8P3wbZckiR8x.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Starman</title>
+        <link>
+        <sublink name="1080p ">https://real-debrid.com/d/E3OIMYWBBZIUI</sublink>
+        <sublink name="720p ">https://real-debrid.com/d/ERLBIZYF3RUZC</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/3QQ170R8BVr4NPzvNUMqttFqmGi.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fpewsGjyYXM4wo1nwWygVTTzmbK.jpg</fanart>
+    </item>
 </xml>
 
