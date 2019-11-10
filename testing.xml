@@ -102,5 +102,41 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/yBbMF9IGzVtmKDdEUD5FOrAUwRf.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/viLgxGZr8YHXx2qZ6e1QTDG8x1R.jpg</fanart>
     </item>
+
+    <item>
+        <title>Flight of the Navigator</title>
+        <link>
+        <sublink name="1080p ">https://real-debrid.com/d/TEAIFZ6XLQBEI</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/69kD2bpkwSadpN30JB9vJrlz8HW.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/frQ7WuW595dispaIW66SYmzKasG.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Police Academy 3</title>
+        <link>
+        <sublink name="720p ">https://real-debrid.com/d/32DJY32N275YA</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/r4j14ZjmWfcQbboG76gxloqa3N3.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5smkOfRSHweYIO0gDFajc8J0fb0.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Police Academy 4</title>
+        <link>
+        <sublink name="720p ">https://real-debrid.com/d/K35Y3GD7LH3TK</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/AcvfIPLXGxSucYGSmfkRU2SqLi4.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/aHiWHHqO1a1WY02KQGwvECJ7hzH.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Spaceballs</title>
+        <link>
+        <sublink name="1080p ">https://real-debrid.com/d/EG6KVFX7GWMPQ</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xWt9KAcToCRdJ6JH8JyZZlhkVgG.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/pZz5VmundsZO29sB3TgZKjnFEEM.jpg</fanart>
+    </item>
 </xml>
 
