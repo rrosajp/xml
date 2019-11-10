@@ -1,6 +1,6 @@
 <xml>
     <item>
-        <title>[COLORpurple]Real Debrid required[/COLOR]</title>
+        <title>[COLORgold]Real Debrid required[/COLOR]</title>
     </item>
 
     <item>
@@ -28,6 +28,24 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg</fanart>
+    </item>
+
+     <item>
+        <title>The Last Starfighter</title>
+        <link>
+        <sublink name="1080p ">https://real-debrid.com/d/PO6U6T7AXUVAG</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/an1H0DPADLDlEsiUy8vE9AWqrhm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/41mTvUFC5qtrAI12kQbgxw3Zig.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Police Academy</title>
+        <link>
+        <sublink name="720p ">https://real-debrid.com/d/WL5RGMSKGOQWE</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/J1UDZYfVaLJjoIfw0VDmpBZ2Sm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3Gvj33dyiAXHGqWKItDQ9anap7c.jpg</fanart>
     </item>
 </xml>
 

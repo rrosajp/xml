@@ -2,9 +2,10 @@
     <item>
         <title>Brazil</title>
         <link>
-        <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94353.mkv</sublink>
+        <sublink name="1080p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94353.mkv</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/55Vfc1beLn3pJF4Lw83TRKHenK6_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/55Vfc1beLn3pJF4Lw83TRKHenK6.jpg</thumbnail>
+        <fanart></fanart>
     </item>
 
     <item>
@@ -13,6 +14,7 @@
         <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94365.mkv</sublink>
         </link>
         <thumbnail>http://lltv.xyz:80/images/hKsZY8jHagbiTtvq8mwHV36a9ki_small.jpg</thumbnail>
+        <fanart></fanart>
     </item>
 
     <item>
@@ -21,6 +23,7 @@
         <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96602.mp4</sublink>
         </link>
         <thumbnail>http://lltv.xyz:80/images/iNlm1BBGCwfP207QzuUk2Ei13sG_small.jpg</thumbnail>
+        <fanart></fanart>
     </item>
 
     <item>
@@ -29,5 +32,6 @@
         <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96638.mp4</sublink>
         </link>
         <thumbnail>http://lltv.xyz:80/images/yBbMF9IGzVtmKDdEUD5FOrAUwRf_small.jpg</thumbnail>
+        <fanart></fanart>
     </item>
 </xml>

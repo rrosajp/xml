@@ -2,17 +2,19 @@
     <item>
         <title>Ghostbusters</title>
         <link>
-        <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96462.mkv</sublink>
+        <sublink name="1080p ">https://real-debrid.com/d/62TGKE5YWTQJC</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/4qnJ1hsMADxzwnOmnwjZTNp0rKT_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/3FS3oBdorgczgfCkFi2u8ZTFfpS.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/qmDy6Rdom8d8UFj9GeAAtVIjTRT.jpg</fanart>
     </item>
 
     <item>
         <title>The Last Starfighter</title>
         <link>
-        <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94427.mkv</sublink>
+        <sublink name="1080p ">https://real-debrid.com/d/PO6U6T7AXUVAG</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/an1H0DPADLDlEsiUy8vE9AWqrhm_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/an1H0DPADLDlEsiUy8vE9AWqrhm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/41mTvUFC5qtrAI12kQbgxw3Zig.jpg</fanart>
     </item>
 
     <item>
@@ -20,7 +22,8 @@
         <link>
         <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96608.mp4</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/J1UDZYfVaLJjoIfw0VDmpBZ2Sm_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/J1UDZYfVaLJjoIfw0VDmpBZ2Sm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3Gvj33dyiAXHGqWKItDQ9anap7c.jpg</fanart>
     </item>
 
     <item>
@@ -28,14 +31,17 @@
         <link>
         <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94407.mkv</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/e3I831drBvpHe6FFb93geZxqU5c_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9l48hWNQ5vH5dwzIVmXxb0D6bjc.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ljq6BMUPWmbrImI8P3wbZckiR8x.jpg</fanart>
     </item>
 
     <item>
         <title>Starman</title>
         <link>
-        <sublink name="720p ">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94415.mkv</sublink>
+        <sublink name="1080p ">https://real-debrid.com/d/E3OIMYWBBZIUI</sublink>
+        <sublink name="720p ">https://real-debrid.com/d/ERLBIZYF3RUZC</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/3QQ170R8BVr4NPzvNUMqttFqmGi_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/3QQ170R8BVr4NPzvNUMqttFqmGi.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fpewsGjyYXM4wo1nwWygVTTzmbK.jpg</fanart>
     </item>
 </xml>
