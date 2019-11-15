@@ -5,6 +5,7 @@
 
     <item>
         <title>Police Academy 4</title>
+        <mode>movies</mode>
         <meta>
             <content>movie</content>
             <imdb>tt0093756</imdb>
@@ -20,6 +21,7 @@
 
     <item>
         <title>Spaceballs</title>
+        <mode>movies</mode>
         <meta>
             <content>movie</content>
             <imdb>tt0094012</imdb>
