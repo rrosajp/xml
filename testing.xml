@@ -5,13 +5,12 @@
 
     <item>
         <title>Police Academy 4</title>
-        <mode>movies</mode>
         <meta>
-            <content>movies</content>
             <imdb>tt0093756</imdb>
+            <content>movie</content>
             <title>Police Academy 4</title>
             <year>1987</year>
-	    </meta>
+            </meta>
         <link>
         <sublink name="720p ">https://real-debrid.com/d/K35Y3GD7LH3TK</sublink>
         </link>
@@ -21,10 +20,9 @@
 
     <item>
         <title>Spaceballs</title>
-        <mode>movies</mode>
         <meta>
-            <content>movies</content>
             <imdb>tt0094012</imdb>
+            <content>movie</content>
             <title>Spaceballs</title>
             <year>1987</year>
 	    </meta>
