@@ -53,6 +53,10 @@ http://81.30.182.82:18092/hls/live.m3u8
 https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/xbTAB8O.png" group-title="",ORTRK-12
 http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" group-title="",PINGVIN LOLO
+http://82.193.71.93:80/LoLoRuSattelite/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/EqmdFai.jpg" group-title="",PRO 100 TV
+http://82.193.71.93:80/Pro100TvRuSattelite/video.m3u8
 #EXTINF:-1 tvg-id="russia-today" tvg-name="Russia Today" tvg-language="English" tvg-logo="https://i.imgur.com/fXqy322.png" group-title="News",RT
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="russia-today" tvg-name="https://i.imgur.com/fXqy322.png" tvg-language="English" tvg-logo="." group-title="News",RT
@@ -351,18 +355,12 @@ http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rzd_russian_railways.jpg" group-title="",РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1
-http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1
-http://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1
-http://rt-nw-arkh-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1
-http://www.vradio.ru/hls/russia-1-live-2000/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" tvg-name="Россия 1 +6" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_1.jpg" group-title="General",Россия 1 (+6)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1 (ГТРК Чувашия)
+http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="General",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-language="Russian" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="News",Россия 24
 http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_24.jpg" group-title="News",Россия 24
