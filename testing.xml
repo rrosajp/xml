@@ -123,6 +123,12 @@
 
     <item>
         <title>Police Academy 4</title>
+        <meta>
+            <content>movies</content>
+            <imdb>tt0093756</imdb>
+            <title>Police Academy 4</title>
+            <year>1987</year>
+	    </meta>
         <link>
         <sublink name="720p ">https://real-debrid.com/d/K35Y3GD7LH3TK</sublink>
         </link>
@@ -134,28 +140,15 @@
         <title>Spaceballs</title>
         <meta>
             <content>movies</content>
-            <imdb></imdb>
-            <title></title>
-            <year></year>
+            <imdb>tt0094012</imdb>
+            <title>Spaceballs</title>
+            <year>1987</year>
 	    </meta>
         <link>
         <sublink name="1080p ">https://real-debrid.com/d/EG6KVFX7GWMPQ</sublink>
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xWt9KAcToCRdJ6JH8JyZZlhkVgG.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/pZz5VmundsZO29sB3TgZKjnFEEM.jpg</fanart>
-    </item>
-
-    <item>
-        <title>Halloween 2018</title>
-        <meta>
-            <content>movies</content>
-            <imdb></imdb>
-            <title></title>
-            <year></year>
-	    </meta>
-        <link>https://streamango.com/embed/clapkeepeoktqbda/</link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cdvd03HL4JoTd9yKvQ10dcmwi8c.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9n6GV6tlvBdynVH6Qwcpg3sklSs.jpg</fanart>
     </item>
 
 </xml>
