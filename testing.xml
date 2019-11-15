@@ -168,5 +168,48 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/bURIWlkMbzT8RdpemzCmQECo2Uh.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg</fanart>
     </item>
+
+    <dir>
+    <name>New Releases</name>
+    <link>https://raw.githubusercontent.com/jaylex32/Enoch-addon/master/Movie%20New%20Releases.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    </dir>
+
+    <dir>
+    <name>Most Popular</name>
+    <link>https://raw.githubusercontent.com/jaylex32/Enoch-addon/master/Movies.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    </dir>
+
+    <dir>
+    <name>Recently Added</name>
+    <link>https://raw.githubusercontent.com/jaylex32/Enoch-addon/master/Movies%20Recently%20Added.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    </dir>
+
+    <dir>
+    <name>A-Z</name>
+    <link>https://raw.githubusercontent.com/jaylex32/Enoch-addon/master/A-Z%20directory%20Main.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    </dir>
+
+    <dir>
+    <name>IMDB Zone</name>
+    <link>https://raw.githubusercontent.com/jaylex32/Enoch-addon/master/New%20Movies.xml</link>
+    <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk3ODA4Mjc0NF5BMl5BcG5nXkFtZTgwNDc1MzQ2OTE@._V1_.png</thumbnail>
+    <fanart></fanart>
+    </dir>
+
+    <dir>
+    <name>Top Movies Section</name>
+    <link>https://raw.githubusercontent.com/jaylex32/Enoch-addon/master/Ultra%20Movie%20main.xml</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/1303534605/logo_top_movies_02.png</thumbnail>
+    <fanart></fanart>
+    </dir>
+
 </xml>
 
