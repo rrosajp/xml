@@ -133,12 +133,11 @@
     <item>
         <title>Spaceballs</title>
         <meta>
-		<content>movie</content>
-		<imdb></imdb>
-		<title></title>
-		<year></year>
-        <plot>When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of "The Schwartz." Can he master it in time to save the day?</plot>
-	</meta>
+            <content>movies</content>
+            <imdb></imdb>
+            <title></title>
+            <year></year>
+	    </meta>
         <link>
         <sublink name="1080p ">https://real-debrid.com/d/EG6KVFX7GWMPQ</sublink>
         </link>
@@ -148,6 +147,12 @@
 
     <item>
         <title>Halloween 2018</title>
+        <meta>
+            <content>movies</content>
+            <imdb></imdb>
+            <title></title>
+            <year></year>
+	    </meta>
         <link>https://streamango.com/embed/clapkeepeoktqbda/</link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cdvd03HL4JoTd9yKvQ10dcmwi8c.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9n6GV6tlvBdynVH6Qwcpg3sklSs.jpg</fanart>
