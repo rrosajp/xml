@@ -4,18 +4,9 @@
     </item>
 
     <item>
-        <title>Police Academy 3</title>
-        <link>
-        <sublink name="720p ">https://real-debrid.com/d/32DJY32N275YA</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/r4j14ZjmWfcQbboG76gxloqa3N3.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5smkOfRSHweYIO0gDFajc8J0fb0.jpg</fanart>
-    </item>
-
-    <item>
         <title>Police Academy 4</title>
         <meta>
-            <content>movies</content>
+            <content>movie</content>
             <imdb>tt0093756</imdb>
             <title>Police Academy 4</title>
             <year>1987</year>
@@ -30,7 +21,7 @@
     <item>
         <title>Spaceballs</title>
         <meta>
-            <content>movies</content>
+            <content>movie</content>
             <imdb>tt0094012</imdb>
             <title>Spaceballs</title>
             <year>1987</year>
