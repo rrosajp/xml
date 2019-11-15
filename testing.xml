@@ -159,5 +159,14 @@
         <thumbnail>https://image.tmdb.org/t/p/w1280/6hLlDbhxkjqDlTWklYXERDYX7SL.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/yVFkPh4n7f4qOvmvbjndl68TsS7.jpg</fanart>
     </item>
+
+    <item>
+        <title>Venom</title>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://www.youtube.com/watch?v=OYQ-KDwH_yI</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/bURIWlkMbzT8RdpemzCmQECo2Uh.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg</fanart>
+    </item>
 </xml>
 
