@@ -1,5 +1,11 @@
 <xml>
     <dir>
+        <title>Avengers</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/avengers.xml</link>
+        <thumbnail>https://i.ytimg.com/vi/FOabQZHT4qY/maxresdefault.jpg</thumbnail>
+    </dir>
+
+    <dir>
         <title>Cars</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/cars.xml</link>
         <thumbnail>https://cdn.shopify.com/s/files/1/1282/8993/products/cars-1-and-2-blu-ray_6.jpeg?v=1462646646</thumbnail>
@@ -8,7 +14,7 @@
     <dir>
         <title>Creed</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/creed.xml</link>
-        <thumbnail>https://cdn.shopify.com/s/files/1/1282/8993/products/cars-1-and-2-blu-ray_6.jpeg?v=1462646646</thumbnail>
+        <thumbnail>https://static.raru.co.za/cover/2019/02/19/7086609-l.jpg?v=1550569288</thumbnail>
     </dir>
 
     <dir>
