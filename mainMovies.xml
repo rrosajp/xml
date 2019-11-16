@@ -1,25 +1,13 @@
 <xml>
     <dir>
-        <title>Movies</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/1_movies.xml</link>
+        <title>1 Click Movies [B][COLOR gold] Real Debrid [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/click_movies.xml</link>
         <thumbnail>https://sitejerk.com/images/4k-png-14.png</thumbnail>
     </dir>
 
     <dir>
-        <title>Box Sets</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/box_sets.xml</link>
+        <title>1 Click Shows [B][COLOR gold] Real Debrid [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/click_shows.xml</link>
         <thumbnail>https://www.propermusic.com/cache/images/c/c/8/cc80ec997b94bf5ee4b84c734e9d2890.jpg</thumbnail>
-    </dir>
-
-    <dir>
-        <title>Kids Movies</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/kidsmovies.xml</link>
-        <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
-    </dir>
-
-    <dir>
-        <title>3D Movies</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/3dmovies.xml</link>
-        <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
     </dir>
 </xml>
