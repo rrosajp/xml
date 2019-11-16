@@ -105,6 +105,12 @@
 
     <item>
         <title>Bambi 1942</title>
+        <meta>
+            <imdb>tt0034492</imdb>
+            <content>movie</content>
+            <title>Bambi</title>
+            <year>1942</year>
+        </meta>
         <link>https://real-debrid.com/d/C5ZG3X6CQXTDG</link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/zM2Rdsh4kiTEXPkkO9lWBzZpwAH.jpg</fanart>
@@ -112,50 +118,80 @@
 
     <item>
         <title>Beauty and The Beast 1991</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89927.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/b9QJr2oblOu1grgOMUZF1xkUJdh_small.jpg</thumbnail>
-    </item>
-
-    <item>
-        <title>Beauty and the Beast</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89928.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/b9QJr2oblOu1grgOMUZF1xkUJdh_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt0101414</imdb>
+            <content>movie</content>
+            <title>Beauty and The Beast</title>
+            <year>1991</year>
+        </meta>
+        <link>https://real-debrid.com/d/5TO22ME4BFTD4</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/b9QJr2oblOu1grgOMUZF1xkUJdh.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9O9ZcvpqYMVsNgNvN81TZ7NpgMK.jpg</fanart>
     </item>
 
     <item>
         <title>Bedknobs and Broomsticks 1971</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89929.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/1mWFExXAlUSgfBKGkK3mjH1iXk4_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt0066817</imdb>
+            <content>movie</content>
+            <title>Bedknobs and Broomsticks</title>
+            <year>1971</year>
+        </meta>
+        <link>https://real-debrid.com/d/FJMXDETCIVZII</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/1mWFExXAlUSgfBKGkK3mjH1iXk4.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/dK472MouJXmu6hRAlimBgxQf3Np.jpg</fanart>
     </item>
 
     <item>
         <title>Bedtime Stories 2008</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89930.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/nhovvB0LO5nlgIvpPg2C1iLLAvr_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt0960731</imdb>
+            <content>movie</content>
+            <title>Bedtime Stories</title>
+            <year>2008</year>
+        </meta>
+        <link>https://real-debrid.com/d/X5UXZNWQUP7OI</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nhovvB0LO5nlgIvpPg2C1iLLAvr.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fK079xAMXWYOfL0Cvsc5stHmcwI.jpg</fanart>
     </item>
 
     <item>
         <title>Bee Movie 2007</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89931.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/QhbOzpYfBOwrRiuTu9otPk919R_small.jpg</thumbnail>
-    </item>
-
-    <item>
-        <title>Bewitched 2005</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89933.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/auUAybijSJ72XuTaPgh0EhvyJ13_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt0389790</imdb>
+            <content>movie</content>
+            <title>Bee Movie</title>
+            <year>2007</year>
+        </meta>
+        <link>https://real-debrid.com/d/76XMRDIESVAKA</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/QhbOzpYfBOwrRiuTu9otPk919R.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2lBpQZevIJdL4vPrZ7Nnm7mrVlm.jpg</fanart>
     </item>
 
     <item>
         <title>Brave 2012</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89935.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/qhABv2d4NZLhsOOA4iBFM4rfuJC_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt0349204</imdb>
+            <content>movie</content>
+            <title>Brave</title>
+            <year>2012</year>
+        </meta>
+        <link>https://real-debrid.com/d/7YAMIBDVQISKO</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/qhABv2d4NZLhsOOA4iBFM4rfuJC.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/sfRCA9g3CunpnZO3QurHSIRcsUq.jpg</fanart>
     </item>
 
     <item>
         <title>Camp Rock</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89937.avi</link>
-        <thumbnail>http://lltv.xyz:80/images/7IXMqZnwccogptThay3togKIFWw_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt1055366</imdb>
+            <content>movie</content>
+            <title>Camp Rock</title>
+            <year>2008</year>
+        </meta>
+        <link>https://real-debrid.com/d/FMTFMWCR6K6JU</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7IXMqZnwccogptThay3togKIFWw.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/frQfDFEEhrCQzQFpxXlvtP2h0Fo.jpg</fanart>
     </item>
 
     <item>
