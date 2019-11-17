@@ -66,6 +66,12 @@
     </dir>
 
     <dir>
+        <title>2004</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/movies/2004.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>2003</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/movies/2003.xml</link>
         <thumbnail></thumbnail>
