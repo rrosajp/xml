@@ -15,7 +15,15 @@
 
     <item>
         <title>How to Train Your Dragon: The Hidden World</title>
-        <link>https://real-debrid.com/d/E5Q2N5Y3I6H4W</link>
+        <meta>
+            <imdb>tt2386490</imdb>
+            <content>movie</content>
+            <title>How to Train Your Dragon: The Hidden World</title>
+            <year>2019</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/E5Q2N5Y3I6H4W</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg</fanart>
     </item>
