@@ -1,5 +1,18 @@
 <xml>
     <item>
+        <title>A Bug's Life</title>
+        <meta>
+            <imdb>tt0120623</imdb>
+            <content>movie</content>
+            <title>A Bug's Life</title>
+            <year>1998</year>
+        </meta>
+        <link>https://real-debrid.com/d/YCEBSYHTXTDYI</link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/u9qGMRwcPwP0WETxulS5hKUsEum.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bHMHpXNjeKRxcjWcpbIAD5f0aIK.jpg</fanart>
+    </item>
+
+    <item>
         <title>Dark City</title>
         <meta>
             <imdb>tt0118929</imdb>
