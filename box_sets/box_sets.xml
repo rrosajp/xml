@@ -90,6 +90,12 @@
     </dir>
 
     <dir>
+        <title>Jump Street</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/jumpstreet.xml</link>
+        <thumbnail>https://images.store.sky.com/api/img/asset/en/66D8BB8A-E4E8-4422-9242-603110084545_29537DF4-BA75-4DA8-BE6A-C27ECDCDD3E4_2019-8-6-T10-59-55.jpg?s=260x371</thumbnail>
+    </dir>
+
+    <dir>
         <title>Jurassic Park</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/jurassic_park.xml</link>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61DirW2qQ3L._SL1001_.jpg</thumbnail>

@@ -42,11 +42,17 @@
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/EHKJM3M7IXGNM</sublink>
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/lgYKHifMMLT8OxYObMKa8b4STsr.jpg</thumbnail>
-        <fanart></fanart>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bhEudqWbWsiEBdnl0kCIwFp5Hay.jpg</fanart>
     </item>
 
     <item>
         <title>Daddy Day Care</title>
+        <meta>
+            <imdb>tt0317303</imdb>
+            <content>movie</content>
+            <title>Daddy Day Care</title>
+            <year>2003</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96428.avi</sublink>
         </link>
@@ -56,15 +62,28 @@
 
     <item>
         <title>Freaky Friday</title>
+        <meta>
+            <imdb>tt0322330</imdb>
+            <content>movie</content>
+            <title>Freaky Friday</title>
+            <year>2003</year>
+        </meta>
         <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96454.mp4</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/LTD4ZAP4IHHJA</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/AICFUEQW6WEGO</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/fBtYKVgpGNoUsmRGy7rLjIQsmpf_small.jpg</thumbnail>
-        <fanart></fanart>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/fBtYKVgpGNoUsmRGy7rLjIQsmpf.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/x2TdQg2vNCXm7OXCiCF26E0g4q9.jpg</fanart>
     </item>
 
     <item>
         <title>How to Lose a Guy in 10 Days</title>
+        <meta>
+            <imdb>tt0251127</imdb>
+            <content>movie</content>
+            <title>How to Lose a Guy in 10 Days</title>
+            <year>2003</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96488.mp4</sublink>
         </link>

@@ -1,6 +1,12 @@
 <xml>
     <item>
         <title>Rush Hour</title>
+        <meta>
+            <imdb>tt0120812</imdb>
+            <content>movie</content>
+            <title>Rush Hour</title>
+            <year>1998</year>
+        </meta>
         <link>
         <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/JJ3QXEYSN5V3W</sublink>
         </link>
@@ -10,8 +16,14 @@
 
     <item>
         <title>Rush Hour 2</title>
+        <meta>
+            <imdb>tt0266915</imdb>
+            <content>movie</content>
+            <title>Rush Hour 2</title>
+            <year>2001</year>
+        </meta>
         <link>
-        <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/GX5D5ESUWHRXA</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/GX5D5ESUWHRXA</sublink>
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/kFeK17ZSogSxRxuupTxZ6PGklbj.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bLv1am2xc4JqP4CzT7i48BFQjTu.jpg</fanart>
@@ -20,7 +32,7 @@
     <item>
         <title>Rush Hour 3</title>
         <link>
-        <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/G22D6PAKGZFAQ</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/G22D6PAKGZFAQ</sublink>
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/qgaDWYLrnEPJpc5Lp35WbgX7GfS.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/awz4HjFA02ldEhVcJY27Ek2sfuT.jpg</fanart>
