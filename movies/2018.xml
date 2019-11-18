@@ -346,7 +346,8 @@
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/KOP5AKUQTP6UM</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/E7WUAXULGHYSW</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/7XURM64DYa9DpS70I2rM4suvq1s_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7XURM64DYa9DpS70I2rM4suvq1s.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6Js3hlL2R57R0ooFsFeeuj7JYU7.jpg</fanart>
     </item>
 
     <item>
@@ -398,22 +399,6 @@
     </item>
 
     <item>
-        <title>Father Of The Year</title>
-        <meta>
-            <imdb>tt7256866</imdb>
-            <content>movie</content>
-            <title>Father Of The Year</title>
-            <year>2018</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/GEFIOYAONCJS2</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5UNI4LXTD7QGQ</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mmBdCkZxHwQn5zM17cZmd3giJCY.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ohqTNoA6pYzTXookp8UXNWQlAgY.jpg</fanart>
-    </item>
-
-    <item>
         <title>Fantastic Beasts: The Crimes of Grindelwald</title>
         <meta>
             <imdb>tt4123430</imdb>
@@ -428,6 +413,22 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/xgbeBCjmFpRYHDF7tQ7U98EREWp.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Father Of The Year</title>
+        <meta>
+            <imdb>tt7256866</imdb>
+            <content>movie</content>
+            <title>Father Of The Year</title>
+            <year>2018</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/GEFIOYAONCJS2</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5UNI4LXTD7QGQ</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mmBdCkZxHwQn5zM17cZmd3giJCY.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ohqTNoA6pYzTXookp8UXNWQlAgY.jpg</fanart>
     </item>
 
     <item>
