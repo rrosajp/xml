@@ -1,13 +1,12 @@
 <xml>
     <item>
-        <title>The Mighty Ducks</title>
-        <link>https://real-debrid.com/d/OMTT2K4L6MZEM</link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/i6FWIZ9UHdkvtmP7b2OwnpNwo8k.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/widvxFSHwraV3X4YbJsOcT0ZFy8.jpg</fanart>
-    </item>
-
-    <item>
         <title>D2: The Mighty Ducks</title>
+        <meta>
+            <imdb>tt0109520</imdb>
+            <content>movie</content>
+            <title>D2: The Mighty Ducks</title>
+            <year>1994</year>
+        </meta>
         <link>https://real-debrid.com/d/2G3HV2NXZR7IW</link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ZITicpWKxy2d3JnpWMypbUn91e.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/s7RrWXNfQDU6nO9XriBnL3kZD4g.jpg</fanart>
@@ -15,6 +14,12 @@
 
     <item>
         <title>D3: The Mighty Ducks</title>
+        <meta>
+            <imdb>tt0116000</imdb>
+            <content>movie</content>
+            <title>D3: The Mighty Ducks</title>
+            <year>2005</year>
+        </meta>
         <link>https://real-debrid.com/d/HDVFGY3YNT3UO</link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/umoEeNQqhvUg7jnpdGZnvNHCRFS.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fh3FYAYSM0cZr648ooN033UlxvN.jpg</fanart>

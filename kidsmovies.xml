@@ -182,7 +182,7 @@
     </item>
 
     <item>
-        <title>Camp Rock</title>
+        <title>Camp Rock 2008</title>
         <meta>
             <imdb>tt1055366</imdb>
             <content>movie</content>
@@ -195,13 +195,29 @@
     </item>
 
     <item>
-        <title>Captain Underpants: The First Epic Movie</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89938.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/AjHZIkzhPXrRNE4VSLVWx6dirK9_small.jpg</thumbnail>
+        <title>Captain Underpants: The First Epic Movie 2007</title>
+        <meta>
+            <imdb>tt2091256</imdb>
+            <content>movie</content>
+            <title>Captain Underpants: The First Epic Movie</title>
+            <year>2007</year>
+        </meta>
+        <link>
+             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/PRYEHVQV4AN3O</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/DVIEOCQPQAJVS</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5ceIqlRzWH4x1IPU9OfjXHO2Kz6.jpg</fanart>
     </item>
 
     <item>
         <title>Cars 2006</title>
+        <meta>
+            <imdb>tt0317219</imdb>
+            <content>movie</content>
+            <title>Cars</title>
+            <year>2006</year>
+        </meta>
         <link>https://real-debrid.com/d/BXPYQVXK62ESY</link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/5damnMcRFKSjhCirgX3CMa88MBj.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg</fanart>
@@ -209,72 +225,158 @@
 
     <item>
         <title>Cars 2 2011</title>
-        <link>https://real-debrid.com/d/5BT5G3HNXKL6E</link>
+        <meta>
+            <imdb>tt1216475</imdb>
+            <content>movie</content>
+            <title>Cars</title>
+            <year>2011</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5BT5G3HNXKL6E</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/AblhtULOVtrkSnFxRPQ8gBemxw9.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/jEcmZhtJkZQc6ta2vzBd9CU7GIx.jpg</fanart>
     </item>
 
     <item>
-        <title>Charlie and the Chocolate Factory</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89941.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/dvHl1dYvaZRhj9Gk0ITcCHr4DIJ_small.jpg</thumbnail>
+        <title>Charlie and the Chocolate Factory 2005</title>
+        <meta>
+            <imdb>tt0367594</imdb>
+            <content>movie</content>
+            <title>Charlie and the Chocolate Factory</title>
+            <year>2005</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/I4L4RDRMVIZK4</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/dvHl1dYvaZRhj9Gk0ITcCHr4DIJ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg</fanart>
     </item>
 
     <item>
-        <title>Coco</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89943.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/eKi8dIrr8voobbaGzDpe8w0PVbC_small.jpg</thumbnail>
+        <title>Coco 2017</title>
+        <meta>
+            <imdb>tt2380307</imdb>
+            <content>movie</content>
+            <title>Coco</title>
+            <year>2017</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/2WMAA7QUG3I4S</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/GK7JCIQO27TLI</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/askg3SMvhqEl4OL52YuvdtY40Yb.jpg</fanart>
     </item>
 
     <item>
-        <title>Corpse Bride</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89946.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/o9GbcdP7rOg2m1NyUnUR3ZwNcTE_small.jpg</thumbnail>
+        <title>Corpse Bride 2005</title>
+        <meta>
+            <imdb>tt0121164</imdb>
+            <content>movie</content>
+            <title>Corpse Bride</title>
+            <year>2005</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/GP7QKC3O7APMC</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/o9GbcdP7rOg2m1NyUnUR3ZwNcTE.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/4brEMzPazQE3hv3mogj6k1a29RP.jpg</fanart>
     </item>
 
     <item>
-        <title>D2: The Mighty Ducks</title>
-        <link>https://real-debrid.com/d/2G3HV2NXZR7IW</link>
+        <title>D2: The Mighty Ducks 1994</title>
+        <meta>
+            <imdb>tt0109520</imdb>
+            <content>movie</content>
+            <title>D2: The Mighty Ducks</title>
+            <year>1994</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/2G3HV2NXZR7IW</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ZITicpWKxy2d3JnpWMypbUn91e.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/s7RrWXNfQDU6nO9XriBnL3kZD4g.jpg</fanart>
     </item>
 
     <item>
-        <title>D3: The Mighty Ducks</title>
-        <link>https://real-debrid.com/d/HDVFGY3YNT3UO</link>
+        <title>D3: The Mighty Ducks 2005</title>
+        <meta>
+            <imdb>tt0116000</imdb>
+            <content>movie</content>
+            <title>D3: The Mighty Ducks</title>
+            <year>2005</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/HDVFGY3YNT3UO</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/umoEeNQqhvUg7jnpdGZnvNHCRFS.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fh3FYAYSM0cZr648ooN033UlxvN.jpg</fanart>
     </item>
 
     <item>
-        <title>Deck the Halls</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89949.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/u48kzT5MrSj6Vdnzsn1upjNNW8H_small.jpg</thumbnail>
+        <title>Deck the Halls 2006</title>
+        <meta>
+            <imdb>tt0790604</imdb>
+            <content>movie</content>
+            <title>Deck the Halls</title>
+            <year>2006</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/A7VCUJ22GO6FI</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/MVGP6ENUQL3BQ</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/u48kzT5MrSj6Vdnzsn1upjNNW8H.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9USVtCBBhhLldHUGTPiv7HvqtHO.jpg</fanart>
     </item>
 
     <item>
-        <title>Despicable Me</title>
-        <link>https://real-debrid.com/d/4PWUQDV4XLAE6</link>
+        <title>Despicable Me 2010</title>
+        <meta>
+            <imdb>tt1323594</imdb>
+            <content>movie</content>
+            <title>Despicable Me</title>
+            <year>2010</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/4PWUQDV4XLAE6</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/4zHJhBSY4kNZXfhTlmy2TzXD51M.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yo1ef57MEPkEE4BDZKTZGH9uDcX.jpg</fanart>
     </item>
 
     <item>
-        <title>Despicable Me 2</title>
-        <link>https://real-debrid.com/d/ZR7CSQLLLXOKM</link>
+        <title>Despicable Me 2 2013</title>
+        <meta>
+            <imdb>tt1690953</imdb>
+            <content>movie</content>
+            <title>Despicable Me 2</title>
+            <year>2013</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/ZR7CSQLLLXOKM</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/kQrYyZQHkwkUg2KlUDyvymj9FAp.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/PzVwOyVYjrVkSbery4urPJKeti.jpg</fanart>
     </item>
 
     <item>
-        <title>Despicable Me 3</title>
-        <link>https://real-debrid.com/d/62BV7CDCGTGJ6</link>
+        <title>Despicable Me 3 2017</title>
+        <meta>
+            <imdb>tt3469046</imdb>
+            <content>movie</content>
+            <title>Despicable Me 3</title>
+            <year>2017</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/62BV7CDCGTGJ6</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/54v09EwysyeDx4G71jLQClR12e5.jpg</fanart>
     </item>
 
     <item>
-        <title>Dumbo</title>
+        <title>Dumbo 2019</title>
         <meta>
             <imdb>tt3861390</imdb>
             <content>movie</content>
@@ -290,45 +392,95 @@
     </item>
 
     <item>
-        <title>E.T. the Extra-Terrestrial</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89954.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/8htLKK03TJjKZOXJgihZCu8v0P_small.jpg</thumbnail>
+        <title>E.T. the Extra-Terrestrial 1982</title>
+        <meta>
+            <imdb>tt0083866</imdb>
+            <content>movie</content>
+            <title>E.T. the Extra-Terrestrial</title>
+            <year>1982</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/AXPFC4ATRSBFC</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/PVAFG6V2LZ2P4</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8htLKK03TJjKZOXJgihZCu8v0P.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg</fanart>
     </item>
 
     <item>
         <title>Elf 2003</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89955.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/9jChHqqcpe0zHNTqkNqWZkwkgil_small.jpg</thumbnail>
+        <meta>
+            <imdb>tt0319343</imdb>
+            <content>movie</content>
+            <title>Dumbo</title>
+            <year>2019</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/WFYLCYZXLTUNW</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/YIAY7AZRHRL3O</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9jChHqqcpe0zHNTqkNqWZkwkgil.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yNr7tuh3Ka3XLaVniaDmt6wXUho.jpg</fanart>
     </item>
 
     <item>
-        <title>Enchanted 2002</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89956.avi</link>
-        <thumbnail>http://lltv.xyz:80/images/65EfHNQ6NCeAoRPNLRhTyLqNZmU_small.jpg</thumbnail>
+        <title>Enchanted 2007</title>
+        <meta>
+            <imdb>tt0461770</imdb>
+            <content>movie</content>
+            <title>Enchanted</title>
+            <year>2007</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/Z6VNWORLDKB6G</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/QTBX4HYEI3SPQ</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/65EfHNQ6NCeAoRPNLRhTyLqNZmU.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/RqoreDWdMfdIjX2dy8FwAL1xpn.jpg</fanart>
     </item>
 
     <item>
-        <title>Everyone's Hero</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89957.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/8pWPBlTuOJwBfLTqQceADLUhqTl_small.jpg</thumbnail>
-    </item>
-
-    <item>
-        <title>Fantasia (1940)</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89958.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/czOx0Tu5B79lDbJR2f3DXN9ZBDs_small.jpg</thumbnail>
+        <title>Fantasia 1940</title>
+        <meta>
+            <imdb>tt0032455</imdb>
+            <content>movie</content>
+            <title>Fantasia</title>
+            <year>2019</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JLRJQ5WXIW7AC</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/IELJITWMS2H32</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9WasR7D7qwAdUhsvX3nD58ihcOZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/nAukT84pqwJk5wVdUlheoKmeO8M.jpg</fanart>
     </item>
 
     <item>
         <title>Finding Nemo</title>
-        <link>https://real-debrid.com/d/4EEY2AY3UHM4I</link>
+        <meta>
+            <imdb>tt0266543</imdb>
+            <content>movie</content>
+            <title>Finding Nemo</title>
+            <year>2003</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/4EEY2AY3UHM4I</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/syPWyeeqzTQIxjIUaIFI7d0TyEY.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2Vv4suw1ja7RpnR6FaXAOihI68g.jpg</fanart>
     </item>
 
     <item>
         <title>Finding Dory</title>
-        <link>https://real-debrid.com/d/WNZR2PYC334TQ</link>
+        <meta>
+            <imdb>tt2277860</imdb>
+            <content>movie</content>
+            <title>Finding Dory</title>
+            <year>2016</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/WNZR2PYC334TQ</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/z09QAf8WbZncbitewNk6lKYMZsh.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg</fanart>
     </item>

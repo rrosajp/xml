@@ -11,4 +11,34 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/auUAybijSJ72XuTaPgh0EhvyJ13.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/v70hb94BzcmHOqMPy02n8Nw30zT.jpg</fanart>
     </item>
+
+    <item>
+        <title>Charlie and the Chocolate Factory</title>
+        <meta>
+            <imdb>tt0367594</imdb>
+            <content>movie</content>
+            <title>Charlie and the Chocolate Factory</title>
+            <year>2005</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/I4L4RDRMVIZK4</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/dvHl1dYvaZRhj9Gk0ITcCHr4DIJ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Corpse Bride 2005</title>
+        <meta>
+            <imdb>tt0121164</imdb>
+            <content>movie</content>
+            <title>Corpse Bride</title>
+            <year>2005</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/GP7QKC3O7APMC</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/o9GbcdP7rOg2m1NyUnUR3ZwNcTE.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/4brEMzPazQE3hv3mogj6k1a29RP.jpg</fanart>
+    </item>
 </xml>

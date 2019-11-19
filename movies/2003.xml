@@ -61,6 +61,37 @@
     </item>
 
     <item>
+        <title>Elf</title>
+        <meta>
+            <imdb>tt0319343</imdb>
+            <content>movie</content>
+            <title>Dumbo</title>
+            <year>2019</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/WFYLCYZXLTUNW</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/YIAY7AZRHRL3O</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9jChHqqcpe0zHNTqkNqWZkwkgil.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yNr7tuh3Ka3XLaVniaDmt6wXUho.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Finding Nemo</title>
+        <meta>
+            <imdb>tt0266543</imdb>
+            <content>movie</content>
+            <title>Finding Nemo</title>
+            <year>2003</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/4EEY2AY3UHM4I</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/syPWyeeqzTQIxjIUaIFI7d0TyEY.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2Vv4suw1ja7RpnR6FaXAOihI68g.jpg</fanart>
+    </item>
+
+    <item>
         <title>Freaky Friday</title>
         <meta>
             <imdb>tt0322330</imdb>
@@ -85,32 +116,37 @@
             <year>2003</year>
         </meta>
         <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96488.mp4</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/PDNM5PDXRR6AE</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/BPCSRXD6OI35K</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/aiB7u6xZ9RWeDTQ7c92J8AoiHj3_small.jpg</thumbnail>
-        <fanart></fanart>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aiB7u6xZ9RWeDTQ7c92J8AoiHj3.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/wD6XPtYP2RqaTo7Gpwt6tURU30D.jpg</fanart>
     </item>
 
     <item>
         <title>Kangaroo Jack</title>
+        <meta>
+            <imdb>tt0257568</imdb>
+            <content>movie</content>
+            <title>Kangaroo Jack</title>
+            <year>2003</year>
+        </meta>
         <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96535.avi</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/YP5IBAMXTSXQI</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/OI7OQOK6QLPJ4</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/nflh9On0de4l7ItCl3n4NVXjmnm_small.jpg</thumbnail>
-        <fanart></fanart>
-    </item>
-
-    <item>
-        <title>Old School</title>
-        <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96590.mp4</sublink>
-        </link>
-        <thumbnail>http://lltv.xyz:80/images/lvcyZumUoA6OBeqcJknfZVTmKKF_small.jpg</thumbnail>
-        <fanart></fanart>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nflh9On0de4l7ItCl3n4NVXjmnm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/j9yxQJGkpi9N9a2NbEGTrjfhT7j.jpg</fanart>
     </item>
 
     <item>
         <title>Scary Movie 3</title>
+        <meta>
+            <imdb>tt0306047</imdb>
+            <content>movie</content>
+            <title>Scary Movie 3</title>
+            <year>2003</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/JSEBHM5Y5O5SW</sublink>
         </link>
