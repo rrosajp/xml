@@ -26,5 +26,53 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/AcvfIPLXGxSucYGSmfkRU2SqLi4.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/aHiWHHqO1a1WY02KQGwvECJ7hzH.jpg</fanart>
     </item>
+
+    <item>
+        <title>The Matrix</title>
+        <meta>
+            <imdb>tt0133093</imdb>
+            <content>movie</content>
+            <title>The Matrix</title>
+            <year>1999</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold]Clipwatching 1080p [/COLOR][/B]">https://clipwatching.com/3uqzg8pl9w5x</sublink>
+            <sublink name="[B][COLOR gold]Mixdrop 720p [/COLOR][/B]">https://mixdrop.co/e/i4ttp</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/lZpWprJqbIFpEV5uoHfoK0KCnTW.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/icmmSD4vTTDKOq2vvdulafOGw93.jpg</fanart>
+    </item>
+
+    <item>
+        <title>The Matrix Reloaded</title>
+        <meta>
+            <imdb>tt0234215</imdb>
+            <content>movie</content>
+            <title>The Matrix Reloaded</title>
+            <year>2003</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Vidsrc [/COLOR][/B]">https://vidsrc.me/embed/tt0234215/</sublink>
+            <sublink name="[B][COLOR gold] vev [/COLOR][/B]">https://vev.io/06kon2v7joqd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ezIurBz2fdUc68d98Fp9dRf5ihv.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/uWsG8o3qFZGlhLDkwVH7BCCsoCJ.jpg</fanart>
+    </item>
+
+    <item>
+        <title>The Matrix Revolutions</title>
+        <meta>
+            <imdb>tt0242653</imdb>
+            <content>movie</content>
+            <title>The Matrix Revolutions</title>
+            <year>2003</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Streamplay [/COLOR][/B]">http://streamplay.to/r5ad4u8cxg94.html</sublink>
+            <sublink name="[B][COLOR gold] Vidsrc [/COLOR][/B]">https://vidsrc.me/embed/tt0242653/</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sKogjhfs5q3azmpW7DFKKAeLEG8.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yrP75y32N1aMRzgBdgPCWYz9sRO.jpg</fanart>
+    </item>
 </xml>
 
