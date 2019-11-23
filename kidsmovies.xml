@@ -456,7 +456,7 @@
     </item>
 
     <item>
-        <title>Finding Nemo</title>
+        <title>Finding Nemo 2003</title>
         <meta>
             <imdb>tt0266543</imdb>
             <content>movie</content>
@@ -471,7 +471,7 @@
     </item>
 
     <item>
-        <title>Finding Dory</title>
+        <title>Finding Dory 2016</title>
         <meta>
             <imdb>tt2277860</imdb>
             <content>movie</content>
@@ -486,15 +486,18 @@
     </item>
 
     <item>
-        <title>Fireman Sam: Heroes of the Storm</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89961.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/rbYEkeM1dsyrBgoNmdjPtpcwkqZ_small.jpg</thumbnail>
-    </item>
-
-    <item>
-        <title>Flushed Away</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89962.mp4</link>
-        <thumbnail>http://lltv.xyz:80/images/oCdPDusnJvIZN6OpaF2Yj7211w_small.jpg</thumbnail>
+        <title>Flushed Away 2006</title>
+        <meta>
+            <imdb>tt0424095</imdb>
+            <content>movie</content>
+            <title>Flushed Away</title>
+            <year>2006</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/3XQCAMZYDX3S6</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/oCdPDusnJvIZN6OpaF2Yj7211w.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/7gvhqD2l8T6qKlD0ec4nysh077y.jpg</fanart>
     </item>
 
     <item>
