@@ -1,16 +1,16 @@
 <xml>
     <dir>
         <title>Newly Added</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/new_movies.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/new_movies.xml</link>
     </dir>
 
     <dir>
         <title>Movies by Year</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/year_movies.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/year_movies.xml</link>
     </dir>
 
     <dir>
         <title>Movies by Alphabet</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/alphabet_movies.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/alphabet_movies.xml</link>
     </dir>
 </xml>
