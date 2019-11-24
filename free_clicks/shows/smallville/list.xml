@@ -1,0 +1,13 @@
+<xml>
+    <dir>
+        <title>Season 1</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/seasons/72218-1-12.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Season 2</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season2.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/seasons/72218-2-12.jpg</thumbnail>
+    </dir>
+</xml>

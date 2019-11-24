@@ -1,0 +1,13 @@
+<xml>
+    <dir>
+        <title>Movies</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/click_movies.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>Tv Shows</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/click_shows.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+</xml>
