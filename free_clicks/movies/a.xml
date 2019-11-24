@@ -83,7 +83,11 @@
             <title>A Christmas Carol</title>
             <year>1992</year>
         </meta>
-        <link>https://real-debrid.com/d/VXBZQTERRV2XI</link>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe8.lookmovie.ag/c/58FLToUosKaJoWlNFnHi0g/1574637509/storage2/movies/aladdin-1992/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe8.lookmovie.ag/c/58FLToUosKaJoWlNFnHi0g/1574637509/storage2/movies/aladdin-1992/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe8.lookmovie.ag/c/58FLToUosKaJoWlNFnHi0g/1574637509/storage2/movies/aladdin-1992/480p/index.m3u8</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/3BUmvNKdPLxraqYRyniixn34UjN.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/oZN5w508NSlrmcMql1wohhsQGIg.jpg</fanart>
     </item>
@@ -106,14 +110,18 @@
     </item>
 
     <item>
-        <title>Aladdin and the Return of Jafar 1994</title>
+        <title>Aladdin: The Return of Jafar 1994</title>
         <meta>
             <imdb>tt0107952</imdb>
             <content>movie</content>
             <title>Aladdin and the Return of Jafar</title>
             <year>1994</year>
         </meta>
-        <link>https://real-debrid.com/d/67TI3VS23JW5I</link>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe7.lookmovie.ag/c/VRb84djgsOF1POuANNHoJA/1574638102/storage3/movies/the-return-of-jafar-1994/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe7.lookmovie.ag/c/VRb84djgsOF1POuANNHoJA/1574638102/storage3/movies/the-return-of-jafar-1994/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe7.lookmovie.ag/c/VRb84djgsOF1POuANNHoJA/1574638102/storage3/movies/the-return-of-jafar-1994/480p/index.m3u8</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sC4wDVBMPMxmn5JJqPalMOhQ35U.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/19OOL9Zj4ZLLM1kKrwdgaGJH5LP.jpg</fanart>
     </item>

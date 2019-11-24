@@ -1,6 +1,23 @@
 <xml>
     <item>
-        <title>Pet Sematary</title>
+        <title>Passengers 2016</title>
+        <meta>
+            <imdb>tt1355644</imdb>
+            <content>movie</content>
+            <title>Passengers</title>
+            <year>2016</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe20.lookmovie.ag/c/mZKDGZA6kgXwYGuaz-xlhg/1574637862/storage6/movies/passengers-2016/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/mZKDGZA6kgXwYGuaz-xlhg/1574637862/storage6/movies/passengers-2016/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/mZKDGZA6kgXwYGuaz-xlhg/1574637862/storage6/movies/passengers-2016/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/5gJkVIVU7FDp7AfRAbPSvvdbre2.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5EW4TR3fWEqpKsWysNcBMtz9Sgp.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Pet Sematary 2019</title>
         <meta>
             <imdb>tt0837563</imdb>
             <content>movie</content>
@@ -17,7 +34,24 @@
     </item>
 
     <item>
-        <title>Pokemon Detective Pikachu</title>
+        <title>Pitch Black 2000</title>
+        <meta>
+            <imdb>tt0134847</imdb>
+            <content>movie</content>
+            <title>Pitch Black</title>
+            <year>2000</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/tFxg9ql6XyLpAl0mGGNJ9A/1574641236/storage3/movies/pitch-black-2000/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/tFxg9ql6XyLpAl0mGGNJ9A/1574641236/storage3/movies/pitch-black-2000/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe19.lookmovie.ag/c/tFxg9ql6XyLpAl0mGGNJ9A/1574641236/storage3/movies/pitch-black-2000/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/j4iBVA49KDBX4ypfVcZxl1y7CCT.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yc0cEEZ9OO6ydyYmCEfY90Q9jII.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Pokemon Detective Pikachu 2019</title>
         <meta>
             <imdb>tt5884052</imdb>
             <content>movie</content>

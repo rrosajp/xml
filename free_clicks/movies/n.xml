@@ -1,6 +1,6 @@
 <xml>
     <item>
-        <title>Nancy Drew and the Hidden Staircase</title>
+        <title>Nancy Drew and the Hidden Staircase 2019</title>
         <meta>
             <imdb>tt8323104</imdb>
             <content>movie</content>
@@ -17,19 +17,19 @@
     </item>
 
     <item>
-        <title>Mute 2018</title>
+        <title>Not Another Teen Movie 2001</title>
         <meta>
-            <imdb>tt1464763</imdb>
+            <imdb>tt0277371</imdb>
             <content>movie</content>
-            <title>Mute</title>
-            <year>2018</year>
+            <title>Not Another Teen Movie</title>
+            <year>2001</year>
         </meta>
         <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe18.lookmovie.ag/c/cakjI_vFclvhrEJK0gNerg/1574586848/storage3/movies/mute-2018/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/cakjI_vFclvhrEJK0gNerg/1574586848/storage3/movies/mute-2018/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe18.lookmovie.ag/c/cakjI_vFclvhrEJK0gNerg/1574586848/storage3/movies/mute-2018/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe17.lookmovie.ag/c/16S7E8AFvqffbE3TOI_J4g/1574642057/storage3/movies/not-another-teen-movie-2001/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe17.lookmovie.ag/c/16S7E8AFvqffbE3TOI_J4g/1574642057/storage3/movies/not-another-teen-movie-2001/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe17.lookmovie.ag/c/16S7E8AFvqffbE3TOI_J4g/1574642057/storage3/movies/not-another-teen-movie-2001/480p/index.m3u8</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ihGg1xndLl3MW34Km332pNkyLH7.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/mcM3WL3aBFybFtFb61yyEpckPHN.jpg</fanart>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/lUUyU80dWllaya1WhskDZKW6uHq.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3m3Ljh3dlajl2QQHH899ubU6Lci.jpg</fanart>
     </item>
 </xml>

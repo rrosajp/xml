@@ -1,5 +1,22 @@
 <xml>
     <item>
+        <title>Jigsaw 2017</title>
+        <meta>
+            <imdb>tt3348730</imdb>
+            <content>movie</content>
+            <title>Jigsaw</title>
+            <year>2017</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/e9aKsXGEU-2MbsiGR8-mhg/1574636005/storage4/movies/jigsaw-2017/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/e9aKsXGEU-2MbsiGR8-mhg/1574636005/storage4/movies/jigsaw-2017/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/e9aKsXGEU-2MbsiGR8-mhg/1574636005/storage4/movies/jigsaw-2017/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/e3ofKYdZ3jgNYuCriE5AAsHp4L6.jpg</fanart>
+    </item>
+
+    <item>
         <title>Jurassic World: Fallen Kingdom 2018</title>
         <meta>
             <imdb>tt4881806</imdb>
@@ -14,6 +31,23 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7dAh80ydoWvUaBE8uFYkp9WsoSC.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Just Getting Started 2017</title>
+        <meta>
+            <imdb>tt5721088</imdb>
+            <content>movie</content>
+            <title>Just Getting Started</title>
+            <year>2017</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe10.lookmovie.ag/c/dSwWqOnlLjOx3uvSn___sg/1574636057/storage5/movies/just-getting-started-2017/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe10.lookmovie.ag/c/dSwWqOnlLjOx3uvSn___sg/1574636057/storage5/movies/just-getting-started-2017/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe10.lookmovie.ag/c/dSwWqOnlLjOx3uvSn___sg/1574636057/storage5/movies/just-getting-started-2017/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/a7pM4QWQxMMa9ifuCPPzp9UGZHv.jpg</fanart>
     </item>
 
     <item>
