@@ -1,0 +1,16 @@
+<xml>
+    <dir>
+        <title>Newly Added</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_new_movies.xml</link>
+    </dir>
+
+    <dir>
+        <title>Movies by Year</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_year_movies.xml</link>
+    </dir>
+
+    <dir>
+        <title>Movies by Alphabet</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_alphabet_movies.xml</link>
+    </dir>
+</xml>

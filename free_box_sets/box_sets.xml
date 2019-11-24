@@ -1,0 +1,145 @@
+<xml>
+    <dir>
+        <title>Avengers</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/avengers.xml</link>
+        <thumbnail>https://i.ytimg.com/vi/FOabQZHT4qY/maxresdefault.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Cars</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/cars.xml</link>
+        <thumbnail>https://cdn.shopify.com/s/files/1/1282/8993/products/cars-1-and-2-blu-ray_6.jpeg?v=1462646646</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Creed</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/creed.xml</link>
+        <thumbnail>https://static.raru.co.za/cover/2019/02/19/7086609-l.jpg?v=1550569288</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Deadpool</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/deadpool.xml</link>
+        <thumbnail>https://lh3.googleusercontent.com/RuMkDToz8JoK-XpLQQ3QEVOETEKt1-cExrxjAgL3maIxG226eBi5v6e9NIEtvRIwE8ZA</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Despicable Me</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/despicable_me.xml</link>
+        <thumbnail>https://rukminim1.flixcart.com/image/832/832/j5ws0i80/movie/b/5/k/2017-dvd-reliance-entertainment-english-despicable-me-1-3-original-imaewghkzgfcbgny.jpeg?q=70</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Finding Nemo / Dory</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/finding.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81hhZ56iYNL._SX342_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Free Willy</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/free_willy.xml</link>
+        <thumbnail>http://www.q8dvdz.com/site/images/movie/4897.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Ghostbusters</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/ghostbusters.xml</link>
+        <thumbnail>https://i.pinimg.com/originals/e7/b6/5e/e7b65edf2386c3d3089d8638788afb38.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Halloween</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/halloween.xml</link>
+        <thumbnail>https://miro.medium.com/max/1121/1*6i4NIYaDhVNyANe-LyqfAQ@2x.jpeg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Halloweentown</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/halloweentown.xml</link>
+        <thumbnail>https://i0.wp.com/setonianonline.com/wp-content/uploads/2017/10/Halloweentown.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>High School Musical</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/high_school.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YkEEFtplL._SY445_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Home Alone</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/home_alone.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YkEEFtplL._SY445_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Hotel Transylvania</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/hotel_transylvania.xml</link>
+        <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c6/ab/90/c6ab905b-d44e-2dd2-55b5-eebcac181636/HotelTransylvania1-2_2000x3000_PT.jpg/268x0w.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>How to Train Your Dragon</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/train_dragon.xml</link>
+        <thumbnail>https://images.store.sky.com/api/img/asset/en/66D8BB8A-E4E8-4422-9242-603110084545_56B87BF6-5460-4476-A2FD-545AE27FA09D_2019-4-4-T14-9-16.jpg?s=260x371</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Ice Age</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/ice_age.xml</link>
+        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Video49/v4/33/b3/d0/33b3d0a5-8961-468e-d70a-52df0ef1680d/pr_source.lsr/268x0w.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Jump Street</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/jumpstreet.xml</link>
+        <thumbnail>https://images.store.sky.com/api/img/asset/en/66D8BB8A-E4E8-4422-9242-603110084545_29537DF4-BA75-4DA8-BE6A-C27ECDCDD3E4_2019-8-6-T10-59-55.jpg?s=260x371</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Jurassic Park</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/jurassic_park.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61DirW2qQ3L._SL1001_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Kung Fu Panda</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/kung_fu.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/517M%2BF7msHL._SY445_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Matrix</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/matrix.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71-%2B2B-BJWL._SY445_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Mighty Ducks</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/mighty_ducks.xml</link>
+        <thumbnail>https://i.pinimg.com/originals/1a/44/b7/1a44b7af09b474e0d5311633005e91e7.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Police Academy</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/police_academy.xml</link>
+        <thumbnail>http://www.sellk.com/marketplace/wp-content/uploads/2017/04/scan2059.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Riddick</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/riddick.xml</link>
+        <thumbnail>https://dvdcover.com/wp-content/uploads/2016/05/2016-05-01_57256b4d4535f_RiddickColl3-v1-950x638.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Rush Hour</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/rush_hour.xml</link>
+        <thumbnail>https://prodimage.images-bn.com/pimages/0794043147944_p0_v3_s550x406.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Scary Movie</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/scary_movie.xml</link>
+        <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/4b/54/a8/4b54a87b-543e-d3ab-9143-36f3236a7ed0/mza_6764792502277162300.jpg/268x0w.jpg</thumbnail>
+    </dir>
+</xml>
