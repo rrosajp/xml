@@ -1,0 +1,35 @@
+<xml>
+    <item>
+        <title>Nancy Drew and the Hidden Staircase</title>
+        <meta>
+            <imdb>tt8323104</imdb>
+            <content>movie</content>
+            <title>Nancy Drew and the Hidden Staircase</title>
+            <year>2019</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe10.lookmovie.ag/c/QSNISIPyxVmF4a6mtS6F8g/1574575873/storage1/movies/8323104-nancy-drew-and-the-hidden-staircase-2019-1562868211/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe10.lookmovie.ag/c/QSNISIPyxVmF4a6mtS6F8g/1574575873/storage1/movies/8323104-nancy-drew-and-the-hidden-staircase-2019-1562868211/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe10.lookmovie.ag/c/QSNISIPyxVmF4a6mtS6F8g/1574575873/storage1/movies/8323104-nancy-drew-and-the-hidden-staircase-2019-1562868211/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/g805FevFI8BkmvorvyITZ1kGJcr.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ufR7swazdtum3kL5nUmpWKZxHuG.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Mute 2018</title>
+        <meta>
+            <imdb>tt1464763</imdb>
+            <content>movie</content>
+            <title>Mute</title>
+            <year>2018</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe18.lookmovie.ag/c/cakjI_vFclvhrEJK0gNerg/1574586848/storage3/movies/mute-2018/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/cakjI_vFclvhrEJK0gNerg/1574586848/storage3/movies/mute-2018/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe18.lookmovie.ag/c/cakjI_vFclvhrEJK0gNerg/1574586848/storage3/movies/mute-2018/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ihGg1xndLl3MW34Km332pNkyLH7.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/mcM3WL3aBFybFtFb61yyEpckPHN.jpg</fanart>
+    </item>
+</xml>

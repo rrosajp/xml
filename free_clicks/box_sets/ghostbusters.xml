@@ -1,0 +1,35 @@
+<xml>
+    <item>
+        <title>Ghostbusters 1984</title>
+        <meta>
+            <imdb>tt0087332</imdb>
+            <content>movie</content>
+            <title>Ghostbusters</title>
+            <year>1984</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe8.lookmovie.ag/c/ZSOlesweiqKm8siUi7nsrg/1574588495/storage6/movies/ghostbusters-1984/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe8.lookmovie.ag/c/ZSOlesweiqKm8siUi7nsrg/1574588495/storage6/movies/ghostbusters-1984/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe8.lookmovie.ag/c/ZSOlesweiqKm8siUi7nsrg/1574588495/storage6/movies/ghostbusters-1984/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/original/3FS3oBdorgczgfCkFi2u8ZTFfpS.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/qmDy6Rdom8d8UFj9GeAAtVIjTRT.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Ghostbusters II 1989</title>
+        <meta>
+            <imdb>tt0097428</imdb>
+            <content>movie</content>
+            <title>Ghostbusters II</title>
+            <year>1989</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe18.lookmovie.ag/c/jRq9fCEm8_Fe94T0aKfuTA/1574590454/storage6/movies/ghostbusters-ii-1989/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/jRq9fCEm8_Fe94T0aKfuTA/1574590454/storage6/movies/ghostbusters-ii-1989/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/jRq9fCEm8_Fe94T0aKfuTA/1574590454/storage6/movies/ghostbusters-ii-1989/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/original/g9S9sK8GD5Uq37IIzmfzixNOdxk.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/tDlsTDtC15kJd4vrkQkxqoW4Pse.jpg</fanart>
+    </item>
+</xml>
