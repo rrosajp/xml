@@ -333,4 +333,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/8yqLPNwNCtpOPc3XkOlkSMnghzw.jpg</fanart>
     </item>
+
+    <item>
+        <title>The Chronicles of Riddick 2004</title>
+        <meta>
+            <imdb>tt0296572</imdb>
+            <content>movie</content>
+            <title>The Chronicles of Riddick</title>
+            <year>2004</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe20.lookmovie.ag/c/vulnijAY-wLJSd5z6RJfTQ/1574760390/storage3/movies/the-chronicles-of-riddick-2004/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/vulnijAY-wLJSd5z6RJfTQ/1574760390/storage3/movies/the-chronicles-of-riddick-2004/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/vulnijAY-wLJSd5z6RJfTQ/1574760390/storage3/movies/the-chronicles-of-riddick-2004/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/hVAfGskQdktDwYTqrT7wY1f2M4y.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/eLla4fEmEDDGYMsWQvKUIvYZxQI.jpg</fanart>
+    </item>
 </xml>
