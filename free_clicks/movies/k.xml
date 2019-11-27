@@ -14,4 +14,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nflh9On0de4l7ItCl3n4NVXjmnm.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/j9yxQJGkpi9N9a2NbEGTrjfhT7j.jpg</fanart>
     </item>
+
+    <item>
+        <title>Kill List 2011</title>
+        <meta>
+            <imdb>tt1788391</imdb>
+            <content>movie</content>
+            <title>Kill List</title>
+            <year>2011</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/b4nYAh3-SMjkoDGpNO4R-A/1574841551/storage3/movies/kill-list-2011/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/b4nYAh3-SMjkoDGpNO4R-A/1574841551/storage3/movies/kill-list-2011/480p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/b4nYAh3-SMjkoDGpNO4R-A/1574841551/storage3/movies/kill-list-2011/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/y0mJcIW1qFtFhAFjzPmxI9zLqjj.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ugTOWovCYRe99FPGmN1Bk9o2cEy.jpg</fanart>
+    </item>
 </xml>

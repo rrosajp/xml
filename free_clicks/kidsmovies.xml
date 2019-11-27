@@ -194,7 +194,11 @@
             <title>Bee Movie</title>
             <year>2007</year>
         </meta>
-        <link>https://real-debrid.com/d/76XMRDIESVAKA</link>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe10.lookmovie.ag/c/lPqAB64qv8q1tzvEObPOdw/1574837028/storage2/movies/bee-movie-2007/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe10.lookmovie.ag/c/lPqAB64qv8q1tzvEObPOdw/1574837028/storage2/movies/bee-movie-2007/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe10.lookmovie.ag/c/lPqAB64qv8q1tzvEObPOdw/1574837028/storage2/movies/bee-movie-2007/480p/index.m3u8</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/QhbOzpYfBOwrRiuTu9otPk919R.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2lBpQZevIJdL4vPrZ7Nnm7mrVlm.jpg</fanart>
     </item>

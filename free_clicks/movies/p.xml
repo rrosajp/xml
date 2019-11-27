@@ -17,6 +17,39 @@
     </item>
 
     <item>
+        <title>Paul 2011</title>
+        <meta>
+            <imdb>tt1092026</imdb>
+            <content>movie</content>
+            <title>Paul</title>
+            <year>2011</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe7.lookmovie.ag/c/zfRldPMdXp3w_LXjogSTFA/1574841949/storage2/movies/paul-2011/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe7.lookmovie.ag/c/zfRldPMdXp3w_LXjogSTFA/1574841949/storage2/movies/paul-2011/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe7.lookmovie.ag/c/zfRldPMdXp3w_LXjogSTFA/1574841949/storage2/movies/paul-2011/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/297N75COL0NsJJY5k5U8VTJ1DCe.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/mFSmjVtZ9hsU8RQm4Cda3fG7SaD.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Perfect Sense 2011</title>
+        <meta>
+            <imdb>tt1439572</imdb>
+            <content>movie</content>
+            <title>Perfect Sense</title>
+            <year>2011</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/_Yb53HNY6Y4hyjoAJjXjzw/1574842818/storage2/movies/perfect-sense-2011/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/_Yb53HNY6Y4hyjoAJjXjzw/1574842818/storage2/movies/perfect-sense-2011/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/auGreFF58MJW6r6UzJCvHA8mVBc.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/dfEkYX40b9jtGNCCgqe60nmzIhB.jpg</fanart>
+    </item>
+
+    <item>
         <title>Pet Sematary 2019</title>
         <meta>
             <imdb>tt0837563</imdb>
@@ -184,5 +217,22 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mpUOqZcs7VVg9LrVPRZKAGPiTT2.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/jutetQGSU0ttiskMNKvQUSd0PSB.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Priest 2011</title>
+        <meta>
+            <imdb>tt0822847</imdb>
+            <content>movie</content>
+            <title>Priest</title>
+            <year>2011</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe7.lookmovie.ag/c/jiUjTOd3JfVGjb7c1S-SwQ/1574842888/storage3/movies/0822847-priest-2011-1537993221/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe7.lookmovie.ag/c/jiUjTOd3JfVGjb7c1S-SwQ/1574842888/storage3/movies/0822847-priest-2011-1537993221/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe7.lookmovie.ag/c/jiUjTOd3JfVGjb7c1S-SwQ/1574842888/storage3/movies/0822847-priest-2011-1537993221/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/pE28BDqICBPe3FgphsYSxtH6FcZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/7pCsrkl7yPNFU7wIuWy52wdAFQs.jpg</fanart>
     </item>
 </xml>
