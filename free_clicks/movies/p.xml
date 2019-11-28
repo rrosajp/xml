@@ -1,5 +1,56 @@
 <xml>
     <item>
+        <title>Pacific Rim 2013</title>
+        <meta>
+            <imdb>tt1483013</imdb>
+            <content>movie</content>
+            <title>Pacific Rim</title>
+            <year>2013</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe14.lookmovie.ag/c/UpDjYfjHwN0xwd9bMRPxtw/1574975491/storage6/movies/pacific-rim-2013/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe14.lookmovie.ag/c/UpDjYfjHwN0xwd9bMRPxtw/1574975491/storage6/movies/pacific-rim-2013/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe14.lookmovie.ag/c/UpDjYfjHwN0xwd9bMRPxtw/1574975491/storage6/movies/pacific-rim-2013/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sCJEwEShZvruTpQ2a4yiX3Q9EyZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bCJLxmgNaZtpMyWKCCiTYrf3YOT.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Pacific Rim: Uprising 2018</title>
+        <meta>
+            <imdb>tt2557478</imdb>
+            <content>movie</content>
+            <title>Pacific Rim: Uprising</title>
+            <year>2018</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe23.lookmovie.ag/c/lr1zF-Rr49Bz5tp-ALmphQ/1574975661/storage3/movies/pacific-rim-uprising-2018/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe23.lookmovie.ag/c/lr1zF-Rr49Bz5tp-ALmphQ/1574975661/storage3/movies/pacific-rim-uprising-2018/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe23.lookmovie.ag/c/lr1zF-Rr49Bz5tp-ALmphQ/1574975661/storage3/movies/pacific-rim-uprising-2018/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sCJEwEShZvruTpQ2a4yiX3Q9EyZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bCJLxmgNaZtpMyWKCCiTYrf3YOT.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Parental Guidance 2012</title>
+        <meta>
+            <imdb>tt1047540</imdb>
+            <content>movie</content>
+            <title>Parental Guidance</title>
+            <year>2012</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/775iy5VO-5-5H6JAchYrxA/1574974177/storage2/movies/parental-guidance-2012/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/775iy5VO-5-5H6JAchYrxA/1574974177/storage2/movies/parental-guidance-2012/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/775iy5VO-5-5H6JAchYrxA/1574974177/storage2/movies/parental-guidance-2012/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2Ly5d8Z3gTjnfVrnpr3lTuam8qT.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/wQAwqf2VgSJRyU7u8vNDWl6qXQf.jpg</fanart>
+    </item>
+
+    <item>
         <title>Passengers 2016</title>
         <meta>
             <imdb>tt1355644</imdb>

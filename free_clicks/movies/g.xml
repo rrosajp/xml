@@ -170,6 +170,23 @@
     </item>
 
     <item>
+        <title>Gravity 2013</title>
+        <meta>
+            <imdb>tt1454468</imdb>
+            <content>movie</content>
+            <title>Gravity</title>
+            <year>2013</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe5.lookmovie.ag/c/kUg_jdIQVKwKUjTax5zh0Q/1574974498/storage2/movies/gravity-2013/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe5.lookmovie.ag/c/kUg_jdIQVKwKUjTax5zh0Q/1574974498/storage2/movies/gravity-2013/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe5.lookmovie.ag/c/kUg_jdIQVKwKUjTax5zh0Q/1574974498/storage2/movies/gravity-2013/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/uPxtxhB2Fy9ihVqtBtNGHmknJqV.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/hz3JfAikYXtaNWIJhWM4p5sy5OZ.jpg</fanart>
+    </item>
+
+    <item>
         <title>Green Book 2018</title>
         <meta>
             <imdb>tt6966692</imdb>
@@ -183,5 +200,22 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/78PjwaykLY2QqhMfWRDvmfbC6EV.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Grudge Match 2013</title>
+        <meta>
+            <imdb>tt1661382</imdb>
+            <content>movie</content>
+            <title>Grudge Match</title>
+            <year>2013</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/8eFVFIKGpmPK4PHzfqIRow/1574974601/storage3/movies/grudge-match-2013/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/8eFVFIKGpmPK4PHzfqIRow/1574974601/storage3/movies/grudge-match-2013/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/8eFVFIKGpmPK4PHzfqIRow/1574974601/storage3/movies/grudge-match-2013/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/hScOPtZpAxYWx2sOGcfbzYti39Z.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yJAicZoLQoVhY2rQGmUdcTP3pdw.jpg</fanart>
     </item>
 </xml>

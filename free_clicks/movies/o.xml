@@ -1,5 +1,22 @@
 <xml>
     <item>
+        <title>Oblivion 2013</title>
+        <meta>
+            <imdb>tt1483013</imdb>
+            <content>movie</content>
+            <title>Oblivion</title>
+            <year>2013</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe15.lookmovie.ag/c/tJzFC18iIXM_ZC-3rFv4NQ/1574975042/storage3/movies/oblivion-2013/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe15.lookmovie.ag/c/tJzFC18iIXM_ZC-3rFv4NQ/1574975042/storage3/movies/oblivion-2013/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe15.lookmovie.ag/c/tJzFC18iIXM_ZC-3rFv4NQ/1574975042/storage3/movies/oblivion-2013/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/kP8RSYaeQKteEyVVFUbiyzVsD8b.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/8TE77jL2e4zdERpv8hnBAHUmFRx.jpg</fanart>
+    </item>
+
+    <item>
         <title>Overboard 2018</title>
         <meta>
             <imdb>tt1563742</imdb>

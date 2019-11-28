@@ -6,6 +6,12 @@
     </dir>
 
     <dir>
+        <title>Captain America</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/captain_america.xml</link>
+        <thumbnail>https://i.ebayimg.com/images/g/YIcAAOSw8YRc22uN/s-l300.jpg</thumbnail>
+    </dir>
+
+    <dir>
         <title>Cars</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/cars.xml</link>
         <thumbnail>https://cdn.shopify.com/s/files/1/1282/8993/products/cars-1-and-2-blu-ray_6.jpeg?v=1462646646</thumbnail>
@@ -117,6 +123,18 @@
         <title>Mighty Ducks</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/mighty_ducks.xml</link>
         <thumbnail>https://i.pinimg.com/originals/1a/44/b7/1a44b7af09b474e0d5311633005e91e7.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Pacific Rim</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/pacific_rim.xml</link>
+        <thumbnail>https://4.bp.blogspot.com/-rlCGnh_GZhs/W1SEDbZXoRI/AAAAAAAAErQ/QLo0j1nOe2IHKL95GGtJbeHHgcGDYHlKwCLcBGAs/s640/1.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Planet of the Apes</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/box_sets/planet_apes.xml</link>
+        <thumbnail>https://www.covercity.net/dcovers/cdf95194306f7d1f914f9e2f2c44abd2</thumbnail>
     </dir>
 
     <dir>

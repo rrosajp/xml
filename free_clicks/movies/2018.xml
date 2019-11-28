@@ -218,6 +218,23 @@
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/shIOFWkjTn2NRvq5r4Mn2xLdZeJ.jpg</fanart>
     </item>
 
+     <item>
+        <title>Captain America: Civil War</title>
+        <meta>
+            <imdb>tt3498820</imdb>
+            <content>movie</content>
+            <title>Captain America: Civil War</title>
+            <year>2016</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080 [/COLOR][/B]">https://fe14.lookmovie.ag/c/UrrQRTiGAMBKONU72JH0JA/1574976272/storage5/movies/3498820-captain-america-civil-war-2016-1572548929/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe14.lookmovie.ag/c/UrrQRTiGAMBKONU72JH0JA/1574976272/storage5/movies/3498820-captain-america-civil-war-2016-1572548929/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe14.lookmovie.ag/c/UrrQRTiGAMBKONU72JH0JA/1574976272/storage5/movies/3498820-captain-america-civil-war-2016-1572548929/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/kSBXou5Ac7vEqKd97wotJumyJvU.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg</fanart>
+    </item>
+
     <item>
         <title>The Competition</title>
         <meta>
@@ -824,6 +841,23 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/qauHzSQJdo9VYX4NKn9PdWnvXOV.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9UoPUIWCoCFzjNtm2zokSHJXmHB.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Pacific Rim: Uprising</title>
+        <meta>
+            <imdb>tt2557478</imdb>
+            <content>movie</content>
+            <title>Pacific Rim: Uprising</title>
+            <year>2018</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe23.lookmovie.ag/c/lr1zF-Rr49Bz5tp-ALmphQ/1574975661/storage3/movies/pacific-rim-uprising-2018/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe23.lookmovie.ag/c/lr1zF-Rr49Bz5tp-ALmphQ/1574975661/storage3/movies/pacific-rim-uprising-2018/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe23.lookmovie.ag/c/lr1zF-Rr49Bz5tp-ALmphQ/1574975661/storage3/movies/pacific-rim-uprising-2018/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/sCJEwEShZvruTpQ2a4yiX3Q9EyZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bCJLxmgNaZtpMyWKCCiTYrf3YOT.jpg</fanart>
     </item>
 
     <item>
