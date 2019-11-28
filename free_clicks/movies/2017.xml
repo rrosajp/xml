@@ -187,6 +187,23 @@
     </item>
 
     <item>
+        <title>John Wick: Chapter 2</title>
+        <meta>
+            <imdb>tt4425200</imdb>
+            <content>movie</content>
+            <title>John Wick: Chapter 2</title>
+            <year>2017</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe17.lookmovie.ag/c/_ebb3TIGhfJ6gdWZzVpQ2w/1574980192/storage3/movies/john-wick-chapter-2-2017/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe17.lookmovie.ag/c/_ebb3TIGhfJ6gdWZzVpQ2w/1574980192/storage3/movies/john-wick-chapter-2-2017/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe17.lookmovie.ag/c/_ebb3TIGhfJ6gdWZzVpQ2w/1574980192/storage3/movies/john-wick-chapter-2-2017/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5qEaTFR3dVHgP85YXraZJiRBHt1.jpg</fanart>
+    </item>
+
+    <item>
         <title>Jigsaw</title>
         <meta>
             <imdb>tt3348730</imdb>

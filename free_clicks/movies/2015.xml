@@ -8,9 +8,28 @@
             <year>2016</year>
         </meta>
         <link>
-        <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/COJDX3ZJOYSOY</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe10.lookmovie.ag/c/xsYmpT9gzdVfHu2w2c5m5w/1574980916/storage2/movies/creed-2015/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe10.lookmovie.ag/c/xsYmpT9gzdVfHu2w2c5m5w/1574980916/storage2/movies/creed-2015/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe10.lookmovie.ag/c/xsYmpT9gzdVfHu2w2c5m5w/1574980916/storage2/movies/creed-2015/480p/index.m3u8</sublink>
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/hKzhV274pkZBSpXfCjUyzbyYKLl.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5RC5hZvUrp0HWAzqY6VQIJYyAWu.jpg</fanart>
+    </item>
+
+    <item>
+        <title>TMaze Runner: The Scorch Trials</title>
+        <meta>
+            <imdb>tt1790864</imdb>
+            <content>movie</content>
+            <title>Maze Runner: The Scorch Trials</title>
+            <year>2015</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe5.lookmovie.ag/c/PgmxNiL9op_i0DczN0moqQ/1574980777/storage3/movies/4046784-maze-runner-the-scorch-trials-2015-1564928264/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe5.lookmovie.ag/c/PgmxNiL9op_i0DczN0moqQ/1574980777/storage3/movies/4046784-maze-runner-the-scorch-trials-2015-1564928264/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe5.lookmovie.ag/c/PgmxNiL9op_i0DczN0moqQ/1574980777/storage3/movies/4046784-maze-runner-the-scorch-trials-2015-1564928264/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vlTPQANjLYTebzFJM1G4KeON0cb.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bhvkUDCEn6UkFQJkYuBxxm5mnKH.jpg</fanart>
     </item>
 </xml>

@@ -117,4 +117,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/lwICpzZudw8BZ0bODaHgRWCdioB.jpg</fanart>
     </item>
+
+    <item>
+        <title>Interstellar 2014</title>
+        <meta>
+            <imdb>tt0816692</imdb>
+            <content>movie</content>
+            <title>Interstellar</title>
+            <year>2014</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe2.lookmovie.ag/c/lq9qnPJzFLlFsO4f6ETlxw/1574979015/storage6/movies/interstellar-2014/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe2.lookmovie.ag/c/lq9qnPJzFLlFsO4f6ETlxw/1574979015/storage6/movies/interstellar-2014/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe2.lookmovie.ag/c/lq9qnPJzFLlFsO4f6ETlxw/1574979015/storage6/movies/interstellar-2014/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg</fanart>
+    </item>
 </xml>
