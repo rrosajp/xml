@@ -51,6 +51,40 @@
     </item>
 
     <item>
+        <title>Halloween: Resurrection</title>
+        <meta>
+            <imdb>t0220506</imdb>
+            <content>movie</content>
+            <title>Halloween: Resurrection</title>
+            <year>2002</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/zpiuR4qSH5tvze3ASRrY6g/1575065090/storage3/movies/halloween-resurrection-2002/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/zpiuR4qSH5tvze3ASRrY6g/1575065090/storage3/movies/halloween-resurrection-2002/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/zpiuR4qSH5tvze3ASRrY6g/1575065090/storage3/movies/halloween-resurrection-2002/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/luqA2pRzJ4OPxiS9zXa0arQljB1.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/szALvaFRJJkXHMoaJWBh7YLDoBD.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Ice Age</title>
+        <meta>
+            <imdb>tt0268380</imdb>
+            <content>movie</content>
+            <title>Ice Age</title>
+            <year>2002</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe20.lookmovie.ag/c/RsRp7tD2StRz9BpXBH-Zrw/1575079473/storage2/movies/ice-age-2002/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/RsRp7tD2StRz9BpXBH-Zrw/1575079473/storage2/movies/ice-age-2002/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/RsRp7tD2StRz9BpXBH-Zrw/1575079473/storage2/movies/ice-age-2002/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zpaQwR0YViPd83bx1e559QyZ35i.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/oDqbewoFuIEWA7UWurole6MzDGn.jpg</fanart>
+    </item>
+
+    <item>
         <title>Solaris</title>
         <meta>
             <imdb>tt0307479</imdb>

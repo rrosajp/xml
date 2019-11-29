@@ -15,4 +15,34 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/hVAfGskQdktDwYTqrT7wY1f2M4y.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/eLla4fEmEDDGYMsWQvKUIvYZxQI.jpg</fanart>
     </item>
+
+    <item>
+        <title>Halloweentown High</title>
+        <meta>
+            <imdb>tt0414078</imdb>
+            <content>movie</content>
+            <title>Halloweentown High</title>
+            <year>2004</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]">''</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/51krfU2ql3xa77ECYYET3WLl3mn.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/tLZpx9seUvYYVEIGMr7HxwkzGaV.jpg</fanart>
+    </item>
+
+    <item>
+        <title>High School Musical</title>
+        <meta>
+            <imdb>tt0414078</imdb>
+            <content>movie</content>
+            <title>High School Musicalh</title>
+            <year>2004</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]">''</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xMRBlTMMKDRJuK4IhwG5idrGHaS.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bxPw6s61bG5Of19lp1E00n0dDWW.jpg</fanart>
+    </item>
 </xml>

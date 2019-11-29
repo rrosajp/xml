@@ -49,4 +49,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/o9GbcdP7rOg2m1NyUnUR3ZwNcTE.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/4brEMzPazQE3hv3mogj6k1a29RP.jpg</fanart>
     </item>
+
+    <item>
+        <title>D3: The Mighty Ducks 2005</title>
+        <meta>
+            <imdb>tt0116000</imdb>
+            <content>movie</content>
+            <title>D3: The Mighty Ducks</title>
+            <year>2005</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe10.lookmovie.ag/c/F9g2lO_lwxiVm5VQZ2GGQg/1575080179/storage3/movies/d3-the-mighty-ducks-1996/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe10.lookmovie.ag/c/F9g2lO_lwxiVm5VQZ2GGQg/1575080179/storage3/movies/d3-the-mighty-ducks-1996/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe10.lookmovie.ag/c/F9g2lO_lwxiVm5VQZ2GGQg/1575080179/storage3/movies/d3-the-mighty-ducks-1996/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/umoEeNQqhvUg7jnpdGZnvNHCRFS.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fh3FYAYSM0cZr648ooN033UlxvN.jpg</fanart>
+    </item>
 </xml>

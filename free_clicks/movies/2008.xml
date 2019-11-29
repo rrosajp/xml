@@ -14,4 +14,20 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nhovvB0LO5nlgIvpPg2C1iLLAvr.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fK079xAMXWYOfL0Cvsc5stHmcwI.jpg</fanart>
     </item>
+
+    <item>
+        <title>High School Musical 3 - Senior Year</title>
+        <meta>
+            <imdb>tt0962726</imdb>
+            <content>movie</content>
+            <title>High School Musical 3</title>
+            <year>2008</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/bMHau06CUNWut192--7_Ww/1575066060/storage3/movies/high-school-musical-3-senior-year-2008/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/bMHau06CUNWut192--7_Ww/1575066060/storage3/movies/high-school-musical-3-senior-year-2008/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ewZpH2QIfPQ0VIn9lPf7MHbLbl4.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/daSGxGZL2nNjGZKkAF5ain3lmOx.jpg</fanart>
+    </item>
 </xml>

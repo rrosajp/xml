@@ -17,7 +17,24 @@
     </item>
 
     <item>
-        <title>TMaze Runner: The Scorch Trials</title>
+        <title>Hotel Transylvania 2</title>
+        <meta>
+            <imdb>tt0173886</imdb>
+            <content>movie</content>
+            <title>Hotel Transylvania 2</title>
+            <year>2015</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cFQHMUmxaO3PEDo5lxuQC8MCRIH.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Maze Runner: The Scorch Trials</title>
         <meta>
             <imdb>tt1790864</imdb>
             <content>movie</content>

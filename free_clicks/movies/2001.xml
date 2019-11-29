@@ -17,7 +17,39 @@
     </item>
 
     <item>
-        <title>Jurassic Park III 2001</title>
+        <title>Halloweentown II: Kalabar's Revenge</title>
+        <meta>
+            <imdb>tt0274761</imdb>
+            <content>movie</content>
+            <title>Halloweentown II: Kalabar's Revenge</title>
+            <year>2001</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]">''</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vuaNp64I20k2riLIODQnXAMoqB6.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fxECspvP9LMZJRBDYIMGNtvLH97.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Hardball</title>
+        <meta>
+            <imdb>tt0180734</imdb>
+            <content>movie</content>
+            <title>Hardball</title>
+            <year>2012</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/DPCG68vNLXwLwlI4mKiWRg/1575080547/storage6/movies/hardball-2001/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/DPCG68vNLXwLwlI4mKiWRg/1575080547/storage6/movies/hardball-2001/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/DPCG68vNLXwLwlI4mKiWRg/1575080547/storage6/movies/hardball-2001/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/uyPlrTdkN06sZv1I5nMC65qReGk.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/rhlGAeaigjmM57BjQ6BTdbD80TR.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Jurassic Park III</title>
          <meta>
             <imdb>tt0163025</imdb>
             <content>movie</content>
@@ -68,7 +100,7 @@
     </item>
 
     <item>
-        <title>Planet of the Apes 2001</title>
+        <title>Planet of the Apes</title>
         <meta>
             <imdb>tt0133152</imdb>
             <content>movie</content>

@@ -15,4 +15,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/m1cZT78mldTUyVMyedWLx7saRrL.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/GtwSStViUdhKGf0d7tCkR7alKV.jpg</fanart>
     </item>
+
+    <item>
+        <title>Ice Age: Dawn of the Dinosaurs</title>
+        <meta>
+            <imdb>tt1080016</imdb>
+            <content>movie</content>
+            <title>Ice Age: Dawn of the Dinosaurs</title>
+            <year>2009</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/aMQDVzGE2RFXFiAuH3TPsA/1575079326/storage3/movies/ice-age-dawn-of-the-dinosaurs-2009-1562760948/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/aMQDVzGE2RFXFiAuH3TPsA/1575079326/storage3/movies/ice-age-dawn-of-the-dinosaurs-2009-1562760948/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/aMQDVzGE2RFXFiAuH3TPsA/1575079326/storage3/movies/ice-age-dawn-of-the-dinosaurs-2009-1562760948/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/crAf8b9gFpcdvY7majL8xWzTbem.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2ZkYXWejAwpkFkNnOY6nQYcJSPn.jpg</fanart>
+    </item>
 </zml>

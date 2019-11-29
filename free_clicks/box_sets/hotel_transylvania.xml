@@ -1,22 +1,51 @@
 <xml>
     <item>
-        <title>Hotel Transylvania</title>
-        <link>https://real-debrid.com/d/7LLX2BGRDCVIS</link>
+        <title>Hotel Transylvania 2012</title>
+        <meta>
+            <imdb>tt0837562</imdb>
+            <content>movie</content>
+            <title>Hotel Transylvania</title>
+            <year>2012</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/480p/index.m3u8</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9qugesYpAWHUpdrw2w8URSGkAPt.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/sETTal2HPPkUC3lWc27HL1AFu9C.jpg</fanart>
     </item>
 
     <item>
-        <title>Hotel Transylvania 2</title>
-        <link>https://real-debrid.com/d/OB77FN7ZFC3JG</link>
+        <title>Hotel Transylvania 2 2015</title>
+        <meta>
+            <imdb>tt0173886</imdb>
+            <content>movie</content>
+            <title>Hotel Transylvania 2</title>
+            <year>2015</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/480p/index.m3u8</sublink>
+        </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cFQHMUmxaO3PEDo5lxuQC8MCRIH.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg</fanart>
     </item>
 
     <item>
-        <title>Hotel Transylvania 3: Summer Vacation</title>
+        <title>Hotel Transylvania 3: Summer Vacation 2018</title>
+        <meta>
+            <imdb>tt5220122</imdb>
+            <content>movie</content>
+            <title>Hotel Transylvania 3: Summer Vacation</title>
+            <year>2018</year>
+        </meta>
         <link>https://real-debrid.com/d/TNHEL7YI2G2GI</link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg</thumbnail>
+        <thumbnail>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe11.lookmovie.ag/c/QHZ1nJGTmuBSzvQfcTNhUg/1575066325/storage2/movies/5220122-hotel-transylvania-3-summer-vacation-2018-1537646080/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe11.lookmovie.ag/c/QHZ1nJGTmuBSzvQfcTNhUg/1575066325/storage2/movies/5220122-hotel-transylvania-3-summer-vacation-2018-1537646080/480p/index.m3u8</sublink>
+        </thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg</fanart>
     </item>
 </xml>
