@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv",* Fluxus.tv
-https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="+ Lust Playlist (18+)",+ Lust Playlist (18+)
-https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="- Update: 11.05.2019",- Update: 11.05.2019
-https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="24/7 ADULT IPTV",A3Bikini TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 
