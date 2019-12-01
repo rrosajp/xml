@@ -47,4 +47,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/A1eBPIcUOwWMHjSuyvyxS9Jhbbu.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/zM3YFSELHQep75T73ybWwv9lg8i.jpg</fanart>
     </item>
+
+    <item>
+        <title>How to Train Your Dragon 2010</title>
+        <meta>
+            <imdb>tt0892769</imdb>
+            <content>movie</content>
+            <title>How to Train Your Dragon</title>
+            <year>2010</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe16.lookmovie.ag/c/5-XwUwuv6IS68zfbRi1jGQ/1575191930/storage6/movies/how-to-train-your-dragon-2010/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe16.lookmovie.ag/c/5-XwUwuv6IS68zfbRi1jGQ/1575191930/storage6/movies/how-to-train-your-dragon-2010/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe16.lookmovie.ag/c/5-XwUwuv6IS68zfbRi1jGQ/1575191930/storage6/movies/how-to-train-your-dragon-2010/360p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/hIXX3IRFy0InUOmYeWjvhCAgQNj.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/mxPvA8cj0Eqa1A13DcT5NzFq7Ta.jpg</fanart>
+    </item>
 </xml>
