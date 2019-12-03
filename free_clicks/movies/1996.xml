@@ -66,4 +66,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aaVkNhUONnkSv5ijPjq7pEmmWyE.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9SNO9BglZJgGTMOB5K4NVgecgX1.jpg</fanart>
     </item>
+
+    <item>
+        <title>Matilda</title>
+        <meta>
+            <imdb>tt0117008</imdb>
+            <content>movie</content>
+            <title>Matilda</title>
+            <year>1996</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe7.lookmovie.ag/c/1gwO1q_p__O5nJQQ0KAsjg/1575436853/storage6/movies/matilda-1996/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe7.lookmovie.ag/c/1gwO1q_p__O5nJQQ0KAsjg/1575436853/storage6/movies/matilda-1996/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe7.lookmovie.ag/c/1gwO1q_p__O5nJQQ0KAsjg/1575436853/storage6/movies/matilda-1996/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vddUwPL3L8MBH4FrEDCAZM9T6sj.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/r8nIuvtJBmFvvW07KmOGKKm6NQF.jpg</fanart>
+    </item>
 </xml>

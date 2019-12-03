@@ -777,7 +777,24 @@
     </item>
 
     <item>
-        <title>Maze Runner: The Death Cure 2018</title>
+        <title>Mary Poppins Returns</title>
+        <meta>
+            <imdb>tt5028340</imdb>
+            <content>movie</content>
+            <title>Mary Poppins Returns</title>
+            <year>2018</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe5.lookmovie.ag/c/UuPUAGprmN-uIScl7qFZtg/1575436582/storage6/movies/5028340-mary-poppins-returns-2018-1552136955/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe5.lookmovie.ag/c/UuPUAGprmN-uIScl7qFZtg/1575436582/storage6/movies/5028340-mary-poppins-returns-2018-1552136955/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe5.lookmovie.ag/c/UuPUAGprmN-uIScl7qFZtg/1575436582/storage6/movies/5028340-mary-poppins-returns-2018-1552136955/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/cwiJQXezWz876K3jS57Sq56RYCZ.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Maze Runner: The Death Cure</title>
         <meta>
             <imdb>tt4500922</imdb>
             <content>movie</content>
