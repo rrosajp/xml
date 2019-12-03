@@ -1,19 +1,46 @@
 <xml>
     <item>
-        <title>Free Willy 2: The Adventure Home</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89963.mkv</link>
-        <thumbnail>http://lltv.xyz:80/images/yLyyjm4m3fSvbazyFv4RtUnb2uQ_small.jpg</thumbnail>
+        <title>Free Willy 1993</title>
+        <meta>
+            <imdb>tt0106965</imdb>
+            <content>movie</content>
+            <title>Free Willy</title>
+            <year>1993</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vIjiTSNA52VGGP9eeegNaMKXNhf.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/1nStb63juoPfgv2SHR5SPqNLyyW.jpg</fanart>
     </item>
 
     <item>
-        <title>Free Willy 3: The Rescue</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89964.avi</link>
-        <thumbnail>http://lltv.xyz:80/images/x7XV6aRUle4sBGMxZixqnfBtbGG_small.jpg</thumbnail>
+        <title>Free Willy 2 - The Adventure Home 1995</title>
+        <meta>
+            <imdb>tt0113114</imdb>
+            <content>movie</content>
+            <title>Free Willy 2 - The Adventure Home</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/yLyyjm4m3fSvbazyFv4RtUnb2uQ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/c26xWNT3AT2edon9x4VIsnQyQG0.jpg</fanart>
     </item>
 
     <item>
-        <title>Free Willy: Escape from Pirate's Cove</title>
-        <link>http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89965.avi</link>
-        <thumbnail>http://lltv.xyz:80/images/A1eBPIcUOwWMHjSuyvyxS9Jhbbu_small.jpg</thumbnail>
+        <title>Free Willy: Escape from Pirate's Cove 2010</title>
+        <meta>
+            <imdb>tt1394329</imdb>
+            <content>movie</content>
+            <title>Free Willy: Escape from Pirate's Cove</title>
+            <year>2010</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/A1eBPIcUOwWMHjSuyvyxS9Jhbbu.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/zM3YFSELHQep75T73ybWwv9lg8i.jpg</fanart>
     </item>
 </xml>
