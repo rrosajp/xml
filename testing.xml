@@ -1,18 +1,36 @@
 <xml>
     <item>
-        <title>S01E01: "Pilot" Testing</title>
+        <title>Aladdin</title>
         <meta>
-            <imdb>tt2340185</imdb>
-            <content>episode</content>
-            <title>Pilot</title>
-            <year>2012</year>
+            <imdb>tt6139732</imdb>
+            <content>movie</content>
+            <title>Aladdin</title>
+            <year>2019</year>
         </meta>
         <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">''</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe18.lookmovie.ag/c/hnydmJqgQKb0unMFi7FY5A/1574574856/storage2/movies/6139732-aladdin-2019-1565149782/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/hnydmJqgQKb0unMFi7FY5A/1574574856/storage2/movies/6139732-aladdin-2019-1565149782/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe18.lookmovie.ag/c/hnydmJqgQKb0unMFi7FY5A/1574574856/storage2/movies/6139732-aladdin-2019-1565149782/480p/index.m3u8</sublink>
         </link>
-        <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4325893.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </item>
 
+    <item>
+        <title>Captain Underpants: The First Epic Movie 2007</title>
+        <meta>
+            <imdb>tt2091256</imdb>
+            <content>movie</content>
+            <title>Captain Underpants: The First Epic Movie</title>
+            <year>2007</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe5.lookmovie.ag/c/KyLL_GyLHZbBkvOhDvUURg/1574634058/storage2/movies/captain-underpants-the-first-epic-movie-2017/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe5.lookmovie.ag/c/KyLL_GyLHZbBkvOhDvUURg/1574634058/storage2/movies/captain-underpants-the-first-epic-movie-2017/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe5.lookmovie.ag/c/KyLL_GyLHZbBkvOhDvUURg/1574634058/storage2/movies/captain-underpants-the-first-epic-movie-2017/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
 </xml>
 
