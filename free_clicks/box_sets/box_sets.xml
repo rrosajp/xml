@@ -66,6 +66,12 @@
     </dir>
 
     <dir>
+        <title>Harry Potter</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/potter.xml</link>
+        <thumbnail>https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2016/11/harry-potter-movies.png?itok=AOO8dw9P</thumbnail>
+    </dir>
+
+    <dir>
         <title>High School Musical</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/high_school.xml</link>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YkEEFtplL._SY445_.jpg</thumbnail>

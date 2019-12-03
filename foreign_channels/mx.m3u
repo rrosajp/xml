@@ -19,6 +19,8 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
 http://pontismmd.mmdlive.lldns.net/pontismmd/18c15984af7d4ec6ba1a3d13f2263608/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g9zTQcC.jpg" group-title="Local",CANAL 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BYYmxbo.png" group-title="",Canal 66
+http://streamingcws10.com:1935/canal66/videocanal66/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="",Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="",Canal Once

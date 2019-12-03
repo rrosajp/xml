@@ -30,4 +30,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ewZpH2QIfPQ0VIn9lPf7MHbLbl4.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/daSGxGZL2nNjGZKkAF5ain3lmOx.jpg</fanart>
     </item>
+
+    <item>
+        <title>Madagascar Escape 2 Africa</title>
+        <meta>
+            <imdb>tt0479952</imdb>
+            <content>movie</content>
+            <title>Madagascar Escape 2 Africa</title>
+            <year>2008</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/7wQjFeRxJPcSLX0tP3czjA/1575364248/storage3/movies/madagascar-escape-2-africa-2008/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/7wQjFeRxJPcSLX0tP3czjA/1575364248/storage3/movies/madagascar-escape-2-africa-2008/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/7wQjFeRxJPcSLX0tP3czjA/1575364248/storage3/movies/madagascar-escape-2-africa-2008/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9mohxwknsHcwFBSAAhoQXwFV5zn.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/anxiz37Z9FPKeuCsJcxViSWmPxg.jpg</fanart>
+    </item>
 </xml>

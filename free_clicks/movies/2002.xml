@@ -68,6 +68,23 @@
     </item>
 
     <item>
+        <title>Harry Potter and the Chamber of Secrets</title>
+        <meta>
+            <imdb>tt0295297</imdb>
+            <content>movie</content>
+            <title>Harry Potter and the Chamber of Secrets</title>
+            <year>2002</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe26.lookmovie.ag/c/R60joL0109e2MlUwOC9lNg/1575364631/storage3/movies/harry-potter-and-the-chamber-of-secrets-2002/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe26.lookmovie.ag/c/R60joL0109e2MlUwOC9lNg/1575364631/storage3/movies/harry-potter-and-the-chamber-of-secrets-2002/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe26.lookmovie.ag/c/R60joL0109e2MlUwOC9lNg/1575364631/storage3/movies/harry-potter-and-the-chamber-of-secrets-2002/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/csOv5H7R2zdnKaYuTrGVWohmo8d.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/qSrq6ACzPDv4xerGJ78iS3N827K.jpg</fanart>
+    </item>
+
+    <item>
         <title>Ice Age</title>
         <meta>
             <imdb>tt0268380</imdb>
@@ -82,6 +99,22 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zpaQwR0YViPd83bx1e559QyZ35i.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/oDqbewoFuIEWA7UWurole6MzDGn.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Lilo &amp; Stitch</title>
+        <meta>
+            <imdb>tt0275847</imdb>
+            <content>movie</content>
+            <title>Lilo &amp; Stitch</title>
+            <year>2002</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/pMCP4c6iLK2rpi8nZjHUmQ/1575363694/storage2/movies/lilo-stitch-2002-1562754158/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/pMCP4c6iLK2rpi8nZjHUmQ/1575363694/storage2/movies/lilo-stitch-2002-1562754158/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tVaEulzowKhMhDvHNNYb9rNEZPB.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/eC8TeqWgfyXi5gSkWwoRMh4Zd18.jpg</fanart>
     </item>
 
     <item>

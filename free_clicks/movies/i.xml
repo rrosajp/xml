@@ -34,11 +34,11 @@
     </item>
 
     <item>
-        <title>I Now Pronounce You Chuck & Larry 2007</title>
+        <title>I Now Pronounce You Chuck &amp; Larry 2007</title>
         <meta>
             <imdb>tt0762107</imdb>
             <content>movie</content>
-            <title>I Now Pronounce You Chuck & Larry</title>
+            <title>I Now Pronounce You Chuck &amp; Larry</title>
             <year>2007</year>
         </meta>
         <link>
@@ -167,6 +167,23 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/lOF4rI6SxgRsVLW8odsauqnhB9Z.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/xRxxzzOrmRG12IFdr9XGdgmgSQR.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Inside Out 2015</title>
+        <meta>
+            <imdb>tt2096673</imdb>
+            <content>movie</content>
+            <title>Inside Out</title>
+            <year>2015</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe2.lookmovie.ag/c/QfAeCouVVF39smp04UD_aw/1575359114/storage6/movies/inside-out-2015/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe2.lookmovie.ag/c/QfAeCouVVF39smp04UD_aw/1575359114/storage6/movies/inside-out-2015/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe2.lookmovie.ag/c/QfAeCouVVF39smp04UD_aw/1575359114/storage6/movies/inside-out-2015/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/szytSpLAyBh3ULei3x663mAv5ZT.jpg</fanart>
     </item>
 
     <item>

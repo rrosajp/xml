@@ -48,4 +48,21 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8Tw5IttoEATGD2FHhcG9bDzqwbi.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3KIn2tkqOKIar3Rty1Gf9zT7v7M.jpg</fanart>
     </item>
+
+    <item>
+        <title>Jumanji</title>
+        <meta>
+            <imdb>tt0113497</imdb>
+            <content>movie</content>
+            <title>Jumanji</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe2.lookmovie.ag/c/5L14_iknLXOu21l12xOYtA/1575361197/storage2/movies/jumanji-1995/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe2.lookmovie.ag/c/5L14_iknLXOu21l12xOYtA/1575361197/storage2/movies/jumanji-1995/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe2.lookmovie.ag/c/5L14_iknLXOu21l12xOYtA/1575361197/storage2/movies/jumanji-1995/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/gNJm4egHC4MQVXYY9F3dXoLcNec.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/7k4zEgUZbzMHawDaMc9yIkmY1qR.jpg</fanart>
+    </item>
 </xml>

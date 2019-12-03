@@ -15,4 +15,55 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/4CcoF2VSW6GD21DGbmpxWMWafaE.jpg</fanart>
     </item>
+
+    <item>
+        <title>Jack</title>
+        <meta>
+            <imdb>tt0116669</imdb>
+            <content>movie</content>
+            <title>Jack</title>
+            <year>1996</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe11.lookmovie.ag/c/s4urYqku0wZnYS-sBN3WNA/1575359414/storage3/movies/jack-1996/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe11.lookmovie.ag/c/s4urYqku0wZnYS-sBN3WNA/1575359414/storage3/movies/jack-1996/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe11.lookmovie.ag/c/s4urYqku0wZnYS-sBN3WNA/1575359414/storage3/movies/jack-1996/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nOgHa5ggt6vbmIuoNW7exrJQJq9.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2hsd6MbbhVyfjozeU9oonyyKymR.jpg</fanart>
+    </item>
+
+    <item>
+        <title>James and the Giant Peach</title>
+        <meta>
+            <imdb>tt0116683</imdb>
+            <content>movie</content>
+            <title>James and the Giant Peach</title>
+            <year>1996</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/CWTGwiPR84HvUyIkYI9oLQ/1575359570/storage6/movies/james-and-the-giant-peach-1996/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/CWTGwiPR84HvUyIkYI9oLQ/1575359570/storage6/movies/james-and-the-giant-peach-1996/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/CWTGwiPR84HvUyIkYI9oLQ/1575359570/storage6/movies/james-and-the-giant-peach-1996/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/kyAl5UfUtGJC1wHrPVieqKKCpn8.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/4MWKbMmB45QP2c6BA9kIMyGIRtn.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Jingle All The Way</title>
+         <meta>
+            <imdb>tt0116705</imdb>
+            <content>movie</content>
+            <title>Jingle All The Way</title>
+            <year>1996</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe13.lookmovie.ag/c/N3eHKirUD1bQKT1L5rwfKQ/1575361046/storage2/movies/jingle-all-the-way-1996/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe13.lookmovie.ag/c/N3eHKirUD1bQKT1L5rwfKQ/1575361046/storage2/movies/jingle-all-the-way-1996/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe13.lookmovie.ag/c/N3eHKirUD1bQKT1L5rwfKQ/1575361046/storage2/movies/jingle-all-the-way-1996/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aaVkNhUONnkSv5ijPjq7pEmmWyE.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9SNO9BglZJgGTMOB5K4NVgecgX1.jpg</fanart>
+    </item>
 </xml>
