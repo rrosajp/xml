@@ -186,6 +186,23 @@
     </item>
 
     <item>
+        <title>Maya the Bee Movie</title>
+        <meta>
+            <imdb>tt3336368</imdb>
+            <content>movie</content>
+            <title>Maya the Bee Movie</title>
+            <year>2014</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe11.lookmovie.ag/c/aaEBjeQnk4mnhqUKutYEpQ/1575437788/storage5/movies/maya-the-bee-movie-2014/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe11.lookmovie.ag/c/aaEBjeQnk4mnhqUKutYEpQ/1575437788/storage5/movies/maya-the-bee-movie-2014/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe11.lookmovie.ag/c/aaEBjeQnk4mnhqUKutYEpQ/1575437788/storage5/movies/maya-the-bee-movie-2014/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/pMQ88CvnQroSjxk4IhM7YNbcjTx.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg</fanart>
+    </item>
+
+    <item>
         <title>Night at the Museum: Secret of the Tomb</title>
         <meta>
             <imdb>tt2692250</imdb>

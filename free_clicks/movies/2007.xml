@@ -271,6 +271,23 @@
     </item>
 
     <item>
+        <title>Next</title>
+        <meta>
+            <imdb>tt0435705</imdb>
+            <content>movie</content>
+            <title>Next</title>
+            <year>2007</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe13.lookmovie.ag/c/aTmWuz8mWOLZ50c0bMCk0Q/1575440125/storage3/movies/next-2007/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe13.lookmovie.ag/c/aTmWuz8mWOLZ50c0bMCk0Q/1575440125/storage3/movies/next-2007/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe13.lookmovie.ag/c/aTmWuz8mWOLZ50c0bMCk0Q/1575440125/storage3/movies/next-2007/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/lYqsINoop9spG1FV4SjxXvcYfss.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ucszRdVFulPjbq27Wy1QSS9p7PP.jpg</fanart>
+    </item>
+
+    <item>
         <title>Norbit</title>
         <meta>
             <imdb>tt0477051</imdb>
