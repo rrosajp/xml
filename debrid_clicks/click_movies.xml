@@ -22,4 +22,10 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/kidsmovies.xml</link>
         <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
     </dir>
+
+    <dir>
+        <title>Christmas Movies </title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/christmas.xml</link>
+        <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-animated-christmas-movies-1566924084.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*</thumbnail>
+    </dir>
 </xml>

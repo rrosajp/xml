@@ -222,6 +222,18 @@
     </dir>
 
     <dir>
+        <title>[B][COLOR gold] 1969 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1969.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1947 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1947.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 1942 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1942.xml</link>
         <thumbnail></thumbnail>

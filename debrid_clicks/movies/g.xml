@@ -1,3 +1,17 @@
 <xml>
-
+    <item>
+        <title>Dr. Seuss' The Grinch 2018</title>
+        <meta>
+            <imdb>tt2709692</imdb>
+            <content>movie</content>
+            <title>Dr. Seuss' The Grinch</title>
+            <year>2018</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/RXEVR6GF5KWIU</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/E6FQXDT3OBAWC</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/juc9wt7Eh2IarLL5S1yQ1a21O1A.jpg</fanart>
+    </item>
 </xml>

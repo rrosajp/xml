@@ -1,3 +1,32 @@
 <xml>
+    <item>
+        <title>Santa Paws 2: The Santa Pups 2012</title>
+        <meta>
+            <imdb>tt1544572</imdb>
+            <content>movie</content>
+            <title>Santa Paws 2: The Santa Pups</title>
+            <year>2012</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/NG6IZ2EWLPVPS</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/g5uCvSkbug9PQTtbkiCKUMzKq3Z.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/uqdp0h8Se2gPKLB2axVs7KI1ppL.jpg</fanart>
+    </item>
 
+    <item>
+        <title>The Search for Santa Paws 2010</title>
+        <meta>
+            <imdb>tt1544572</imdb>
+            <content>movie</content>
+            <title>The Search for Santa Paws</title>
+            <year>2010</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/F4ZMQK4E5O6VE</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/XDZMEXHQRDQ5U</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/gOXpeTvSDPlUyrQRtWhAl3WYHIp.jpg</fanart>
+    </item>
 </xml>
