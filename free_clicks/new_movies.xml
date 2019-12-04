@@ -1,5 +1,38 @@
 <xml>
     <item>
+        <title>Minions 2015</title>
+        <meta>
+            <imdb>tt2293640</imdb>
+            <content>movie</content>
+            <title>Minions</title>
+            <year>2015</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/7q0Bk9a0lmz3HgaTaTvriw/1575441173/storage6/movies/minions-2015/1080p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/7q0Bk9a0lmz3HgaTaTvriw/1575441173/storage6/movies/minions-2015/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/7q0Bk9a0lmz3HgaTaTvriw/1575441173/storage6/movies/minions-2015/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/q0R4crx2SehcEEQEkYObktdeFy.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/wiSIfl9FnXYGXzUKji7Muc3Oj3o.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Mighty Joe Young 1998</title>
+        <meta>
+            <imdb>tt0120751</imdb>
+            <content>movie</content>
+            <title>Mighty Joe Young</title>
+            <year>1998 </year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/QiVW9OfTw_pSGdefVs_Ydw/1575440360/storage3/movies/mighty-joe-young-1998/720p/index.m3u8</sublink>
+            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/QiVW9OfTw_pSGdefVs_Ydw/1575440360/storage3/movies/mighty-joe-young-1998/480p/index.m3u8</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8J22PeE0Zk97l5EL5liesePFFrw.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/vZIR3x9SWMKM4SJgXKECyhTiwVE.jpg</fanart>
+    </item>
+
+    <item>
         <title>Next 2007</title>
         <meta>
             <imdb>tt0435705</imdb>
