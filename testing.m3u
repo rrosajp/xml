@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",DISNEY Jr.
+http://fadev.club/live/disneyjr.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/disney-junior/
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="ports",IN: DSports Hindi HD
