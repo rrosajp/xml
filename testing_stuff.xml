@@ -1,0 +1,20 @@
+<xml>
+    <dir>
+        <title>Testing Live Tv</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/testing.m3u</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>Testing Misc Movies/Shows</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/Mov_tv_testing.m3u</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>Testing Movies/Tv</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/testing.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+</xml>
+
