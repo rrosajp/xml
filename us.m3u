@@ -396,9 +396,9 @@ http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w14968431
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fGdHIGy.png" group-title="Religious",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="Sport",ESPN 2 HD
-https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
+http://fadev.club/live/espn1.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/espn/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="Sport",ESPN HD
-https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+http://fadev.club/live/espn1.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/espn/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="Entertainment",ET Live
