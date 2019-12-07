@@ -3,15 +3,15 @@
 http://fadev.club/live/disneyjr.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/disney-junior/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="24-7",Family Guy
-https://sv7.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/familyguy.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://www.stream4free.live/family-guy-hd
+https://sv7.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/familyguy.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="24-7",South Park
-https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/spark.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://www.stream4free.live/south-park-us
+https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/spark.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="24-7",GOT
-https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/gamehd.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://www.stream4free.live/game-of-thrones-hd
+https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/gamehd.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="24-7",The Simpsons
-https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/gamehd.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://www.stream4free.live/simpsons-2019
+https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/gamehd.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="24-7",The Simpsons
-https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/gamehd.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://www.stream4free.live/simpsons-2019
+https://sv2.data-stream.top/2fcc79cb98b45d875ee7558b868cd5946a694c11df4f2dfc87a20693660f2688/hls/gamehd.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="Sports",IN: DSports HD
