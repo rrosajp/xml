@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",DISNEY Jr.
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true" group-title="US/VIP",DISNEY Jr.
 http://fadev.club/live/disneyjr.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/disney-junior/
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="US/VIP",HBO
+http://docs-3.gogleusercontent.host/live/hbo/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/hbo/
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true" group-title="US/VIP",The CW
+http://docs-4.gogleusercontent.host/live/cw/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/the-cw/
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Starz.png?raw=true" group-title="US/VIP",Starz
+http://docs-8.gogleusercontent.host/live/starz/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/starz/
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Showtime.png?raw=true" group-title="US/VIP",Showtime
+http://docs-7.gogleusercontent.host/live/showtime/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/showtime/
 
 #EXTINF:-1 tvg-logo="https://media.begeek.fr/2018/09/The-CW-logo-660x370.jpg" group-title="", The CW Florida
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
