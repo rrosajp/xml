@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="." group-title="Movies",Rambo: Last Blood
+https://database.gdriveplayer.us/player.php?imdb=tt9364406&id=18728
+
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true" group-title="US/VIP",DISNEY Jr.
 http://fadev.club/live/disneyjr.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/disney-junior/
 
@@ -10,9 +14,6 @@ http://docs-4.gogleusercontent.host/live/amc/chunks.m3u8|'User-Agent':'Mozilla/5
 
 #EXTINF:-1 tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Animalplanet.png?raw=true" group-title="", Animal Planet
 http://docs-6.gogleusercontent.host/live/animalplanet/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/animal-planet/
-
-#EXTINF:-1 tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Comedy%20Central.png?raw=true" group-title="", Comedy Central
-http://hls.123tv.live/ch/-u5a9WtFegUhSEIR2o2mBg/1576278864/cc.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/comedy-central/
 
 #EXTINF:-1 tvg-logo="https://media.begeek.fr/2018/09/The-CW-logo-660x370.jpg" group-title="", The CW Florida
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
