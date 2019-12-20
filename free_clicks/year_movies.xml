@@ -42,6 +42,12 @@
     </dir>
 
     <dir>
+        <title>[B][COLOR gold] 2012 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/2012.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 2011 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/2011.xml</link>
         <thumbnail></thumbnail>
@@ -96,7 +102,7 @@
     </dir>
 
     <dir>
-        <title>[B][COLOR gold] 2001 [/COLOR][/B]</title>
+        <title>[B][COLOR gold] 2002 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/2002.xml</link>
         <thumbnail></thumbnail>
     </dir>
@@ -212,6 +218,12 @@
     <dir>
         <title>[B][COLOR gold] 1982 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1982.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1978 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1978.xml</link>
         <thumbnail></thumbnail>
     </dir>
 
