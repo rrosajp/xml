@@ -4,7 +4,7 @@
 http://cdn.yoursports.stream/fx.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing 2
-http://cdn.yoursports.stream/fx.m3u8|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36%Referer=http://yoursports.stream/ing/fx
+http://cdn.yoursports.stream/fx.m3u8|"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"%Referer=http://yoursports.stream/ing/fx
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test 3
 
