@@ -1,0 +1,154 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" group-title="",A&E
+https://ok.ru/videoembed/1319453400675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC
+http://s6.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  group-title="",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="",Bravo Channel
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="",Bravo Channel
+https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cspan-269x151.png" group-title="",C-Span 1
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cspan2-269x145.png" group-title="",C-Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cspan3-269x147.png" group-title="",C-Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" group-title="",Cartoon Network
+http://s6.11223344.host/live/ctnw/chunks.m3u8|Referer=http://123tvnow.com/watch/cartoon-network/
+
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" group-title="News",CBS News (CBSN)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+
+#EXTINF:-1 group-title="USA"  tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="",CBS
+http://s8.11223344.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
+
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" group-title="",California Music Channel - CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnbc-269x149.png" group-title="",CNBC
+http://docs-7.gogleusercontent.host/live/cnbc/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="",CNN
+http://s4.11223344.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="",CW
+http://s6.11223344.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" group-title="",Discovery Channel
+http://s8.11223344.host/live/discovery/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="",DISCOVERY SCIENCE
+http://s4.11223344.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="",DIY Network
+http://s4.11223344.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/diy-network/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" group-title="",E!
+http://s6.11223344.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/food-network-269x151.png" group-title="",Food Network
+http://s8.11223344.host/live/food/playlist.m3u8|Referer=http://123tvnow.com/watch/food-network/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fbn-269x151.jpg" group-title="",FOX Business
+http://s4.11223344.host/live/fbn/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-business/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fox-269x151.png" group-title="",FOX Network
+http://s6.11223344.host/live/foxnw/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-network/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" group-title="",FOX NEWS HD
+http://f1.123fox.host/live/666f786e657773/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-news-hd/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" group-title="",FOX Sports 1
+http://s8.11223344.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" group-title="",FOX Sports 2
+http://s4.11223344.host/live/fs2/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-2/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fx-269x151.png" group-title="",FX
+http://s6.11223344.host/live/fx/chunks.m3u8|Referer=http://123tvnow.com/watch/fx-live/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" group-title="",HBO
+http://s8.11223344.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/hbo/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" group-title="",HGTV
+http://s4.11223344.host/live/hgtv/chunks.m3u8|Referer=http://123tvnow.com/watch/hgtv/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/History-269x151.png" group-title="",History Channel
+http://s6.11223344.host/live/history/chunks.m3u8|Referer=http://123tvnow.com/watch/history-channel/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" group-title="",Investigation Discovery
+http://s4.11223344.host/live/id/chunks.m3u8|Referer=http://123tvnow.com/watch/investigation-discovery/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" group-title="",Lifetime
+http://s8.11223344.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/watch/lifetime-tv/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" group-title="",MSNBC
+http://s4.11223344.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" group-title="",National Geographic
+http://s4.11223344.host/live/natgeo/chunks.m3u8|Referer=http://123tvnow.com/watch/national-geographic/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" group-title="",NBA TV
+http://s6.11223344.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
+
+#EXTINF:-1 tvg-id="1386" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbc.png" group-title="",NBC
+http://s8.11223344.host/live/nbc/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc/
+
+#EXTINF:-1 tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" group-title="",NBC SPORTS Network (NBCSN)
+http://s4.11223344.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
+
+#EXTINF:-1 tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" group-title="",NFL Network
+http://s6.11223344.host/live/nfltv/chunks.m3u8|Referer=http://123tvnow.com/watch/nfl-network/
+
+#EXTINF:-1 tvg-id="14156" tvg-logo="http://123tvnow.com/wp-content/uploads/2019/02/nhl.png" group-title="",NHL Network
+http://s8.11223344.host/live/nhltv/chunks.m3u8|Referer=http://123tvnow.com/watch/nhl-network/
+
+#EXTINF:-1 tvg-id="658" tvg-logo="http://123tvnow.com/wp-content/uploads/2019/01/nick.png" group-title="",Nickelodeon
+http://s4.11223344.host/live/nick2/chunks.m3u8|Referer=http://123tvnow.com/watch/nickelodeon/
+
+#EXTINF:-1 tvg-id="659"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Oxygen-269x151.png" group-title="",Oxygen
+http://s6.11223344.host/live/oxygen/chunks.m3u8|Referer=http://123tvnow.com/watch/oxygen/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" group-title="",Showtime
+http://s8.11223344.host/live/showtime/chunks.m3u8|Referer=http://123tvnow.com/watch/showtime/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" group-title="",Starz
+http://s4.11223344.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" group-title="",Syfy
+http://s6.11223344.host/live/syfy/chunks.m3u8|Referer=http://123tvnow.com/watch/syfy/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" group-title="",TBS
+http://s8.11223344.host/live/tbs/chunks.m3u8|Referer=http://123tvnow.com/watch/tbs/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" group-title="",TLC
+https://ok.ru/videoembed/1218455936611?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" group-title="",TNT
+http://s4.11223344.host/live/tnt/chunks.m3u8|Referer=http://123tvnow.com/watch/tnt/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" group-title="",Travel Channel
+http://s6.11223344.host/live/travel/chunks.m3u8|Referer=http://123tvnow.com/watch/travel-channel/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TruTV-269x151.png" group-title="",TruTV
+http://s8.11223344.host/live/trutv/chunks.m3u8|Referer=http://123tvnow.com/watch/trutv/
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" group-title="",USA Network
+http://s4.11223344.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com/watch/usa-network/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" group-title="",WWE NETWORK
+http://s6.11223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/

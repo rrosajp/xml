@@ -1,17 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movies" tvg-id="177"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC [Option-1]
-https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2019/06/disney-xd-269x151.png" group-title="",Disney XD
+httphost://$http-raw=http://123tvnow.com/watch/disney-xd/$http-refferer=http://123tvnow.com/watch/disney-xd/
 
-#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC [Option-3]
-http://s6.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="",DISCOVERY SCIENCE
+httphost://$http-raw=http://123tvnow.com/watch/disney-channel/$http-refferer=http://123tvnow.com/watch/disney-channel/
 
-#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC [Option-3] [Alternate2]
-httphost://$http-raw=http://123tvnow.com/watch/amc/$http-refferer=http://123tvnow.com/watch/amc/
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" group-title="",Disney Channel
+httphost://$http-raw=http://123tvnow.com/watch/disney-channel/$http-refferer=http://123tvnow.com/watch/disney-channel/
 
+#EXTINF:-1 tvg-id="2288" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="Music",CMT (Country Music Television)
+httphost://$http-raw=http://123tvnow.com/watch/cmt-country-music-television/$http-refferer=http://123tvnow.com/watch/cmt-country-music-television/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" group-title="",Bet
+httphost://$http-raw=http://123tvnow.com/watch/bet/$http-refferer=http://123tvnow.com/watch/bet/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/freeform-269x151.png" group-title="",Freeform
+httphost://$http-raw=http://123tvnow.com/watch/freeform-abc-family/$http-refferer=http://123tvnow.com/watch/freeform-abc-family/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
-https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+https://sv7.data-stream.top/60e47eaaefd13bc6fb670051cadb67351553ad21408ba06719d87a59839a773e/hls/familyguy.m3u8|Referer=https://www.stream4free.live/family-guy-hd
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
 https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=

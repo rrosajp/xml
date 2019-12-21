@@ -4,13 +4,13 @@
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="",HBO
-http://docs-3.gogleusercontent.host/live/hbo/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/hbo/
+http://docs-3.gogleusercontent.host/live/hbo/chunks.m3u8|http://123tvnow.com/watch/hbo/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Starz.png?raw=true" group-title="",Starz
-http://docs-8.gogleusercontent.host/live/starz/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/starz/
+http://docs-8.gogleusercontent.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Showtime.png?raw=true" group-title="",Showtime
-http://docs-7.gogleusercontent.host/live/showtime/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/showtime/
+http://docs-7.gogleusercontent.host/live/showtime/chunks.m3u8|Referer=http://123tvnow.com/watch/showtime/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
