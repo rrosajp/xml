@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movies" tvg-id="177"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-1]
+#EXTINF:-1 group-title="Movies" tvg-id="177"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC [Option-1]
 https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 
-#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-3]
+#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC [Option-3]
 http://s6.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
 
-#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-3] [Alternate2]
+#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC [Option-3] [Alternate2]
 httphost://$http-raw=http://123tvnow.com/watch/amc/$http-refferer=http://123tvnow.com/watch/amc/
 
 
