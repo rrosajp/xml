@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Hbo test
+http://s8.11223344.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/hbo/
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Hbo With Subs
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true" group-title="US/VIP",DISNEY Jr.
