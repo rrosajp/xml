@@ -566,6 +566,24 @@
     </dir>
 
     <dir>
+        <title>Saudi Arabia</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/sa.m3u</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/2000px-Flag_of_Saudi_Arabia.svg.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Serbia</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/sn.m3u</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>Serbia</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/rs.m3u</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2000px-Flag_of_Serbia.svg.png</thumbnail>
+    </dir>
+
+    <dir>
         <title>Singapore</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/sg.m3u</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg</thumbnail>
