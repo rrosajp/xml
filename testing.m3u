@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
-https://proxy-03.nyc.dailymotion.com/sec(I25uFPyvn48zyzIPUDuzDIZW6aBSIh1KhJpRnrQXNP7lLYWVM43rN8rpiQ5ZAf0jIPD-kb1whEQZvgufhdRjQo46lNw1r-gm6RBroNrROfw)/video/702/033/395330207_mp4_h264_aac_hq.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
-https://sv2.data-stream.top/4fe47732c70758e6298bcee399de7b0e03c11809db20b74e1df43a877704017a/hls/sunny.m3u8|Referer=https://www.stream4free.live/always-sunny-in-philadelphia
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test 2
+https://sv2.data-stream.top/4fe47732c70758e6298bcee399de7b0e03c11809db20b74e1df43a877704017a/hls/sunny.m3u8|'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36'&Referer=https://www.stream4free.live/always-sunny-in-philadelphia
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Hbo With Subs
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
