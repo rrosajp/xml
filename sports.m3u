@@ -4,7 +4,10 @@
 http://fadev.club/live/espn1.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/espn/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imkmedia.com/wp-content/uploads/2019/11/espn2-300x160.png" group-title="Sport",ESPN2
-http://fadev.club/live/espn.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/espn2/
+http://fadev.club/live/espn2.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/espn2/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imkmedia.com/wp-content/uploads/2019/11/espnews-300x160.png" group-title="Sport",ESPN News
+http://fadev.club/live/espnews.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/espn-news/
 
 #EXTINF:-1 tvg-logo="https://asad1.com/wp-content/uploads/2018/12/Sport-HD-Wallpaper-267-324x160.jpg" group-title="Sports",SPORT HD
 http://161.0.157.6/PLTV/88888888/224/3221227040/index.m3u8
