@@ -1,11 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="." group-title="",Syfy
-https://ustreamix.su/embed.php?id=syfy|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a200.png" group-title="",sportsnet one
-https://ustreamix.stream/embed.php?id=sportsnet-one|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 tvg-logo="." group-title="",Syfy test 2
+https://ustreamix.su/stream.php?id=syfy&token=c10-852-5a4-899-5ba-5b4-d9f-339-6e6-526-3e|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
 https://sv7.data-stream.top/60e47eaaefd13bc6fb670051cadb67351553ad21408ba06719d87a59839a773e/hls/familyguy.m3u8|Referer=https://www.stream4free.live/family-guy-hd
