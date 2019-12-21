@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="." group-title="",FX
-http://cdn.yoursports.stream/fx.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://yoursports.stream/ing/fx
+http://cdn.yoursports.stream/fx.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://yoursports.stream/live?v=fx
 
 #EXTINF:-1 tvg-logo="." group-title="",Syfy test 2
 https://ustreamix.su/stream.php?id=syfy&token=c10-852-5a4-899-5ba-5b4-d9f-339-6e6-526-3e|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
