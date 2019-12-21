@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Movies" tvg-id="177"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-1]
+https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
+g
+#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-3]
+http://s6.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
+
+#EXTINF:-1 group-title="Movies" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-3] [Alternate2]
+httphost://$http-raw=http://123tvnow.com/watch/amc/$http-refferer=http://123tvnow.com/watch/amc/
+
+
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
 https://tvpc.us/player/embed.php?cid=620|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 
@@ -12,16 +23,16 @@ http://s8.11223344.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/h
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true" group-title="US/VIP",DISNEY Jr.
-http://fadev.club/live/disneyjr.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/disney-junior/
+http://fadev.club/live/disneyjr.m3u8|Referer=http://imkmedia.com/watch/disney-junior/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true" group-title="US/VIP",The CW
-http://docs-4.gogleusercontent.host/live/cw/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/the-cw/
+http://docs-4.gogleusercontent.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
 
 #EXTINF:-1 tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/AMC.png?raw=true" group-title="", AMC
-http://docs-4.gogleusercontent.host/live/amc/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/amc/
+http://docs-4.gogleusercontent.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
 
 #EXTINF:-1 tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Animalplanet.png?raw=true" group-title="", Animal Planet
-http://docs-6.gogleusercontent.host/live/animalplanet/chunks.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/animal-planet/
+http://docs-6.gogleusercontent.host/live/animalplanet/chunks.m3u8|Referer=http://123tvnow.com/watch/animal-planet/
 
 #EXTINF:-1 tvg-logo="https://media.begeek.fr/2018/09/The-CW-logo-660x370.jpg" group-title="", The CW Florida
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
