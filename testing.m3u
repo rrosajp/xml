@@ -2,6 +2,11 @@
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
 
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g" group-title="US/VIP",DISNEY Jr. (New)
+http://fadev.club/live/disneyjr.m3u8|Referer=http://imkmedia.com/watch/disney-junior/
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imkmedia.com/wp-content/uploads/2019/11/disney-xd-300x160.png" group-title="US/VIP",DISNEY XD. (New)
+http://fadev.club/live/disneyxd.m3u8|Referer=http://imkmedia.com/watch/disney-xd/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Hbo With Subs
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
