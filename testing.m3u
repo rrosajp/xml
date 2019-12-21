@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true" group-title="US/VIP",DISNEY Channel
-http://hls.123tv.live/ch/jHKe90Sc4XFasSvtiuy8UQ/1576906537/disney.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://123tvnow.com/watch/disney-channel/
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="US/VIP",Test
+mpd://fe7e0b66b38dbc02ae1b847087115a84.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true" group-title="US/VIP",DISNEY Jr.
 http://fadev.club/live/disneyjr.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://imkmedia.com/watch/disney-junior/
