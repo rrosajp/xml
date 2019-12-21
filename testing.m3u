@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
-https://nl2.streamlive.to/freeabr/c9xubagk4py0f5q/rtmp/c9xubagk4py0f5q/chunks.m3u8?nimblesessionid=1298624&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA5OjM5OjMzIFBNJmhhc2hfdmFsdWU9Yk1qa3VSVVpSMHZ4eGJmNXhMQ3Mydz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NzEuMTM1LjE5Ni4yNTI=|&Referer=https://www.streamlive.to/embedplayer.php?channel=76672&autostart=true
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
+https://nl2.streamlive.to/freeabr/nz7l9vc5nv1og7b/rtmp/nz7l9vc5nv1og7b/chunks.m3u8?nimblesessionid=1298956&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA5OjQ5OjQyIFBNJmhhc2hfdmFsdWU9d0J1OHJtSWtKWkNjbnVvWkJzMG9Edz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NzEuMTM1LjE5Ni4yNTI=|&Referer=https://www.streamlive.to/view/46476/ABC-(HD)
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test 3
 
