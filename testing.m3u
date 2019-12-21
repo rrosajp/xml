@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
 https://nl2.streamlive.to/freeabr/nz7l9vc5nv1og7b/rtmp/nz7l9vc5nv1og7b/chunks.m3u8?nimblesessionid=1298956&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA5OjQ5OjQyIFBNJmhhc2hfdmFsdWU9d0J1OHJtSWtKWkNjbnVvWkJzMG9Edz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NzEuMTM1LjE5Ni4yNTI=|&Referer=https://www.streamlive.to/view/46476/ABC-(HD)
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
+https://nl2.streamlive.to/vlc/nz7l9vc5nv1og7b/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA5OjQ5OjQyIFBNJmhhc2hfdmFsdWU9Q3c0OUh1N3V3TFFvS1BhQW00RVAyQT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MTkmaWQ9MA==|&Referer=https://www.streamlive.to/view/46476/ABC-(HD)
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test 3
 
