@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
+https://hls.ustreamix.com/TLC.m3u8?token=869-9c6-f06-f97-bc4-d41-f27-e30-7df-5b8-3c5-f35-2d9-e0b-c8d-cd7-f9d-5cc-8a6-f7d-113-6&region=na
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
+https://hls.ustreamix.com/TLC.m3u8?token=869-9c6-f06-f97-bc4-d41-f27-e30-7df-5b8-3c5-f35-2d9-e0b-c8d-cd7-f9d-5cc-8a6-f7d-113-6&region=na|&Referer=
 
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Hbo With Subs
