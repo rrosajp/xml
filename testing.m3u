@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
-https://peer3.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAxOSA1OjA1OjUxIFBNJmhhc2hfdmFsdWU9S1B3TWlieW9QNXFJZTVCdXNacGFqUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=|User-Agent=%s&Referer=https://watchnewslive.tv/player.php?stream=HBO
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
 
@@ -11,6 +10,1026 @@ http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.begeek.fr/2018/09/The-CW-logo-660x370.jpg" group-title="", The CW Florida
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
+
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 1000 Ways To Die
+http://thenew.tv:8000/Vin/Vin/86462
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 11.22.63*
+http://thenew.tv:8000/Vin/Vin/84794
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 12 Monkeys*
+http://thenew.tv:8000/Vin/Vin/84834
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 13 Reasons Why
+http://thenew.tv:8000/Vin/Vin/84836
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 2 Broke Girls
+http://thenew.tv:8000/Vin/Vin/84868
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 30 Rock
+http://thenew.tv:8000/Vin/Vin/84951
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: A Night at the Roxbury
+http://thenew.tv:8000/Vin/Vin/93024
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Absolutely Fabulous
+http://thenew.tv:8000/Vin/Vin/92229
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Adam Sandler Movies
+http://thenew.tv:8000/Vin/Vin/86414
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: AirWolf
+http://thenew.tv:8000/Vin/Vin/89968
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Al Pacino
+http://thenew.tv:8000/Vin/Vin/93030
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: ALF
+http://thenew.tv:8000/Vin/Vin/86765
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: All In The Family
+http://thenew.tv:8000/Vin/Vin/93448
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Altered Carbon
+http://thenew.tv:8000/Vin/Vin/89434
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: American Crime Story
+http://thenew.tv:8000/Vin/Vin/96092
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: American Dad
+http://thenew.tv:8000/Vin/Vin/96088
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ancient Aliens
+http://thenew.tv:8000/Vin/Vin/85032
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Anger Management
+http://thenew.tv:8000/Vin/Vin/89154
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Aqua Teen Hunger Force
+http://thenew.tv:8000/Vin/Vin/96089
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Arrow
+http://thenew.tv:8000/Vin/Vin/89649
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Atlanta
+http://thenew.tv:8000/Vin/Vin/96091
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Austin Powers
+http://thenew.tv:8000/Vin/Vin/89959
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Avengers
+http://thenew.tv:8000/Vin/Vin/89961
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Back To The Future
+http://thenew.tv:8000/Vin/Vin/89964
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ballers
+http://thenew.tv:8000/Vin/Vin/89605
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Banshee
+http://thenew.tv:8000/Vin/Vin/84959
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bates Motel
+http://thenew.tv:8000/Vin/Vin/96102
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Batman Collection
+http://thenew.tv:8000/Vin/Vin/91937
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Beavis and Butt-Head
+http://thenew.tv:8000/Vin/Vin/85440
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Better Call Saul
+http://thenew.tv:8000/Vin/Vin/88793
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Beverly Hills 90210-
+http://thenew.tv:8000/Vin/Vin/84212
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bewitched
+http://thenew.tv:8000/Vin/Vin/86761
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Big Bang Theory
+http://thenew.tv:8000/Vin/Vin/84436
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Big Love
+http://thenew.tv:8000/Vin/Vin/86003
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Billions
+http://thenew.tv:8000/Vin/Vin/89092
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Black Sails
+http://thenew.tv:8000/Vin/Vin/85412
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bloodline
+http://thenew.tv:8000/Vin/Vin/94590
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Boardwalk Empire
+http://thenew.tv:8000/Vin/Vin/89943
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bonanza
+http://thenew.tv:8000/Vin/Vin/89121
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Brady Bunch
+http://thenew.tv:8000/Vin/Vin/89153
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Breaking Bad
+http://thenew.tv:8000/Vin/Vin/85258
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Broadchurch
+http://thenew.tv:8000/Vin/Vin/85415
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Brooklyn Nine-Nine
+http://thenew.tv:8000/Vin/Vin/96096
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Burn Notice
+http://thenew.tv:8000/Vin/Vin/89155
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Californication
+http://thenew.tv:8000/Vin/Vin/86296
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Castle
+http://thenew.tv:8000/Vin/Vin/84524
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chappelles Show
+http://thenew.tv:8000/Vin/Vin/89075
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Charmed
+http://thenew.tv:8000/Vin/Vin/85436
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Cheers
+http://thenew.tv:8000/Vin/Vin/86567
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chicago Fire
+http://thenew.tv:8000/Vin/Vin/85814
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chicago Med
+http://thenew.tv:8000/Vin/Vin/84957
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chicago P.D.
+http://thenew.tv:8000/Vin/Vin/85663
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Cougar Town
+http://thenew.tv:8000/Vin/Vin/85426
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Criminal Minds
+http://thenew.tv:8000/Vin/Vin/86418
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: CSI
+http://thenew.tv:8000/Vin/Vin/89124
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: CSI Miami
+http://thenew.tv:8000/Vin/Vin/85397
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: DCs Legends of Tomorrow
+http://thenew.tv:8000/Vin/Vin/86766
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Deadliest Catch
+http://thenew.tv:8000/Vin/Vin/89468
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Denzel Washington
+http://thenew.tv:8000/Vin/Vin/92399
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dexter
+http://thenew.tv:8000/Vin/Vin/86238
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dirty John
+http://thenew.tv:8000/Vin/Vin/89455
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Disney Movie Collection
+http://thenew.tv:8000/Vin/Vin/84478
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Doc McStuffins
+http://thenew.tv:8000/Vin/Vin/84490
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dragon Ball Z Movies
+http://thenew.tv:8000/Vin/Vin/92228
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dragon Ball Z Series
+http://thenew.tv:8000/Vin/Vin/92227
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Duck Dynasty
+http://thenew.tv:8000/Vin/Vin/96103
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Entourage
+http://thenew.tv:8000/Vin/Vin/86487
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: ER
+http://thenew.tv:8000/Vin/Vin/96104
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Everybody Hates Chris
+http://thenew.tv:8000/Vin/Vin/85308
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Family Guy
+http://thenew.tv:8000/Vin/Vin/96090
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Family Matters*
+http://thenew.tv:8000/Vin/Vin/84953
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Fast And Furious
+http://thenew.tv:8000/Vin/Vin/84450
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Firefly
+http://thenew.tv:8000/Vin/Vin/85413
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Fraggle Rock
+http://thenew.tv:8000/Vin/Vin/85410
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Friends
+http://thenew.tv:8000/Vin/Vin/84489
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Game Of Thrones
+http://thenew.tv:8000/Vin/Vin/84526
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gangster Movies
+http://thenew.tv:8000/Vin/Vin/86630
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Generation Kill
+http://thenew.tv:8000/Vin/Vin/89435
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gold Rush
+http://thenew.tv:8000/Vin/Vin/94894
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Golden Girls
+http://thenew.tv:8000/Vin/Vin/85034
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Good Luck Charlie
+http://thenew.tv:8000/Vin/Vin/84955
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Good Times
+http://thenew.tv:8000/Vin/Vin/86419
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gotham
+http://thenew.tv:8000/Vin/Vin/86427
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gunsmoke
+http://thenew.tv:8000/Vin/Vin/84873
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Halt Catch Fire
+http://thenew.tv:8000/Vin/Vin/85815
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hannibal Lecter
+http://thenew.tv:8000/Vin/Vin/89965
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Happy Days
+http://thenew.tv:8000/Vin/Vin/85428
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Harry Potter
+http://thenew.tv:8000/Vin/Vin/91938
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: He-Man And The Masters Of The Universe
+http://thenew.tv:8000/Vin/Vin/86700
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Heartland C.A
+http://thenew.tv:8000/Vin/Vin/84880
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hell On Wheels
+http://thenew.tv:8000/Vin/Vin/91939
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Heroes
+http://thenew.tv:8000/Vin/Vin/85427
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hoarders
+http://thenew.tv:8000/Vin/Vin/96101
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hogan Heroes
+http://thenew.tv:8000/Vin/Vin/85818
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House M.D.
+http://thenew.tv:8000/Vin/Vin/85816
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House MD
+http://thenew.tv:8000/Vin/Vin/89966
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House Of Cards
+http://thenew.tv:8000/Vin/Vin/85817
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House Of Lies
+http://thenew.tv:8000/Vin/Vin/86768
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Humans
+http://thenew.tv:8000/Vin/Vin/85417
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hunger Games
+http://thenew.tv:8000/Vin/Vin/85844
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hunted
+http://thenew.tv:8000/Vin/Vin/89437
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ice Road Truckers
+http://thenew.tv:8000/Vin/Vin/96094
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Indiana Jones
+http://thenew.tv:8000/Vin/Vin/89986
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ink Master
+http://thenew.tv:8000/Vin/Vin/85820
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Into The Badlands
+http://thenew.tv:8000/Vin/Vin/84525
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Iron Man Trilogy
+http://thenew.tv:8000/Vin/Vin/84219
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: James Bond
+http://thenew.tv:8000/Vin/Vin/88717
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jason Bourne
+http://thenew.tv:8000/Vin/Vin/85821
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jaws
+http://thenew.tv:8000/Vin/Vin/89952
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jersey Shore
+http://thenew.tv:8000/Vin/Vin/90397
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jesse Stone
+http://thenew.tv:8000/Vin/Vin/93033
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jessie
+http://thenew.tv:8000/Vin/Vin/89987
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: John Wayne Collection
+http://thenew.tv:8000/Vin/Vin/84372
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: John Wick Movies
+http://thenew.tv:8000/Vin/Vin/92225
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jurassic Park
+http://thenew.tv:8000/Vin/Vin/89963
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Justice League
+http://thenew.tv:8000/Vin/Vin/84874
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Justified
+http://thenew.tv:8000/Vin/Vin/97508
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Kim Possible
+http://thenew.tv:8000/Vin/Vin/84870
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: King Of Queens
+http://thenew.tv:8000/Vin/Vin/89949
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Knight Rider
+http://thenew.tv:8000/Vin/Vin/86760
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Last Man Standing
+http://thenew.tv:8000/Vin/Vin/85425
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Law & Order
+http://thenew.tv:8000/Vin/Vin/89990
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Leonardo DiCaprio
+http://thenew.tv:8000/Vin/Vin/92231
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lethal Weapon
+http://thenew.tv:8000/Vin/Vin/89569
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: LetterKenny
+http://thenew.tv:8000/Vin/Vin/91936
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Little Einsteins
+http://thenew.tv:8000/Vin/Vin/84872
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Little House on the Prairie
+http://thenew.tv:8000/Vin/Vin/92230
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Living Single
+http://thenew.tv:8000/Vin/Vin/85822
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lord of the Rings
+http://thenew.tv:8000/Vin/Vin/89957
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lost
+http://thenew.tv:8000/Vin/Vin/86758
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lucifer
+http://thenew.tv:8000/Vin/Vin/84879
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Luther
+http://thenew.tv:8000/Vin/Vin/85419
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Macgyver
+http://thenew.tv:8000/Vin/Vin/85261
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mad Men
+http://thenew.tv:8000/Vin/Vin/85421
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Man Vs Wild
+http://thenew.tv:8000/Vin/Vin/96098
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marco Polo
+http://thenew.tv:8000/Vin/Vin/85420
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Married With Children
+http://thenew.tv:8000/Vin/Vin/89967
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Martin
+http://thenew.tv:8000/Vin/Vin/90871
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marvel Agents of Shield
+http://thenew.tv:8000/Vin/Vin/85262
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marvels Jessica Jones
+http://thenew.tv:8000/Vin/Vin/85418
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marvels Luke
+http://thenew.tv:8000/Vin/Vin/85433
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Matthew McConaughey
+http://thenew.tv:8000/Vin/Vin/93029
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mayans M.C
+http://thenew.tv:8000/Vin/Vin/84530
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Merlin
+http://thenew.tv:8000/Vin/Vin/85411
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Miami Vice
+http://thenew.tv:8000/Vin/Vin/86631
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mickey Mouse ClubHouse
+http://thenew.tv:8000/Vin/Vin/84487
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mission Impossible
+http://thenew.tv:8000/Vin/Vin/89453
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: MM*A*S*H
+http://thenew.tv:8000/Vin/Vin/86767
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Modern Marvels
+http://thenew.tv:8000/Vin/Vin/96097
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mom
+http://thenew.tv:8000/Vin/Vin/85256
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: My Little Pony
+http://thenew.tv:8000/Vin/Vin/85823
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: My Wife and Kids
+http://thenew.tv:8000/Vin/Vin/85606
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Naked And Afraid
+http://thenew.tv:8000/Vin/Vin/84928
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Narcos
+http://thenew.tv:8000/Vin/Vin/85255
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Naruto
+http://thenew.tv:8000/Vin/Vin/89969
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Nashville
+http://thenew.tv:8000/Vin/Vin/89436
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: NCIS
+http://thenew.tv:8000/Vin/Vin/84958
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Nip/Tuck
+http://thenew.tv:8000/Vin/Vin/100234
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Octonauts
+http://thenew.tv:8000/Vin/Vin/93106
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Outlander
+http://thenew.tv:8000/Vin/Vin/85263
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Oz
+http://thenew.tv:8000/Vin/Vin/89654
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ozark
+http://thenew.tv:8000/Vin/Vin/85432
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Parks and Recreation
+http://thenew.tv:8000/Vin/Vin/86420
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Paw Patrol
+http://thenew.tv:8000/Vin/Vin/84929
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Peaky Blinders
+http://thenew.tv:8000/Vin/Vin/85253
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Peppa Pig
+http://thenew.tv:8000/Vin/Vin/85930
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Perfect Strangers
+http://thenew.tv:8000/Vin/Vin/86759
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: PJ Masks
+http://thenew.tv:8000/Vin/Vin/84486
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Police Academy
+http://thenew.tv:8000/Vin/Vin/89570
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Popeye
+http://thenew.tv:8000/Vin/Vin/89981
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Power
+http://thenew.tv:8000/Vin/Vin/89982
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Preacher
+http://thenew.tv:8000/Vin/Vin/86756
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Prison Break
+http://thenew.tv:8000/Vin/Vin/94591
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Property Brothers
+http://thenew.tv:8000/Vin/Vin/86649
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Quantico
+http://thenew.tv:8000/Vin/Vin/85424
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Quentin Tarantino
+http://thenew.tv:8000/Vin/Vin/93025
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Raising Hope
+http://thenew.tv:8000/Vin/Vin/89189
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ray Donovan
+http://thenew.tv:8000/Vin/Vin/85604
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Reign
+http://thenew.tv:8000/Vin/Vin/86763
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Rescue Me
+http://thenew.tv:8000/Vin/Vin/91941
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Revolution
+http://thenew.tv:8000/Vin/Vin/85438
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Robert DeNiro
+http://thenew.tv:8000/Vin/Vin/93027
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Rocky
+http://thenew.tv:8000/Vin/Vin/89647
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Roseanne
+http://thenew.tv:8000/Vin/Vin/86488
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sabrina The Teenage Witch
+http://thenew.tv:8000/Vin/Vin/85434
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Salute Your Shorts
+http://thenew.tv:8000/Vin/Vin/88836
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sanford & Son
+http://thenew.tv:8000/Vin/Vin/84921
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Santa Clarita Diet
+http://thenew.tv:8000/Vin/Vin/85414
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Saved By The Bell
+http://thenew.tv:8000/Vin/Vin/88837
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Saw
+http://thenew.tv:8000/Vin/Vin/85441
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Scandal
+http://thenew.tv:8000/Vin/Vin/97513
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Scooby Doo
+http://thenew.tv:8000/Vin/Vin/84875
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Scooby-Doo Movies
+http://thenew.tv:8000/Vin/Vin/89973
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Seinfeld
+http://thenew.tv:8000/Vin/Vin/84833
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sesame Street
+http://thenew.tv:8000/Vin/Vin/89123
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sex and The City
+http://thenew.tv:8000/Vin/Vin/89046
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Shrek
+http://thenew.tv:8000/Vin/Vin/89419
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Snowfall
+http://thenew.tv:8000/Vin/Vin/89584
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sons of Anarchy
+http://thenew.tv:8000/Vin/Vin/86297
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: South Park
+http://thenew.tv:8000/Vin/Vin/91943
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Spongebob Squarepants
+http://thenew.tv:8000/Vin/Vin/85309
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Star Wars Movies
+http://thenew.tv:8000/Vin/Vin/86413
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Stargate Atlantis
+http://thenew.tv:8000/Vin/Vin/86426
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Street Outlaws
+http://thenew.tv:8000/Vin/Vin/84529
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Suits
+http://thenew.tv:8000/Vin/Vin/86762
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Supernatural
+http://thenew.tv:8000/Vin/Vin/85423
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Swamp People
+http://thenew.tv:8000/Vin/Vin/96099
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Takeshis Castle
+http://thenew.tv:8000/Vin/Vin/86757
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Teen Wolf
+http://thenew.tv:8000/Vin/Vin/85430
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Affair
+http://thenew.tv:8000/Vin/Vin/97505
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Americans
+http://thenew.tv:8000/Vin/Vin/84435
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Andy Griffith Show
+http://thenew.tv:8000/Vin/Vin/85033
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Crown
+http://thenew.tv:8000/Vin/Vin/96100
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Dukes of Hazzard
+http://thenew.tv:8000/Vin/Vin/93220
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Flash
+http://thenew.tv:8000/Vin/Vin/84871
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The FlintStones
+http://thenew.tv:8000/Vin/Vin/85605
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Fresh Prince Of Bel-Air
+http://thenew.tv:8000/Vin/Vin/86424
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Gifted
+http://thenew.tv:8000/Vin/Vin/86754
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Good Place
+http://thenew.tv:8000/Vin/Vin/85260
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Haunting Of Hill House
+http://thenew.tv:8000/Vin/Vin/85442
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Honeymooners
+http://thenew.tv:8000/Vin/Vin/84954
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Jeffersons
+http://thenew.tv:8000/Vin/Vin/85549
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Jetsons
+http://thenew.tv:8000/Vin/Vin/85429
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Killing
+http://thenew.tv:8000/Vin/Vin/96093
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Legend Of Korra
+http://thenew.tv:8000/Vin/Vin/86425
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Munsters
+http://thenew.tv:8000/Vin/Vin/86421
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The News Room
+http://thenew.tv:8000/Vin/Vin/96095
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Ren and Stimpy Show
+http://thenew.tv:8000/Vin/Vin/86423
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Secret Circle
+http://thenew.tv:8000/Vin/Vin/85435
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Shield
+http://thenew.tv:8000/Vin/Vin/85847
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Simpsons
+http://thenew.tv:8000/Vin/Vin/84924
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Sopranos
+http://thenew.tv:8000/Vin/Vin/86355
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Three Stooges
+http://thenew.tv:8000/Vin/Vin/86422
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Tudors
+http://thenew.tv:8000/Vin/Vin/86755
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Walking Dead
+http://thenew.tv:8000/Vin/Vin/85409
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Wire
+http://thenew.tv:8000/Vin/Vin/89315
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Wonder Years
+http://thenew.tv:8000/Vin/Vin/85935
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: This is Us
+http://thenew.tv:8000/Vin/Vin/85416
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Thundercats
+http://thenew.tv:8000/Vin/Vin/86701
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Tom And Jerry
+http://thenew.tv:8000/Vin/Vin/85488
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Tom Hanks
+http://thenew.tv:8000/Vin/Vin/92401
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Toy Story
+http://thenew.tv:8000/Vin/Vin/89646
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Transformers
+http://thenew.tv:8000/Vin/Vin/89567
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: True Blood
+http://thenew.tv:8000/Vin/Vin/96087
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Two and a Half Men
+http://thenew.tv:8000/Vin/Vin/85607
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Unbreakable Kimmy Schmidt
+http://thenew.tv:8000/Vin/Vin/85439
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Unsolved Mysteries
+http://thenew.tv:8000/Vin/Vin/89454
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Vikings
+http://thenew.tv:8000/Vin/Vin/89438
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Weeds
+http://thenew.tv:8000/Vin/Vin/84432
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Workaholics
+http://thenew.tv:8000/Vin/Vin/85422
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: X-Files
+http://thenew.tv:8000/Vin/Vin/91942
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: X-Men Movies
+http://thenew.tv:8000/Vin/Vin/89985
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Young Sheldon
+http://thenew.tv:8000/Vin/Vin/85437
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", CHRISTMAS: 24/7 Hallmark Xmas Movies
+http://thenew.tv:8000/Vin/Vin/99369
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 1000 Ways To Die
+http://its.thunder-tv.com:8000/Vin/Vin/86462
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 11.22.63*
+http://its.thunder-tv.com:8000/Vin/Vin/84794
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 12 Monkeys*
+http://its.thunder-tv.com:8000/Vin/Vin/84834
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 13 Reasons Why
+http://its.thunder-tv.com:8000/Vin/Vin/84836
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 2 Broke Girls
+http://its.thunder-tv.com:8000/Vin/Vin/84868
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 30 Rock
+http://its.thunder-tv.com:8000/Vin/Vin/84951
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: A Night at the Roxbury
+http://its.thunder-tv.com:8000/Vin/Vin/93024
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Absolutely Fabulous
+http://its.thunder-tv.com:8000/Vin/Vin/92229
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Adam Sandler Movies
+http://its.thunder-tv.com:8000/Vin/Vin/86414
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: AirWolf
+http://its.thunder-tv.com:8000/Vin/Vin/89968
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Al Pacino
+http://its.thunder-tv.com:8000/Vin/Vin/93030
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: ALF
+http://its.thunder-tv.com:8000/Vin/Vin/86765
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: All In The Family
+http://its.thunder-tv.com:8000/Vin/Vin/93448
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Altered Carbon
+http://its.thunder-tv.com:8000/Vin/Vin/89434
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: American Crime Story
+http://its.thunder-tv.com:8000/Vin/Vin/96092
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: American Dad
+http://its.thunder-tv.com:8000/Vin/Vin/96088
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ancient Aliens
+http://its.thunder-tv.com:8000/Vin/Vin/85032
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Anger Management
+http://its.thunder-tv.com:8000/Vin/Vin/89154
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Aqua Teen Hunger Force
+http://its.thunder-tv.com:8000/Vin/Vin/96089
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Arrow
+http://its.thunder-tv.com:8000/Vin/Vin/89649
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Atlanta
+http://its.thunder-tv.com:8000/Vin/Vin/96091
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Austin Powers
+http://its.thunder-tv.com:8000/Vin/Vin/89959
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Avengers
+http://its.thunder-tv.com:8000/Vin/Vin/89961
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Back To The Future
+http://its.thunder-tv.com:8000/Vin/Vin/89964
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ballers
+http://its.thunder-tv.com:8000/Vin/Vin/89605
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Banshee
+http://its.thunder-tv.com:8000/Vin/Vin/84959
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bates Motel
+http://its.thunder-tv.com:8000/Vin/Vin/96102
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Batman Collection
+http://its.thunder-tv.com:8000/Vin/Vin/91937
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Beavis and Butt-Head
+http://its.thunder-tv.com:8000/Vin/Vin/85440
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Better Call Saul
+http://its.thunder-tv.com:8000/Vin/Vin/88793
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Beverly Hills 90210-
+http://its.thunder-tv.com:8000/Vin/Vin/84212
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bewitched
+http://its.thunder-tv.com:8000/Vin/Vin/86761
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Big Bang Theory
+http://its.thunder-tv.com:8000/Vin/Vin/84436
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Big Love
+http://its.thunder-tv.com:8000/Vin/Vin/86003
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Billions
+http://its.thunder-tv.com:8000/Vin/Vin/89092
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Black Sails
+http://its.thunder-tv.com:8000/Vin/Vin/85412
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bloodline
+http://its.thunder-tv.com:8000/Vin/Vin/94590
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Boardwalk Empire
+http://its.thunder-tv.com:8000/Vin/Vin/89943
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Bonanza
+http://its.thunder-tv.com:8000/Vin/Vin/89121
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Brady Bunch
+http://its.thunder-tv.com:8000/Vin/Vin/89153
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Breaking Bad
+http://its.thunder-tv.com:8000/Vin/Vin/85258
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Broadchurch
+http://its.thunder-tv.com:8000/Vin/Vin/85415
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Brooklyn Nine-Nine
+http://its.thunder-tv.com:8000/Vin/Vin/96096
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Burn Notice
+http://its.thunder-tv.com:8000/Vin/Vin/89155
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Californication
+http://its.thunder-tv.com:8000/Vin/Vin/86296
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Castle
+http://its.thunder-tv.com:8000/Vin/Vin/84524
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chappelles Show
+http://its.thunder-tv.com:8000/Vin/Vin/89075
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Charmed
+http://its.thunder-tv.com:8000/Vin/Vin/85436
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Cheers
+http://its.thunder-tv.com:8000/Vin/Vin/86567
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chicago Fire
+http://its.thunder-tv.com:8000/Vin/Vin/85814
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chicago Med
+http://its.thunder-tv.com:8000/Vin/Vin/84957
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Chicago P.D.
+http://its.thunder-tv.com:8000/Vin/Vin/85663
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Cougar Town
+http://its.thunder-tv.com:8000/Vin/Vin/85426
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Criminal Minds
+http://its.thunder-tv.com:8000/Vin/Vin/86418
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: CSI
+http://its.thunder-tv.com:8000/Vin/Vin/89124
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: CSI Miami
+http://its.thunder-tv.com:8000/Vin/Vin/85397
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: DCs Legends of Tomorrow
+http://its.thunder-tv.com:8000/Vin/Vin/86766
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Deadliest Catch
+http://its.thunder-tv.com:8000/Vin/Vin/89468
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Denzel Washington
+http://its.thunder-tv.com:8000/Vin/Vin/92399
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dexter
+http://its.thunder-tv.com:8000/Vin/Vin/86238
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dirty John
+http://its.thunder-tv.com:8000/Vin/Vin/89455
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Disney Movie Collection
+http://its.thunder-tv.com:8000/Vin/Vin/84478
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Doc McStuffins
+http://its.thunder-tv.com:8000/Vin/Vin/84490
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dragon Ball Z Movies
+http://its.thunder-tv.com:8000/Vin/Vin/92228
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Dragon Ball Z Series
+http://its.thunder-tv.com:8000/Vin/Vin/92227
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Duck Dynasty
+http://its.thunder-tv.com:8000/Vin/Vin/96103
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Entourage
+http://its.thunder-tv.com:8000/Vin/Vin/86487
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: ER
+http://its.thunder-tv.com:8000/Vin/Vin/96104
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Everybody Hates Chris
+http://its.thunder-tv.com:8000/Vin/Vin/85308
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Family Guy
+http://its.thunder-tv.com:8000/Vin/Vin/96090
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Family Matters*
+http://its.thunder-tv.com:8000/Vin/Vin/84953
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Fast And Furious
+http://its.thunder-tv.com:8000/Vin/Vin/84450
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Firefly
+http://its.thunder-tv.com:8000/Vin/Vin/85413
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Fraggle Rock
+http://its.thunder-tv.com:8000/Vin/Vin/85410
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Friends
+http://its.thunder-tv.com:8000/Vin/Vin/84489
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Game Of Thrones
+http://its.thunder-tv.com:8000/Vin/Vin/84526
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gangster Movies
+http://its.thunder-tv.com:8000/Vin/Vin/86630
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Generation Kill
+http://its.thunder-tv.com:8000/Vin/Vin/89435
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gold Rush
+http://its.thunder-tv.com:8000/Vin/Vin/94894
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Golden Girls
+http://its.thunder-tv.com:8000/Vin/Vin/85034
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Good Luck Charlie
+http://its.thunder-tv.com:8000/Vin/Vin/84955
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Good Times
+http://its.thunder-tv.com:8000/Vin/Vin/86419
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gotham
+http://its.thunder-tv.com:8000/Vin/Vin/86427
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Greys Anatomy
+http://its.thunder-tv.com:8000/Vin/Vin/86417
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Gunsmoke
+http://its.thunder-tv.com:8000/Vin/Vin/84873
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Halt Catch Fire
+http://its.thunder-tv.com:8000/Vin/Vin/85815
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hannibal Lecter
+http://its.thunder-tv.com:8000/Vin/Vin/89965
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Happy Days
+http://its.thunder-tv.com:8000/Vin/Vin/85428
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Harry Potter
+http://its.thunder-tv.com:8000/Vin/Vin/91938
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: He-Man And The Masters Of The Universe
+http://its.thunder-tv.com:8000/Vin/Vin/86700
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Heartland C.A
+http://its.thunder-tv.com:8000/Vin/Vin/84880
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hell On Wheels
+http://its.thunder-tv.com:8000/Vin/Vin/91939
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Heroes
+http://its.thunder-tv.com:8000/Vin/Vin/85427
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hoarders
+http://its.thunder-tv.com:8000/Vin/Vin/96101
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hogan Heroes
+http://its.thunder-tv.com:8000/Vin/Vin/85818
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House M.D.
+http://its.thunder-tv.com:8000/Vin/Vin/85816
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House MD
+http://its.thunder-tv.com:8000/Vin/Vin/89966
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House Of Cards
+http://its.thunder-tv.com:8000/Vin/Vin/85817
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: House Of Lies
+http://its.thunder-tv.com:8000/Vin/Vin/86768
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Humans
+http://its.thunder-tv.com:8000/Vin/Vin/85417
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hunger Games
+http://its.thunder-tv.com:8000/Vin/Vin/85844
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Hunted
+http://its.thunder-tv.com:8000/Vin/Vin/89437
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ice Road Truckers
+http://its.thunder-tv.com:8000/Vin/Vin/96094
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Indiana Jones
+http://its.thunder-tv.com:8000/Vin/Vin/89986
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ink Master
+http://its.thunder-tv.com:8000/Vin/Vin/85820
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Into The Badlands
+http://its.thunder-tv.com:8000/Vin/Vin/84525
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Iron Man Trilogy
+http://its.thunder-tv.com:8000/Vin/Vin/84219
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: James Bond
+http://its.thunder-tv.com:8000/Vin/Vin/88717
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jason Bourne
+http://its.thunder-tv.com:8000/Vin/Vin/85821
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jaws
+http://its.thunder-tv.com:8000/Vin/Vin/89952
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jersey Shore
+http://its.thunder-tv.com:8000/Vin/Vin/90397
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jesse Stone
+http://its.thunder-tv.com:8000/Vin/Vin/93033
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jessie
+http://its.thunder-tv.com:8000/Vin/Vin/89987
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: John Wayne Collection
+http://its.thunder-tv.com:8000/Vin/Vin/84372
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: John Wick Movies
+http://its.thunder-tv.com:8000/Vin/Vin/92225
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Jurassic Park
+http://its.thunder-tv.com:8000/Vin/Vin/89963
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Justice League
+http://its.thunder-tv.com:8000/Vin/Vin/84874
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Justified
+http://its.thunder-tv.com:8000/Vin/Vin/97508
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Kim Possible
+http://its.thunder-tv.com:8000/Vin/Vin/84870
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: King Of Queens
+http://its.thunder-tv.com:8000/Vin/Vin/89949
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Knight Rider
+http://its.thunder-tv.com:8000/Vin/Vin/86760
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Last Man Standing
+http://its.thunder-tv.com:8000/Vin/Vin/85425
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Law & Order
+http://its.thunder-tv.com:8000/Vin/Vin/89990
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Leonardo DiCaprio
+http://its.thunder-tv.com:8000/Vin/Vin/92231
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lethal Weapon
+http://its.thunder-tv.com:8000/Vin/Vin/89569
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: LetterKenny
+http://its.thunder-tv.com:8000/Vin/Vin/91936
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Little Einsteins
+http://its.thunder-tv.com:8000/Vin/Vin/84872
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Little House on the Prairie
+http://its.thunder-tv.com:8000/Vin/Vin/92230
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Living Single
+http://its.thunder-tv.com:8000/Vin/Vin/85822
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lord of the Rings
+http://its.thunder-tv.com:8000/Vin/Vin/89957
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lost
+http://its.thunder-tv.com:8000/Vin/Vin/86758
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Lucifer
+http://its.thunder-tv.com:8000/Vin/Vin/84879
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Luther
+http://its.thunder-tv.com:8000/Vin/Vin/85419
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Macgyver
+http://its.thunder-tv.com:8000/Vin/Vin/85261
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mad Men
+http://its.thunder-tv.com:8000/Vin/Vin/85421
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Man Vs Wild
+http://its.thunder-tv.com:8000/Vin/Vin/96098
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marco Polo
+http://its.thunder-tv.com:8000/Vin/Vin/85420
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Married With Children
+http://its.thunder-tv.com:8000/Vin/Vin/89967
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Martin
+http://its.thunder-tv.com:8000/Vin/Vin/90871
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marvel Agents of Shield
+http://its.thunder-tv.com:8000/Vin/Vin/85262
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marvels Jessica Jones
+http://its.thunder-tv.com:8000/Vin/Vin/85418
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Marvels Luke
+http://its.thunder-tv.com:8000/Vin/Vin/85433
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Matthew McConaughey
+http://its.thunder-tv.com:8000/Vin/Vin/93029
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mayans M.C
+http://its.thunder-tv.com:8000/Vin/Vin/84530
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Merlin
+http://its.thunder-tv.com:8000/Vin/Vin/85411
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Miami Vice
+http://its.thunder-tv.com:8000/Vin/Vin/86631
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mickey Mouse ClubHouse
+http://its.thunder-tv.com:8000/Vin/Vin/84487
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mission Impossible
+http://its.thunder-tv.com:8000/Vin/Vin/89453
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: MM*A*S*H
+http://its.thunder-tv.com:8000/Vin/Vin/86767
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Modern Marvels
+http://its.thunder-tv.com:8000/Vin/Vin/96097
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Mom
+http://its.thunder-tv.com:8000/Vin/Vin/85256
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: My Little Pony
+http://its.thunder-tv.com:8000/Vin/Vin/85823
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: My Wife and Kids
+http://its.thunder-tv.com:8000/Vin/Vin/85606
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Naked And Afraid
+http://its.thunder-tv.com:8000/Vin/Vin/84928
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Narcos
+http://its.thunder-tv.com:8000/Vin/Vin/85255
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Naruto
+http://its.thunder-tv.com:8000/Vin/Vin/89969
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Nashville
+http://its.thunder-tv.com:8000/Vin/Vin/89436
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: NCIS
+http://its.thunder-tv.com:8000/Vin/Vin/84958
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Nip/Tuck
+http://its.thunder-tv.com:8000/Vin/Vin/100234
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Octonauts
+http://its.thunder-tv.com:8000/Vin/Vin/93106
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Outlander
+http://its.thunder-tv.com:8000/Vin/Vin/85263
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Oz
+http://its.thunder-tv.com:8000/Vin/Vin/89654
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ozark
+http://its.thunder-tv.com:8000/Vin/Vin/85432
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Parks and Recreation
+http://its.thunder-tv.com:8000/Vin/Vin/86420
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Paw Patrol
+http://its.thunder-tv.com:8000/Vin/Vin/84929
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Peaky Blinders
+http://its.thunder-tv.com:8000/Vin/Vin/85253
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Peppa Pig
+http://its.thunder-tv.com:8000/Vin/Vin/85930
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Perfect Strangers
+http://its.thunder-tv.com:8000/Vin/Vin/86759
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: PJ Masks
+http://its.thunder-tv.com:8000/Vin/Vin/84486
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Police Academy
+http://its.thunder-tv.com:8000/Vin/Vin/89570
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Popeye
+http://its.thunder-tv.com:8000/Vin/Vin/89981
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Power
+http://its.thunder-tv.com:8000/Vin/Vin/89982
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Preacher
+http://its.thunder-tv.com:8000/Vin/Vin/86756
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Prison Break
+http://its.thunder-tv.com:8000/Vin/Vin/94591
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Property Brothers
+http://its.thunder-tv.com:8000/Vin/Vin/86649
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Quantico
+http://its.thunder-tv.com:8000/Vin/Vin/85424
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Quentin Tarantino
+http://its.thunder-tv.com:8000/Vin/Vin/93025
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Raising Hope
+http://its.thunder-tv.com:8000/Vin/Vin/89189
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Ray Donovan
+http://its.thunder-tv.com:8000/Vin/Vin/85604
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Reign
+http://its.thunder-tv.com:8000/Vin/Vin/86763
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Rescue Me
+http://its.thunder-tv.com:8000/Vin/Vin/91941
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Revolution
+http://its.thunder-tv.com:8000/Vin/Vin/85438
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Robert DeNiro
+http://its.thunder-tv.com:8000/Vin/Vin/93027
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Rocky
+http://its.thunder-tv.com:8000/Vin/Vin/89647
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Roseanne
+http://its.thunder-tv.com:8000/Vin/Vin/86488
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sabrina The Teenage Witch
+http://its.thunder-tv.com:8000/Vin/Vin/85434
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Salute Your Shorts
+http://its.thunder-tv.com:8000/Vin/Vin/88836
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sanford & Son
+http://its.thunder-tv.com:8000/Vin/Vin/84921
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Santa Clarita Diet
+http://its.thunder-tv.com:8000/Vin/Vin/85414
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Saved By The Bell
+http://its.thunder-tv.com:8000/Vin/Vin/88837
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Saw
+http://its.thunder-tv.com:8000/Vin/Vin/85441
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Scandal
+http://its.thunder-tv.com:8000/Vin/Vin/97513
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Scooby Doo
+http://its.thunder-tv.com:8000/Vin/Vin/84875
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Scooby-Doo Movies
+http://its.thunder-tv.com:8000/Vin/Vin/89973
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Seinfeld
+http://its.thunder-tv.com:8000/Vin/Vin/84833
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sesame Street
+http://its.thunder-tv.com:8000/Vin/Vin/89123
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sex and The City
+http://its.thunder-tv.com:8000/Vin/Vin/89046
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Shrek
+http://its.thunder-tv.com:8000/Vin/Vin/89419
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Snowfall
+http://its.thunder-tv.com:8000/Vin/Vin/89584
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Sons of Anarchy
+http://its.thunder-tv.com:8000/Vin/Vin/86297
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: South Park
+http://its.thunder-tv.com:8000/Vin/Vin/91943
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Spongebob Squarepants
+http://its.thunder-tv.com:8000/Vin/Vin/85309
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Star Wars Movies
+http://its.thunder-tv.com:8000/Vin/Vin/86413
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Stargate Atlantis
+http://its.thunder-tv.com:8000/Vin/Vin/86426
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Street Outlaws
+http://its.thunder-tv.com:8000/Vin/Vin/84529
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Suits
+http://its.thunder-tv.com:8000/Vin/Vin/86762
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Supernatural
+http://its.thunder-tv.com:8000/Vin/Vin/85423
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Swamp People
+http://its.thunder-tv.com:8000/Vin/Vin/96099
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Takeshis Castle
+http://its.thunder-tv.com:8000/Vin/Vin/86757
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Teen Wolf
+http://its.thunder-tv.com:8000/Vin/Vin/85430
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Affair
+http://its.thunder-tv.com:8000/Vin/Vin/97505
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Americans
+http://its.thunder-tv.com:8000/Vin/Vin/84435
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Andy Griffith Show
+http://its.thunder-tv.com:8000/Vin/Vin/85033
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Crown
+http://its.thunder-tv.com:8000/Vin/Vin/96100
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Dukes of Hazzard
+http://its.thunder-tv.com:8000/Vin/Vin/93220
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Flash
+http://its.thunder-tv.com:8000/Vin/Vin/84871
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The FlintStones
+http://its.thunder-tv.com:8000/Vin/Vin/85605
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Fresh Prince Of Bel-Air
+http://its.thunder-tv.com:8000/Vin/Vin/86424
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Gifted
+http://its.thunder-tv.com:8000/Vin/Vin/86754
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Good Place
+http://its.thunder-tv.com:8000/Vin/Vin/85260
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Haunting Of Hill House
+http://its.thunder-tv.com:8000/Vin/Vin/85442
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Honeymooners
+http://its.thunder-tv.com:8000/Vin/Vin/84954
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Jeffersons
+http://its.thunder-tv.com:8000/Vin/Vin/85549
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Jetsons
+http://its.thunder-tv.com:8000/Vin/Vin/85429
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Killing
+http://its.thunder-tv.com:8000/Vin/Vin/96093
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Legend Of Korra
+http://its.thunder-tv.com:8000/Vin/Vin/86425
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Munsters
+http://its.thunder-tv.com:8000/Vin/Vin/86421
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The News Room
+http://its.thunder-tv.com:8000/Vin/Vin/96095
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Ren and Stimpy Show
+http://its.thunder-tv.com:8000/Vin/Vin/86423
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Secret Circle
+http://its.thunder-tv.com:8000/Vin/Vin/85435
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Shield
+http://its.thunder-tv.com:8000/Vin/Vin/85847
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Simpsons
+http://its.thunder-tv.com:8000/Vin/Vin/84924
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Sopranos
+http://its.thunder-tv.com:8000/Vin/Vin/86355
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Three Stooges
+http://its.thunder-tv.com:8000/Vin/Vin/86422
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Tudors
+http://its.thunder-tv.com:8000/Vin/Vin/86755
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Walking Dead
+http://its.thunder-tv.com:8000/Vin/Vin/85409
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Wire
+http://its.thunder-tv.com:8000/Vin/Vin/89315
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: The Wonder Years
+http://its.thunder-tv.com:8000/Vin/Vin/85935
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: This is Us
+http://its.thunder-tv.com:8000/Vin/Vin/85416
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Thundercats
+http://its.thunder-tv.com:8000/Vin/Vin/86701
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Tom And Jerry
+http://its.thunder-tv.com:8000/Vin/Vin/85488
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Tom Hanks
+http://its.thunder-tv.com:8000/Vin/Vin/92401
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Toy Story
+http://its.thunder-tv.com:8000/Vin/Vin/89646
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Transformers
+http://its.thunder-tv.com:8000/Vin/Vin/89567
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: True Blood
+http://its.thunder-tv.com:8000/Vin/Vin/96087
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Two and a Half Men
+http://its.thunder-tv.com:8000/Vin/Vin/85607
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Unbreakable Kimmy Schmidt
+http://its.thunder-tv.com:8000/Vin/Vin/85439
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Unsolved Mysteries
+http://its.thunder-tv.com:8000/Vin/Vin/89454
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Vikings
+http://its.thunder-tv.com:8000/Vin/Vin/89438
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Weeds
+http://its.thunder-tv.com:8000/Vin/Vin/84432
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Workaholics
+http://its.thunder-tv.com:8000/Vin/Vin/85422
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: X-Files
+http://its.thunder-tv.com:8000/Vin/Vin/91942
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: X-Men Movies
+http://its.thunder-tv.com:8000/Vin/Vin/89985
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Young Sheldon
+http://its.thunder-tv.com:8000/Vin/Vin/85437
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", CHRISTMAS: 24/7 Hallmark Xmas Movies
+http://its.thunder-tv.com:8000/Vin/Vin/99369
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="Sports",IN: DSports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
