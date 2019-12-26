@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
-http://cdn.yoursports.stream/fx.m3u8|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://yoursports.stream
+http://cdn.yoursports.stream/fx.m3u8|'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://yoursports.stream
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
 
