@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Test
-http://cdn.yoursports.stream/fx.m3u8|'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=http://yoursports.stream
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Disney Jr.
+http://51.15.108.237/live/disneyjunior-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA2OjQ5OjQzIFBNJmhhc2hfdmFsdWU9QTh4SkRSeUhDVEFFRytLN083RVFhQT09JnZhbGlkbWludXRlcz0xMCZpZD0yNjAwOjE3MDA6YTJjMDo1NzEwOjg4M2Y6YmE1YzphMzc1OmZiOWYmc3RybV9sZW49MjA=
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Testing
-
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",HBO
+http://51.15.108.237/live/hbo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA2OjMyOjM4IFBNJmhhc2hfdmFsdWU9cStwcU54RjdiT1BZKzROM3VCSDNuQT09JnZhbGlkbWludXRlcz0xMCZpZD0yNjAwOjE3MDA6YTJjMDo1NzEwOjg4M2Y6YmE1YzphMzc1OmZiOWYmc3RybV9sZW49MTE=
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",Hbo With Subs
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
@@ -14,31 +14,31 @@ http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 1000 Ways To Die
-http://thenew.tv:8000/Vin/Vin/86462
+http://thenew.tv:8000/Vin/Vin/86462|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 11.22.63*
-http://thenew.tv:8000/Vin/Vin/84794
+http://thenew.tv:8000/Vin/Vin/84794|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 12 Monkeys*
-http://thenew.tv:8000/Vin/Vin/84834
+http://thenew.tv:8000/Vin/Vin/84834|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 13 Reasons Why
-http://thenew.tv:8000/Vin/Vin/84836
+http://thenew.tv:8000/Vin/Vin/84836|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 2 Broke Girls
-http://thenew.tv:8000/Vin/Vin/84868
+http://thenew.tv:8000/Vin/Vin/84868|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: 30 Rock
-http://thenew.tv:8000/Vin/Vin/84951
+http://thenew.tv:8000/Vin/Vin/84951|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: A Night at the Roxbury
-http://thenew.tv:8000/Vin/Vin/93024
+http://thenew.tv:8000/Vin/Vin/93024|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Absolutely Fabulous
-http://thenew.tv:8000/Vin/Vin/92229
+http://thenew.tv:8000/Vin/Vin/92229|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Adam Sandler Movies
-http://thenew.tv:8000/Vin/Vin/86414
+http://thenew.tv:8000/Vin/Vin/86414|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: AirWolf
-http://thenew.tv:8000/Vin/Vin/89968
+http://thenew.tv:8000/Vin/Vin/89968|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Al Pacino
-http://thenew.tv:8000/Vin/Vin/93030
+http://thenew.tv:8000/Vin/Vin/93030|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: ALF
-http://thenew.tv:8000/Vin/Vin/86765
+http://thenew.tv:8000/Vin/Vin/86765|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: All In The Family
-http://thenew.tv:8000/Vin/Vin/93448
+http://thenew.tv:8000/Vin/Vin/93448|'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'&Referer=https://google.com
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: Altered Carbon
 http://thenew.tv:8000/Vin/Vin/89434
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="", 24/7: American Crime Story
