@@ -2,12 +2,12 @@
     <dir>
         <title>Movies</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/click_movies.xml</link>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.freeiconspng.com/uploads/movie-icon-25.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Tv Shows</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/click_shows.xml</link>
-        <thumbnail></thumbnail>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOk_g2hbSRqw3gzXl2KawONsz6S3aAiWMvG1xIYbGhZhq0Vf2&s</thumbnail>
     </dir>
 </xml>
