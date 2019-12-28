@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="" group-title="",Disney Jr.
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="" group-title="", Disney Jr.
 http://51.15.108.237/live/disneyjunior-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA2OjQ5OjQzIFBNJmhhc2hfdmFsdWU9QTh4SkRSeUhDVEFFRytLN083RVFhQT09JnZhbGlkbWludXRlcz0xMCZpZD0yNjAwOjE3MDA6YTJjMDo1NzEwOjg4M2Y6YmE1YzphMzc1OmZiOWYmc3RybV9sZW49MjA=
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="" group-title="",HBO
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="" group-title="", HBO
 http://51.15.108.237/live/hbo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA2OjMyOjM4IFBNJmhhc2hfdmFsdWU9cStwcU54RjdiT1BZKzROM3VCSDNuQT09JnZhbGlkbWludXRlcz0xMCZpZD0yNjAwOjE3MDA6YTJjMDo1NzEwOjg4M2Y6YmE1YzphMzc1OmZiOWYmc3RybV9sZW49MTE=
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="" group-title="",Hbo With Subs
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="" group-title="", Hbo With Subs
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.begeek.fr/2018/09/The-CW-logo-660x370.jpg" group-title="", The CW Florida
