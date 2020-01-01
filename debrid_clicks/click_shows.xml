@@ -60,6 +60,13 @@
     </dir>
 
     <dir>
+        <title>The Mandalorian</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/mandalorian/list.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/posters/5d603276729a5_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
+    </dir>
+
+    <dir>
         <title>Married with Children</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/married_with_children/list.xml</link>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMzk2OWYzNDUtNGE5NC00MDI0LTkyMDktY2RmZjE0NGNmMWE1XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -129,5 +136,11 @@
         <title>Vampire Diaries</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/vampire_diaries/list.xml</link>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>The Witcher</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/vampire_diaries/list.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/posters/62003331_t.jpg</thumbnail>
     </dir>
 </xml>
