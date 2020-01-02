@@ -1,4 +1,16 @@
 <xml>
+    <dir>
+        <title>Season 1</title>
+        <meta>
+            <imdb>362696</imdb>
+            <content>season</content>
+            <title>Season 1</title>
+            <year>2019</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/witcher/season1.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/seasons/832099/posters/62029236.jpg</thumbnail>
+    </dir>
+
     <item>
         <title>1x01.The End's Beginning</title>
         <meta>
