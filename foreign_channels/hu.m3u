@@ -29,6 +29,8 @@ http://cloudfront44.lexanetwork.com:1730/HDE016/hls/livestream.sdp.m3u8
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/64ygAE5.png" group-title="",Hatoscsatorna
 rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="." group-title="",Hegyvidek Tv Budapest
+http://tv.hegyvidek.hu/stream_mpeg.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/LBV6D4C.png" group-title="",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/G4GDbxM.png" group-title="",Kapos TV
