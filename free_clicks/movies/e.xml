@@ -139,7 +139,7 @@
         <meta>
             <imdb>tt3861390</imdb>
             <content>movie</content>
-            <title>Dumbo</title>
+            <title>Everyone's Hero</title>
             <year>2019</year>
         </meta>
         <link>
@@ -147,7 +147,8 @@
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/IkPaCEePchWZHBZcYCQQDA/1574575425/storage5/movies/everyones-hero-2006/720pp/index.m3u8</sublink>
             <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe08.lookmovie.ag/c/IkPaCEePchWZHBZcYCQQDA/1574575425/storage5/movies/everyones-hero-2006/480p/index.m3u8</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/8pWPBlTuOJwBfLTqQceADLUhqTl_small.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8pWPBlTuOJwBfLTqQceADLUhqTl.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5s8Nhvkz5nIZq1Km2pRxtRC2Flz.jpg</fanart>
     </item>
 
     <item>
