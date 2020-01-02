@@ -2,7 +2,7 @@
     <dir>
         <title>Season 1</title>
         <meta>
-            <imdb>tt5180504</imdb>
+            <tvdb>362696</tvdb>
             <content>season</content>
             <title>Season 1</title>
             <year>2019</year>
@@ -14,7 +14,7 @@
     <dir>
         <title>The Witcher</title>
         <meta>
-            <imdb>tt5180504</imdb>
+            <tvdb>362696</tvdb>
             <content>tvshow</content>
             <title>Season 1</title>
             <year>2019</year>
@@ -22,24 +22,6 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/witcher/list.xml</link>
         <thumbnail>https://artworks.thetvdb.com/banners/series/362696/posters/62003331_t.jpg</thumbnail>
     </dir>
-
-    <item>
-        <title>1x01.The End's Beginning</title>
-        <meta>
-            <imdb>tt5180504</imdb>
-            <content>episode</content>
-            <title>The End's Beginning</title>
-            <plot>Hostile townsfolk and a cunning mage greet Geralt in the town of Blaviken. Ciri finds her royal world upended when Nilfgaard sets its sights on Cintra.</plot>
-            <premiered>December 20, 2019</premiered>
-            <duration>60</duration>
-            <year>2019</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JUP4OZNNK4TRI</sublink>
-        </link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/episodes/7428555.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/series/362696/backgrounds/62032150_t.jpg</fanart>
-    </item>
 
     <item>
         <title>1x01.The End's Beginning</title>
