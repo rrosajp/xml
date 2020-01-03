@@ -1,6 +1,11 @@
 <xml>
     <dir>
         <title>Arrow</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>tvshow</content>
+            <year>2012</year>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/list.xml</link>
         <thumbnail>https://www.thetvdb.com/banners/posters/5d331e5f306d0.jpg</thumbnail>
     </dir>
@@ -143,7 +148,6 @@
         <meta>
             <tvdb>362696</tvdb>
             <content>tvshow</content>
-            <title>Season 1</title>
             <year>2019</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/witcher/list.xml</link>
