@@ -1,28 +1,4 @@
 <xml>
-    <dir>
-        <title>Season 1</title>
-        <meta>
-            <tvdb>362696</tvdb>
-            <content>season</content>
-            <title>Season 1</title>
-            <year>2019</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/witcher/season1.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/seasons/832099/posters/62029236.jpg</thumbnail>
-    </dir>
-
-    <dir>
-        <title>The Witcher</title>
-        <meta>
-            <tvdb>362696</tvdb>
-            <content>tvshow</content>
-            <title>Season 1</title>
-            <year>2019</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/witcher/list.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/posters/62003331_t.jpg</thumbnail>
-    </dir>
-
     <item>
         <title>1x01.The End's Beginning</title>
         <meta>
@@ -34,7 +10,7 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JUP4OZNNK4TRI</sublink>
         </link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/episodes/7428555.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/series/362696/backgrounds/62032150_t.jpg</fanart>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </item>
 </xml>
