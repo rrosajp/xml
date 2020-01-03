@@ -9,6 +9,8 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JUP4OZNNK4TRI</sublink>
         </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </item>
 
     <dir>
@@ -19,6 +21,8 @@
             <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
 
@@ -30,6 +34,8 @@
             <year>2013</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
 
@@ -41,6 +47,8 @@
             <year>2014</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
 
@@ -52,6 +60,8 @@
             <year>2015</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
 
@@ -63,6 +73,8 @@
             <year>2016</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
     <dir>
@@ -73,6 +85,8 @@
             <year>2017</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
     <dir>
@@ -83,6 +97,8 @@
             <year>2018</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 
     <dir>
@@ -93,5 +109,7 @@
             <year>2019</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season8.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
     </dir>
 </xml>
