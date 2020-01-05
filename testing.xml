@@ -1,86 +1,123 @@
 <xml>
     <item>
-        <title>Avengers: End Game</title>
+        <title>1x01.The End's Beginning</title>
         <meta>
-            <imdb>tt4154796</imdb>
-            <content>movie</content>
-            <title>Avengers End Game</title>
+            <tvdb>7428555</tvdb>
+            <content>episode</content>
             <year>2019</year>
         </meta>
         <link>
-            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/BHGFJARQWNHN6</sublink>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/HJCOOVA2TMAYU</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/GE3RYX6EASUIE</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JUP4OZNNK4TRI</sublink>
         </link>
         <thumbnail></thumbnail>
         <fanart></fanart>
     </item>
 
-    <item>
-        <title>Captain Marvel</title>
+    <dir>
+        <title>Season 1</title>
         <meta>
-            <imdb>tt4154664</imdb>
-            <content>movie</content>
-            <title>Captain Marvel</title>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>1</season>
+            <year>2012</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+
+    <dir>
+        <title>Season 2</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>2</season>
+            <year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+
+    <dir>
+        <title>Season 3</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>3</season>
+            <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+
+    <dir>
+        <title>Season 4</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>4</season>
+            <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+
+    <dir>
+        <title>Season 5</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>5</season>
+            <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+    <dir>
+        <title>Season 6</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>6</season>
+            <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+    <dir>
+        <title>Season 7</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>7</season>
+            <year>2018</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </dir>
+
+    <dir>
+        <title>Season 8</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>8</season>
             <year>2019</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/24F4SFVDXT6VQ</sublink>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/W5DYYEQ37LJQS</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5SDZMRECHE24K</sublink>
-        </link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season8.xml</link>
         <thumbnail></thumbnail>
         <fanart></fanart>
-    </item>
-
-    <item>
-        <title>Ant-Man and the Wasp</title>
-        <meta>
-            <imdb>tt5095030</imdb>
-            <content>movie</content>
-            <title>Ant-Man and the Wasp</title>
-            <year>2018</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/4XKG3CEZ6ZWEA</sublink>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/F7RPB23NFQXZU</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/FPJ3DBX7XG65K</sublink>
-        </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </item>
-
-    <item>
-        <title>Aquaman</title>
-        <meta>
-            <imdb>tt1477834</imdb>
-            <content>movie</content>
-            <title>Aquaman</title>
-            <year>2018</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/SAL57R3UKG4GA</sublink>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/NSBXSLYH6JQJ4</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/BI5MXXC4VXLYA</sublink>
-        </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </item>
-
-    <item>
-        <title>Avengers: Infinity War</title>
-        <meta>
-            <imdb>tt4154756</imdb>
-            <content>movie</content>
-            <title>Avengers: Infinity War</title>
-            <year>2018</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/KVVCWETSSYFEU</sublink>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/RNTQQ5MNJEZME</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/N4RZAO75MFZRY</sublink>
-        </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </item>
+    </dir>
 </xml>
