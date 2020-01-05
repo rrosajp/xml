@@ -10,7 +10,7 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/5d331e5f306d0.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
-    
+
     <item>
         <title>1x01.The End's Beginning</title>
         <meta>
@@ -24,112 +24,4 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
     </item>
-
-    <dir>
-        <title>Season 1</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>1</season>
-            <year>2012</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 2</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>2</season>
-            <year>2013</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 3</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>3</season>
-            <year>2014</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 4</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>4</season>
-            <year>2015</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 5</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>5</season>
-            <year>2016</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <dir>
-        <title>Season 6</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>6</season>
-            <year>2017</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <dir>
-        <title>Season 7</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>7</season>
-            <year>2018</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <dir>
-        <title>Season 8</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>8</season>
-            <year>2019</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season8.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
 </xml>
