@@ -120,4 +120,21 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
     </dir>
+
+    <item>
+        <title>Avengers: End Game</title>
+        <meta>
+            <imdb>tt4154796</imdb>
+            <content>movie</content>
+            <title>Avengers End Game</title>
+            <year>2019</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/BHGFJARQWNHN6</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/HJCOOVA2TMAYU</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/GE3RYX6EASUIE</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
 </xml>
