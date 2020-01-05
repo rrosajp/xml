@@ -1,29 +1,4 @@
 <xml>
-    <dir>
-        <title>Arrow</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>tvshow</content>
-            <year>2012</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/list.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <item>
-        <title>1x01.The End's Beginning</title>
-        <meta>
-            <tvdb>7428555</tvdb>
-            <content>episode</content>
-            <year>2019</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JUP4OZNNK4TRI</sublink>
-        </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </item>
 
     <dir>
         <title>Season 1</title>
