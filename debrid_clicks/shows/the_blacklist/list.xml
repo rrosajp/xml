@@ -7,6 +7,8 @@
             <year>2013</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season1.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/266189-1-3_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -17,6 +19,8 @@
             <year>2014</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season2.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/266189-2-4_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -27,6 +31,8 @@
             <year>2015</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season3.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/266189-3-4_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -37,6 +43,8 @@
             <year>2016</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season4.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/266189-4-6_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -47,6 +55,8 @@
             <year>2017</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season5.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/266189-5-4_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -57,6 +67,8 @@
             <year>2019</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season6.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5c3d006d114c1_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -67,5 +79,7 @@
             <year>2019</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/season7.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5d8a211953282_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 </xml>
