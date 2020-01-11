@@ -1,29 +1,4 @@
 <xml>
-
-    <dir>
-        <title>Arrow</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>tvshow</content>
-            <year>2012</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/list.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <item>
-        <title>1x01.Pilot</title>
-        <meta>
-            <tvdb>4325893</tvdb>
-            <content>episode</content>
-            <year>2012</year>
-        </meta>
-        <link>https://real-debrid.com/d/5L442QS72WWN2</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </item>
-
     <dir>
         <title>Season 1</title>
         <meta>

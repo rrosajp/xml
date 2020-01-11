@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",ABC
-http://hls.123tv.live/ch/StcjxaIJIRZxHcmO1Ivpeg/1578677692/abc.m3u8|Referer=http://123tvnow.com/watch/abc/
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="",AMC
 http://docs-8.gogleusercontent.host/live/amc/playlist.m3u8|Referer=http://123tvnow.com/watch/amc/

@@ -24,6 +24,18 @@
     </dir>
 
     <dir>
+        <title>The Blacklist</title>
+        <meta>
+            <tvdb>266189</tvdb>
+            <content>tvshow</content>
+            <year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/the_blacklist/list.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/posters/266189-1_t.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
+    </dir>
+
+    <dir>
         <title>The Big Bang Theory</title>
         <meta>
             <tvdb>80379</tvdb>
