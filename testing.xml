@@ -5,6 +5,7 @@
             <tvdb>257655</tvdb>
             <content>season</content>
             <season>1</season>
+            <plot></plot>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
         <thumbnail></thumbnail>
