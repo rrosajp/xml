@@ -71,104 +71,17 @@
 </link>
     </item>
 
-    <dir>
-        <title>Season 1</title>
+    <item>
+        <title>2x01.Lord Baltimore</title>
         <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>1</season>
-            <plot></plot>
+            <tvdb>4899484</tvdb>
+            <content>episode</content>
+            <plot>While continuing to battle Berlin, Red faces a new threat in the form of Lord Baltimore. A figure from Red's past returns. Liz tries to move on after her showdown with Tom.</plot>
+            <runtime>45</runtime>
+            <year>2014</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 2</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>2</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 3</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>3</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 4</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>4</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-
-    <dir>
-        <title>Season 5</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>5</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <dir>
-        <title>Season 6</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>6</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <dir>
-        <title>Season 7</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>7</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
-
-    <dir>
-        <title>Season 8</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>8</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season8.xml</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-    </dir>
+        <link>https://real-debrid.com/d/RNRSNH5JYFVOC</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/episodes/266189/4899484.jpg</thumbnail>
+        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
+    </item>
 </xml>
