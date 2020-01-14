@@ -14,4 +14,50 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/juc9wt7Eh2IarLL5S1yQ1a21O1A.jpg</fanart>
     </item>
+
+    <item>
+        <title>ghost in the shell 1995</title>
+        <meta>
+            <imdb>tt0113568</imdb>
+            <content>movie</content>
+            <title>Ghost in the shell</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/JGVFFKXLKKU7S</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>Ghost in the Shell 2017</title>
+        <meta>
+            <imdb>tt1219827</imdb>
+            <content>movie</content>
+            <title>Ghost in the Shell</title>
+            <year>2017</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/OPCO5OCBACAUM</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/UEU5D7CIS3VEW</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/si1ZyELNHdPUZw4pXR5KjMIIsBF.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/jGPSVArC0GS2VVc0aGAqGTjfFOG.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Grease 1978</title>
+        <meta>
+            <imdb>tt0077631</imdb>
+            <content>movie</content>
+            <title>Grease</title>
+            <year>1978</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/WSY6JXP7XOCM2</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
 </xml>

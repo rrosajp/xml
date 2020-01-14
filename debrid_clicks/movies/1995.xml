@@ -11,4 +11,49 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/bd9if2VRAxBrXxkhT28hXMiusY1.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/wYWZRu1zSOl29KgtdV67Wmk5fEZ.jpg</fanart>
     </item>
+
+    <item>
+        <title>Braveheart</title>
+        <meta>
+            <imdb>tt0112573</imdb>
+            <content>movie</content>
+            <title>Braveheart</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/EVIA6NPJRBZ3A</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>ghost in the shell</title>
+        <meta>
+            <imdb>tt0113568</imdb>
+            <content>movie</content>
+            <title>Ghost in the shell</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/JGVFFKXLKKU7S</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>The Quick and the Dead</title>
+        <meta>
+            <imdb>tt0114214</imdb>
+            <content>movie</content>
+            <title>The Quick and the Dead</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/EQQTAWWW6Y5G2</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
 </xml>

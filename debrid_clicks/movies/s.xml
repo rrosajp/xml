@@ -29,4 +29,66 @@
         <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/gOXpeTvSDPlUyrQRtWhAl3WYHIp.jpg</fanart>
     </item>
+
+    <item>
+        <title>Schindlers List 1993</title>
+        <meta>
+            <imdb>tt0108052</imdb>
+            <content>movie</content>
+            <title>Schindlers List</title>
+            <year>1993</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/QXXBKGHYW7ZRW</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>Shutter Island 2010</title>
+        <meta>
+            <imdb>tt1130884</imdb>
+            <content>movie</content>
+            <title>Shutter Island</title>
+            <year>2010</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/YFIQRKNXPB4RI</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>Spaceballs 1987</title>
+        <meta>
+            <imdb>tt0094012</imdb>
+            <content>movie</content>
+            <title>Spaceballs</title>
+            <year>1987</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/N63EUYEWCU6IW</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/EG6KVFX7GWMPQ</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xWt9KAcToCRdJ6JH8JyZZlhkVgG.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/pZz5VmundsZO29sB3TgZKjnFEEM.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Star Wars: Episode VI - Return of the Jedi 1983 4k</title>
+        <meta>
+            <imdb>tt0094012</imdb>
+            <content>movie</content>
+            <title>Star Wars: Episode VI - Return of the Jedi</title>
+            <year>1983</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/FJREF4YO66PDK</sublink>
+        </link>
+        <thumbnail>https://i.imgur.com/8RfwgfX.jpg</thumbnail>
+        <fanart>http://</fanart>
+        <info></info>
+    </item>
 </xml>

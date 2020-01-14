@@ -210,8 +210,20 @@
     </dir>
 
     <dir>
+        <title>[B][COLOR gold] 1983 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1983.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 1982 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1982.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1972 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1972.xml</link>
         <thumbnail></thumbnail>
     </dir>
 
@@ -234,6 +246,12 @@
     </dir>
 
     <dir>
+        <title>[B][COLOR gold] 1946 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1946.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 1942 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1942.xml</link>
         <thumbnail></thumbnail>
@@ -242,6 +260,12 @@
     <dir>
         <title>[B][COLOR gold] 1940 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1940.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1939 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/movies/1939.xml</link>
         <thumbnail></thumbnail>
     </dir>
 </xml>
