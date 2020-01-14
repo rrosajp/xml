@@ -8,8 +8,6 @@
             <year>1995</year>
         </meta>
         <link>https://real-debrid.com/d/JGFX62OFBCTGA</link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/bd9if2VRAxBrXxkhT28hXMiusY1.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/wYWZRu1zSOl29KgtdV67Wmk5fEZ.jpg</fanart>
     </item>
 
     <item>
@@ -23,8 +21,6 @@
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/EVIA6NPJRBZ3A</sublink>
         </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
     </item>
 
     <item>
@@ -38,8 +34,19 @@
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/JGVFFKXLKKU7S</sublink>
         </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>Halloween: The Curse of Michael Myers 1995</title>
+        <meta>
+            <imdb>tt0113253</imdb>
+            <content>movie</content>
+            <title>Halloween: The Curse of Michael Myers</title>
+            <year>1995</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/46KOTSUJSBGZO</sublink>
+        </link>
     </item>
 
     <item>
@@ -53,7 +60,5 @@
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/EQQTAWWW6Y5G2</sublink>
         </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
     </item>
 </xml>

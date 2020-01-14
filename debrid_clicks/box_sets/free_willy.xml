@@ -10,8 +10,6 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vIjiTSNA52VGGP9eeegNaMKXNhf.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/1nStb63juoPfgv2SHR5SPqNLyyW.jpg</fanart>
     </item>
 
     <item>
@@ -25,8 +23,6 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/yLyyjm4m3fSvbazyFv4RtUnb2uQ.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/c26xWNT3AT2edon9x4VIsnQyQG0.jpg</fanart>
     </item>
 
     <item>
@@ -40,7 +36,5 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/A1eBPIcUOwWMHjSuyvyxS9Jhbbu.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/zM3YFSELHQep75T73ybWwv9lg8i.jpg</fanart>
     </item>
 </xml>

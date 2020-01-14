@@ -1,6 +1,5 @@
 <xml>
     <item>
-        <item>
         <title>Fantasia 1940</title>
         <meta>
             <imdb>tt0032455</imdb>
@@ -12,10 +11,9 @@
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/JLRJQ5WXIW7AC</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/IELJITWMS2H32</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9WasR7D7qwAdUhsvX3nD58ihcOZ.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/nAukT84pqwJk5wVdUlheoKmeO8M.jpg</fanart>
     </item>
 
+    <item>
         <title>Fantastic Beasts: The Crimes of Grindelwald 2018</title>
         <meta>
             <imdb>tt4123430</imdb>
@@ -28,8 +26,6 @@
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/6TCPYDC2M3OJE</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/YPH32ZIKGG77I</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/xgbeBCjmFpRYHDF7tQ7U98EREWp.jpg</fanart>
     </item>
 
     <item>
@@ -44,8 +40,6 @@
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/GEFIOYAONCJS2</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5UNI4LXTD7QGQ</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/mmBdCkZxHwQn5zM17cZmd3giJCY.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ohqTNoA6pYzTXookp8UXNWQlAgY.jpg</fanart>
     </item>
 
     <item>
@@ -59,8 +53,6 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/4EEY2AY3UHM4I</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/syPWyeeqzTQIxjIUaIFI7d0TyEY.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/2Vv4suw1ja7RpnR6FaXAOihI68g.jpg</fanart>
     </item>
 
     <item>
@@ -74,8 +66,6 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/WNZR2PYC334TQ</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/z09QAf8WbZncbitewNk6lKYMZsh.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg</fanart>
     </item>
 
     <item>
@@ -91,8 +81,6 @@
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/7V4GJZ6M4TTPY</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/DW24VQ2RKJ4CE</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/jrudoaXcoLyHRPdolyOGemXgPEs.jpg</fanart>
     </item>
 
     <item>
@@ -106,8 +94,6 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/SVWYQNGWDRZJA</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/4faFbkPf8aH5nrY4YcNvn40PXLL.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ugV3MdMWJVgKBAi1NjtWNAnMDdL.jpg</fanart>
     </item>
 
     <item>
@@ -119,8 +105,6 @@
             <year>1972</year>
         </meta>
         <link>https://real-debrid.com/d/APABMGKNXJIO2</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
     </item>
 
     <item>
@@ -135,8 +119,6 @@
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/BEFFZYGSHSYHA</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/4FUFW5NM3REVK</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/k1T6vK2UkZvYnmlkuADYVfzxOyO.jpg</fanart>
     </item>
 
     <item>
@@ -150,8 +132,6 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/TZFCPOLDVZE7A</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/yONLyCSO0zyDvmVJO2i1U4yrNHE.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yzAo91sIwQrbYSh9bQrbQ12wZnI.jpg</fanart>
     </item>
 
     <item>
@@ -165,8 +145,6 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/MTZ64BVXQJQGW</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ymIgMgXLF57QpHTt4HUdO8PV8Z.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yEqrCU3hAvoiwC0y4CuJq3v4KoG.jpg</fanart>
     </item>
 
     <item>
@@ -180,8 +158,6 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/7532DGHCMMN4U</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zs6epslSJK2qgDJPm4Aa88zkkTW.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/1WF6gXb6PfJ4k1QlZbFtgEMUtsm.jpg</fanart>
     </item>
 
     <item>
@@ -195,8 +171,6 @@
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/RQNOCYVNOPVSK</sublink>
         </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
     </item>
 
     <item>
@@ -210,7 +184,5 @@
         <link>
         <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/434P7UIDOIGP6</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/gZkXGa544XnUNf44CEwb7gpU8Ma.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/lSUd3RSXNrep23IXn3psct39jGC.jpg</fanart>
     </item>
 </xml>

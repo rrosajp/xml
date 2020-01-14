@@ -25,8 +25,18 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/BQ7PVL34D6HUA</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7v1Sy0HC5KEM1DMM4Bpy5gVly1K.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/tlCnOu6PO7ILLnJMRw1NsrEWmyQ.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Halloween 4: The Return of Michael Myers 1988</title>
+        <meta>
+            <imdb>tt0095271</imdb>
+            <content>movie</content>
+            <title>Halloween 4: The Return of Michael Myers</title>
+            <year>1988</year>
+        </meta>
+        <link>
+        </link>
     </item>
 
     <item>
@@ -40,7 +50,5 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/KCBNCOOWTENTQ</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aKtwmrSaFe3Ge5BF5oYYgPoFWYs.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/uvtHnSgJuNGp1PhW4lae9ncGb0U.jpg</fanart>
     </item>
 </xml>

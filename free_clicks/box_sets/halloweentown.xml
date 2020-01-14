@@ -11,8 +11,6 @@
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe012.lookmovie.ag/c/3ozZ_JJZeg3PCeXm5wJL1Q/1575065614/storage6/movies/halloweentown-1998/720p/index.m3u8</sublink>
             <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe012.lookmovie.ag/c/3ozZ_JJZeg3PCeXm5wJL1Q/1575065614/storage6/movies/halloweentown-1998/480p/index.m3u8</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/ih2qNTuutdoG5Ll7CHxNgFpCBX3.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/4dwDTgXpDOd1ACoozCx8rhCNiiQ.jpg</fanart>
     </item>
 
     <item>
@@ -26,8 +24,6 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vuaNp64I20k2riLIODQnXAMoqB6.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fxECspvP9LMZJRBDYIMGNtvLH97.jpg</fanart>
     </item>
 
     <item>
@@ -41,8 +37,6 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/51krfU2ql3xa77ECYYET3WLl3mn.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/tLZpx9seUvYYVEIGMr7HxwkzGaV.jpg</fanart>
     </item>
 
     <item>
@@ -56,7 +50,5 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nkdTmALLYBKK5jgoV4gk0NhDEWj.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/fo3cUebOQw2Hd9Z6u3PzqLz051h.jpg</fanart>
     </item>
 </xml>

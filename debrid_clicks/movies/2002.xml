@@ -10,8 +10,6 @@
         <link>
             <sublink name="1080p ">https://real-debrid.com/d/RNUQTEZFTKI2C</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aaLAIPw9vJSVyQLy390TJrntEwF.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/inxjxDR0Afy5FlRmN61ROUJA54k.jpg</fanart>
     </item>
 
     <item>
@@ -25,8 +23,6 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/3XHGTNBWLDRBO</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/rSox9P4fKWHmpijevxtpMbTviur.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/t6Ljyam0RDUrbXGSAcIeQYJdJfW.jpg</fanart>
     </item>
 
     <item>
@@ -40,22 +36,20 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/CFLDPEULSWCZQ</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/nkTvFgTyLSR4eXuefgyDeQ0eLJZ.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/a3ch64hlK5UZQQyM2GykTTjoxP1.jpg</fanart>
     </item>
 
     <item>
-        <title>Enchanted</title>
+        <title>Halloween: Resurrection 2002</title>
         <meta>
-            <imdb>tt3861390</imdb>
+            <imdb>tt0220506</imdb>
             <content>movie</content>
-            <title>Dumbo</title>
-            <year>2019</year>
+            <title>Halloween: Resurrection</title>
+            <year>2002</year>
         </meta>
         <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89956.avi</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/PUVGN44IBPMJM</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/2C34NXWWPU5TU</sublink>
         </link>
-        <thumbnail>http://lltv.xyz:80/images/65EfHNQ6NCeAoRPNLRhTyLqNZmU_small.jpg</thumbnail>
     </item>
 
     <item>
@@ -69,8 +63,6 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/LIFKMDQ3LWSKS</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/359bHILkiD6ZVCq6WoHSD0UuJQV.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/t0UK0LSjjT8zF3Q5FP7AwizyMUd.jpg</fanart>
     </item>
 
     <item>
@@ -84,8 +76,6 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/QESEXDHUECG7M</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/l3hmNjhxmqjXrvGNMMmeOmsyX3r.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/ehsgzorvLkroiOmAzG88JybcoL0.jpg</fanart>
     </item>
 
     <item>
@@ -99,7 +89,5 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/EK6LT5GJPXAF6</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8TTniVKEjUWs3DnAMEWMXP6V1ct.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/qHo4hRPJMlcLrtehK9d1m2MTrj9.jpg</fanart>
     </item>
 </xml>

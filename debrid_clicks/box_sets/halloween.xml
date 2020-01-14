@@ -1,5 +1,4 @@
 <xml>
-
     <item>
         <title>Halloween 2018</title>
         <meta>
@@ -12,75 +11,101 @@
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/GFRIKOTHPZ2AY</sublink>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/EK3EDMLM5JK4M</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/cdvd03HL4JoTd9yKvQ10dcmwi8c.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/9n6GV6tlvBdynVH6Qwcpg3sklSs.jpg</fanart>
     </item>
 
     <item>
         <title>Halloween 1978</title>
+        <meta>
+            <imdb>tt0077651</imdb>
+            <content>movie</content>
+            <title>Halloween</title>
+            <year>1978</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/GBFG3PQIGJ3XI</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5SI6HCHXUO4A6</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/vjoOFOTBJcJvA1weJejlZ92LZD4.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6Io0gvfEVpMQsB46yXOKCpSJOoJ.jpg</fanart>
     </item>
 
     <item>
         <title>Halloween II 1981</title>
+        <meta>
+            <imdb>tt0082495</imdb>
+            <content>movie</content>
+            <title>Halloween II</title>
+            <year>1981</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/PRCE4VCOZ7YPO</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/ZEIZAH4K756FA</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9oXa66gARefZBuca4xpD8EFbcVg.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/7pUKrrLS59rU8tXlj7VBhENqflv.jpg</fanart>
     </item>
 
     <item>
-        <title>Halloween 3 1982</title>
+        <title>Halloween III: Season of the Witch 1982</title>
+        <meta>
+            <imdb>tt0085636</imdb>
+            <content>movie</content>
+            <title>Halloween III: Season of the Witch</title>
+            <year>1982</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/7HNY76GMA6UBA</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/NZORYP2XDUKW4</sublink>
         </link>
-        <thumbnail>https://static.rogerebert.com/uploads/movie/movie_poster/halloween-iii-season-of-the-witch-1982/large_5uBGnab5nt9UfSPyH40M4PW4pZG.jpg</thumbnail>
     </item>
 
     <item>
         <title>Halloween 4: The Return of Michael Myers 1988</title>
+        <meta>
+            <imdb>tt0095271</imdb>
+            <content>movie</content>
+            <title>Halloween 4: The Return of Michael Myers</title>
+            <year>1988</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/3OHVUVWXXQ3DO</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/JAYB5EILMCMYQ</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/oudmrV1WljSJMpgwq6K4VzbIMMK.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/muJ6Xyph0ESuBpcE0JXUGGB4nCX.jpg</fanart>
     </item>
 
     <item>
-        <title>Halloween 5: The Revenge of Michael Myers</title>
+        <title>Halloween 5: The Revenge of Michael Myers 1989</title>
+        <meta>
+            <imdb>tt0097474</imdb>
+            <content>movie</content>
+            <title>Halloween 5: The Revenge of Michael Myers</title>
+            <year>1989</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/Q5J3DZXUHHBOU</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/gQwN6KXBuO94kaYpeX3uaueszkd.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/8VY7yW5F5tZNfGhwdUfrs3SYown.jpg</fanart>
     </item>
 
     <item>
-        <title>Halloween: The Curse of Michael Myers</title>
+        <title>Halloween: The Curse of Michael Myers 1995</title>
+        <meta>
+            <imdb>tt0113253</imdb>
+            <content>movie</content>
+            <title>Halloween: The Curse of Michael Myers</title>
+            <year>1995</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/46KOTSUJSBGZO</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8Tw5IttoEATGD2FHhcG9bDzqwbi.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3KIn2tkqOKIar3Rty1Gf9zT7v7M.jpg</fanart>
     </item>
 
     <item>
-        <title>Halloween: Resurrection</title>
+        <title>Halloween: Resurrection 2002</title>
+        <meta>
+            <imdb>tt0220506</imdb>
+            <content>movie</content>
+            <title>Halloween: Resurrection</title>
+            <year>2002</year>
+        </meta>
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/PUVGN44IBPMJM</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/2C34NXWWPU5TU</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/luqA2pRzJ4OPxiS9zXa0arQljB1.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/szALvaFRJJkXHMoaJWBh7YLDoBD.jpg</fanart>
     </item>
-
 </xml>

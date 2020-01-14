@@ -11,8 +11,20 @@
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/AXPFC4ATRSBFC</sublink>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/PVAFG6V2LZ2P4</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/8htLKK03TJjKZOXJgihZCu8v0P.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Halloween III: Season of the Witch 1982</title>
+        <meta>
+            <imdb>tt0085636</imdb>
+            <content>movie</content>
+            <title>Halloween III: Season of the Witch</title>
+            <year>1982</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/7HNY76GMA6UBA</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/NZORYP2XDUKW4</sublink>
+        </link>
     </item>
 
     <item>
@@ -26,7 +38,5 @@
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/O6VBZKKSHNRAC</sublink>
         </link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
     </item>
 </xml>

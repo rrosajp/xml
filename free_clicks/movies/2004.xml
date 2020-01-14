@@ -12,8 +12,6 @@
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/vulnijAY-wLJSd5z6RJfTQ/1574760390/storage3/movies/the-chronicles-of-riddick-2004/720p/index.m3u8</sublink>
             <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/vulnijAY-wLJSd5z6RJfTQ/1574760390/storage3/movies/the-chronicles-of-riddick-2004/480p/index.m3u8</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/hVAfGskQdktDwYTqrT7wY1f2M4y.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/eLla4fEmEDDGYMsWQvKUIvYZxQI.jpg</fanart>
     </item>
 
     <item>
@@ -27,8 +25,6 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/51krfU2ql3xa77ECYYET3WLl3mn.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/tLZpx9seUvYYVEIGMr7HxwkzGaV.jpg</fanart>
     </item>
 
     <item>
@@ -44,8 +40,6 @@
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/waqlfGwTDiy_lf4o0VA4qg/1575364756/storage6/movies/harry-potter-and-the-prisoner-of-azkaban-2004/720p/index.m3u8</sublink>
             <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe02.lookmovie.ag/c/waqlfGwTDiy_lf4o0VA4qg/1575364756/storage6/movies/harry-potter-and-the-prisoner-of-azkaban-2004/480p/index.m3u8</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/uDQibffYgssdiqx7izO57wdLc6.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/5NpTL7MR615lzve7v9oEuoMjZiG.jpg</fanart>
     </item>
 
     <item>
@@ -59,7 +53,5 @@
         <link>
             <sublink name="[B][COLOR gold] Coming Soon [/COLOR][/B]"/>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/xMRBlTMMKDRJuK4IhwG5idrGHaS.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bxPw6s61bG5Of19lp1E00n0dDWW.jpg</fanart>
     </item>
 </xml>

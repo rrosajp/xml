@@ -25,8 +25,19 @@
         <link>
             <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/62TGKE5YWTQJC</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/original/g9S9sK8GD5Uq37IIzmfzixNOdxk.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/tDlsTDtC15kJd4vrkQkxqoW4Pse.jpg</fanart>
+    </item>
+
+    <item>
+        <title>Halloween 5: The Revenge of Michael Myers 1989</title>
+        <meta>
+            <imdb>tt0097474</imdb>
+            <content>movie</content>
+            <title>Halloween 5: The Revenge of Michael Myers</title>
+            <year>1989</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/Q5J3DZXUHHBOU</sublink>
+        </link>
     </item>
 
     <item>
@@ -40,7 +51,5 @@
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/S4LCTEDA7CK5C</sublink>
         </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/9mW8fM0PkXvSSmLODTb2OAYEQTY.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/7m6D3kQBrbMcqxwrSNEsvs1XuMS.jpg</fanart>
     </item>
 </xml>
