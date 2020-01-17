@@ -1,6 +1,6 @@
 <xml>
     <item>
-        <title>Creed</title>
+        <title>Creed 4k</title>
         <meta>
             <imdb>tt4354930</imdb>
             <content>movie</content>
@@ -10,5 +10,16 @@
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/COJDX3ZJOYSOY</sublink>
         </link>
+    </item>
+
+    <item>
+        <title>Hotel Transylvania 2 2015</title>
+        <meta>
+            <imdb>tt2510894</imdb>
+            <content>movie</content>
+            <title>Hotel Transylvania 2</title>
+            <year>2015</year>
+        </meta>
+        <link>https://real-debrid.com/d/OB77FN7ZFC3JG</link>
     </item>
 </xml>

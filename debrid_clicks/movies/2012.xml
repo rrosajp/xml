@@ -56,11 +56,35 @@
 
     <item>
         <title>Home Alone- The Holiday Heist</title>
-        <link>
-        <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/JDYOTKNOIHAQY</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/XPbba0kfQkLWjkttnPFPzSf09a.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/lZxZGLCFWYKeRXcExxIXALRbF0m.jpg</fanart>
+        <meta>
+            <imdb>tt2308733</imdb>
+            <content>movie</content>
+            <title>Home Alone</title>
+            <year>2012</year>
+        </meta>
+        <link>https://real-debrid.com/d/JDYOTKNOIHAQY</link>
+    </item>
+
+    <item>
+        <title>Hotel Transylvania 2012</title>
+        <meta>
+            <imdb>tt0837562</imdb>
+            <content>movie</content>
+            <title>Hotel Transylvania</title>
+            <year>2012</year>
+        </meta>
+        <link>https://real-debrid.com/d/7LLX2BGRDCVIS</link>
+    </item>
+
+    <item>
+        <title>Ice Age: Continental Drift 2012</title>
+        <meta>
+            <imdb>tt1667889</imdb>
+            <content>movie</content>
+            <title>Ice Age: Continental Drift</title>
+            <year>2012</year>
+        </meta>
+        <link>https://real-debrid.com/d/MGOGEQLWO3A2G</link>
     </item>
 
     <item>

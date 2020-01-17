@@ -1,5 +1,49 @@
 <xml>
     <item>
+        <title>Ice Age 2002</title>
+        <meta>
+            <imdb>tt0268380</imdb>
+            <content>movie</content>
+            <title>Ice Age</title>
+            <year>2002</year>
+        </meta>
+        <link>https://real-debrid.com/d/7MSCHJFWAKBJA</link>
+    </item>
+
+    <item>
+        <title>Ice Age The Meltdown 2006</title>
+        <meta>
+            <imdb>tt0438097</imdb>
+            <content>movie</content>
+            <title>Ice Age The Meltdown</title>
+            <year>2006</year>
+        </meta>
+        <link>https://real-debrid.com/d/XIT7S42Q6MG4E</link>
+    </item>
+
+    <item>
+        <title>Ice Age: Dawn of the Dinosaurs 2009</title>
+        <meta>
+            <imdb>tt1080016</imdb>
+            <content>movie</content>
+            <title>Ice Age: Dawn of the Dinosaurs</title>
+            <year>2009</year>
+        </meta>
+        <link>https://real-debrid.com/d/SAP4AODNO26RY</link>
+    </item>
+
+    <item>
+        <title>Ice Age: Continental Drift 2012</title>
+        <meta>
+            <imdb>tt1667889</imdb>
+            <content>movie</content>
+            <title>Ice Age: Continental Drift</title>
+            <year>2012</year>
+        </meta>
+        <link>https://real-debrid.com/d/MGOGEQLWO3A2G</link>
+    </item>
+
+    <item>
         <title>Its a Wonderful Life</title>
         <meta>
             <imdb>tt0038650</imdb>
@@ -7,8 +51,6 @@
             <title>Its a Wonderful Life</title>
             <year>1946</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/DOJ7XRRKDBZWM</sublink>
-        </link>
+        <link>https://real-debrid.com/d/DOJ7XRRKDBZWM</link>
     </item>
 </xml>

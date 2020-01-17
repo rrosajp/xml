@@ -1,15 +1,23 @@
 <xml>
     <item>
-        <title>Ghostbusters</title>
-        <link>
-        <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/62TGKE5YWTQJC</sublink>
-        </link>
+        <title>Ghostbusters 1984</title>
+        <meta>
+            <imdb>tt0087332</imdb>
+            <content>movie</content>
+            <title>Ghostbusters</title>
+            <year>1984</year>
+        </meta>
+        <link>https://real-debrid.com/d/62TGKE5YWTQJC</link>
     </item>
 
     <item>
-        <title>Ghostbusters II</title>
-        <link>
-        <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/62TGKE5YWTQJC</sublink>
-        </link>
+        <title>Ghostbusters II 1989</title>
+        <meta>
+            <imdb>tt0097428</imdb>
+            <content>movie</content>
+            <title>Ghostbusters II</title>
+            <year>1989</year>
+        </meta>
+        <link>https://real-debrid.com/d/62TGKE5YWTQJC</link>
     </item>
 </xml>

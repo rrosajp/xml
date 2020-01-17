@@ -1,42 +1,56 @@
 <xml>
     <item>
-        <title>Home Alone</title>
+        <title>Home Alone 1990</title>
         <meta>
             <imdb>tt0099785</imdb>
             <content>movie</content>
             <title>Home Alone</title>
             <year>1990</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/KPSM3ZMMK24R4</sublink>
-        </link>
+        <link>https://real-debrid.com/d/KPSM3ZMMK24R4</link>
     </item>
 
     <item>
-        <title>Home Alone 2 Lost In New York</title>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/RDBNIELROOTOG</sublink>
-        </link>
+        <title>Home Alone 2 Lost In New York 1992</title>
+        <meta>
+            <imdb>tt0104431</imdb>
+            <content>movie</content>
+            <title>Home Alone</title>
+            <year>1992</year>
+        </meta>
+        <link>https://real-debrid.com/d/RDBNIELROOTOG</link>
     </item>
 
     <item>
-        <title>Home Alone 3</title>
-        <link>
-        <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/DOP7ZFAFWU74W</sublink>
-        </link>
+        <title>Home Alone 3 1997</title>
+        <meta>
+            <imdb>tt0119303</imdb>
+            <content>movie</content>
+            <title>Home Alone</title>
+            <year>1997</year>
+        </meta>
+        <link>https://real-debrid.com/d/DOP7ZFAFWU74W</link>
     </item>
 
     <item>
-        <title>Home Alone 4</title>
-        <link>
-        <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/LIFKMDQ3LWSKS</sublink>
-        </link>
+        <title>Home Alone 4: Taking Back the House 2002</title>
+        <meta>
+            <imdb>tt0329200</imdb>
+            <content>movie</content>
+            <title>Home Alone</title>
+            <year>2002</year>
+        </meta>
+        <link>https://real-debrid.com/d/LIFKMDQ3LWSKS</link>
     </item>
 
     <item>
-        <title>Home Alone- The Holiday Heist</title>
-        <link>
-        <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/JDYOTKNOIHAQY</sublink>
-        </link>
+        <title>Home Alone- The Holiday Heist 2012</title>
+        <meta>
+            <imdb>tt2308733</imdb>
+            <content>movie</content>
+            <title>Home Alone</title>
+            <year>2012</year>
+        </meta>
+        <link>https://real-debrid.com/d/JDYOTKNOIHAQY</link>
     </item>
 </xml>

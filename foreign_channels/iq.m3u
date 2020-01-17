@@ -85,6 +85,10 @@ http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/XFbwbi4.png" group-title="",Kurdsat
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ApjPInT.png" group-title="Music",Music Al Haneen
+http://95.170.215.109/hls/m3u8/M-alhanen-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B1ihFTL.png" group-title="Music",Music Al Remas
+http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/EqERYqW.png" group-title="",NRT 1 HD
 http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="",Rudaw TV
