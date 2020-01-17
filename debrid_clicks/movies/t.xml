@@ -1,6 +1,6 @@
 <xml>
     <item>
-        <title>Terminator Salvation 4k</title>
+        <title>Terminator Salvation</title>
         <meta>
             <imdb>tt0438488</imdb>
             <content>movie</content>
@@ -9,6 +9,19 @@
         </meta>
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/RLDX554MKF4DW</sublink>
+        </link>
+    </item>
+
+    <item>
+        <title>Titanic</title>
+        <meta>
+            <imdb>tt0120338</imdb>
+            <content>movie</content>
+            <title>Titanic</title>
+            <year>1997</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/2N6IZVANLQHTS</sublink>
         </link>
     </item>
 </xml>

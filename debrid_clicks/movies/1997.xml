@@ -26,7 +26,7 @@
     </item>
 
     <item>
-        <title>The Fifth Element 4k</title>
+        <title>The Fifth Element</title>
         <meta>
             <imdb>tt0119116</imdb>
             <content>movie</content>
@@ -85,6 +85,19 @@
         </meta>
         <link>
             <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/MO7QRVFXNIQWQ</sublink>
+        </link>
+    </item>
+
+    <item>
+        <title>Titanic</title>
+        <meta>
+            <imdb>tt0120338</imdb>
+            <content>movie</content>
+            <title>Titanic</title>
+            <year>1997</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/2N6IZVANLQHTS</sublink>
         </link>
     </item>
 </xml>
