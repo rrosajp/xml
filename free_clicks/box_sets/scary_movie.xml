@@ -1,6 +1,6 @@
 <xml>
     <item>
-        <title>Scary Movie (2000)</title>
+        <title>Scary Movie</title>
         <meta>
             <imdb>ttt0175142</imdb>
             <content>movie</content>
@@ -15,7 +15,7 @@
     </item>
 
     <item>
-        <title>Scary Movie 2 (2001)</title>
+        <title>Scary Movie 2</title>
         <meta>
             <imdb>tt0257106</imdb>
             <content>movie</content>
@@ -29,7 +29,7 @@
     </item>
 
     <item>
-        <title>Scary Movie 3 (2003)</title>
+        <title>Scary Movie 3</title>
         <meta>
             <imdb>tt0306047</imdb>
             <content>movie</content>
