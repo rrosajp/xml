@@ -1,6 +1,20 @@
 <xml>
     <item>
-        <title>The Shining 4k</title>
+        <title>Airplane</title>
+        <meta>
+            <imdb>tt0080339</imdb>
+            <content>movie</content>
+            <title>Airplane</title>
+            <year>1980</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/CROXLYZS5ZDRK</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5G5D7ARPIRPIQ</sublink>
+        </link>
+    </item>
+
+    <item>
+        <title>The Shining</title>
         <meta>
             <imdb>tt0081505</imdb>
             <content>movie</content>
@@ -9,6 +23,23 @@
         </meta>
         <link>
             <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/5PUOP7O6FGURK</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/4AYNER6OINQSA</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/HRVTIJK7VMR5U</sublink>
+        </link>
+    </item>
+
+    <item>
+        <title>Star Wars: Episode V - The Empire Strikes Back</title>
+        <meta>
+            <imdb>tt0080684</imdb>
+            <content>movie</content>
+            <title>Star Wars: Episode V - The Empire Strikes Back</title>
+            <year>1980</year>
+        </meta>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/DZMYKZ7PC62ZO</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/BEDGNLQKZA2PA</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/SUCDXEQVMHFW4</sublink>
         </link>
     </item>
 </xml>
