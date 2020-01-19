@@ -1,73 +1,93 @@
 <xml>
-    <item>
-        <title>Arrow S01E01</title>
+    <dir>
+        <title>Season 1</title>
         <meta>
             <tvdb>257655</tvdb>
-            <content>episode</content>
+            <content>season</content>
         </meta>
-        <link>https://cdn.apidev.icu/drive/index.php?id=ZEFygBECcgW%2Besqaws5fAAwJ9DupQUXd3Y4w1dSBzL50YLQC%2BQ2%2FPVQX9TP53jDKTzoN6A5PccYxf7C4uhw9tnWeDhJ%2FwTXcyVrlKcc4zkTF7iDXWYPILWjz7wwQPYDx1NG1Sb%2F59sPTxs86ysurI9GXi2sRIjJvg0f2X4l2mwj8HnlIXDZiDbHnUQYmhoMFc%3D&ref=&res=720
-</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/episodes/257655/4325893.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/seasons/257655-1-3.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
-    </item>
+    </dir>
 
-    <item>
-        <title>Arrow S01E02</title>
+
+    <dir>
+        <title>Season 2</title>
         <meta>
             <tvdb>257655</tvdb>
-            <content>episode</content>
+            <content>season</content>
         </meta>
-        <link>https://cdn.cloneapi.icu/drive/index.php?id=aHR5AK08FnhaDqvDEipDKAYUJ8rCXHd9AEcXWhOIAKvReuCDPVnxqImaM3anSNzuSBaqTMuRziHMPtDZbii62H24t9yH2geNtnycj8%2F5m%2BAZoQFMQQTc8eJVQWfC8gGlJ4iitnqDXhZG9LVIRl6QK2z3jhjpdbi%2Barr5cC33VXMRvDVibBtXL%2BVPQ57OjpoV4%3D&ref=&res=720
-</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/episodes/257655/4365918.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
-    </item>
+    </dir>
 
-    <item>
-        <title>Arrow S01E03</title>
+
+    <dir>
+        <title>Season 3</title>
         <meta>
             <tvdb>257655</tvdb>
-            <content>episode</content>
+            <content>season</content>
         </meta>
-        <link>https://cdn.clonefile.icu/drive/index.php?id=vUznYhhKjTND2dyoTecTCQGl4qTGLlhBOl7NMaI8GjecpzABS12iAa%2FVvJKF1j14fW3KQaviUAZeIMc0u6tg5%2FqDkqz8clOTc%2FxVuMQuuU8EGHjqA%2FYCe%2BsLnGldaVm2%2FO87xQQ75m0nK3jNDNelHVDG8%2B9iVYZmvjC4WfkHJaY8BNxOE4smQz98ym6dwBC0M%3D&ref=&res=720
-</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/episodes/257655/4365919.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Arrow_Season_3.png/220px-Arrow_Season_3.png</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
-    </item>
+    </dir>
 
-    <item>
-        <title>Arrow S08E01</title>
+
+    <dir>
+        <title>Season 4</title>
         <meta>
             <tvdb>257655</tvdb>
-            <content>episode</content>
+            <content>season</content>
         </meta>
-        <link>https://cdn.cloneapi.icu/drive/index.php?id=FsKL4r7xONpdXkkShWO%2BGQCwojFmbG7ZqBRvMX3eEw6czvlV8nyltCpkD5fw1VgZG717arVVFzM9puqvetePkkPC6lf3Qc5kHtLDseTG6MKc8Ibv37a8oeA0zC%2Bpx5QBLvx91U24ZOEe9KPFru%2FhGUCho4oiFRy7MqibOhG53daDCQ35FaLYN4%2Fm9FdTmfvJ0%3D&ref=&res=720
-</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/episodes/257655/4365919.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_4.jpg/220px-Arrow_season_4.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
-    </item>
+    </dir>
 
-    <item>
-        <title>Shaft</title>
-        <meta>
-            <imdb>tt4463894</imdb>
-            <content>movie</content>
-            <title>Shaft</title>
-            <year>2019</year>
-        </meta>
-        <link>https://cdn.apidev.icu/drive/index.php?id=By4AN5LiSx673JqtuVQLJw4EggOJeMLLtCO3bvpIHrAhPB52VvfsROihwxG7HHNce8jDiHQNmc3Lur4bQfOu%2BAjaBQqzVr4BqDjI4FfTZVwDnWL7R82b5IiTkNSbpXtREdlXkdX39TsMj%2FukhyI07ca3qNAj%2BjsDomHUiJKYbNsVDbNhVziHGGWAiyDLsew1A%3D&ref=https%3A%2F%2Fgomo.to%2Fmovie%2Fshaft-2&res=720
-</link>
-    </item>
 
-    <item>
-        <title>Venom</title>
+    <dir>
+        <title>Season 5</title>
         <meta>
-            <imdb>tt1270797</imdb>
-            <content>movie</content>
-            <title>venom</title>
-            <year>2018</year>
+            <tvdb>257655</tvdb>
+            <content>season</content>
         </meta>
-        <link>https://cdn.apidev.icu/drive/index.php?id=WuGTGqAVmIbBdQaRwrtd5gaWF3THJrbbF78kNwCFbp66hgpkWhtKhTpmuX0x01ofslq4G6AJYjuaEc8ZhDJGBaSCFUyIuaE3AH4x6uJulcP9DdCZ9SukXxQbqD0JuEfk6KSYEgI3D2Zz0d6e%2F%2BRe6T7FuKahMT6g1BiQKorVNx6g%3D%3D&ref=https%3A%2F%2Fgomo.to%2F&res=720
-</link>
-    </item>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Arrow_season_5.jpg/220px-Arrow_season_5.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </dir>
+
+    <dir>
+        <title>Season 6</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Arrow_season_6.jpg/220px-Arrow_season_6.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </dir>
+
+    <dir>
+        <title>Season 7</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </dir>
+
+    <dir>
+        <title>Season 8</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season8.xml</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
+    </dir>
 </xml>
