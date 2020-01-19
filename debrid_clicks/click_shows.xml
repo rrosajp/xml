@@ -4,7 +4,6 @@
         <meta>
             <tvdb>257655</tvdb>
             <content>tvshow</content>
-            <plot>After a violent shipwreck, playboy billionaire Oliver Queen had disappeared and been presumed dead for five years before being discovered alive on a remote island in the Pacific. When he returns home to Starling City, his devoted mother Moira, the beloved sister Thea, and his best friend Tommy are going to welcome him home, but they have the feeling that Oliver has changed because of his terrible experience on the island. Meanwhile, Oliver hides the truth about the man he has become, he is desperate to repair the actions he took as the child he was. More particularly, he seeks reconciliation with his ex-girlfriend, Laurel Lance. During the day, Oliver plays the role of a rich, carefree and careless womanizer as he used to be - flanked by his devoted chauffeur / bodyguard, John Diggle - while carefully concealing the secret identity. However, Laurel's father, Detective Quentin Lance, is determined to stop the operation of the vigilante in his city. Meanwhile, Oliver's own mother, Moira Queen, knows much more about the deadly shipwreck than she has let on and is more cruel than she could ever imagine.</plot>
             <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/list.xml</link>
@@ -61,9 +60,8 @@
     <dir>
         <title>Designated Survivor</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>311876</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/designated_survivor/list.xml</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg</thumbnail>
@@ -72,7 +70,7 @@
     <dir>
         <title>Family Guy</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>75978</tvdb>
             <content>tvshow</content>
             <year>2012</year>
         </meta>
