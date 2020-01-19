@@ -2,7 +2,6 @@
     <dir>
         <title>Season 1</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
@@ -14,7 +13,6 @@
     <dir>
         <title>Season 2</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
@@ -26,7 +24,6 @@
     <dir>
         <title>Season 3</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
@@ -38,7 +35,6 @@
     <dir>
         <title>Season 4</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
@@ -50,7 +46,6 @@
     <dir>
         <title>Season 5</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
@@ -61,7 +56,6 @@
     <dir>
         <title>Season 6</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
@@ -72,7 +66,6 @@
     <dir>
         <title>Season 7</title>
         <meta>
-            <tvdb>257655</tvdb>
             <content>season</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
