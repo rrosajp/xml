@@ -4,11 +4,8 @@
         <meta>
             <tvdb>257655</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/list.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/posters/5d331e5f306d0.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
     <dir>
@@ -16,11 +13,8 @@
         <meta>
             <tvdb>281714</tvdb>
             <content>tvshow</content>
-            <year>2015</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/ballers/list.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/posters/281714-2.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5d57001ae0367_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -28,11 +22,8 @@
         <meta>
             <tvdb>266189</tvdb>
             <content>tvshow</content>
-            <year>2013</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/the_blacklist/list.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/posters/266189-1_t.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/266189-4_t.jpg</fanart>
     </dir>
 
     <dir>
@@ -40,10 +31,8 @@
         <meta>
             <tvdb>80379</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/big_bang/list.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/posters/5b8d57d601c5f.jpg</thumbnail>
     </dir>
 
     <dir>
@@ -51,10 +40,8 @@
         <meta>
             <tvdb>269641</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/chicago_pd/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
@@ -64,7 +51,6 @@
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/designated_survivor/list.xml</link>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg</thumbnail>
     </dir>
 
     <dir>
@@ -72,193 +58,161 @@
         <meta>
             <tvdb>75978</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/family_guy/list.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/posters/75978-13.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>The Flash</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>279121</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/the_flash/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjI1MDAwNDM4OV5BMl5BanBnXkFtZTgwNjUwNDIxNjM@._V1_UY268_CR16,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>House MD</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>73255</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/house/list.xml</link>
-        <thumbnail>https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png</thumbnail>
     </dir>
 
     <dir>
         <title>Izombie</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>281470</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/izombie/list.xml</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51msaPPK-sL._SY445_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Lie to Me</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>83602</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/lie_to_me/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc2MjA4MTM2OV5BMl5BanBnXkFtZTcwMTYzMzA1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>The Mandalorian</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>361753</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/mandalorian/list.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/posters/5d603276729a5_t.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </dir>
 
     <dir>
         <title>Married with Children</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>76385</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/married_with_children/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BMzk2OWYzNDUtNGE5NC00MDI0LTkyMDktY2RmZjE0NGNmMWE1XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Murder She Wrote</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>78049</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/murder_she_wrote/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>New Girl</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>248682</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/new_girl/list.xml</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91nZQNPpSHL._RI_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Smallville</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>72218</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/list.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/posters/72218-26.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>The Simpsons</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>71663</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/simpsons/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg</thumbnail>
     </dir>
 
     <dir>
-        <title>Stargate SG1</title>
+        <title>Stargate SG-1</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>72449</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/stargate_sg1/list.xml</link>
-        <thumbnail>https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/stargate_sg-1_cast.jpg?itok=EucgrKA3</thumbnail>
     </dir>
 
     <dir>
         <title>Star Trek Discovery</title>
+        <meta>
+            <tvdb>328711</tvdb>
+            <content>tvshow</content>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/star_trek_discovery/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BOTg5MzA1MjAwNV5BMl5BanBnXkFtZTgwNzAwMDU5NjM@._V1_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Suits</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>247808</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/suits/list.xml</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81DPd3NRq0L._RI_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Supernatural</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>78901</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/supernatural/list.xml</link>
-        <thumbnail>https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/supernatural_season_12_poster.jpg?itok=ocBbj_o5</thumbnail>
     </dir>
 
     <dir>
         <title>The Twilight Zone</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>358915</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/twilight/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BNzNkNjM0YTEtY2MwNi00OTJmLWFhMjAtN2M0ZTMwOTMxOTY1XkEyXkFqcGdeQXVyMjIwMjY2MzU@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>The Office</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>73244</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/the_office/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg</thumbnail>
     </dir>
 
     <dir>
-        <title>Vampire Diaries</title>
+        <title>The Vampire Diaries</title>
         <meta>
-            <tvdb>257655</tvdb>
+            <tvdb>95491</tvdb>
             <content>tvshow</content>
-            <year>2012</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/vampire_diaries/list.xml</link>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
     </dir>
 
     <dir>
@@ -266,9 +220,7 @@
         <meta>
             <tvdb>362696</tvdb>
             <content>tvshow</content>
-            <year>2019</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/witcher/list.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/362696/posters/62003331_t.jpg</thumbnail>
     </dir>
 </xml>
