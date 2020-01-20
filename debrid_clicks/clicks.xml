@@ -2,7 +2,7 @@
     <dir>
         <title>Movies</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/click_movies.xml</link>
-        <thumb>https://github.com/Tempest0580/xml/blob/master/icons/movies.png?raw=true</thumb>
+        <thumbnail>https://github.com/Tempest0580/xml/blob/master/icons/movies.png?raw=true</thumbnail>
     </dir>
 
     <dir>
