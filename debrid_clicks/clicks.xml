@@ -2,12 +2,12 @@
     <dir>
         <title>Movies</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/click_movies.xml</link>
-        <thumb>https://github.com/Tempest0580/xml/blob/master/icons/movies.png</thumb>
+        <thumb>https://github.com/Tempest0580/xml/blob/master/icons/movies.png?raw=true</thumb>
     </dir>
 
     <dir>
         <title>Tv Shows</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/click_shows.xml</link>
-        <thumbnail>https://github.com/Tempest0580/xml/blob/master/icons/tvshows.png</thumbnail>
+        <thumbnail>https://github.com/Tempest0580/xml/blob/master/icons/tvshows.png?raw=true</thumbnail>
     </dir>
 </xml>
