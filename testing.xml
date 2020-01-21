@@ -1,85 +1,27 @@
 <xml>
-    <dir>
-        <title>Season 1</title>
+    <item>
+        <title>Avengers: End Game</title>
         <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>01</season>
+            <imdb>tt4154796</imdb>
+            <content>movie</content>
         </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season1.xml</link>
-    </dir>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/BHGFJARQWNHN6</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/HJCOOVA2TMAYU</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/GE3RYX6EASUIE</sublink>
+        </link>
+    </item>
 
-
-    <dir>
-        <title>Season 2</title>
+    <item>
+        <title>Captain Marvel</title>
         <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>02</season>
+            <imdb>tt4154664</imdb>
+            <content>movie</content>
         </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season2.xml</link>
-    </dir>
-
-
-    <dir>
-        <title>Season 3</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>03</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season3.xml</link>
-    </dir>
-
-
-    <dir>
-        <title>Season 4</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>04</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season4.xml</link>
-    </dir>
-
-
-    <dir>
-        <title>Season 5</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>05</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season5.xml</link>
-    </dir>
-
-    <dir>
-        <title>Season 6</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>06</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season6.xml</link>
-    </dir>
-
-    <dir>
-        <title>Season 7</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>07</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season7.xml</link>
-    </dir>
-
-    <dir>
-        <title>Season 8</title>
-        <meta>
-            <tvdb>257655</tvdb>
-            <content>season</content>
-            <season>08</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/debrid_clicks/shows/arrow/season8.xml</link>
-    </dir>
+        <link>
+            <sublink name="[B][COLOR gold] 4k [/COLOR][/B]">https://real-debrid.com/d/24F4SFVDXT6VQ</sublink>
+            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://real-debrid.com/d/W5DYYEQ37LJQS</sublink>
+            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://real-debrid.com/d/5SDZMRECHE24K</sublink>
+        </link>
+    </item>
 </xml>
