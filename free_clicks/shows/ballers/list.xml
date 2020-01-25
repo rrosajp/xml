@@ -1,34 +1,34 @@
 <xml>
     <dir>
         <title>Season 1</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/ballers/season1.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/281714-1-3_t.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season1.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/281714-1-2_t.jpg</thumbnail>
     </dir>
 
 
     <dir>
         <title>Season 2</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/ballers/season2.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season2.xml</link>
         <thumbnail>https://artworks.thetvdb.com/banners/seasons/281714-2-2_t.jpg</thumbnail>
     </dir>
 
 
     <dir>
         <title>Season 3</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/ballers/season3.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season3.xml</link>
         <thumbnail>https://artworks.thetvdb.com/banners/seasons/281714-3-2_t.jpg</thumbnail>
     </dir>
 
 
     <dir>
         <title>Season 4</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/ballers/season4.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5b8eec780f8b2_t.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season4.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5b8eec780f8b2.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Season 5</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/ballers/season5.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5d504e54cf0fd_t.jpg</thumbnail>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season5.xml</link>
+        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5d851232d6116_t.jpg</thumbnail>
     </dir>
 </xml>

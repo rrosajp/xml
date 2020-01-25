@@ -1,61 +1,85 @@
 <xml>
     <dir>
         <title>Season 1</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>01</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season1.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/257655-1-12_t.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/257655-5_t.jpg</fanart>
     </dir>
 
 
     <dir>
         <title>Season 2</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>02</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season2.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/257655-2-12_t.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
 
     <dir>
         <title>Season 3</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>03</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season3.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/257655-3_t.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
 
     <dir>
         <title>Season 4</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>04</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season4.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/257655-4-2_t.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
 
     <dir>
         <title>Season 5</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>05</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season5.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/257655-5_t.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
     <dir>
         <title>Season 6</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>06</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season6.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/257655-6_t.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
     <dir>
         <title>Season 7</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>07</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season7.xml</link>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 
     <dir>
         <title>Season 8</title>
+        <meta>
+            <tvdb>257655</tvdb>
+            <content>season</content>
+            <season>08</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season8.xml</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/seasons/5d8cfb6e197c4_t.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/5ba53440ef1ac.jpg</fanart>
     </dir>
 </xml>
