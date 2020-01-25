@@ -1,9 +1,13 @@
 <xml>
 
-<dir>
-    <title>Season 1</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/twilight/season1.xml</link>
-    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/513AD9ZVJQL.jpg</thumbnail>
+    <dir>
+        <title>Season 1</title>
+        <meta>
+            <tvdb>358915</tvdb>
+            <content>season</content>
+            <season>01</season>
+        </meta>
+    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/twilight/season1.xml</link>
 </dir>
 
 </xml>

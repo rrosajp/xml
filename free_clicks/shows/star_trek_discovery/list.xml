@@ -1,16 +1,21 @@
 <xml>
+    <dir>
+        <title>Season 1</title>
+        <meta>
+            <tvdb>328711</tvdb>
+            <content>season</content>
+            <season>01</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/star_trek_discovery/season1.xml</link>
+    </dir>
 
-<dir>
-    <title>Season 1</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/star_trek_discovery/season1.xml</link>
-    <thumbnail>https://www.thetvdb.com/banners/seasons/5b829f8abcf78.jpg</thumbnail>
-</dir>
-
-
-<dir>
-    <title>Season 2</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/star_trek_discovery/season2.xml</link>
-    <thumbnail>https://www.thetvdb.com/banners/seasons/5c1aad1e63690.jpg</thumbnail>
-</dir>
-
+    <dir>
+        <title>Season 2</title>
+        <meta>
+            <tvdb>328711</tvdb>
+            <content>season</content>
+            <season>02</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/star_trek_discovery/season2.xml</link>
+    </dir>
 </xml>

@@ -1,57 +1,73 @@
 <xml>
     <item>
         <title>1x01.Chapter 1. The Mandalorian</title>
+        <meta>
+            <tvdb>7133857</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/XCGSSB2ZDTOYU</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/episodes/361753/7133857.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x02.Chapter 2. The Child</title>
+        <meta>
+            <tvdb>7410437</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/OGRRY4TW4TOVW</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410437.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x03.Chapter 3. The Sin</title>
+        <meta>
+            <tvdb>7410438</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/BK3BKFKZIFHO</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410438.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x04.Chapter 4. Sanctuary</title>
+        <meta>
+            <tvdb>7410439</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/4U63SBMMDSIXO</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410439.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x05.Chapter 5. The Gunslinger</title>
+        <meta>
+            <tvdb>7410440</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/44VAGTG6R2FWY</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410440.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x06.Chapter 6. The Prisoner</title>
+        <meta>
+            <tvdb>7410442</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/D3OBGIYRSG6VO</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410442.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x07.Chapter 7. The Reckoning</title>
+        <meta>
+            <tvdb>7410445</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/G32MM42AZ6QMA</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410445.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 
     <item>
         <title>1x08.Chapter 8. Redemption</title>
+        <meta>
+            <tvdb>7410449</tvdb>
+            <content>episode</content>
+        </meta>
         <link>https://real-debrid.com/d/QHDGTROSXK4ZI</link>
-        <thumbnail>https://artworks.thetvdb.com/banners/series/361753/episodes/7410449.jpg</thumbnail>
-        <fanart>https://artworks.thetvdb.com/banners/fanart/original/5cb4480340559.jpg</fanart>
     </item>
 </xml>
