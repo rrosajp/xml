@@ -42,15 +42,6 @@
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/new_amsterdam/list.xml</link>
-    </dir>quantum_leap
-
-    <dir>
-        <title>Quantum leap</title>
-        <meta>
-            <tvdb>72248</tvdb>
-            <content>tvshow</content>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/quantum_leap/list.xml</link>
     </dir>
 
     <dir>

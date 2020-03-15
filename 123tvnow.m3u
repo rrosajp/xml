@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" group-title="",A&E
-https://ok.ru/videoembed/1319453400675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
+https://ok.ru/videoembed/1363991928419?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="",AMC
-http://docs-8.gogleusercontent.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
+http://docs-1.gogleusercontent.host/live/lv34aj2j/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  group-title="",Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="",Bravo Channel
-https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
+https://ok.ru/videoembed/1370519379555?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add=
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cspan-269x151.png" group-title="",C-Span 1
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
@@ -22,7 +22,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" group-title="",Cartoon Network
-http://docs-2.gogleusercontent.host/live/ctnw/chunks.m3u8|Referer=http://123tvnow.com/watch/cartoon-network/
+http://docs-2.gogleusercontent.host/live/k9fm68v9/chunks.m3u8|Referer=http://123tvnow.com/watch/cartoon-network/
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
@@ -31,19 +31,19 @@ http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&reba
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 
 #EXTINF:-1 group-title="USA"  tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="",CBS
-http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
+http://docs-5.gogleusercontent.host/live/sckmw792/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" group-title="",California Music Channel - CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnbc-269x149.png" group-title="",CNBC
-http://docs-7.gogleusercontent.host/live/cnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/cnbc-2/
+http://docs-4.gogleusercontent.host/live/gu5gpxy4/chunks.m3u8|Referer=http://123tvnow.com/watch/cnbc-2/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="",CNN
-http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
+http://docs-8.gogleusercontent.host/live/uhwve6o4/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="",CW
-http://docs-1.gogleusercontent.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
+http://docs-3.gogleusercontent.host/live/b1knpp8t/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" group-title="",Discovery Channel
 http://docs-3.gogleusercontent.host/live/discovery/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
