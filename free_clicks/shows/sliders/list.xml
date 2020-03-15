@@ -1,0 +1,55 @@
+<xml>
+    <dir>
+        <title>Season 1</title>
+        <meta>
+            <tvdb>76557</tvdb>
+            <content>season</content>
+            <season>01</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/sliders/season1.xml</link>
+    </dir>
+
+
+    <dir>
+        <title>Season 2</title>
+        <meta>
+            <tvdb>76557</tvdb>
+            <content>season</content>
+            <season>02</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/sliders/season2.xml</link>
+    </dir>
+
+
+    <dir>
+        <title>Season 3</title>
+        <meta>
+            <tvdb>76557</tvdb>
+            <content>season</content>
+            <season>03</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/sliders/season3.xml</link>
+    </dir>
+
+
+    <dir>
+        <title>Season 4</title>
+        <meta>
+            <tvdb>76557</tvdb>
+            <content>season</content>
+            <season>04</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/sliders/season4.xml</link>
+    </dir>
+
+
+    <dir>
+        <title>Season 5</title>
+        <meta>
+            <tvdb>76557</tvdb>
+            <content>season</content>
+            <season>05</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/sliders/season5.xml</link>
+    </dir>
+</xml>

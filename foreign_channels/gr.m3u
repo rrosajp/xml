@@ -11,10 +11,14 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://goo.gl/mNqHoo" group-title="",Axeloos
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="." group-title="Music",Baraza TV Classic Hits
-https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="." group-title="Music",Baraza TV Greek Music Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV Classic Hits
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV Music Dance
+https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG" group-title="Local",Best TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="http://i.imgur.com/24uaLwh.png" group-title="Local",Channel 9
@@ -115,3 +119,5 @@ http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="Local",Μεσογειος TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 tvg-id="Netmax" tvg-name="Netmax GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/0sjticV.png" group-title="Movies",Netmax
+http://netmaxlive.tk:8080/hls/live/index.m3u8
