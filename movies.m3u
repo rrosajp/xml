@@ -6,6 +6,9 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="",HBO
 http://docs-5.gogleusercontent.host/live/rvgppyyz/playlist.m3u8|Referer=http://123tvnow.com/watch/hbo/
 
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imkmedia.com/wp-content/uploads/2020/03/ignature-300x160.jpg" group-title="",HBO HD
+http://live.highstream.club/live/HBO/chunks.m3u8|Referer=http://imkmedia.com/watch/hbo/
+
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imkmedia.com/wp-content/uploads/2020/03/ignature-300x160.jpg" group-title="",HBO Signature
 http://live.highstream.club/live/HBOSignature/chunks.m3u8|Referer=http://imkmedia.com/watch/hbo-signature/
 
