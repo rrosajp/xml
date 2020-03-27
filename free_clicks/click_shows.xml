@@ -14,7 +14,7 @@
             <tvdb>281714</tvdb>
             <content>tvshow</content>
         </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/ballers/list.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/ballers/list.xml</link>
     </dir>
 
     <dir>
@@ -24,6 +24,15 @@
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/the_blacklist/list.xml</link>
+    </dir>
+
+    <dir>
+        <title>Charmed</title>
+        <meta>
+            <tvdb>70626</tvdb>
+            <content>tvshow</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/charmed_98/list.xml</link>
     </dir>
 
     <dir>
