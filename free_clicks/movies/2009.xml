@@ -1,5 +1,5 @@
 <zml>
-    <item>
+    <items>
         <title>A Christmas Carol (Coming Soon)</title>
         <meta>
             <imdb>tt1067106</imdb>
@@ -8,7 +8,7 @@
             <year>2009</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Halloween 2</title>

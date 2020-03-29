@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>Hotel Transylvania (Coming Soon)</title>
         <meta>
             <imdb>tt0837562</imdb>
@@ -8,7 +8,7 @@
             <year>2012</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Hotel Transylvania 2</title>

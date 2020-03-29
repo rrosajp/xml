@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>The Abyss (Coming Soon)</title>
         <meta>
             <imdb>tt0096754</imdb>
@@ -8,7 +8,7 @@
             <year>1989</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Ghostbusters II</title>

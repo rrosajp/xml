@@ -228,6 +228,18 @@
     </dir>
 
     <dir>
+        <title>[B][COLOR gold] 1980 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1980.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1979 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1979.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 1978 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1978.xml</link>
         <thumbnail></thumbnail>

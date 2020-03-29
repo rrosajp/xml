@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>101 Dalmatians (Coming Soon)</title>
         <meta>
             <imdb>tt0115433</imdb>
@@ -8,9 +8,9 @@
             <year>1996</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Jack (Coming Soon)</title>
         <meta>
             <imdb>tt0116669</imdb>
@@ -19,9 +19,9 @@
             <year>1996</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>James and the Giant Peach (Coming Soon)</title>
         <meta>
             <imdb>tt0116683</imdb>
@@ -30,9 +30,9 @@
             <year>1996</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Jingle All The Way (Coming Soon)</title>
          <meta>
             <imdb>tt0116705</imdb>
@@ -41,7 +41,7 @@
             <year>1996</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Matilda</title>

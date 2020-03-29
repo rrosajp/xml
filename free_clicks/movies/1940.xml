@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>Fantasia (Coming Soon)</title>
         <meta>
             <imdb>tt0032455</imdb>
@@ -8,7 +8,7 @@
             <year>1940</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>The Shop Around The Cornery</title>

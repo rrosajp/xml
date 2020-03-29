@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>Flight of the Navigator (Coming Soon)</title>
         <meta>
             <imdb>tt0091059</imdb>
@@ -8,7 +8,7 @@
             <year>1986</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Police Academy 3: Back in Training</title>

@@ -10,7 +10,7 @@
         <link>https://apicdn.vip/drive/index.php?id=v5rRwAl19SjQGRkUrCZN6QtS7NWxPblL9FOyHfs53OmSgtITf0%2F%2BNkSw%2F4Md%2B6YWhQODDhfBuTUpsqUf1f7GWfOiTsR8ymvj07Lqlhqi5v3qTKsYLZ1gzfubNAq%2B5I8b2Ap21Mo1oC9OQe0tT3I5IN&ref=&res=720</link>
     </item>
 
-    <item>
+    <items>
         <title>Scary Movie 2 (Coming Soon)</title>
         <meta>
             <imdb>tt0257106</imdb>
@@ -19,9 +19,9 @@
             <year>2001</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Scary Movie 3 (Coming Soon)</title>
         <meta>
             <imdb>tt0306047</imdb>
@@ -30,9 +30,9 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Scary Movie 4 (Coming Soon)</title>
         <meta>
             <imdb>tt0362120</imdb>
@@ -41,9 +41,9 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Scary Movie 5 (Coming Soon)</title>
         <meta>
             <imdb>tt0795461</imdb>
@@ -52,5 +52,5 @@
             <year>2013</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

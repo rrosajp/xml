@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>The Matrix (Coming Soon)</title>
         <meta>
             <imdb>tt0133093</imdb>
@@ -8,9 +8,9 @@
             <year>1999</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Mickey's Once Upon a Christmas (Coming Soon)</title>
         <meta>
             <imdb>tt0238414</imdb>
@@ -19,5 +19,5 @@
             <year>1999</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

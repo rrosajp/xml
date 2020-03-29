@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>The Blob (Coming Soon)</title>
         <meta>
             <imdb>tt0094761</imdb>
@@ -8,9 +8,9 @@
             <year>1988</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Coming To America (Coming Soon)</title>
         <meta>
             <imdb>tt0094898</imdb>
@@ -19,7 +19,7 @@
             <year>1988</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
 
     <item>

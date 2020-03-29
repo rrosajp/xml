@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>21 Jump Street (Coming Soon)</title>
         <meta>
             <imdb>tt1232829</imdb>
@@ -8,9 +8,9 @@
             <year>2012</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>22 Jump Street (Coming Soon)</title>
         <meta>
             <imdb>tt2294449</imdb>
@@ -19,5 +19,5 @@
             <year>2014</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>Kangaroo Jack (Coming Soon)</title>
         <meta>
             <imdb>tt0257568</imdb>
@@ -8,9 +8,9 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Kill List (Coming Soon)</title>
         <meta>
             <imdb>tt1788391</imdb>
@@ -19,9 +19,9 @@
             <year>2011</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Knocked Up (Coming Soon)</title>
         <meta>
             <imdb>tt0478311</imdb>
@@ -30,9 +30,9 @@
             <year>2007</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Kung Fu Panda (Coming Soon)</title>
         <meta>
             <imdb>tt0441773</imdb>
@@ -41,9 +41,9 @@
             <year>2008</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Kung Fu Panda 2 (Coming Soon)</title>
         <meta>
             <imdb>tt1302011</imdb>
@@ -52,9 +52,9 @@
             <year>2011</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Kung Fu Panda 3 (Coming Soon)</title>
         <meta>
             <imdb>tt2267968</imdb>
@@ -63,5 +63,5 @@
             <year>2016</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

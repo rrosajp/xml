@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>A Scanner Darkly (Coming Soon)</title>
         <meta>
             <imdb>tt0405296</imdb>
@@ -8,7 +8,7 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Scary Movie</title>
@@ -110,6 +110,28 @@
     </item>
 
     <item>
+        <title>Smokey and the Bandit</title>
+        <meta>
+            <imdb>tt0076729</imdb>
+            <content>movie</content>
+            <title>Smokey and the Bandit</title>
+            <year>1977</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=1dWN8ixpfZMWNeockZ0Khwb7IoNwrQmaTgtC2xuIDpucfPTlHfBEBuqHXLp4lsXam2%2FG3FMCPaInl%2FPybCWr3dNTYBKZHvwBqUq9W0WQ75FEelvcUujtPMTpRC9ExfBx7Jf%2Fq4%2F%2FAvEvB7%2F4mWJCrn&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Snake In The Eagles Shadow</title>
+        <meta>
+            <imdb>tt0078252</imdb>
+            <content>movie</content>
+            <title>Snake In The Eagles Shadow</title>
+            <year>1978</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=nsivrhTBZWF1E7IGtzI4BAkplsZR9EKvIX2x30EA9f%2FfzOQOx4kwFI%2FqAXU7qerZuYP5snl2vSxBatA4FhNoioJp%2BSORkxMgSIybBz0%2FpKVxdlWbspZrDm5GmLObiLSWZJsgeFU44MEghEBE%2Bhq%2BezUeNn84ZGy7laxeZi%2BUVsYhpcv2EOLohZv8j1xWMce6lube9DGmM4tFS%2FhZnHsTz4253OxIZHV7qcTG99yIPR7w%3D%3D&ref=https%3A%2F%2Fgomo.to%2Fmovie%2Fsnake-in-the-eagle-s-shadow%3Fsrc%3Dmirror2&res=720</link>
+    </item>
+
+    <item>
         <title>Snatched (Coming Soon)</title>
         <meta>
             <imdb>tt2334871</imdb>
@@ -176,6 +198,17 @@
     </item>
 
     <item>
+        <title>Star Wars: Episode IV - A New Hope</title>
+        <meta>
+            <imdb>tt0076759</imdb>
+            <content>movie</content>
+            <title>Star Wars: Episode IV - A New Hope</title>
+            <year>1977</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=ZFi5UQkR50JbC7r1btGzyQjPwxKAP9WhUoKD0t4kZtBWb%2BSPbe7jA7CtQh4JL4TUX0Bn6ymQ7DRgscoSJSX2cOZhAAi%2BLHoLgmET%2BddCdunFJhOGX2Gp1zbhDyvLDGfBZlvjWsDU6F4FO7AvlyW%2BoK&ref=&res=720</link>
+    </item>
+
+    <item>
         <title>Starship Troopers: Invasion</title>
         <meta>
             <imdb>tt2085930</imdb>
@@ -231,6 +264,17 @@
     </item>
 
     <item>
+        <title>Super Troopers (Coming Soon)</title>
+        <meta>
+            <imdb>tt0247745</imdb>
+            <content>movie</content>
+            <title>Super Troopers</title>
+            <year>2001</year>
+        </meta>
+        <link></link>
+    </item>
+
+    <item>
         <title>Superbad (Coming Soon)</title>
         <meta>
             <imdb>tt0829482</imdb>
@@ -242,14 +286,25 @@
     </item>
 
     <item>
-        <title>Super Troopers (Coming Soon)</title>
+        <title>Superman</title>
         <meta>
-            <imdb>tt0247745</imdb>
+            <imdb>tt0078346</imdb>
             <content>movie</content>
-            <title>Super Troopers</title>
-            <year>2001</year>
+            <title>Superman</title>
+            <year>1978</year>
         </meta>
-        <link></link>
+        <link>https://apicdn.vip/drive/index.php?id=Ii097wTquyzg00FbrL3h8A1i1VE9Yn8B6RciVhqu06CXawAEfaIn4gLsTuH9OxcHEhVXmytgj3FArQrhfKB78mic6Mdxt2CJI7PjHTEi%2FhMRpI1GE8F%2Br1u0zHzSAtB6j%2Fa4ypD43yHY7SBtJYAxB9&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Superman 2</title>
+        <meta>
+            <imdb>tt0081573</imdb>
+            <content>movie</content>
+            <title>Superman 2</title>
+            <year>1980</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=Ept9oX0mTvDdCbe2Ot0JigOlf6dnw%2F3Mdwgu0QCspbFDbycOlk5TvML2q3MbIgIijcEOVULrXsy5rCsz%2FFrfIvNHq8rqUU1TVtNYIYmf2T5qE2Y0oYod0gNUorn6oBvXpfmOzHYaCHq8Opg%2F%2Bd2oMD&ref=&res=720</link>
     </item>
 
     <item>
