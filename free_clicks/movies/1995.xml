@@ -1,46 +1,57 @@
 <xml>
     <item>
-        <title>3 Ninjas Knuckle Up</title>
+        <title>3 Ninjas Knuckle Up (Coming Soon)</title>
         <meta>
             <imdb>tt0112255</imdb>
             <content>movie</content>
             <title>3 Ninjas Knuckle Up</title>
             <year>1995</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/Xd7IIpU_JTWawGHCo3Q_3Q/1574637118/storage3/movies/3-ninjas-knuckle-up-1995/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/Xd7IIpU_JTWawGHCo3Q_3Q/1574637118/storage3/movies/3-ninjas-knuckle-up-1995/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/Xd7IIpU_JTWawGHCo3Q_3Q/1574637118/storage3/movies/3-ninjas-knuckle-up-1995/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>Free Willy 2 - The Adventure Home</title>
+        <title>Bad boys</title>
+        <meta>
+            <imdb>tt0112442</imdb>
+            <content>movie</content>
+            <title>Bad boys</title>
+            <year>1995</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=hl3xDGrxdZaiJ8ioShpJUAT8LR%2FdwJttoIGEzgmv%2B8iTsvPqTI7LgmAiRdf0Ef1hG1HaNtDw93YXd4uX%2BOP8TywgtZ8%2B7inanwO1wcM3jlDFJ%2BM342FAq2CBRlWUSEfuE4aov4YO1yMRhOpMSDOKZ1&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Braveheart</title>
+        <meta>
+            <imdb>tt0112573</imdb>
+            <content>movie</content>
+            <title>Braveheart</title>
+            <year>1995</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=XWsDdhNcd0FgaRGovaPlHwHeCnK2wwDpzJgsC8d5k4p%2FO44tgblv32kkWSKfe5DpMlFguTWYNnrX1uxXJVVBXp78cR3tvyELGfMq09FSEen%2Bd6o2Lk6QlCVxCFZplVQIzdLrBwSfCei1VZfH4qciRQ&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Free Willy 2 - The Adventure Home (Coming Soon)</title>
         <meta>
             <imdb>tt0113114</imdb>
             <content>movie</content>
             <title>Free Willy 2 - The Adventure Home</title>
             <year>1995</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe013.lookmovie.ag/c/UiRlP7ZfpQ6gL4U4jdfMbQ/1574983401/storage3/movies/free-willy-2-the-adventure-home-1995/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe013.lookmovie.ag/c/UiRlP7ZfpQ6gL4U4jdfMbQ/1574983401/storage3/movies/free-willy-2-the-adventure-home-1995/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>Halloween: The Curse of Michael Myers</title>
+        <title>Judge Dredd</title>
         <meta>
-            <imdb>tt0113253</imdb>
+            <imdb>tt0113492</imdb>
             <content>movie</content>
-            <title>Halloween: The Curse of Michael Myers</title>
+            <title>Judge Dredd</title>
             <year>1995</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe08.lookmovie.ag/c/pqH6QfKm0olyxa7Kq1wv1w/1575065025/storage3/movies/halloween-the-curse-of-michael-myers-1995/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/pqH6QfKm0olyxa7Kq1wv1w/1575065025/storage3/movies/halloween-the-curse-of-michael-myers-1995/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe08.lookmovie.ag/c/pqH6QfKm0olyxa7Kq1wv1w/1575065025/storage3/movies/halloween-the-curse-of-michael-myers-1995/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=EG8NtyAxCbe%2Fp7BMULO%2BigEoxGBItyk1jyQJlZHdNEB0aNTRanjdVXb3QUCjzb5aEBolqGStXPodOU%2FxCyyw8PNDPPrJgEZvDlqokoPTZP483glkZ31po%2BDJOj5CZh1iNXO7ufZVOZSEXKKyopDMBF&ref=&res=default</link>
     </item>
 
     <item>
@@ -51,10 +62,6 @@
             <title>Jumanji</title>
             <year>1995</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe2.lookmovie.ag/c/5L14_iknLXOu21l12xOYtA/1575361197/storage2/movies/jumanji-1995/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe2.lookmovie.ag/c/5L14_iknLXOu21l12xOYtA/1575361197/storage2/movies/jumanji-1995/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe2.lookmovie.ag/c/5L14_iknLXOu21l12xOYtA/1575361197/storage2/movies/jumanji-1995/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=lcbPpCQEeiVLz4R1Wm4%2BNwBLIdd8EnJSCxBZSBUmG4hBzH%2BIbPuji7L4rUXmM8s7Jkc%2BHRqG4mvgR%2Bpnx5MGOjzwnPS0q11PltYyFs%2FhKyN9jAHeZ%2BewW9vqxhrIE15LwVBpwqlsRKMWQ8HmwIw6wo&ref=&res=720</link>
     </item>
 </xml>

@@ -1,17 +1,24 @@
 <xml>
     <item>
-        <title>Creed</title>
+        <title>Avengers: Age Of Ultron</title>
+        <meta>
+            <imdb>tt2395427</imdb>
+            <content>movie</content>
+            <title>Avengers: Age Of Ultron</title>
+            <year>2015</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=b8tAUp%2Fh2BNVhuSRNklrxA6XOCHBlTheaIihSM%2BXcyiWbQmO0RFn4TrTD26t2M%2Bj5MeqMK4VXB4IwjypBbaNyW6QYMFcJINP90pPdnnRw1OMBzme3kJ1di6Nr0IhrKJj5gz8AzbZu4RStbxaEzykRj&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Creed (Coming Soon)</title>
         <meta>
             <imdb>tt4354930</imdb>
             <content>movie</content>
             <title>Creed</title>
             <year>2016</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/xsYmpT9gzdVfHu2w2c5m5w/1574980916/storage2/movies/creed-2015/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/xsYmpT9gzdVfHu2w2c5m5w/1574980916/storage2/movies/creed-2015/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe014.lookmovie.ag/c/xsYmpT9gzdVfHu2w2c5m5w/1574980916/storage2/movies/creed-2015/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -22,11 +29,7 @@
             <title>Hotel Transylvania 2</title>
             <year>2015</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=M2JbhQ5ezLlBemT9Er5Gyg5zNo%2BhRFFOjIGG5YQKYYW2Q7RkdgKKzMECxybTUGNHQymb3Sm0YKnf2pa38A1%2FKvOlJdTWxUyVjbFojiuSN%2Fdiv3WtEuAp%2BIgDHeoFn8rzhlp7KiuyxvJo%2B4GIs26XYt&ref=&res=default</link>
     </item>
 
     <item>
@@ -37,11 +40,7 @@
             <title>Inside Out</title>
             <year>2015</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe2.lookmovie.ag/c/QfAeCouVVF39smp04UD_aw/1575359114/storage6/movies/inside-out-2015/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe2.lookmovie.ag/c/QfAeCouVVF39smp04UD_aw/1575359114/storage6/movies/inside-out-2015/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe2.lookmovie.ag/c/QfAeCouVVF39smp04UD_aw/1575359114/storage6/movies/inside-out-2015/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=sefeBVEaOaZYsqG5QpVoTQ8m1otREFBWk45042%2FV2xq%2FarsgaViuipuVBwRYFoWIIhSCS8wijIzcza3Sgj6nswrfNe6Z4etp0awUJddZh%2FojIOzddo7NNplT24rQMdkpuRxPX8Dy8UQbrgmJf9QXJf&ref=&res=720</link>
     </item>
 
     <item>
@@ -52,10 +51,28 @@
             <title>Maze Runner: The Scorch Trials</title>
             <year>2015</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/PgmxNiL9op_i0DczN0moqQ/1574980777/storage3/movies/4046784-maze-runner-the-scorch-trials-2015-1564928264/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/PgmxNiL9op_i0DczN0moqQ/1574980777/storage3/movies/4046784-maze-runner-the-scorch-trials-2015-1564928264/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe014.lookmovie.ag/c/PgmxNiL9op_i0DczN0moqQ/1574980777/storage3/movies/4046784-maze-runner-the-scorch-trials-2015-1564928264/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=OUz1QycT0XSU%2FSpehm74ogoAiTYxVwC8a7HH3Ol8PX13TqTrjjDkiZbQbr3lP8Lo5V2qQAbMHpuvqoN1M%2BKxGFlx22y9VHenHlHYLA7wI84Q683%2BwjMEsEckv8G0Dq4hSs6iOg9XDtE73BfqAS6wZW&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Minions</title>
+        <meta>
+            <imdb>tt2293640</imdb>
+            <content>movie</content>
+            <title>Minions</title>
+            <year>2015</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=V1ep7kVnSei6TEk2Coz9dgi7mfhuRr0%2Fv0AVHG78zL4bQeih1hg6e2XhdUsCohfyPAgc4SL5Bqgb0P%2BABEQDSqtAOEJXKrcPnyQbtr1Kqy4aiL7hde2WUJidVX2uSF8X%2FakoglyFrQLYIEGwDPj7p2&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Self/lessn</title>
+        <meta>
+            <imdb>tt2140379</imdb>
+            <content>movie</content>
+            <title>Self/less</title>
+            <year>2015</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=JgnuM5%2F36g60ZYDkzZwTsQc%2BlKcjrGiQb9Sqvt%2FEkjyCGmhsZI8kxz%2FtUPvAuMYjQl%2BMtXuMFx1nFVUSzDcKhA5YTvSvGps5xYRJZSTrdtuSDpC5sVO0bkQZ57LnMqFEeXhL%2FZI6LwsajS8pRPl00c&ref=&res=720</link>
     </item>
 </xml>

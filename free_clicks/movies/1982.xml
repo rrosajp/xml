@@ -1,31 +1,12 @@
 <xml>
     <item>
-        <title>E.T. the Extra-Terrestrial</title>
+        <title>E.T. the Extra-Terrestrial (Coming Soon)</title>
         <meta>
             <imdb>tt0083866</imdb>
             <content>movie</content>
             <title>E.T. the Extra-Terrestrial</title>
             <year>1982</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/_Zn-d-oK2uwI3WWoWrzagg/1574588395/storage3/movies/et-the-extra-terrestrial-1982/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/_Zn-d-oK2uwI3WWoWrzagg/1574588395/storage3/movies/et-the-extra-terrestrial-1982/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/_Zn-d-oK2uwI3WWoWrzagg/1574588395/storage3/movies/et-the-extra-terrestrial-1982/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween III: Season of the Witch</title>
-        <meta>
-            <imdb>tt0085636</imdb>
-            <content>movie</content>
-            <title>Halloween III: Season of the Witch</title>
-            <year>1982</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/WzSuGTA5tcONDXuG-xfSRA/1575064869/storage2/movies/halloween-iii-season-of-the-witch-1982/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/WzSuGTA5tcONDXuG-xfSRA/1575064869/storage2/movies/halloween-iii-season-of-the-witch-1982/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe19.lookmovie.ag/c/WzSuGTA5tcONDXuG-xfSRA/1575064869/storage2/movies/halloween-iii-season-of-the-witch-1982/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 </xml>

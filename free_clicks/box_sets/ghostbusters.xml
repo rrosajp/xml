@@ -1,17 +1,13 @@
 <xml>
     <item>
-        <title>Ghostbusters</title>
+        <title>Ghostbusters (Coming Soon)</title>
         <meta>
             <imdb>tt0087332</imdb>
             <content>movie</content>
             <title>Ghostbusters</title>
             <year>1984</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe03.lookmovie.ag/c/ZSOlesweiqKm8siUi7nsrg/1574588495/storage6/movies/ghostbusters-1984/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe03.lookmovie.ag/c/ZSOlesweiqKm8siUi7nsrg/1574588495/storage6/movies/ghostbusters-1984/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe03.lookmovie.ag/c/ZSOlesweiqKm8siUi7nsrg/1574588495/storage6/movies/ghostbusters-1984/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -22,10 +18,6 @@
             <title>Ghostbusters II</title>
             <year>1989</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe18.lookmovie.ag/c/jRq9fCEm8_fe0144T0aKfuTA/1574590454/storage6/movies/ghostbusters-ii-1989/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/jRq9fCEm8_fe0144T0aKfuTA/1574590454/storage6/movies/ghostbusters-ii-1989/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe18.lookmovie.ag/c/jRq9fCEm8_fe0144T0aKfuTA/1574590454/storage6/movies/ghostbusters-ii-1989/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=qETESaasLXyskDWJDR2t5QdHeMqy0f0vpI5hgbz3B%2FZg9KUrM5O4dR2woR6Jc1U7TututMsWC%2BotxzI5y0hNdwznuaAftC2Z7S%2FVVbf1tLMQJDGFqu%2FBLTTlnsi7XQw0QQ38SRo6%2BQb2ssPO2LULTh&ref=&res=default</link>
     </item>
 </xml>

@@ -1,17 +1,13 @@
 <xml>
     <item>
-        <title>Hotel Transylvania</title>
+        <title>Hotel Transylvania (Coming Soon)</title>
         <meta>
             <imdb>tt0837562</imdb>
             <content>movie</content>
             <title>Hotel Transylvania</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -22,11 +18,7 @@
             <title>Hotel Transylvania 2</title>
             <year>2015</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/jZibNQnLwNSKRAaQLqq2AQ/1575066246/storage2/movies/hotel-transylvania-2-2015/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=M2JbhQ5ezLlBemT9Er5Gyg5zNo%2BhRFFOjIGG5YQKYYW2Q7RkdgKKzMECxybTUGNHQymb3Sm0YKnf2pa38A1%2FKvOlJdTWxUyVjbFojiuSN%2Fdiv3WtEuAp%2BIgDHeoFn8rzhlp7KiuyxvJo%2B4GIs26XYt&ref=&res=default</link>
     </item>
 
     <item>
@@ -37,9 +29,6 @@
             <title>Hotel Transylvania 3: Summer Vacation</title>
             <year>2018</year>
         </meta>
-        <link>h
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe013.lookmovie.ag/c/QHZ1nJGTmuBSzvQfcTNhUg/1575066325/storage2/movies/5220122-hotel-transylvania-3-summer-vacation-2018-1537646080/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe013.lookmovie.ag/c/QHZ1nJGTmuBSzvQfcTNhUg/1575066325/storage2/movies/5220122-hotel-transylvania-3-summer-vacation-2018-1537646080/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=%2FXo5alv76awjranfx2iGOg3zQrLqsdMPnQ0MIWJ5pCC2pq1N9Vx6C8HqgmCeyMd3C0cF%2FJ2pHmqcmvzWqaXLkF0SJRFZlFTWYhtAbdf94NQQaSoSrW%2F0hosMqAJOq5JtRvITGPXbtfO6KGNib69zly&ref=&res=default</link>
     </item>
 </xml>

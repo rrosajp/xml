@@ -7,25 +7,39 @@
             <title>Oblivion</title>
             <year>2013</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe010.lookmovie.ag/c/tJzFC18iIXM_ZC-3rFv4NQ/1574975042/storage3/movies/oblivion-2013/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe010.lookmovie.ag/c/tJzFC18iIXM_ZC-3rFv4NQ/1574975042/storage3/movies/oblivion-2013/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe010.lookmovie.ag/c/tJzFC18iIXM_ZC-3rFv4NQ/1574975042/storage3/movies/oblivion-2013/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=w2WBrjr0NYnJtuockL%2FmuwwF5YWJy6FKzVG91nrundfxVgY%2FC82i%2F2tSyMRj%2F6d7%2Bup%2FhumuL%2FEi4xr69SaeO9vPfGj4PwG0q%2BLz%2BkYILiESbauzS4rpn1Zy0r8RDgrQwwyrZq6TrHqfUDZxc7r0pV&ref=&res=720</link>
     </item>
 
     <item>
-        <title>Overboard</title>
+        <title>Only the Brave</title>
+        <meta>
+            <imdb>tt3829920</imdb>
+            <content>movie</content>
+            <title>Only the Brave</title>
+            <year>2017</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=vuqUthLS1BAYbS6oC5L%2BPgYoGJbXVD4Eb0x7O2okJdPEMVVOeP69a1c4oLYrRqjX93pWYmbb7i2pRHRhVM9ba3MxYX7M2v1jAysMyhU7ogVXS4HPXc1Ne%2BTQXPOuJ2VcHb1NHMFff3VJMH%2BICkrerf&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>One Flew Over the Cuckoos Nest</title>
+        <meta>
+            <imdb>tt0073486</imdb>
+            <content>movie</content>
+            <title>One Flew Over the Cuckoos Nest</title>
+            <year>1975</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=mUvawi4N0knSQMjx5Gud8w59hp76gN%2BbRcp0E9uJ%2B8n2oKvpTSARm9PEWUy3O%2BKEp7ulm5oWIDtITV2orMwPmG4bfHRD9PA00A6Ll5C3MFzS1B%2BgDDA4L9C75QeXSG%2F%2F%2BPQ5uvKUN%2FAHYS%2FR4HK6ej&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Overboard (Coming Soon)</title>
         <meta>
             <imdb>tt1563742</imdb>
             <content>movie</content>
             <title>Overboard</title>
             <year>2018</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe21.lookmovie.ag/c/Xy_vJuCPWdoMjjqkF2XskA/1574586934/storage6/movies/1563742-overboard-2018/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/Xy_vJuCPWdoMjjqkF2XskA/1574586934/storage6/movies/1563742-overboard-2018/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe21.lookmovie.ag/c/Xy_vJuCPWdoMjjqkF2XskA/1574586934/storage6/movies/1563742-overboard-2018/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 </xml>

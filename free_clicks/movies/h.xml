@@ -1,107 +1,13 @@
 <xml>
     <item>
-        <title>Hacker</title>
+        <title>Halloween H20: 20 Years Later</title>
         <meta>
-            <imdb>tt3173594</imdb>
+            <imdb>tt0120694</imdb>
             <content>movie</content>
-            <title>Hacker</title>
-            <year>2016</year>
+            <title>Halloween H20: 20 Years Later</title>
+            <year>1998</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/QBIfLvfFVEUFml6C0hzjtA/1575358644/storage6/movies/hacker-2016/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/QBIfLvfFVEUFml6C0hzjtA/1575358644/storage6/movies/hacker-2016/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe014.lookmovie.ag/c/QBIfLvfFVEUFml6C0hzjtA/1575358644/storage6/movies/hacker-2016/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween</title>
-        <meta>
-            <imdb>tt0077651</imdb>
-            <content>movie</content>
-            <title>Halloween</title>
-            <year>1978</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/bO3fF5y_n2P5s7t2Xzuh2A/1575064638/storage3/movies/0077651-halloween-1978-1538143969/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/bO3fF5y_n2P5s7t2Xzuh2A/1575064638/storage3/movies/0077651-halloween-1978-1538143969/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe19.lookmovie.ag/c/bO3fF5y_n2P5s7t2Xzuh2A/1575064638/storage3/movies/0077651-halloween-1978-1538143969/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween II</title>
-        <meta>
-            <imdb>tt0082495</imdb>
-            <content>movie</content>
-            <title>Halloween II</title>
-            <year>1981</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/eGuNFEQ6pzYOD06B-e3XeA/1575064748/storage6/movies/halloween-ii-1981/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/eGuNFEQ6pzYOD06B-e3XeA/1575064748/storage6/movies/halloween-ii-1981/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe19.lookmovie.ag/c/eGuNFEQ6pzYOD06B-e3XeA/1575064748/storage6/movies/halloween-ii-1981/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween III: Season of the Witch</title>
-        <meta>
-            <imdb>tt0085636</imdb>
-            <content>movie</content>
-            <title>Halloween III: Season of the Witch</title>
-            <year>1982</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/WzSuGTA5tcONDXuG-xfSRA/1575064869/storage2/movies/halloween-iii-season-of-the-witch-1982/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/WzSuGTA5tcONDXuG-xfSRA/1575064869/storage2/movies/halloween-iii-season-of-the-witch-1982/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe19.lookmovie.ag/c/WzSuGTA5tcONDXuG-xfSRA/1575064869/storage2/movies/halloween-iii-season-of-the-witch-1982/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween 4: The Return of Michael Myers</title>
-        <meta>
-            <imdb>tt0097474</imdb>
-            <content>movie</content>
-            <title>Halloween 5: The Revenge of Michael Myers</title>
-            <year>1989</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe3.lookmovie.ag/c/EPe1Miaew4TBFukZ77zn0Q/1575064932/storage3/movies/halloween-4-the-return-of-michael-myers-1988/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe3.lookmovie.ag/c/EPe1Miaew4TBFukZ77zn0Q/1575064932/storage3/movies/halloween-4-the-return-of-michael-myers-1988/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe3.lookmovie.ag/c/EPe1Miaew4TBFukZ77zn0Q/1575064932/storage3/movies/halloween-4-the-return-of-michael-myers-1988/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween 5: The Revenge of Michael Myers</title>
-        <meta>
-            <imdb>tt0097474</imdb>
-            <content>movie</content>
-            <title>Halloween 5: The Revenge of Michael Myers</title>
-            <year>1989</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/rsefulugU_kHhrQuY5YeVQ/1575064978/storage2/movies/halloween-5-the-revenge-of-michael-myers-1989/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/rsefulugU_kHhrQuY5YeVQ/1575064978/storage2/movies/halloween-5-the-revenge-of-michael-myers-1989/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe014.lookmovie.ag/c/rsefulugU_kHhrQuY5YeVQ/1575064978/storage2/movies/halloween-5-the-revenge-of-michael-myers-1989/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween: The Curse of Michael Myers</title>
-        <meta>
-            <imdb>tt0113253</imdb>
-            <content>movie</content>
-            <title>Halloween: The Curse of Michael Myers</title>
-            <year>1995</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe08.lookmovie.ag/c/pqH6QfKm0olyxa7Kq1wv1w/1575065025/storage3/movies/halloween-the-curse-of-michael-myers-1995/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/pqH6QfKm0olyxa7Kq1wv1w/1575065025/storage3/movies/halloween-the-curse-of-michael-myers-1995/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe08.lookmovie.ag/c/pqH6QfKm0olyxa7Kq1wv1w/1575065025/storage3/movies/halloween-the-curse-of-michael-myers-1995/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=QYmJvjeWsOFtMYQbK9DI8gq4gk0X2I4iLeyWl61sAkrx%2FBaKnWVeZR7GkvnzIfDorV2GM%2F2PwXPN%2Bj3hWaBMQaMnQVtnlaKkCmwCXZ5IZQL1DgTtyqu6zdh9OOsO3ImHCNd495ZRyxomI9XFXv59qA&ref=&res=720</link>
     </item>
 
     <item>
@@ -112,77 +18,18 @@
             <title>Halloween: Resurrection</title>
             <year>2002</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/zpiuR4qSH5tvze3ASRrY6g/1575065090/storage3/movies/halloween-resurrection-2002/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/zpiuR4qSH5tvze3ASRrY6g/1575065090/storage3/movies/halloween-resurrection-2002/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/zpiuR4qSH5tvze3ASRrY6g/1575065090/storage3/movies/halloween-resurrection-2002/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=1vcRQL18CcOOPuWb2EivIwaQVlpx42nQnu3avqwW8LEjvsRbqALTSApnO4AJ99Mjn6W4AHHwLcbOsNSfbTUOzgx%2FvAK%2FghZJ7HsbvngRsZ8fX6bmGyu0KZUWJDOzJQKqF45YCTCyXwkcDtt56aU2j%2F&ref=&res=720</link>
     </item>
 
     <item>
-        <title>Halloween</title>
+        <title>Halloween 2</title>
         <meta>
-            <imdb>tt0373883</imdb>
+            <imdb>tt1311067</imdb>
             <content>movie</content>
-            <title>Halloween</title>
-            <year>2007</year>
+            <title>Halloween 2</title>
+            <year>2009</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe16.lookmovie.ag/c/_A9_LlFp7pGVq0WKbpiETg/1575065506/storage2/movies/halloween-2007/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe16.lookmovie.ag/c/_A9_LlFp7pGVq0WKbpiETg/1575065506/storage2/movies/halloween-2007/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe16.lookmovie.ag/c/_A9_LlFp7pGVq0WKbpiETg/1575065506/storage2/movies/halloween-2007/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloween</title>
-        <meta>
-            <imdb>tt1502407</imdb>
-            <content>movie</content>
-            <title>Halloween</title>
-            <year>2018</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe16.lookmovie.ag/c/sXf5AA_qd0Vp0hpio_9VfQ/1575064700/storage4/movies/1502407-halloween-2018-1552320798/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe16.lookmovie.ag/c/sXf5AA_qd0Vp0hpio_9VfQ/1575064700/storage4/movies/1502407-halloween-2018-1552320798/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe16.lookmovie.ag/c/sXf5AA_qd0Vp0hpio_9VfQ/1575064700/storage4/movies/1502407-halloween-2018-1552320798/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloweentown</title>
-        <meta>
-            <imdb>tt0173886</imdb>
-            <content>movie</content>
-            <title>Halloweentown</title>
-            <year>1998</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe012.lookmovie.ag/c/3ozZ_JJZeg3PCeXm5wJL1Q/1575065614/storage6/movies/halloweentown-1998/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe012.lookmovie.ag/c/3ozZ_JJZeg3PCeXm5wJL1Q/1575065614/storage6/movies/halloweentown-1998/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Halloweentown II: Kalabar's Revenge</title>
-        <meta>
-            <imdb>tt0274761</imdb>
-            <content>movie</content>
-            <title>Halloweentown II: Kalabar's Revenge</title>
-            <year>2001</year>
-        </meta>
-        <link>https://cdn.clonefile.icu/drive/index.php?id=boGwSwwAqnYCxRZRXIt10wY35wrJsPlMAZwtXR4Hb2qlwzZ7bo4WrkVIu3CQGJ8vpWacO%2FL6MT2%2F96DvDsh%2F1JgXMe%2FAhLNOJ5c%2BCQ259dG61SmmlaYu0vdHq4pSK2RrmK6XggbnPT7CGtTa7OinfVzTXaSdxFXkX5LMRY%2FZtK5BpoV9nRjl%2FCTUx34V0J4G%2BSdZ4pGx0Xzoy6sRQ2%2FYLIabMSeuX%2BNZEJ429Cl7EYLBfDDj7u2zduhzqeZv%2BHmdQrAUdiNDzenX3fMTtTfzDw&ref=https%3A%2F%2Fplayerhost.net%2Fmovie%2Fhalloweentown-2-kalabars-revenge%3Fwatching%3DTQx7WipGUnwxmcuao49IDhb9S&res=720</link>
-    </item>
-
-    <item>
-        <title>Halloweentown High</title>
-        <meta>
-            <imdb>tt0414078</imdb>
-            <content>movie</content>
-            <title>Halloweentown High</title>
-            <year>2004</year>
-        </meta>
-        <link>https://cdn.cloneapi.icu/drive/index.php?id=CuVxPdPuU5l7IBiJW%2FiBsQI%2Frql8FBBRWlbhk8Xdpy03lQMpz71FPT3UfnP5dZp5SWbEzhDWAr6M6oiERlYcaOg8gyakWcQx6UAQ1Dh3jiUjDudSJ29mX1X%2F4UiuAsnyX7rWfASnTXNNGSEIqiYntiXBKcYXPqqFwkDiFWrkd1GqEgP%2By1yyunACbWSdZ%2B2CwgKU8ERNeZ%2FCBVmbjBJdlKkM1TkxK3s6H%2BcNX5WVjEZUTlQhsOvHOWho%2B%2BHpjRwmY55F0%2FfB1qxUZUetUwoBeIybqL5DgMM54c6tYwrgskmw%3D%3D&ref=http%3A%2F%2Flosmovies.fun%2Ffree-movie-online%2Ftt13516%2Fwatch-online-halloweentown-high&res=default</link>
+        <link>https://apicdn.vip/drive/index.php?id=FYpxbyB3u8kpo8T0TvY5zQ3ngoDJM%2BLvF3%2F0zJSSHdVrGsDQQutlOIGYHYVv7E%2Fuc%2FUX2V6%2BYIsljcvzrdw%2BAz74H542ChIz9vRs6DI6iI2Z40diikk%2BsoGXZS1lF71sNqWLG6%2BLx%2BJG3hCdFGHPcv&ref=&res=720</link>
     </item>
 
     <item>
@@ -193,26 +40,18 @@
             <title>Happy Death Day 2U</title>
             <year>2019</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/hyS3GHJTAPCNIbRvYdRlwg/1574575589/storage3/movies/8155288-happy-death-day-2u-2019-1562870861/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/hyS3GHJTAPCNIbRvYdRlwg/1574575589/storage3/movies/8155288-happy-death-day-2u-2019-1562870861/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe014.lookmovie.ag/c/hyS3GHJTAPCNIbRvYdRlwg/1574575589/storage3/movies/8155288-happy-death-day-2u-2019-1562870861/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=k1%2FqwPvYmPWY9Xx7zu0Ifgzl6f6VRx4mP9be9osAz8x0%2FRKW8Z0YBbh95B0itocnOJw4jjdbk6XfajgTBo83E7xVQrso6G3k%2BcX%2Fdf6%2FEvDnSQoKvSmKDdTIHir6q1N6cmNHbvx2zpWquNdVO%2FXpOd&ref=&res=720</link>
     </item>
 
     <item>
-        <title>Hardball</title>
+        <title>Hardball (Coming Soon)</title>
         <meta>
             <imdb>tt0180734</imdb>
             <content>movie</content>
             <title>Hardball</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/DPCG68vNLXwLwlI4mKiWRg/1575080547/storage6/movies/hardball-2001/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/DPCG68vNLXwLwlI4mKiWRg/1575080547/storage6/movies/hardball-2001/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/DPCG68vNLXwLwlI4mKiWRg/1575080547/storage6/movies/hardball-2001/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -223,11 +62,7 @@
             <title>Harry Potter and the Philosopher's Stone</title>
             <year>2001</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe26.lookmovie.ag/c/zxyaGwvyGVQAAvQWT_9oqQ/1575364423/storage3/movies/0241527-harry-potter-and-the-philosophers-stone-2001-1537779589/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe26.lookmovie.ag/c/zxyaGwvyGVQAAvQWT_9oqQ/1575364423/storage3/movies/0241527-harry-potter-and-the-philosophers-stone-2001-1537779589/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe26.lookmovie.ag/c/zxyaGwvyGVQAAvQWT_9oqQ/1575364423/storage3/movies/0241527-harry-potter-and-the-philosophers-stone-2001-1537779589/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -235,14 +70,10 @@
         <meta>
             <imdb>tt0295297</imdb>
             <content>movie</content>
-            <title>Harry Potter and the Chamber of Secrets</title>
+            <title>Harry Potter and the Philosopher's Stone</title>
             <year>2002</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe26.lookmovie.ag/c/R60joL0109e2MlUwOC9lNg/1575364631/storage3/movies/harry-potter-and-the-chamber-of-secrets-2002/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe26.lookmovie.ag/c/R60joL0109e2MlUwOC9lNg/1575364631/storage3/movies/harry-potter-and-the-chamber-of-secrets-2002/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe26.lookmovie.ag/c/R60joL0109e2MlUwOC9lNg/1575364631/storage3/movies/harry-potter-and-the-chamber-of-secrets-2002/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=poYiXsNk9pk7Lmg5V8C1pAPh9DxwKWrBdW0%2F2ovy9a1H1Mu8qRz9M9nAkF8ecYTIrL4inRvw3%2FwSPqMCpB6IBWVSkRx%2FNfJ4cv%2BBiS%2BY5cDBiUHZl%2BBWWvrrRnuU4sEW%2B%2Fz0FM4KnNtclYu9BMZGi7&ref=&res=default</link>
     </item>
 
     <item>
@@ -253,11 +84,7 @@
             <title>Harry Potter and the Prisoner of Azkaban</title>
             <year>2004</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe02.lookmovie.ag/c/waqlfGwTDiy_lf4o0VA4qg/1575364756/storage6/movies/harry-potter-and-the-prisoner-of-azkaban-2004/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/waqlfGwTDiy_lf4o0VA4qg/1575364756/storage6/movies/harry-potter-and-the-prisoner-of-azkaban-2004/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe02.lookmovie.ag/c/waqlfGwTDiy_lf4o0VA4qg/1575364756/storage6/movies/harry-potter-and-the-prisoner-of-azkaban-2004/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=l2f9WEUrhcqvhxvv3i1qXA4rSfE%2FSxD8LqJkFwl9qN6qqu4gGgHIR7bKjbc9JZ3kvWjbJNM4kPuXrzPqzRCdkVb2rSXVxY45XkHCBbHa%2BuRC48rUWtsgoPbe9%2FT%2Flpn1lOCXzvQK%2BPZxOnMYG0LBOG&ref=&res=default</link>
     </item>
 
     <item>
@@ -268,11 +95,7 @@
             <title>Harry Potter and the Goblet of Fire</title>
             <year>2005</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/IaQM6r_oV7mCii6w-1Ew1Q/1575364875/storage2/movies/harry-potter-and-the-goblet-of-fire-2005/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/IaQM6r_oV7mCii6w-1Ew1Q/1575364875/storage2/movies/harry-potter-and-the-goblet-of-fire-2005/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe22.lookmovie.ag/c/IaQM6r_oV7mCii6w-1Ew1Q/1575364875/storage2/movies/harry-potter-and-the-goblet-of-fire-2005/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=MCgyZVI%2BpO%2Bj2Yhzx109lge%2FecD0oREKVfYB%2Bh1pnPubLNZAZwsi4hIycM7G5Z5PAtJW%2FEpSmPjMSK8sL%2FwGHUWaeSs9JSQccNnCYHRo4JUHNNpX417UTTIZs9QFN6oppo%2F560TXWof3oIREfT8bCH&ref=&res=720</link>
     </item>
 
     <item>
@@ -283,11 +106,7 @@
             <title>Harry Potter and the Order of the Phoenix</title>
             <year>2007</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/4CatZ_F3Kw5P_VLdewcl6A/1575364992/storage6/movies/0373889-harry-potter-and-the-order-of-the-phoenix-2007-1537766483/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/4CatZ_F3Kw5P_VLdewcl6A/1575364992/storage6/movies/0373889-harry-potter-and-the-order-of-the-phoenix-2007-1537766483/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/4CatZ_F3Kw5P_VLdewcl6A/1575364992/storage6/movies/0373889-harry-potter-and-the-order-of-the-phoenix-2007-1537766483/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=TWX9CD5QA8I4bIqqnYM9swNgIZoIljw8KXlpXD2uNNx0ghPjHmyzVhgrrS3T2AP0nR2i6lrOvavl5AilnG372zBoR63Mo%2BEJBlnhVZcEDjJ3DIEQduoMtMkQOLXLUMuVWn4%2BVMfeDqdPXRssqSSpLb&ref=&res=720</link>
     </item>
 
     <item>
@@ -298,11 +117,7 @@
             <title>Harry Potter and the Half-Blood Prince</title>
             <year>2009</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe26.lookmovie.ag/c/THiSQ_79qhTLT1GuO9Yu2w/1575365105/storage6/movies/harry-potter-and-the-half-blood-prince-2009/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe26.lookmovie.ag/c/THiSQ_79qhTLT1GuO9Yu2w/1575365105/storage6/movies/harry-potter-and-the-half-blood-prince-2009/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe26.lookmovie.ag/c/THiSQ_79qhTLT1GuO9Yu2w/1575365105/storage6/movies/harry-potter-and-the-half-blood-prince-2009/360p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=R%2BUCRutaukLlN9Tj9zkGJAkn6DgzoxDyX3GuZW633nY4s81%2FgsIUiCVkrb4Kzgk4twb8QGwW4y6AzQpvrQISHCJy3pAntFGBBeGQTPm7%2FPda0IIoiEoB%2F%2F0IQjBY8PSPh11nZQaUBjm7E6%2BErDIqu6&ref=&res=720</link>
     </item>
 
     <item>
@@ -313,11 +128,7 @@
             <title>Harry Potter and the Deathly Hallows: Part 1</title>
             <year>2010</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe02.lookmovie.ag/c/2HcB_Zoe5sGklqrUbCRWfg/1575365211/storage2/movies/harry-potter-and-the-deathly-hallows-part-1-2010/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/2HcB_Zoe5sGklqrUbCRWfg/1575365211/storage2/movies/harry-potter-and-the-deathly-hallows-part-1-2010/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe02.lookmovie.ag/c/2HcB_Zoe5sGklqrUbCRWfg/1575365211/storage2/movies/harry-potter-and-the-deathly-hallows-part-1-2010/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=MQd5PMyyiHMSVM%2BkYAvtHwN7O%2BnDPAJ5yQmwC%2Fn%2F2OPizOcKn0Om3Hg8UzMYTX%2FyUE99QIzyywDCotxNp9uWVyN%2Flb2efMbDC3bJsHptYCTKn20N0c3BOGo7m93K9Ft9Scv%2F57zctxfV9ACRoIBDD2BrwdbsJ7D304e3fgOejX9Vfv80ARXQJ3y5ufEAc3fCpjZcf9ilybJhH1ZQAiPrBX&ref=https%3A%2F%2Fvidsrc.me%2Fserver2%2Ftt0926084%2F&res=720</link>
     </item>
 
     <item>
@@ -328,26 +139,29 @@
             <title>Harry Potter and the Deathly Hallows: Part 2</title>
             <year>2011</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe21.lookmovie.ag/c/oEt2zlqWNoCxtWhhedC9zw/1575365324/storage2/movies/harry-potter-and-the-deathly-hallows-part-2-2011/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/oEt2zlqWNoCxtWhhedC9zw/1575365324/storage2/movies/harry-potter-and-the-deathly-hallows-part-2-2011/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe21.lookmovie.ag/c/oEt2zlqWNoCxtWhhedC9zw/1575365324/storage2/movies/harry-potter-and-the-deathly-hallows-part-2-2011/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=pwklqyCuYxXjtYwMGc0VdgV5ZZudkCkyagNIe%2F7FtJZH17DnTjLZyxW5YGKDrOTTunbI5BTVpmQ72AAaokZ6rbKQ04NNd1zaxLeicNzfPH1l2tykYbp6PEPUcj3yW3qJDsAzpxBQRl%2Ftu8rsnMpm24CjeN%2FsmZ95mNPzlIGjmDDnvaMK0GJJ6xPGO90Kjycqk36M8Ta5P2HO8L0tYslWUkB0ooahjT9VAw5%2FDWyFZhzxFBNLZAY3PEM4DnwefwH5IskrM%2FJlEEobbWuAcphK%2Bc&ref=https%3A%2F%2Fwww.hulustream.win%2Fmovie%2F12445%2Fharry-potter-and-the-deathly-hallows-part-2-2011&res=720</link>
     </item>
 
     <item>
-        <title>Hellboy</title>
+        <title>Hellboy (Coming Soon)</title>
         <meta>
             <imdb>tt2274648</imdb>
             <content>movie</content>
             <title>Hellboy</title>
             <year>2019</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe20.lookmovie.ag/c/Ot8t10Ih95SDa_fx4t6pYg/1574575634/storage1/movies/2274648-hellboy-2019-1562961804/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/Ot8t10Ih95SDa_fx4t6pYg/1574575634/storage1/movies/2274648-hellboy-2019-1562961804/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/Ot8t10Ih95SDa_fx4t6pYg/1574575634/storage1/movies/2274648-hellboy-2019-1562961804/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
+    </item>
+
+    <item>
+        <title>A Hidden Life</title>
+        <meta>
+            <imdb>tt5827916</imdb>
+            <content>movie</content>
+            <title>A Hidden Life</title>
+            <year>2020</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=FvPPQ3eElWRiwXNuoMUHTQjL05xp6uywWlOyqqTU%2FpDb6kXUtvfTUc1hvzFc5tMM8IdsCRAmPfwF6hQNSWoPFqDLpPlnIjPxfm9fHEwRAZ6TTOe5jruZJZJivsWNXC5p7Ols%2Bh4mh%2BAecnFtDiibbj&ref=&res=default</link>
     </item>
 
     <item>
@@ -358,7 +172,7 @@
             <title>High School Musicalh</title>
             <year>2004</year>
         </meta>
-        <link>https://cdn.apidev.icu/drive/index.php?id=O2nDfO72YOuNJknhvDAw%2Bg4GHhQyCoBEkszZthnbj8HZTAbBqu8n0vITkEeMJSp8R0uMzHd6JOBbUZuAPDK%2F6xF44C%2BqCsZu%2FwSJlW1WZkDI49XXQap0p81DbDd2UCAI%2FxmPbxvaodXY5PJBsya6dBybWRuTqW1vl8rr%2FTBRaD97AC5GbccvmRD8deMEGZ2JwvZdHppv2YKdvGWAl8iUBGV6zB%2Fm2o%2FwvZH%2Ff5D5S2F3Khxaf%2Fc1291lRFagQ9f1wTHQS%2BLIaMq0qVBbEe%2FGjr&ref=https%3A%2F%2Fdatabase.gdriveplayer.us%2Fmovie.php%3Fs%3DHigh%2BSchool%2BMusical&res=default</link>
+        <link>https://apicdn.vip/drive/index.php?id=abBopApu7xCvaoH9lKEE2wdaTuwFv5IArdBqEiXJW48jIglRjLOTHZH8xDIVLT4l%2BJNJhDIuX3%2BFYxx0hnvlaAiyyW29iHaAQIZVo7VQ3%2FI384z3RwjbTp6cH0f0tdkbnkAFUmNgkrpuP4Atm%2F9p5eCIJ3e%2B%2Ba0VvTI06Z5UfaFfBiY2bv%2FfhckRlgqAJuOqDYa4vU9c3pQxpL08EDCearUAvlwd%2FKvFDiNGO0Hjq4Sw%3D%3D&ref=https%3A%2F%2Fwww.soap2day.biz%2F2725-high-school-musical.html&res=default</link>
     </item>
 
     <item>
@@ -369,11 +183,7 @@
             <title>High School Musical 2</title>
             <year>2007</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/Lk7FLT_K01X43r3N4mSsPA/1575066022/storage2/movies/high-school-musical-2-2007/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/Lk7FLT_K01X43r3N4mSsPA/1575066022/storage2/movies/high-school-musical-2-2007/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/Lk7FLT_K01X43r3N4mSsPA/1575066022/storage2/movies/high-school-musical-2-2007/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=7iIA0Wi1KpWNwWRrHyOG9QrVr%2BWZMd9Dybxa4rh14hL16l5z7WZSioEyIVM0bA%2BQLC4bNxolf8igQ5oJA8E9zBU2vcfC59EQj7ZRs%2BXxRklSLoadxM%2B7cWvbwyGUCLYYNXxcB8gGPQ75dc5iFw057D&ref=&res=default</link>
     </item>
 
     <item>
@@ -384,69 +194,29 @@
             <title>High School Musical 3</title>
             <year>2008</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/bMHau06CUNWut192--7_Ww/1575066060/storage3/movies/high-school-musical-3-senior-year-2008/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/bMHau06CUNWut192--7_Ww/1575066060/storage3/movies/high-school-musical-3-senior-year-2008/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=3w4hTNPIDhdlRPfFtdGIQA3pBodz226771s7JTtrPruCIqBdEYXBZswYxkEG8LF6X8yX2XT6JrOpe126E0UwCA2f9qZIHAuA1m5252if1k2ujJ%2BoXZqhFnhLD7IzD4gLFOG0keDFClxL5peCG94MzBkyoMOqbiS4pOPQ06bFsjecMfafHtysseB9jGwkq%2FALH30CzENykOT3f2WirUKNj9RDwKTqoN%2FikofS03GrROXA%3D%3D&ref=https%3A%2F%2Fplayerhost.net%2Fmovie%2Fhaunted-high-2012%3Fsrc%3Dmirror5&res=720</link>
     </item>
 
     <item>
-        <title>Home Alone</title>
+        <title>Home Alone- 4</title>
         <meta>
-            <imdb>tt0099785</imdb>
+            <imdb>tt0329200</imdb>
             <content>movie</content>
-            <title>Home Alone</title>
-            <year>1990</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe3.lookmovie.ag/c/UEPym2jG0-2RPJDN7-Jw8w/1574590543/storage6/movies/home-alone-1990/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe3.lookmovie.ag/c/UEPym2jG0-2RPJDN7-Jw8w/1574590543/storage6/movies/home-alone-1990/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe3.lookmovie.ag/c/UEPym2jG0-2RPJDN7-Jw8w/1574590543/storage6/movies/home-alone-1990/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Home Alone 2 Lost In New York</title>
-        <meta>
-            <imdb>tt0104431</imdb>
-            <content>movie</content>
-            <title>Home Alone 2</title>
-            <year>1992</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe08.lookmovie.ag/c/_9Fd1doO4l7RIEyg7BBFWw/1574642911/storage3/movies/0104431-home-alone-2-lost-in-new-york-1992-1572045253/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/_9Fd1doO4l7RIEyg7BBFWw/1574642911/storage3/movies/0104431-home-alone-2-lost-in-new-york-1992-1572045253/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/_9Fd1doO4l7RIEyg7BBFWw/1574642911/storage3/movies/0104431-home-alone-2-lost-in-new-york-1992-1572045253/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Home Alone 3</title>
-        <meta>
-            <imdb>tt0119303</imdb>
-            <content>movie</content>
-            <title>Home Alone 3</title>
-            <year>1997</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe02.lookmovie.ag/c/IOrep9clCHhiNuG1D3vjLQ/1574642982/storage3/movies/home-alone-3-1997/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/IOrep9clCHhiNuG1D3vjLQ/1574642982/storage3/movies/home-alone-3-1997/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/IOrep9clCHhiNuG1D3vjLQ/1574642982/storage3/movies/home-alone-3-1997/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Home Alone- The Holiday Heist</title>
-        <meta>
-            <imdb>tt2308733</imdb>
-            <content>movie</content>
-            <title>Home Alone 5</title>
+            <title>Home Alone 4</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/Y6_l4mzCS9mnaxklk9vBUQ/1574643184/storage2/movies/home-alone-the-holiday-heist-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/Y6_l4mzCS9mnaxklk9vBUQ/1574643184/storage2/movies/home-alone-the-holiday-heist-2012/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=3ijtpNYeIT1SOoU4zXRIBwJbvaQzgaLDSpXr7Z%2FB5E6ZB5uCr4AQQRy%2B5zgX5W%2BgLZeGJJXPQErcxso9RFzbfzfYDKDgXXPNDaIQCmm5NV1HDk%2FB%2BLRNqMaV6%2FZaOV4blOI5jn%2F6vqJcSPW0jAE8Yb&ref=&res=default</link>
+    </item>
+
+    <item>
+        <title>Homeward</title>
+        <meta>
+            <imdb>tt11766318</imdb>
+            <content>movie</content>
+            <title>Homeward</title>
+            <year>2020</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=ll9CrWPZMPw10%2BFuDOQLdAygM3LEnWXnthHUPh2Pw0FKa58E7g%2Bk698UUp1o8kMSY240M4Rb07LhkC3HuivkJ1kEURgKA2yvZZPj7yMBWKeqJTAmnH%2B95lDKwOmb0dYtVUkyWShC%2Fxa4dbpM2JUxM1VOZcpfHGPQCMPBFAnkDQxTwFypf1j5BA5ZCHZih0o1U%3D&ref=https%3A%2F%2Fgomo.to%2Fmovie%2Fhomeward&res=default</link>
     </item>
 
     <item>
@@ -457,41 +227,29 @@
             <title>Hot Fuzz</title>
             <year>2007</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe02.lookmovie.ag/c/PoQt3BSsaV6QgF2f_DDuAw/1574837654/storage3/movies/hot-fuzz-2007/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/PoQt3BSsaV6QgF2f_DDuAw/1574837654/storage3/movies/hot-fuzz-2007/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe02.lookmovie.ag/c/PoQt3BSsaV6QgF2f_DDuAw/1574837654/storage3/movies/hot-fuzz-2007/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=tDhTr7xqKK6Ontb6i%2Bvw6QhoMD5pVBXmkngC9CZhBCBJVHuPWPcuv6v09PYRjRWcEYe3El3e0%2FKQi%2BX9hDQ70CoRd3OgPGuhUZZjldgIn4vlyWeiK4bpB2ukXVtbbUh08PnGryB7a%2BgM2oCFqrT8XQ&ref=&res=720</link>
     </item>
 
     <item>
-        <title>Hotel Artemis</title>
+        <title>Hotel Artemis (Coming Soon)</title>
         <meta>
             <imdb>tt5834262</imdb>
             <content>movie</content>
             <title>Hotel Artemis</title>
             <year>2018</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe03.lookmovie.ag/c/d9Hsank29T-BE4emo-dtSQ/1574586280/storage6/movies/5834262-hotel-artemis-2018-1538090603/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe03.lookmovie.ag/c/d9Hsank29T-BE4emo-dtSQ/1574586280/storage6/movies/5834262-hotel-artemis-2018-1538090603/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe03.lookmovie.ag/c/d9Hsank29T-BE4emo-dtSQ/1574586280/storage6/movies/5834262-hotel-artemis-2018-1538090603/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>Hotel Mumbai</title>
+        <title>Hotel Mumbai (Coming Soon)</title>
         <meta>
             <imdb>tt5461944</imdb>
             <content>movie</content>
             <title>Hotel Mumbai</title>
             <year>2019</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/f5U87uX__D_HW0qcBEiW6A/1574575675/storage3/movies/5461944-hotel-mumbai-2018-1562847602/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/f5U87uX__D_HW0qcBEiW6A/1574575675/storage3/movies/5461944-hotel-mumbai-2018-1562847602/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/f5U87uX__D_HW0qcBEiW6A/1574575675/storage3/movies/5461944-hotel-mumbai-2018-1562847602/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -502,71 +260,84 @@
             <title>The Host</title>
             <year>2013</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe3.lookmovie.ag/c/thyMrr_RMx5DHW_hT9sAYg/1574974736/storage6/movies/the-host-2013/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe3.lookmovie.ag/c/thyMrr_RMx5DHW_hT9sAYg/1574974736/storage6/movies/the-host-2013/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe3.lookmovie.ag/c/thyMrr_RMx5DHW_hT9sAYg/1574974736/storage6/movies/the-host-2013/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=ZdMl0j%2Ffu77Vmx6ZYCcWKghZBbrBVwCWs9QXBtCXHbDo12fLa%2FWhS4luWsjtb%2FIjR9SU1V1tAgYIi8MdoxRn%2Fziv0m%2BJKCIomDaFoq6HPwTYgrvRcixLsRMiux9RVCytnIzrAzwRGI6ZiuHuuurq8d&ref=&res=720</link>
     </item>
 
     <item>
-        <title>The House with a Clock in Its Walls</title>
+        <title>The House with a Clock in Its Walls (Coming Soon)</title>
         <meta>
             <imdb>tt2119543</imdb>
             <content>movie</content>
             <title>The House with a Clock in Its Walls</title>
             <year>2018</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe014.lookmovie.ag/c/z7CwqUmDX6sreSnQjn1GJg/1574586237/storage6/movies/2119543-the-house-with-a-clock-in-its-walls-2018-1543370047/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe014.lookmovie.ag/c/z7CwqUmDX6sreSnQjn1GJg/1574586237/storage6/movies/2119543-the-house-with-a-clock-in-its-walls-2018-1543370047/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe014.lookmovie.ag/c/z7CwqUmDX6sreSnQjn1GJg/1574586237/storage6/movies/2119543-the-house-with-a-clock-in-its-walls-2018-1543370047/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>How the Grinch Stole Christmas</title>
+        <title>How the Grinch Stole Christmas (Coming Soon)</title>
         <meta>
             <imdb>tt0170016</imdb>
             <content>movie</content>
             <title>How the Grinch Stole Christmas</title>
             <year>2000</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe26.lookmovie.ag/c/8wvErCMS2VkntPtS5DlpUQ/1575080751/storage6/movies/0170016-how-the-grinch-stole-christmas-2000-1573437401/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe26.lookmovie.ag/c/8wvErCMS2VkntPtS5DlpUQ/1575080751/storage6/movies/0170016-how-the-grinch-stole-christmas-2000-1573437401/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe26.lookmovie.ag/c/8wvErCMS2VkntPtS5DlpUQ/1575080751/storage6/movies/0170016-how-the-grinch-stole-christmas-2000-1573437401/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>How to Lose a Guy in 10 Days</title>
+        <title>How to Lose a Guy in 10 Days (Coming Soon)</title>
         <meta>
             <imdb>tt0251127</imdb>
             <content>movie</content>
             <title>How to Lose a Guy in 10 Days</title>
             <year>2003</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe17.lookmovie.ag/c/_7JPMBgxbJJ_ysALToKNtg/1574634590/storage3/movies/how-to-lose-a-guy-in-10-days-2003/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe17.lookmovie.ag/c/_7JPMBgxbJJ_ysALToKNtg/1574634590/storage3/movies/how-to-lose-a-guy-in-10-days-2003/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe17.lookmovie.ag/c/_7JPMBgxbJJ_ysALToKNtg/1574634590/storage3/movies/how-to-lose-a-guy-in-10-days-2003/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
+    </item>
+
+    <item>
+        <title>How to Train Your Dragon</title>
+        <meta>
+            <imdb>tt0892769</imdb>
+            <content>movie</content>
+            <title>How to Train Your Dragon</title>
+            <year>2010</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=%2BgK36BXrTakGfpYhQ0Q8kw%2FMmQM0gnAl0IMCbrW0lV6GZdI12K%2Bq6iQJkqC6R4d%2B3FVdF%2FTbdJRdPnuniWeL4m%2Bxz7d6coCW7zBEaSHJKh%2BFzidhTPR7JWtonXd6%2FXpcc%2FHBTKhAXNvNvL7Vudr9Hi&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>How to Train Your Dragon 2</title>
+        <meta>
+            <imdb>tt1646971</imdb>
+            <content>movie</content>
+            <title>How to Train Your Dragon 2</title>
+            <year>2014</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=Hev3jcPVk%2FHUm9XUkKzoMg2zaUYCEbvFFGGTA1Iv9Rj4%2BfWLPjtoJFtsVUMNSfFI62xxcVl5b%2Fo3OyFGNVVdPhvxm9z%2FKXbO%2B3S6t5nHVUo487KflvSeCq%2FBPlnTpbb7aRNSYqEoPz2RYPx1Kmtf46&ref=&res=720</link>
     </item>
 
     <item>
         <title>How to Train Your Dragon: Homecoming</title>
+        <meta>
+            <imdb>tt11112140</imdb>
+            <content>movie</content>
+            <title>How to Train Your Dragon: Homecoming</title>
+            <year>2019</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=V4dtHGi5IxQ8VNNinpsjSwkxwCUnh8lo9%2B4qZZbbxwwiPurJRC7D%2FlTGmZ%2FQL4c%2BCSRl4%2FNGpAkPx6U1pmp89f7c%2FVpdtdJ7lIxLM38g5uFOWZVMf6fzwn2snTAS59uLB%2FYKuK%2FUlVXJjm7KsqobOcIL1G%2BJuqGrxS7HM1LYHifhlkas0SK912lWzwWV8JTxrWX6W72fDLYm91l9ZUUQKDO2Jgd57rOcmNqPEJ0LHcbCMfJVAfuUI3Lj0y6tz48nU%3D&ref=http%3A%2F%2Fkumpulanfilm.site%2Fhow-to-train-your-dragon-homecoming-2019%2F&res=default</link>
+    </item>
+
+    <item>
+        <title>How to Train Your Dragon: The Hidden World</title>
         <meta>
             <imdb>tt2386490</imdb>
             <content>movie</content>
             <title>How to Train Your Dragon: The Hidden World</title>
             <year>2019</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe19.lookmovie.ag/c/bCwipdzyahlWUPUsX2-7KQ/1574575812/storage5/movies/11112140-how-to-train-your-dragon-homecoming-2019-1574345333/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe19.lookmovie.ag/c/bCwipdzyahlWUPUsX2-7KQ/1574575812/storage5/movies/11112140-how-to-train-your-dragon-homecoming-2019-1574345333/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe19.lookmovie.ag/c/bCwipdzyahlWUPUsX2-7KQ/1574575812/storage5/movies/11112140-how-to-train-your-dragon-homecoming-2019-1574345333/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=sQaSRZn5sFYg4xTkaBfayALFIqyBrDW3hKKgy23kuJlcqyOC0YZXVOe20Ti4JToTiG%2FlqdQNjAeXUnnZAGE19%2B5vVlOqeOTqrp8CquTXFO53nQjhk6S2q%2FxTS9juBr2i3rO%2B6Y9QvI5e%2FNERF1w21jOpjrb5UkcTsYVBoDiAY%2B9JYWDgmUJDZz9%2FoLZoPqFsXJFBFScbBUhJ19gTDoygha&ref=http%3A%2F%2F206.189.151.55%2Fmovie%2F%3Fid%3Dtt2386490&res=720</link>
     </item>
 
     <item>
@@ -577,10 +348,6 @@
             <title>Hunter Killer</title>
             <year>2018</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe02.lookmovie.ag/c/xcyRtiX2ZyvnY7WlDpE-9g/1574586325/storage6/movies/1846589-hunter-killer-2018-1547882153/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe02.lookmovie.ag/c/xcyRtiX2ZyvnY7WlDpE-9g/1574586325/storage6/movies/1846589-hunter-killer-2018-1547882153/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe02.lookmovie.ag/c/xcyRtiX2ZyvnY7WlDpE-9g/1574586325/storage6/movies/1846589-hunter-killer-2018-1547882153/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=5HB62eS6DVYsj6W%2F7E81sQt1OBBOOdagst9jNJFkl6IxRLU3hll%2FI%2FSZ1%2BSuSI0XnyUHgzICn63MZW8%2FDXpBqAtIk898koaxsUyvPYJNZq4v5dkuzXYZ0iJAakY7ZZSmSMXcVVcHZaQc%2FozZnsz1c%2F&ref=&res=720</link>
     </item>
 </xml>

@@ -6,6 +6,12 @@
     </dir>
 
     <dir>
+        <title>Bad Boys</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/bad_boys.xml</link>
+        <thumbnail>https://www.zoom.co.uk/assets/images/site/product/cdrpda0020_1.jpg?width=1200</thumbnail>
+    </dir>
+
+    <dir>
         <title>Captain America</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/captain_america.xml</link>
         <thumbnail>https://i.ebayimg.com/images/g/YIcAAOSw8YRc22uN/s-l300.jpg</thumbnail>
@@ -60,12 +66,6 @@
     </dir>
 
     <dir>
-        <title>Halloweentown</title>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/halloweentown.xml</link>
-        <thumbnail>https://i0.wp.com/setonianonline.com/wp-content/uploads/2017/10/Halloweentown.jpg</thumbnail>
-    </dir>
-
-    <dir>
         <title>Harry Potter</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/potter.xml</link>
         <thumbnail>https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2016/11/harry-potter-movies.png?itok=AOO8dw9P</thumbnail>
@@ -107,11 +107,11 @@
         <thumbnail>https://static.comicvine.com/uploads/original/11135/111354243/6935591-pjimage%20%282%29.jpg</thumbnail>
     </dir>
 
-    <dir>
+    <d>
         <title>Jump Street</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/jumpstreet.xml</link>
         <thumbnail>https://images.store.sky.com/api/img/asset/en/66D8BB8A-E4E8-4422-9242-603110084545_29537DF4-BA75-4DA8-BE6A-C27ECDCDD3E4_2019-8-6-T10-59-55.jpg?s=260x371</thumbnail>
-    </dir>
+    </d>
 
     <dir>
         <title>Jurassic Park</title>
@@ -119,11 +119,11 @@
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61DirW2qQ3L._SL1001_.jpg</thumbnail>
     </dir>
 
-    <dir>
+    <d>
         <title>Kung Fu Panda</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/kung_fu.xml</link>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/517M%2BF7msHL._SY445_.jpg</thumbnail>
-    </dir>
+    </d>
 
     <dir>
         <title>Matrix</title>

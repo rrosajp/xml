@@ -1,5 +1,11 @@
 <xml>
     <dir>
+        <title>[B][COLOR gold] 2020 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/2020.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 2019 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/2019.xml</link>
         <thumbnail></thumbnail>
@@ -228,8 +234,44 @@
     </dir>
 
     <dir>
+        <title>[B][COLOR gold] 1976 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1976.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1975 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1975.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1974 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1974.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1973 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1973.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1972 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1972.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
         <title>[B][COLOR gold] 1971 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1971.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR gold] 1970 [/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/movies/1970.xml</link>
         <thumbnail></thumbnail>
     </dir>
 

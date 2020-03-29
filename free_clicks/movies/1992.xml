@@ -1,46 +1,23 @@
 <xml>
     <item>
-        <title>Aladdin</title>
+        <title>Aladdin (Coming Soon)</title>
         <meta>
             <imdb>tt0103639</imdb>
             <content>movie</content>
             <title>A Christmas Carol</title>
             <year>1992</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe03.lookmovie.ag/c/58FLToUosKaJoWlNFnHi0g/1574637509/storage2/movies/aladdin-1992/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe03.lookmovie.ag/c/58FLToUosKaJoWlNFnHi0g/1574637509/storage2/movies/aladdin-1992/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe03.lookmovie.ag/c/58FLToUosKaJoWlNFnHi0g/1574637509/storage2/movies/aladdin-1992/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>Home Alone 2 Lost In New York</title>
+        <title>Home Alone 2 Lost In New York (Coming Soon)</title>
         <meta>
             <imdb>tt0104431</imdb>
             <content>movie</content>
             <title>Home Alone 2</title>
             <year>1992</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe08.lookmovie.ag/c/_9Fd1doO4l7RIEyg7BBFWw/1574642911/storage3/movies/0104431-home-alone-2-lost-in-new-york-1992-1572045253/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/_9Fd1doO4l7RIEyg7BBFWw/1574642911/storage3/movies/0104431-home-alone-2-lost-in-new-york-1992-1572045253/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe08.lookmovie.ag/c/_9Fd1doO4l7RIEyg7BBFWw/1574642911/storage3/movies/0104431-home-alone-2-lost-in-new-york-1992-1572045253/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>The Mighty Ducks</title>
-        <meta>
-            <imdb>tt0104868</imdb>
-            <content>movie</content>
-            <title>The Mighty Ducks</title>
-            <year>1992</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe012.lookmovie.ag/c/0GxcPrKPlYTfyB97bx9Rcw/1575080111/storage6/movies/the-mighty-ducks-1992/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe012.lookmovie.ag/c/0GxcPrKPlYTfyB97bx9Rcw/1575080111/storage6/movies/the-mighty-ducks-1992/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe012.lookmovie.ag/c/0GxcPrKPlYTfyB97bx9Rcw/1575080111/storage6/movies/the-mighty-ducks-1992/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 </xml>

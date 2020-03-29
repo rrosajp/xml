@@ -1,17 +1,24 @@
 <xml>
     <item>
-        <title>21 Jump Street</title>
+        <title>21 Jump Street (Coming Soon)</title>
         <meta>
             <imdb>tt1232829</imdb>
             <content>movie</content>
             <title>21 Jump Street</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe20.lookmovie.ag/c/zShDWPBTp8ZkP_KtB3kHag/1574637213/storage6/movies/21-jump-street-2012/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/zShDWPBTp8ZkP_KtB3kHag/1574637213/storage6/movies/21-jump-street-2012/480p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/zShDWPBTp8ZkP_KtB3kHag/1574637213/storage6/movies/21-jump-street-2012/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
+    </item>
+
+    <item>
+        <title>The Avengers</title>
+        <meta>
+            <imdb>tt0848228</imdb>
+            <content>movie</content>
+            <title>The Avengers</title>
+            <year>2012</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=2p6ZfP5WuaDBpVuLMIwS9APMw1rnLtMckQD7yojyv7Aedo9osXu8S68TRsmAnyml7GEGwiH06u370ldBxkBo70ntq%2B2UNts4WiaYwC98P%2BqsIAenmVLa%2BTg1qUg4MDDBor3sTcOma39a7d3FCK3iMg&ref=&res=default</link>
     </item>
 
     <item>
@@ -22,26 +29,18 @@
             <title>Brave</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe21.lookmovie.ag/c/u1rBr9d8i1kmhLBkNlrn9Q/1574973447/storage2/movies/1217209-brave-2012-1537917801/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe21.lookmovie.ag/c/u1rBr9d8i1kmhLBkNlrn9Q/1574973447/storage2/movies/1217209-brave-2012-1537917801/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe21.lookmovie.ag/c/u1rBr9d8i1kmhLBkNlrn9Q/1574973447/storage2/movies/1217209-brave-2012-1537917801/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=InpRAfVjlARv6HVxU06%2FLQPzjM1wiUItpqmptj5Tum0usP%2BybaQuGj5dR2bpjTpsJTxK6I9Oz3qKcIGkdB3p8lcyxNzeR%2FGQnqUhozxcQJcuzQfClNogYzO%2BEyysDksb2nGDQOt9ddPuOgvzyZjbooVjNz1XA%2BZKTl%2BS0gFJvjCC0RRnMGioRh7e9p9hFhGVU%3D&ref=http%3A%2F%2F157.230.245.209%2F&res=default</link>
     </item>
 
     <item>
-        <title>The Campaign</title>
+        <title>The Campaign (Coming Soon)</title>
         <meta>
             <imdb>tt1790886</imdb>
             <content>movie</content>
             <title>The Campaign</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe4.lookmovie.ag/c/08HJL4sQb6H8ae8CUxKV1A/1574973970/storage6/movies/the-campaign-2012/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe4.lookmovie.ag/c/08HJL4sQb6H8ae8CUxKV1A/1574973970/storage6/movies/the-campaign-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe4.lookmovie.ag/c/08HJL4sQb6H8ae8CUxKV1A/1574973970/storage6/movies/the-campaign-2012/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -52,55 +51,40 @@
             <title>Dredd</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe03.lookmovie.ag/c/ZZmb3XP1g5JllYGaDFdNIA/1574974064/storage6/movies/dredd-2012/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe03.lookmovie.ag/c/ZZmb3XP1g5JllYGaDFdNIA/1574974064/storage6/movies/dredd-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe03.lookmovie.ag/c/ZZmb3XP1g5JllYGaDFdNIA/1574974064/storage6/movies/dredd-2012/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=BZs56BOv9Ohtf5d8ANux2ADOaPR1NNmV0%2FaU2l9UA6t7NLewW864agqcPmdRh%2FLgILDCKuMU18CEVXyMfL8mz0iSFj9kisAjxKGJ0e19VRg%2BhHmvpFDjR%2BzCdHsvG42O27LTqmvLSsSxDIVoHHw6jh&ref=&res=720</link>
     </item>
 
     <item>
-        <title>Home Alone- The Holiday Heist</title>
+        <title>Hardball (Coming Soon)</title>
         <meta>
-            <imdb>tt2308733</imdb>
+            <imdb>tt0180734</imdb>
             <content>movie</content>
-            <title>Home Alone 5</title>
+            <title>Hardball</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/Y6_l4mzCS9mnaxklk9vBUQ/1574643184/storage2/movies/home-alone-the-holiday-heist-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/Y6_l4mzCS9mnaxklk9vBUQ/1574643184/storage2/movies/home-alone-the-holiday-heist-2012/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
-        <title>Hotel Transylvania</title>
+        <title>Home Alone- 4</title>
+        <meta>
+            <imdb>tt0329200</imdb>
+            <content>movie</content>
+            <title>Home Alone 4</title>
+            <year>2012</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=3ijtpNYeIT1SOoU4zXRIBwJbvaQzgaLDSpXr7Z%2FB5E6ZB5uCr4AQQRy%2B5zgX5W%2BgLZeGJJXPQErcxso9RFzbfzfYDKDgXXPNDaIQCmm5NV1HDk%2FB%2BLRNqMaV6%2FZaOV4blOI5jn%2F6vqJcSPW0jAE8Yb&ref=&res=default</link>
+    </item>
+
+    <item>
+        <title>Hotel Transylvania (Coming Soon)</title>
         <meta>
             <imdb>tt0837562</imdb>
             <content>movie</content>
             <title>Hotel Transylvania</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe22.lookmovie.ag/c/k7s3ahYuwa-YL_2D_GI2Ug/1575066184/storage3/movies/0837562-hotel-transylvania-2012-1537817194/480p/index.m3u8</sublink>
-        </link>
-    </item>
-
-    <item>
-        <title>Ice Age: Continental Drift</title>
-        <meta>
-            <imdb>tt1667889</imdb>
-            <content>movie</content>
-            <title>Ice Age: Continental Drift</title>
-            <year>2012</year>
-        </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe23.lookmovie.ag/c/Gun5SZoLFSWxRLUWrXmGGA/1575079282/storage3/movies/ice-age-continental-drift-2012-1562767545/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe23.lookmovie.ag/c/Gun5SZoLFSWxRLUWrXmGGA/1575079282/storage3/movies/ice-age-continental-drift-2012-1562767545/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe23.lookmovie.ag/c/Gun5SZoLFSWxRLUWrXmGGA/1575079282/storage3/movies/ice-age-continental-drift-2012-1562767545/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 
     <item>
@@ -111,11 +95,7 @@
             <title>Parental Guidance</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe12.lookmovie.ag/c/775iy5VO-5-5H6JAchYrxA/1574974177/storage2/movies/parental-guidance-2012/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe12.lookmovie.ag/c/775iy5VO-5-5H6JAchYrxA/1574974177/storage2/movies/parental-guidance-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe12.lookmovie.ag/c/775iy5VO-5-5H6JAchYrxA/1574974177/storage2/movies/parental-guidance-2012/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=G7Mme2pNy3LkRMS3mezolA8xERGUxJq%2FYswY8thooa70IrI6k79W2CxODANDPIUOxyhEvdtTT8rbRI4N64btL48MemhZpy3Gkde01gw%2B5gQ6LCJVlvbUNE%2FEAzJKnvFYpsQF0bJmLIN6X9yG1vvghf&ref=&res=720</link>
     </item>
 
     <item>
@@ -126,25 +106,17 @@
             <title>Starship Troopers: Invasion</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe20.lookmovie.ag/c/zxlCbPX1_TnBOqPBa6jvsg/1574974296/storage3/movies/starship-troopers-invasion-2012/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe20.lookmovie.ag/c/zxlCbPX1_TnBOqPBa6jvsg/1574974296/storage3/movies/starship-troopers-invasion-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe20.lookmovie.ag/c/zxlCbPX1_TnBOqPBa6jvsg/1574974296/storage3/movies/starship-troopers-invasion-2012/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=Jz6GtIV8HA96%2Bj3bEXNzHwehHKUITdm3mJ9SEKuFmQnnJ0ubdhBasa5EPtXjS7jZzDqMXtum54srNVQXDUQJxwhRSL7aO0fof%2BitJ3ifLtgcqBkh2%2FbEmqJPN%2B5LXDoTfwPjczRkU3nYRxXhzm6tMq&ref=&res=default</link>
     </item>
 
     <item>
-        <title>That's My Boy</title>
+        <title>That's My Boy (Coming Soon)</title>
         <meta>
             <imdb>tt1232200</imdb>
             <content>movie</content>
             <title>That's My Boy</title>
             <year>2012</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe17.lookmovie.ag/c/MIV3f6-pxyegvG5CeMBorg/1574974401/storage2/movies/thats-my-boy-2012/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe17.lookmovie.ag/c/MIV3f6-pxyegvG5CeMBorg/1574974401/storage2/movies/thats-my-boy-2012/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe17.lookmovie.ag/c/MIV3f6-pxyegvG5CeMBorg/1574974401/storage2/movies/thats-my-boy-2012/480p/index.m3u8</sublink>
-        </link>
+        <link></link>
     </item>
 </xml>

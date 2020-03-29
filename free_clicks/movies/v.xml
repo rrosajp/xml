@@ -1,5 +1,16 @@
 <xml>
     <item>
+        <title>Vanishing Point</title>
+        <meta>
+            <imdb>tt0067927</imdb>
+            <content>movie</content>
+            <title>Vanishing Point</title>
+            <year>1971</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=DlZ5xZGIMAPIPJSt2NqzVAcQlMrBqXnsZcRKZPQTuv2YkA9lC9Df2jsoIqiUr6XlVuJgXjxuUhsg5oOTumBLaW%2FZoa1vCD7DQZM%2FW%2FmVsTLiNyEqdrSS0UgdUQ3h5Ch8JtchlaqjGS3jodBoQSaAtH&ref=&res=default</link>
+    </item>
+
+    <item>
         <title>Venom</title>
         <meta>
             <imdb>tt1270797</imdb>
@@ -7,10 +18,17 @@
             <title>Venom</title>
             <year>2018</year>
         </meta>
-        <link>
-            <sublink name="[B][COLOR gold] 1080p [/COLOR][/B]">https://fe17.lookmovie.ag/c/7KKWCDJ6ZNeqFS5pfn0LPQ/1574587053/storage4/movies/1270797-venom-2018-1562831258/1080p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] 720p [/COLOR][/B]">https://fe17.lookmovie.ag/c/7KKWCDJ6ZNeqFS5pfn0LPQ/1574587053/storage4/movies/1270797-venom-2018-1562831258/720p/index.m3u8</sublink>
-            <sublink name="[B][COLOR gold] SD [/COLOR][/B]">https://fe17.lookmovie.ag/c/7KKWCDJ6ZNeqFS5pfn0LPQ/1574587053/storage4/movies/1270797-venom-2018-1562831258/480p/index.m3u8</sublink>
-        </link>
+        <link>https://apicdn.vip/drive/index.php?id=8cmOKh1ZoIt5ZOks78X6dwPtuzyZdYVEuM6RE812LWY8WHttYM9TxS%2Brlnki243HfXSB7AaUmFA3DjoDBijShP3ygDhrL3yYS0wApowJ%2BZmzsA%2BLyu09BjZiRNadhFFSnrm8lp0wkthxly0oS%2FkLS%2F&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Virginia City</title>
+        <meta>
+            <imdb>tt0033226</imdb>
+            <content>movie</content>
+            <title>Virginia City</title>
+            <year>1940</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=hXNwVZML0iGuY3jDLdZS2QiugzcTQ5%2F0vVGflnSuL4%2BZVCjW1G21dDiIv0DfxPnDzgOhHcIQljl7dEh%2FbvD0UO60z8Z%2BUIlc4TEBFlWPnz56xHb4WaXTzoTKeDXP6naYM0Ix0Z876eDSYbQV6L9uob&ref=&res=default</link>
     </item>
 </xml>
