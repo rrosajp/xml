@@ -142,7 +142,7 @@
         <link></link>
     </items>
 
-    <item>
+    <items>
         <title>The Change-Up (Coming Soon)</title>
         <meta>
             <imdb>tt1488555</imdb>
@@ -151,9 +151,20 @@
             <year>2011</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
+        <title>Charlies Angels</title>
+        <meta>
+            <imdb>tt5033998</imdb>
+            <content>movie</content>
+            <title>Charlies Angels</title>
+            <year>2019</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=A9TpvqnkYAqGC8UQwELGGgGPEGNcs0qWhaLJfq8gxjy6%2B5Pje9ewHA5Ujx9hHAafZ0hf0ZfB0dljhwCRUTnOKw7Rpmo%2BaA2GH8AL6c1dZXaz%2BHBZvfVlVGyvz5J1GCCCb6UrqTP3fTv%2B%2FwvBdsVyNTohEE0ndYXx0oAIs%2FKif%2FVjQrV6PoR4GC%2BZa9s5B7Z2jpe9ZfybPC4kMZDO1fyEog&ref=http%3A%2F%2F206.189.151.55%2Fmovie%2F%3Fid%3Dtt5033998&res=default</link>
+    </item>
+
+    <items>
         <title>A Christmas Carol (Coming Soon)</title>
         <meta>
             <imdb>tt1067106</imdb>
@@ -162,7 +173,7 @@
             <year>2009</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Charlie and the Chocolate Factory</title>
@@ -219,7 +230,7 @@
         <link>https://apicdn.vip/drive/index.php?id=sjf2pBGJPV1zU56ZzNs1TAP15fNStstyZhWbQRuwqiZ3wlBOsHDhO6P82kOAE0BWctVpncKzGEqnlNggkyGz1sidGgo%2BuaTGm4ma5X2%2FEX%2FTba4KQ0ZKgYGknPGKeXo7E6KATOzZ4iVocJm4mj%2FM0R&ref=&res=720</link>
     </item>
 
-    <item>
+    <items>
         <title>Click (Coming Soon)</title>
         <meta>
             <imdb>tt0389860</imdb>
@@ -228,9 +239,9 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Coco (Coming Soon)</title>
         <meta>
             <imdb>tt2380307</imdb>
@@ -239,7 +250,7 @@
             <year>2017</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Coma</title>
@@ -252,7 +263,7 @@
         <link>https://apicdn.vip/drive/index.php?id=ctu6TNUmmES0647wyfyJIQVsFg4sLL0d%2B9HFIjqgsvryDiYvhyHv14Qeubha5FNkRxOXYYs1sUH6Bi1MZSsIAkpkmId3Jy%2FUHqKedXpCV9fRzoFUNH8l5dRqk3FAf1rmeqgmHeBg5LIPi9Su8TiPKm&ref=&res=default</link>
     </item>
 
-    <item>
+    <items>
         <title>Come to Daddy</title>
         <meta>
             <imdb>tt8816194</imdb>
@@ -261,9 +272,9 @@
             <year>2020</year>
         </meta>
         <link>https://apicdn.vip/drive/index.php?id=y6UYIYZszhoCjogQGPt30AfS8F%2BLNhtGV5HItZJ0kk4bvCADO2Q0FmKpPMfEDhX%2Bx6FZqH7sbOpRu2V25SY7UuTRsjRCIlLP%2F31s8grx%2FIWIQKbMJVLBxuTMVE2JTAY5h9YRjQUbx0tj96IsJO2twutESC8y%2FvTP4VWvBxsPcjwo2MWYg%2BX%2Bcs%2BD8JR8KGgN6Y6wUXE%2Brkj2yqMosbkAbL&ref=https%3A%2F%2Fmoviexx1.online%2Fcome-to-daddy-2020%2F&res=default</link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Coming To America (Coming Soon)</title>
         <meta>
             <imdb>tt0094898</imdb>
@@ -272,9 +283,9 @@
             <year>1988</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>The Competition (Coming Soon)</title>
         <meta>
             <imdb>tt5841344</imdb>
@@ -283,7 +294,7 @@
             <year>2018</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Conan the Barbarian</title>
@@ -307,7 +318,7 @@
         <link></link>
     </item>
 
-    <item>
+    <items>
         <title>Corpse Bride (Coming Soon)</title>
         <meta>
             <imdb>tt0121164</imdb>
@@ -316,7 +327,7 @@
             <year>2005</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>The Corsican Brothers</title>
@@ -351,7 +362,7 @@
         <link>https://apicdn.vip/drive/index.php?id=Ubi%2FSlOswK6bIMY3VivRPAZbhfSiuCFFKBaI9IYiHcLGX55FL1McVz%2BO60jv3mCRc0TEOsl11oEXwcikaMdeWmy4LAVj%2Btro5mjnQow3%2Bk%2FfiSytKNGNXYysLlVb3ba1QmKZ3o2qvKPfHq5iCLu4yo&ref=&res=720</link>
     </item>
 
-    <item>
+    <items>
         <title>Creed (Coming Soon)</title>
         <meta>
             <imdb>tt4354930</imdb>
@@ -360,7 +371,7 @@
             <year>2016</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Creed II</title>
@@ -373,7 +384,7 @@
         <link>https://apicdn.vip/drive/index.php?id=RmID2BsPwAsweinW9vIOwA%2FqwMB5ZDR%2BWUnfzs5kDyImYT4Duh11hG0PspgP34El%2FpHmXCkj2ehigOkz0iwKsCYnQxkP0VEkVKEAROUCUIjHwI4Rm1NfyBgafpu%2BxORIYA4s9bJTVLGh6%2FPOySdIQk&ref=&res=default</link>
     </item>
 
-    <item>
+    <items>
         <title>A Christmas Carol (Coming Soon)</title>
         <meta>
             <imdb>tt1067106</imdb>
@@ -382,7 +393,7 @@
             <year>2009</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>The Chronicles of Riddick</title>
