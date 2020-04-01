@@ -11,6 +11,17 @@
     </item>
 
     <item>
+        <title>Friday The 13th</title>
+        <meta>
+            <imdb>tt0080761</imdb>
+            <content>movie</content>
+            <title>Friday The 13th</title>
+            <year>1980</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=9TfYQ8Mz%2BVYPSUpHN4%2FZEwIdj7uQCDeqof1eYBocVDcjaxMCIRD5s3hoYcJQGDS8au9973gPyEUefygaOuA5Trah%2B%2FDM%2Fr4T9YApHm3vvCf1BeC198yQA0uceS7FUSZntWWUrk1CGmnOaksYJ98C56&ref=&res=720</link>
+    </item>
+
+    <item>
         <title>Little Darlings</title>
         <meta>
             <imdb>tt0081060</imdb>
@@ -33,14 +44,36 @@
     </item>
 
     <item>
-        <title>Midnight Madness</title>
+        <title>The Ninth Configuration</title>
         <meta>
-            <imdb>tt0081207</imdb>
+            <imdb>tt0081237</imdb>
             <content>movie</content>
-            <title>Midnight Madness</title>
+            <title>The Ninth Configuration</title>
             <year>1980</year>
         </meta>
-        <link>https://apicdn.vip/drive/index.php?id=6ivAAIY%2B6VrPj3yLbYSsAASZaHIolljp%2FvYBtvKc148sfo8uAqqaVe%2FzxBaArAhMUd0oRaE1h3tWGfL%2FSsVGo%2Fri6%2Fh9LMFLyCTU6qNjRGvlf1TAguqglhZWuCevfbrOqN4Pnr6lQpHPOITr9Yn5Kz&ref=&res=default</link>
+        <link>https://apicdn.vip/drive/index.php?id=D5z%2B53NttKSU0IsYW0Eo9gJfTin%2BzdxO%2FQosY%2F28Fj59NwU9Nzev0oVSxxSqRj0vRa2bWfvVFpsszmp%2FISsJna01toCSpj%2BWgDKZIQhiIKN0vIQHlfalyv1Eu13322lVIknXyZ3PIZUTOmMeLepiH8&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Little Darlings</title>
+        <meta>
+            <imdb>tt0081060</imdb>
+            <content>movie</content>
+            <title>Little Darlings</title>
+            <year>1980</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=jCNxO%2FaS%2FS7yaC0Ura4xqA4xGH6N%2BkHbN9Uvjoxt%2Bchjmu8W52PbP48U%2FEFSbrpghBozLBm%2FE0TQWOVRwjbNti9InnIiHFQfXc5WpZlrkLDAt21Mnd3%2F2T8iZNYy6myxcR%2B8NL47XpSuwPutbHIjv0yNvn%2BUzyPZ8SSw6bo3aLaG09ShmIPc7txVosEibzMmfZ%2Fnp43VXrYQC7vllOD3W87MGEOQcKddueD8WLVFTecg%3D%3D&ref=https%3A%2F%2Fdatabase.gdriveplayer.us%2Fplayer.php%3Fimdb%3Dtt0081060&res=default</link>
+    </item>
+
+    <item>
+        <title>Motel Hell</title>
+        <meta>
+            <imdb>tt0081184</imdb>
+            <content>movie</content>
+            <title>Motel Hell</title>
+            <year>1980</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=VB3vew6cf5%2B%2F6yFNgDfd%2BAclsdX4iZiEJzQyLj9nLSkAbt2OgtLoaMvI5XlDB3HRYbAuFdcNo%2FDHDem87mzq139slUJKLUcjKh8lXfz5Lu85rrp3kL5R2XUDebToD8KmuRZLo97h0mIKftb%2BJu8o1A&ref=&res=default</link>
     </item>
 
     <item>
@@ -74,5 +107,16 @@
             <year>1980</year>
         </meta>
         <link>https://apicdn.vip/drive/index.php?id=u5pvcWdkdYOh13ZVjvZ0tQx2ZJ23voQF2bybsqby195qXm3iPetuDFDv0HMFtqRcX5G3DxOr0ySnQGMMXexaBwt9lw6a%2F5oeh0DFp6S%2FlCa4CUm06jJj9tUfRXWnGHqyq4fkM9xqwkeUy%2F0M8NobO%2F&ref=&res=720</link>
+    </item>
+
+    <item>
+        <title>Where the Buffalo Roam</title>
+        <meta>
+            <imdb>tt0081748</imdb>
+            <content>movie</content>
+            <title>Where the Buffalo Roam</title>
+            <year>1980</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=G%2FtYT8CSHmFQdtl5Ln0ErgA3ai%2BYwm3MhmXPsrSnr1PbkTjKZlCjImneOptD3cpTjeph6J5PRUng4LW%2BbaxdvEaXRRr8j%2Bs8wMz4MR7l5skldB0IQSUDXlaav1PxIPKyT75a6v9OwlcZKvCxXBd%2FHI&ref=&res=default</link>
     </item>
 </xml>

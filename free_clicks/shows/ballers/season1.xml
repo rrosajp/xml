@@ -1,51 +1,91 @@
 <xml>
     <item>
         <title>1x01.Pilot</title>
+        <meta>
+            <tvdb>5189679</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x02.Raise Up</title>
+        <meta>
+            <tvdb>5232453</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x03.Move The Chains</title>
+        <meta>
+            <tvdb>5232454</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x04.Heads Will Roll</title>
+        <meta>
+            <tvdb>5232455</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x05.Machete Charge</title>
+        <meta>
+            <tvdb>5232456</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x06.verything Is verything</title>
+        <meta>
+            <tvdb>5232457</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x07.nds</title>
+        <meta>
+            <tvdb>5232458</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x08.Gaslighting</title>
+        <meta>
+            <tvdb>5232459</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x09.Head-On</title>
+        <meta>
+            <tvdb>5201610</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x0.Flamingos</title>
+        <meta>
+            <tvdb>5272765</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 </xml>
