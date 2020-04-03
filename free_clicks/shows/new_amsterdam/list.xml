@@ -8,4 +8,14 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/new_amsterdam/season1.xml</link>
     </dir>
+
+    <dir>
+        <title>Season 2</title>
+        <meta>
+            <tvdb>349272</tvdb>
+            <content>season</content>
+            <season>02</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/new_amsterdam/season2.xml</link>
+    </dir>
 </xml>

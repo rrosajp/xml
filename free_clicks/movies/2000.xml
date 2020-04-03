@@ -1,6 +1,6 @@
 <xml>
-    <item>
-        <title>Bedazzled (Coming Soon)</title>
+    <items>
+        <title>Bedazzled</title>
         <meta>
             <imdb>tt0230030</imdb>
             <content>movie</content>
@@ -8,10 +8,10 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Big Momma's House (Coming Soon)</title>
+    <items>
+        <title>Big Momma's House</title>
         <meta>
             <imdb>tt0208003</imdb>
             <content>movie</content>
@@ -19,10 +19,10 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Dude, Where's My Car (Coming Soon)</title>
+    <items>
+        <title>Dude, Where's My Car</title>
         <meta>
             <imdb>tt0242423</imdb>
             <content>movie</content>
@@ -30,7 +30,7 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Frequency</title>
@@ -43,8 +43,8 @@
         <link>https://apicdn.vip/drive/index.php?id=Vwk8PAV%2B3F7cYjhLaGq6%2BAh5nVZ32F4IsjN%2FjvKStiCl3JasPibQkThQtaRmta2JBfrrF%2Bldo3bLACzQpToQXM%2BHhgEbuMTfkg%2FnxZ2beKZCfbrF9x2Nini1jm3P6YBHI2vJjJwXldaYSfTc6E1K46&ref=&res=default</link>
     </item>
 
-    <item>
-        <title>How the Grinch Stole Christmas (Coming Soon)</title>
+    <items>
+        <title>How the Grinch Stole Christmas</title>
         <meta>
             <imdb>tt0170016</imdb>
             <content>movie</content>
@@ -52,9 +52,9 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Little Nicky (Coming Soon)</title>
         <meta>
             <imdb>tt0185431</imdb>
@@ -63,10 +63,10 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Loser (Coming Soon)</title>
+    <items>
+        <title>Loser</title>
         <meta>
             <imdb>tt0217630</imdb>
             <content>movie</content>
@@ -74,10 +74,10 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Me, Myself & Irene (Coming Soon)</title>
+    <items>
+        <title>Me, Myself & Irene</title>
         <meta>
             <imdb>tt0183505</imdb>
             <content>movie</content>
@@ -85,10 +85,10 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Miss Congeniality (Coming Soon)</title>
+    <items>
+        <title>Miss Congeniality</title>
         <meta>
             <imdb>tt0212346</imdb>
             <content>movie</content>
@@ -96,7 +96,7 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Pitch Black</title>
@@ -120,8 +120,8 @@
         <link>https://apicdn.vip/drive/index.php?id=v5rRwAl19SjQGRkUrCZN6QtS7NWxPblL9FOyHfs53OmSgtITf0%2F%2BNkSw%2F4Md%2B6YWhQODDhfBuTUpsqUf1f7GWfOiTsR8ymvj07Lqlhqi5v3qTKsYLZ1gzfubNAq%2B5I8b2Ap21Mo1oC9OQe0tT3I5IN&ref=&res=720</link>
     </item>
 
-    <item>
-        <title>Ready To Rumble (Coming Soon)</title>
+    <items>
+        <title>Ready To Rumble</title>
         <meta>
             <imdb>tt0217756</imdb>
             <content>movie</content>
@@ -129,10 +129,10 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Road Trip (Coming Soon)</title>
+    <items>
+        <title>Road Trip</title>
         <meta>
             <imdb>tt0215129</imdb>
             <content>movie</content>
@@ -140,5 +140,5 @@
             <year>2000</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

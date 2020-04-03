@@ -59,7 +59,7 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season6.xml</link>
     </dir>
 
-    <dir>
+    <dirs>
         <title>Season 7</title>
         <meta>
             <tvdb>257655</tvdb>
@@ -67,9 +67,9 @@
             <season>07</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season7.xml</link>
-    </dir>
+    </dirs>
 
-    <dir>
+    <dirs>
         <title>Season 8</title>
         <meta>
             <tvdb>257655</tvdb>
@@ -77,5 +77,5 @@
             <season>08</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/season8.xml</link>
-    </dir>
+    </dirs>
 </xml>

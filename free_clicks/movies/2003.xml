@@ -1,6 +1,6 @@
 <xml>
     <items>
-        <title>Anger Management (Coming Soon)</title>
+        <title>Anger Management</title>
         <meta>
             <imdb>tt0305224</imdb>
             <content>movie</content>
@@ -21,8 +21,8 @@
         <link>https://apicdn.vip/drive/index.php?id=hr2YnJWzqCBr7bc17C47SARqD3gCrS3tlksJU%2BgfTxNdgpwn7HZ6SX85ngmc8CrvkS7KCcra%2FfLEuNrNGOGhdha3v0p3TcxSiLH46fEzdJjjgxrHLZmgOBMJeNjL2ftp8hytd87eEGXgiKTQ%2Fq9x4f&ref=&res=default</link>
     </item>
 
-    <item>
-        <title>Bringing Down The House (Coming Soon)</title>
+    <items>
+        <title>Bringing Down The House</title>
         <meta>
             <imdb>tt0305224</imdb>
             <content>movie</content>
@@ -30,10 +30,10 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Bruce Almighty (Coming Soon)</title>
+    <items>
+        <title>Bruce Almighty</title>
         <meta>
             <imdb>tt0315327</imdb>
             <content>movie</content>
@@ -41,10 +41,10 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Elf (Coming Soon)</title>
+    <items>
+        <title>Elf</title>
         <meta>
             <imdb>tt031934</imdb>
             <content>movie</content>
@@ -52,7 +52,7 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Finding Nemo</title>
@@ -65,7 +65,7 @@
         <link>https://apicdn.vip/drive/index.php?id=w6dibU4Cf2E4R1VazB6BCACTvEqI7vG%2FBpi0a6V1cccIIjlZX0XtM5pwLH7%2FyPe7a%2BD51LQbwgjLuY%2FhryOqvjU4EH3oSiJ%2F0Bs%2F%2Bueq6IZApwoABQVkA%2BuZbsa1V1oQtzkfP8%2FzzGF1MjJrljMPFa&ref=&res=default</link>
     </item>
 
-    <item>
+    <items>
         <title>Freaky Friday (Coming Soon)</title>
         <meta>
             <imdb>tt0322330</imdb>
@@ -74,10 +74,10 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>How to Lose a Guy in 10 Days (Coming Soon)</title>
+    <items>
+        <title>How to Lose a Guy in 10 Days</title>
         <meta>
             <imdb>tt0251127</imdb>
             <content>movie</content>
@@ -85,10 +85,10 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Kangaroo Jack (Coming Soon)</title>
+    <items>
+        <title>Kangaroo Jack</title>
         <meta>
             <imdb>tt0257568</imdb>
             <content>movie</content>
@@ -96,10 +96,10 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
-        <title>Scary Movie 3 (Coming Soon)</title>
+    <items>
+        <title>Scary Movie 3</title>
         <meta>
             <imdb>tt0306047</imdb>
             <content>movie</content>
@@ -107,7 +107,7 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>The Matrix Reloaded</title>

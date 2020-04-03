@@ -1,6 +1,6 @@
 <xml>
     <items>
-        <title>Contact (Coming Soon)</title>
+        <title>Contact</title>
         <meta>
             <imdb>tt0118884</imdb>
             <content>movie</content>
@@ -9,6 +9,17 @@
         </meta>
         <link></link>
     </items>
+
+    <item>
+        <title>Home Alone 3</title>
+        <meta>
+            <imdb>tt0119303</imdb>
+            <content>movie</content>
+            <title>Home Alone 3</title>
+            <year>1997</year>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=zDoKwZYoBElQ4zxGsJcuxQrsYtVcNNPwZDgKPPYLV7HRkE4dTUMdqkMi8PsaSAR9HYsFJCLq3sbUhwxO7Mr2gzajtm4f00UNdeYTpYfunh3owC48jDFjZ30DQADAN6m8Hap%2BVuEKhjtBoLnwWPJy18&ref=&res=default</link>
+    </item>
 
     <item>
         <title>Jurassic Park: The Lost World</title>
@@ -22,7 +33,7 @@
     </item>
 
     <items>
-        <title>My Best Friend's Wedding (Coming Soon)</title>
+        <title>My Best Friend's Wedding</title>
         <meta>
             <imdb>tt0119738</imdb>
             <content>movie</content>

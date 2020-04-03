@@ -1,5 +1,14 @@
 <xml>
     <dir>
+        <title>Alf</title>
+        <meta>
+            <tvdb>78020</tvdb>
+            <content>tvshow</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/list.xml</link>
+    </dir>
+
+    <dir>
         <title>Arrow</title>
         <meta>
             <tvdb>257655</tvdb>
@@ -8,23 +17,23 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/list.xml</link>
     </dir>
 
-    <dir>
+    <dirs>
         <title>Ballers</title>
         <meta>
             <tvdb>281714</tvdb>
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/ballers/list.xml</link>
-    </dir>
+    </dirs>
 
-    <dir>
+    <dirs>
         <title>The Blacklist</title>
         <meta>
             <tvdb>266189</tvdb>
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/the_blacklist/list.xml</link>
-    </dir>
+    </dirs>
 
     <dir>
         <title>Charmed</title>
