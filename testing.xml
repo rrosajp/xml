@@ -1,37 +1,37 @@
 <xml>
-    <items>
+    <item>
         <title>1x08.Vendetta</title>
         <meta>
             <tvdb>4408785</tvdb>
             <content>episode</content>
         </meta>
         <link>https://s3.vidoz.org/hls/qt5dvgm54bd6wyrbfu6x3qs6vtpz5nrgil7resyoa,5ya2o55jznqj5cyztfq,xxa2o55jzn26dwethta,.urlset/master.m3u8</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>1x08.Vendetta</title>
         <meta>
             <tvdb>4408785</tvdb>
             <content>episode</content>
         </meta>
         <link>https://s3.vidoz.org/hls/qt5dvke54bd6wyrbfu6x3qspw5v4sviwbkrzeqjhexblbunk3izjdxw5shjq/index-v1-a1.m3u8</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>1x19.Unfinished Business</title>
         <meta>
             <tvdb>4506515</tvdb>
             <content>episode</content>
         </meta>
         <link>https://s3.vidoz.org/hls/qt5dvf454bd6wyrbfu6x3vczutyp6abdddk3hdvat,lgxwmecrzw6i7abgu3a,bfxwmecrzwz6klhe6sq,.urlset/master.m3u8</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>4x17.Beacon of Hope</title>
         <meta>
             <tvdb>5498588</tvdb>
             <content>episode</content>
         </meta>
         <link>https://s3.vidoz.org/hls/qt5dv4e54bd6wyrbfu6x3xs3w7gcfd53gc73qidxebeluf4jybqs5t56326a/index-v1-a1.m3u8</link>
-    </items>
+    </item>
 </xml>
