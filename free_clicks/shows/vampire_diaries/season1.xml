@@ -1,111 +1,199 @@
 <xml>
     <item>
         <title>1x01.Pilot</title>
+        <meta>
+            <tvdb>669801</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x02.The Night of the Comet</title>
+        <meta>
+            <tvdb>1069311</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x03.Friday Night Bites</title>
+        <meta>
+            <tvdb>1069321</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x04.Family Ties</title>
+        <meta>
+            <tvdb>1069331</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x05.You're Undead to Me</title>
+        <meta>
+            <tvdb>1134381</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x06.Lost Girls</title>
+        <meta>
+            <tvdb>1135771</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x07.Haunted</title>
+        <meta>
+            <tvdb>1135781</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x08.162 Candles</title>
+        <meta>
+            <tvdb>1135791</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x09.History Repeating</title>
+        <meta>
+            <tvdb>1216291</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x10.The Turning Point</title>
+        <meta>
+            <tvdb>1216301</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x11.Bloodlines</title>
+        <meta>
+            <tvdb>1314511</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x12.Unpleasantville</title>
+        <meta>
+            <tvdb>1314521</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x13.Children of the Damned</title>
+        <meta>
+            <tvdb>1318211</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x14.Fool Me Once</title>
+        <meta>
+            <tvdb>1579671</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x15.A Few Good Men</title>
+        <meta>
+            <tvdb>1635541</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x16.There Goes the Neighborhood</title>
+        <meta>
+            <tvdb>1857541</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x17.Let the Right One In</title>
+        <meta>
+            <tvdb>1912081</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x18.Under Control</title>
+        <meta>
+            <tvdb>1955981</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x19.Miss Mystic Falls</title>
+        <meta>
+            <tvdb>1983761</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x20.Blood Brothers</title>
+        <meta>
+            <tvdb>2042031</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x21.Isobel</title>
+        <meta>
+            <tvdb>2070241</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 
     <item>
         <title>1x22.Founder's Day</title>
+        <meta>
+            <tvdb>2092671</tvdb>
+            <content>episode</content>
+        </meta>
         <link></link>
     </item>
 </xml>

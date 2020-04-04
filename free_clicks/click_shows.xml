@@ -17,14 +17,14 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/list.xml</link>
     </dir>
 
-    <dirs>
+    <dir>
         <title>Ballers</title>
         <meta>
             <tvdb>281714</tvdb>
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/ballers/list.xml</link>
-    </dirs>
+    </dir>
 
     <dirs>
         <title>The Blacklist</title>
@@ -42,6 +42,15 @@
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/charmed_98/list.xml</link>
+    </dir>
+
+    <dir>
+        <title>The Flash</title>
+        <meta>
+            <tvdb>78650</tvdb>
+            <content>tvshow</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/the_flash_90/list.xml</link>
     </dir>
 
     <dir>

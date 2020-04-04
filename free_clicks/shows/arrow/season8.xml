@@ -1,12 +1,12 @@
 <xml>
-    <item>
+    <items>
         <title>8x01.Starling City</title>
         <meta>
             <tvdb>7249300</tvdb>
             <content>episode</content>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>8x02.Welcome to Hong Kong</title>
@@ -14,7 +14,7 @@
             <tvdb>7309038</tvdb>
             <content>episode</content>
         </meta>
-        <link></link>
+        <link>https://apicdn.vip/drive/index.php?id=d2Ilk9VmlwNYuvU63uwSzwxLS6WnVbK9M1URaewwHxsg4kgN6AsyjskzFJyF7QBfRK91WUTlAVy9drut4wle4zXeD%2BiMDQJfsH943hqnP4LM0glll8SQUdVwi6PyriiOnOqrmKOrUZIZ9377HViSkp&ref=&res=default</link>
     </item>
 
     <item>
@@ -23,17 +23,17 @@
             <tvdb>7401541</tvdb>
             <content>episode</content>
         </meta>
-        <link></link>
+        <link>https://apicdn.vip/drive/index.php?id=fLxUEOB8flVDUrBwshmT%2BQ8diiXlcmYaA%2Fb7tSPBGkN6SsI9fk%2BwznlD%2BxI1aWJhrO3PKYicqkR2E1b3lqZSHeyFSAzovVKjB%2BGqDmaEDYVxr8kG5EInGEmOa0gINcMicxW5AjQePL7K%2BpczRwczQfwdzS%2BSY5NB%2BA25YylTInmH3SdDdHHhLUJ%2BP3CDiOZOM%3D&ref=&res=default</link>
     </item>
 
-    <item>
+    <items>
         <title>8x04.Present Tense</title>
         <meta>
             <tvdb>7365505</tvdb>
             <content>episode</content>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>8x05.Prochnost</title>
@@ -41,7 +41,7 @@
             <tvdb>7365506</tvdb>
             <content>episode</content>
         </meta>
-        <link></link>
+        <link>https://apicdn.vip/drive/index.php?id=diz1wcQ3JcJODagOihkaYA7RV3qfhb7Pt6I3sf7qr%2BM4ZkZfsRLPVeNpEH8LqGV9GmJze8UPe6q51Daqf%2FM8VDjXCHJsG6D%2FJRETm0V1atus9E3peBlrkbSCp%2FzQE8cIx2D%2Bt4g3UUN4B7UgnqDgu1uR0sIaZcc%2BhZWrW8ojHdhma5izHfdIKNpKUezIQtuHM%3D&ref=&res=default</link>
     </item>
 
     <item>
@@ -50,6 +50,42 @@
             <tvdb>7365507</tvdb>
             <content>episode</content>
         </meta>
-        <link></link>
+        <link>https://apicdn.vip/drive/index.php?id=SoNthkGtzSRdq5sOQYt0kwRZ7JjDyPEGvLWuThQY6a52XSkO5cG6bl2jqh8gh3Ol0DJix23pI1u3ICUHuF%2FTXZqZYf%2B2cHKXPDGrHLzw2h%2B8DCZcinJDFqLvWLoGtALmOeWNkSf7dKGsAXAl8Su2b1%2BMnjZ9Djf021uXKtCyu%2FqlkBF%2BGVNvqbCATrS4XwLes%3D&ref=&res=default</link>
+    </item>
+
+    <item>
+        <title>8x07.Purgatory</title>
+        <meta>
+            <tvdb>7365508</tvdb>
+            <content>episode</content>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=ZqWYHsXx6XCtXTkTZT9MIAYabCIXThEVjeoxQQAVP8GRe1fRbEd3XR%2BA3UQIevW1fIL9XvziWexLHQV06sb%2B0R631nBKKvsdkqknHFkQWQHyfwlFi%2BDTN0YVnraFgehp7QZVM2TqNk5QJkOQauHvkmdHeRF7Ddp3xz4HH2GB%2BHQjnfwxhaoDwg61NxoC%2FHkyA%3D&ref=&res=default</link>
+    </item>
+
+    <item>
+        <title>8x08.Crisis on Infinite Earths: Part Four</title>
+        <meta>
+            <tvdb>7466317</tvdb>
+            <content>episode</content>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=g%2BltyiaHi5zUZ152vPR6PAeTr34ejPR6jjyc%2BPJWN5f5g4ICDHUMxmTmC8DgkA6SRkNakbkA2TokGGxSpxsT4Yi7k0ktnPSGT2hrJxreiOxWtg4UnHu6eKfWn9Rem1fJOP2wq4u7iF0W0n7ytcs0IhCKULeDfr0zqYlsz6KKX%2BKo0Aq5A2k6tBQ1FLyVZp%2BqA%3D&ref=&res=default</link>
+    </item>
+
+    <item>
+        <title>8x09.Green Arrow & The Canaries</title>
+        <meta>
+            <tvdb>7462877</tvdb>
+            <content>episode</content>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=3f0FT0iOYuQS2OexbWRzNgfNCO9DXmAfA4lSZgzBj5U45QCQ2dwG1EUepf61LJY%2FT0WOLGxdN60LNpSRzgN35GiFC4E%2FIDy3iH3nzF1y7Ez9ldEP2rLkMym6DJ3a8QYJqOZVtHRdcydZdO1f5jY13zZftAqm%2FZrwux5KwupMHBsDyz7iorF0pZ2B%2BS5Rcmcho%3D&ref=&res=default</link>
+    </item>
+
+    <item>
+        <title>8x10.Fadeout</title>
+        <meta>
+            <tvdb>7462878</tvdb>
+            <content>episode</content>
+        </meta>
+        <link>https://apicdn.vip/drive/index.php?id=sATCxkofHyk6UUK9dl27QQCr%2FWebxP%2FMtU3HBy0nHs9s5Y2xrG6C5%2BPRX8gFEVowdkDacai6GB%2B0cCW%2B2oCCszEONSA1RhqnamslvO12zYPtvdNB%2FjbE8pY3gFN0KbByyl7SZSMD6T%2BYUARdajXQ60EbGlYd7UZ7ePM%2BWoZD7WrGJNReFeI57%2FPDSajKIfRzrVEMOtKH2JUNbjv3gWSUeeq5w6iblx64p%2FDa%2F%2BD5pVZlb%2FEac3BrkT3dMYePslYPC9pAUvYlgtsh1%2FFpKgp0tjKYZD2pyyXPdEi8eP3ZUOp1bKyESTCD6MCOHAXyaXOHC6AinfwXMDPHdDOZVPSn%2FBGkmjxza4ndHRVlCmMiN4%2BkiNMqxOpOZsS5i%2FWZo1OQoXX2B6EVGVIk6jx3IDi5%2BDMQb8lEZZbLZAzrK%2B5sA8d2nJy%2FqTPaWqteetSd4dKD4Id9GqW%2BbAJUlFp79kXcXzt%2BW4IyY%2F2hmd%2BVNdWN7Dd6Y9zXoMSsi6AnVUvhyleLTc%2BMxxrallKH2QJiX0GJ8sXDk8gH3bfuwChOuzZphnq9szOUFt0jiatLcBUpopqmYcH6fWrIZ52%2F40HSGTF3tHXX11ZhT%2BXaofADN%2Byony9RvJxyhScT%2Bwofnz%2FK6Dd41QSzZ%2FdOf7rvBuHSHwEiVgeqUEC8l%2FbHc05G0%2BdzYDTbmOGa%2BFkwZkK13z8LctyHPXLT7NsaGsCG5UqSAkezHk4tJibrVcpEe821sD%2F5FhTQMfxyOLdJG6G5%2Bo2UweeI1IKiw0MeHST7bEI5QwWJu%2B1dRYVBFSzRs2jWtUksS69w%3D%3D&ref=http%3A%2F%2Flosmovies.fun%2Ffree-movie-online%2Ftt50315%2Fwatch-online-arrow%3F__cf_chl_jschl_tk__%3D7e9e339a020c358a384413d49bbad29db10bdbe3-1586020599-0-AeCmmZRUE90lL1romIx38akiITf5yW2p0gWGiHX7VVMQJ6ttdSKFGE5Jcl2ZbeoFGRzqs3oVoQ1cytqTsxM9YP08ptKjNqmxxWiMoPtTW1qYUlgz4EzkJWNoKAbsLJKGOZQ6rtSZxE4rRMmYEeWAMlxsL_chbg75B6wgXFV09CURf1ujjSscj6TiRRewkU5ffvt5bck8hQwseZiN0bRPCEPfgYYHOdw3Pxbt_vwNJVuBlBJrYbT5TRiyNFbKQ8lPuF_itmqjKSd-m-tWaKmFLAaSdFE7b5cyi6oXphyCIAKNz1ugFdcM-zi9imJHa2PRH4mwRJdqyiX_FyvA73LaRLU&res=default</link>
     </item>
 </xml>

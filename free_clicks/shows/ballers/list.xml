@@ -29,7 +29,7 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season3.xml</link>
     </dir>
 
-    <dir>
+    <dirs>
         <title>Season 4</title>
         <meta>
             <tvdb>281714</tvdb>
@@ -37,9 +37,9 @@
             <season>01</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season4.xml</link>
-    </dir>
+    </dirs>
 
-    <dir>
+    <dirs>
         <title>Season 5</title>
         <meta>
             <tvdb>281714</tvdb>
@@ -47,5 +47,5 @@
             <season>01</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/ballers/season5.xml</link>
-    </dir>
+    </dirs>
 </xml>
