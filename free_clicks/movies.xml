@@ -2,15 +2,18 @@
     <dir>
         <title>Newly Added [B][COLOR gold]April 2020 [/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/new_movies.xml</link>
+        <thumbnail>https://github.com/Tempest0580/xml/blob/master/icons/movies.png?raw=true</thumbnail>
     </dir>
 
     <dir>
         <title>Movies by Year</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/year_movies.xml</link>
+        <thumbnail>https://github.com/Tempest0580/xml/blob/master/icons/movies.png?raw=true</thumbnail>
     </dir>
 
     <dir>
         <title>Movies by Alphabet</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/alphabet_movies.xml</link>
+        <thumbnail>https://github.com/Tempest0580/xml/blob/master/icons/movies.png?raw=true</thumbnail>
     </dir>
 </xml>
