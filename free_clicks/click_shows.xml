@@ -90,6 +90,15 @@
     </dir>
 
     <dir>
+        <title>Smallville</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>tvshow</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/smallville/list.xml</link>
+    </dir>
+
+    <dir>
         <title>The Twilight Zone</title>
         <meta>
             <tvdb>358915</tvdb>

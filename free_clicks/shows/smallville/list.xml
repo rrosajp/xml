@@ -1,13 +1,101 @@
 <xml>
     <dir>
         <title>Season 1</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>01</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season1.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/72218-1-12.jpg</thumbnail>
     </dir>
 
     <dir>
         <title>Season 2</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>02</season>
+        </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season2.xml</link>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/72218-2-12.jpg</thumbnail>
     </dir>
+
+    <dir>
+        <title>Season 3</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>03</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season1.xml</link>
+    </dir>
+
+    <dirs>
+        <title>Season 4</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>04</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season2.xml</link>
+    </dirs>
+
+    <dirs>
+        <title>Season 5</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>05</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season1.xml</link>
+    </dirs>
+
+    <dirs>
+        <title>Season 6</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>06</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season2.xml</link>
+    </dirs>
+
+    <dirs>
+        <title>Season 7</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>07</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season1.xml</link>
+    </dirs>
+
+    <dirs>
+        <title>Season 8</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>08</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season2.xml</link>
+    </dirs>
+
+    <dirs>
+        <title>Season 9</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>09</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season1.xml</link>
+    </dirs>
+
+    <dirs>
+        <title>Season 10</title>
+        <meta>
+            <tvdb>72218</tvdb>
+            <content>season</content>
+            <season>10</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/shows/smallville/season2.xml</link>
+    </dirs>
 </xml>

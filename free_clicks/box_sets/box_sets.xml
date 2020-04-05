@@ -184,4 +184,10 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_sets/scary_movie.xml</link>
         <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/4b/54/a8/4b54a87b-543e-d3ab-9143-36f3236a7ed0/mza_6764792502277162300.jpg/268x0w.jpg</thumbnail>
     </dir>
+
+    <dir>
+        <title>Thor</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/box_set/thor.xml</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Lhym5jCIL.jpg</thumbnail>
+    </dir>
 </xml>
