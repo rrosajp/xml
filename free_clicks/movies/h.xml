@@ -98,7 +98,7 @@
         <link></link>
     </items>
 
-    <item>
+    <items>
         <title>Harry Potter and the Philosopher's Stone</title>
         <meta>
             <imdb>tt0241527</imdb>
@@ -107,7 +107,7 @@
             <year>2001</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Harry Potter and the Chamber of Secrets</title>
@@ -296,16 +296,16 @@
         <link>https://apicdn.vip/drive/index.php?id=VB3vew6cf5%2B%2F6yFNgDfd%2BAclsdX4iZiEJzQyLj9nLSkAbt2OgtLoaMvI5XlDB3HRYbAuFdcNo%2FDHDem87mzq139slUJKLUcjKh8lXfz5Lu85rrp3kL5R2XUDebToD8KmuRZLo97h0mIKftb%2BJu8o1A&ref=&res=default</link>
     </item>
 
-    <items>
-        <title>Hotel Artemis (Coming Soon)</title>
+    <item>
+        <title>Hotel Artemis</title>
         <meta>
             <imdb>tt5834262</imdb>
             <content>movie</content>
             <title>Hotel Artemis</title>
             <year>2018</year>
         </meta>
-        <link></link>
-    </items>
+        <link>https://apicdn.vip/drive/index.php?id=9ZLZn%2B55b%2BEOJkfdxsvULQyxs1Jyfk3q8n6cVg4TFSDwwytj%2FSRh%2Fa4Lbpu4K3eCSok7f3vinbE3KZAFqAgxAFFw14kxXH8ByGuAuahahYQnc4WZNptNMBswDAfGfxbQq%2FG30WGZS6J9n87sF5il9rhtM%2FywXinQBzRFhj5I9V%2BwHw1MRGisbjiGh520tR2A1ixjFxSGufLDZnO%2BGy9Hf1&ref=https%3A%2F%2Fganool.city%2Flk21%2F%3Fid%3Dtt5834262&res=default</link>
+    </item>
 
     <item>
         <title>Hotel Mumbai</title>
