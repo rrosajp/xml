@@ -5,7 +5,7 @@
             <tvdb>78020</tvdb>
             <content>tvshow</content>
         </meta>
-        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/arrow/list.xml</link>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/alf/list.xml</link>
     </dir>
 
     <dir>
@@ -42,6 +42,15 @@
             <content>tvshow</content>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/charmed_98/list.xml</link>
+    </dir>
+
+    <dir>
+        <title>Family</title>
+        <meta>
+            <tvdb>75978</tvdb>
+            <content>tvshow</content>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/family_guy/list.xml</link>
     </dir>
 
     <dir>

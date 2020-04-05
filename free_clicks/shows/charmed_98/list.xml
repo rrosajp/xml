@@ -29,7 +29,7 @@
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/shows/charmed_98/season3.xml</link>
     </dir>
 
-    <dirs>
+    <dir>
         <title>Season 4</title>
         <meta>
             <tvdb>70626</tvdb>
@@ -37,9 +37,9 @@
             <season>04</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/charmed_98/season4.xml</link>
-    </dirs>
+    </dir>
 
-    <dirs>
+    <dir>
         <title>Season 5</title>
         <meta>
             <tvdb>70626</tvdb>
@@ -47,9 +47,9 @@
             <season>05</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/charmed_98/season5.xml</link>
-    </dirs>
+    </dir>
 
-    <dirs>
+    <dir>
         <title>Season 6</title>
         <meta>
             <tvdb>70626</tvdb>
@@ -57,9 +57,9 @@
             <season>06</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/charmed_98/season6.xml</link>
-    </dirs>
+    </dir>
 
-    <dirs>
+    <dir>
         <title>Season 7</title>
         <meta>
             <tvdb>70626</tvdb>
@@ -67,9 +67,9 @@
             <season>07</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/charmed_98/season7.xml</link>
-    </dirs>
+    </dir>
 
-    <dirs>
+    <dir>
         <title>Season 8</title>
         <meta>
             <tvdb>70626</tvdb>
@@ -77,5 +77,5 @@
             <season>08</season>
         </meta>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/free_clicks/show/charmed_98/season8.xml</link>
-    </dirs>
+    </dir>
 </xml>
