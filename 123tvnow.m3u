@@ -25,10 +25,10 @@ https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 http://docs-2.gogleusercontent.host/live/k9fm68v9/chunks.m3u8|Referer=http://123tvnow.com/watch/cartoon-network/
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" group-title="News",CBS News (CBSN)
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 
 #EXTINF:-1 group-title="USA"  tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="",CBS
 http://docs-5.gogleusercontent.host/live/sckmw792/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
@@ -91,7 +91,7 @@ http://docs-5.gogleusercontent.host/live/lifetime/chunks.m3u8|Referer=http://123
 http://docs-6.gogleusercontent.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" group-title="",National Geographic
-http://docs-6.gogleusercontent.host/live/natgeo/chunks.m3u8|Referer=http://123tvnow.com/watch/national-geographic/
+http://pfa-7-78-626.sub6.cachefly.xyz/live/mwtgj8ft/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIwIDEyOjU2OjU4IEFNJmhhc2hfdmFsdWU9c1dOSWdDazdVRS9Ib1YxeHNlQ2hZZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTM=|Referer=http://123tvnow.com/watch/national-geographic/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" group-title="",NBA TV
 http://docs-3.gogleusercontent.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
