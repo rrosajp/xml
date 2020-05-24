@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="." group-title="", Test3
-https://peer1.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDk6MDY6MTcgUE0maGFzaF92YWx1ZT1OSEtmcHUwTHJRZUNDdlZITm9FSDR3PT0mdmFsaWRtaW51dGVzPTI0MA==|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/74.0&Referer=https://ustvgo.tv/player.php?stream=ABC
+#EXTINF:-1 tvg-logo="." group-title="", Test4
+https://peer3.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDk6MTQ6MTYgUE0maGFzaF92YWx1ZT14akZuN24zdmt3UG1qczVzZ3ltUTBnPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv/player.php?stream=ABC
