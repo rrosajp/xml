@@ -1,166 +1,144 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/03/tải-xuống-300x160.jpeg" group-title="", DISCOVERY SCIENCE
-http://live.highstream.club/live/DISCOVERYS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/03/nickjr-logo-300x160.png" group-title="", NICK JUNIOR
 http://live.highstream.club/live/NICKJUNIOR/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/03/zone-300x160.jpg" group-title="", HBO Zone
 http://live.highstream.club/live/HBOZone/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/03/ignature-300x160.jpg" group-title="", HBO Signature
 http://live.highstream.club/live/HBOSignature/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/03/comedy-300x160.jpg" group-title="", HBO Comedy
 http://live.highstream.club/live/HBOComedy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/ufc-300x160.png" group-title="", UFC Fight Pass
-http://live.highstream.club/live/UFC/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/MLB-300x160.png" group-title="", MLB Network
+http://live.highstream.club/live/MLB/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/yes-network-300x160.jpeg" group-title="", YES Network
 http://live.highstream.club/live/YES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/space-1035x569-115079458-300x160.jpg" group-title="", Space
-http://live.highstream.club/live/Space/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/Smithsonian-Channel-300x160.png" group-title="", Smithsonian Channel
-http://live.highstream.club/live/Smithsonian/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/TeenNick-268x160.png" group-title="", TeenNick
+http://live.highstream.club/live/TeenNick/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/aa-296x160.png" group-title="", SNY (SportsNet New York )
 http://live.highstream.club/live/SNY/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/01/msg-300x138.jpeg" group-title="", MSG
 http://live.highstream.club/live/MSG/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/oprah-winfrey-own-300x160.jpg" group-title="", OWN
 http://live.highstream.club/live/OWN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Hallmark-Channel-300x160.jpg" group-title="", Hallmark Channel
 http://live.highstream.club/live/Hallmark/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/BBC-America-300x160.jpg" group-title="", BBC America
 http://live.highstream.club/live/BBCAmerica/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/wwe-300x160.png" group-title="", WWE Network
 http://live.highstream.club/live/WWE/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/adultswim-300x160.png" group-title="", Adult Swim
-http://live.highstream.club/live/AdultSwim/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/ahc-300x160.png" group-title="", AHC (American Heroes Channel)
 http://live.highstream.club/live/AHC/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/bloomberg-300x160.jpg" group-title="", Bloomberg USA
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/bravo-300x160.png" group-title="", Bravo
-http://live.highstream.club/live/Bravo/playlist.m3u8
-
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/CMC-300x160.jpg" group-title="", CMC (California Music Channel)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cbn-news-300x160.png" group-title="", CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cbsn-300x160.jpg" group-title="", CBS News (CBSN)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cnbc-300x160.png" group-title="", CNBC
 http://live.highstream.club/live/CNBC/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/e-300x160.png" group-title="", E! Network
-http://live.fadev.club/live/E!/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/ftv-300x160.png" group-title="", FashionTV Global
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fbn-300x160.jpg" group-title="", Fox Business
 http://live.highstream.club/live/FOXB/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fox-news-300x160.jpg" group-title="", Fox News Radio
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fs2-300x160.png" group-title="", Fox Sports 2 (FS2)
 http://live.highstream.club/live/FS2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/free-speech-300x160.png" group-title="", Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/FTV-Midnight-Secrets-300x160.png" group-title="", FTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fx-300x160.png" group-title="", FX Networks
 http://live.highstream.club/live/FX/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/golf-300x160.png" group-title="", Golf Channel
 http://live.highstream.club/live/Golf/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/InfoWars-300x160.png" group-title="", InfoWars
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Lifetime-300x160.png" group-title="", Lifetime
-http://live.highstream.club/live/Lifetime/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/espnlhn-300x160.png" group-title="", Longhorn Network (LHN)
-http://live.highstream.club/live/lghl/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/msnbc_logo-300x160.jpg" group-title="", MSNBC
 http://live.highstream.club/live/MSNBC/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/National-Geographic-300x160.png" group-title="", National Geographic
 http://live.highstream.club/live/Geographic/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Newsmax-300x160.jpg" group-title="", Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/nfln-300x160.jpg" group-title="", NFL Network
-http://live.highstream.club/live/NFL/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/nhl-300x160.png" group-title="", NHL Network
 http://live.highstream.club/live/NHL/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/nick-300x160.png" group-title="", Nickelodeon
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Oxygen-300x160.png" group-title="", Oxygen
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/StarZ-300x160.png" group-title="", StarZ
+http://live.highstream.club/live/StarZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/syfy-300x160.png" group-title="", Syfy
 http://live.highstream.club/live/Syfy/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/tbs-300x160.png" group-title="", TBS
 http://live.highstream.club/live/TBS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Weather-Channel-300x160.png" group-title="", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/WeatherNation-300x160.png" group-title="", WeatherNation TV
 http://klive.kaltura.com/dc-1/m/ny-live-publish112/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/VR9GBx1L2TvBHHp5BH9NTA/master.m3u8
-
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/tlc-300x160.png" group-title="", TLC
+http://live.highstream.club/live/TLC/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/TruTV-300x160.png" group-title="", TruTV
+http://live.highstream.club/live/TruTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/nbatv-300x160.jpg" group-title="", NBA TV
 http://live.highstream.club/live/NBATV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/USA-Network-300x160.png" group-title="", USA Network
 http://live.highstream.club/live/USA/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/ae-300x160.png" group-title="", A&#038;E (AE)
+http://live.highstream.club/live/AE/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Showtime-300x160.png" group-title="", Showtime
 http://live.highstream.club/live/SHOWTIME/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/amc-300x160.png" group-title="", AMC
+http://live.highstream.club/live/AMC/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/Discovery-300x160.png" group-title="", Discovery Channel
+http://live.highstream.club/live/DISCOVERY/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/History-300x160.png" group-title="", History Channel
+http://live.highstream.club/live/History/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cw-300x160.png" group-title="", The CW
+http://live.highstream.club/live/CW/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cnn-300x160.png" group-title="", CNN
 http://live.highstream.club/live/CNN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fox-300x160.png" group-title="", FOX Network
 http://live.highstream.club/live/FOX/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/tnt-300x160.png" group-title="", TNT
 http://live.highstream.club/live/TNT/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cartoon-network-300x160.png" group-title="", Cartoon Network
-http://live.highstream.club/live/CN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/nbc-300x160.png" group-title="", NBC
 http://live.highstream.club/live/NBC/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fs1-300x160.png" group-title="", Fox Sports 1 (FS1)
 http://live.highstream.club/live/FS1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/cbs-300x160.png" group-title="", CBS
 http://live.highstream.club/live/CBS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/hbo-300x160.png" group-title="", HBO
-http://live.highstream.club/live/HBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/5dfccbae7152d80ff8c56e49-300x160.jpg" group-title="", BEIN SPORTS USA
+http://live.highstream.club/live/BEINSPORTSUSA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/5dfccbae7152d80ff8c56e49-300x160.jpg" group-title="", BEIN SPORT LA LIGA esp
+http://live.highstream.club/live/BEINSPORTLALIGA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/5dfccbae7152d80ff8c56e49-300x160.jpg" group-title="", BEIN SPORTS ESP (US)
+http://live.highstream.club/live/BEINSPORTSESP/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg" group-title="", BT SPORT ESPN
+http://live.highstream.club/live/BTSPORTESPN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg" group-title="", BT SPORT 2
+http://live.highstream.club/live/BTSPORT2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/5dfccbae7152d80ff8c56e49-300x160.jpg" group-title="", BEIN SPORTS USA
+http://live.highstream.club/live/BEINSPORTSUSA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/5dfccbae7152d80ff8c56e49-300x160.jpg" group-title="", BEIN SPORT LA LIGA esp
+http://live.highstream.club/live/BEINSPORTLALIGA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/5dfccbae7152d80ff8c56e49-300x160.jpg" group-title="", BEIN SPORTS ESP (US)
+http://live.highstream.club/live/BEINSPORTSESP/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg" group-title="", BT SPORT ESPN
+http://live.highstream.club/live/BTSPORTESPN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg" group-title="", BT SPORT 2
+http://live.highstream.club/live/BTSPORT2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg" group-title="", BT SPORT 1
+http://live.highstream.club/live/BTSPORT1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/TSN-logo-300x160.jpg" group-title="", TSN 4
+http://live.highstream.club/live/TSN4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/TSN-logo-300x160.jpg" group-title="", TSN 1
+http://live.highstream.club/live/TSN1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fs2-300x160.png" group-title="", Fox Sports 2 (FS2)
+http://live.highstream.club/live/FS2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2019/11/fs1-300x160.png" group-title="", Fox Sports 1 (FS1)
+http://live.highstream.club/live/FS1/playlist.m3u8
