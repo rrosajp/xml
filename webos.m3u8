@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/abcn.webp" group-title="", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/adult-swim.webp" group-title="", Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/bloomberg.webp" group-title="", Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/cbsn.webp" group-title="", CBS News
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/cgtn.webp" group-title="", CGTN
+https://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/cheddar.webp" group-title="", Cheddar
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/cspan.webp" group-title="", CSPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/cspan2.webp" group-title="", CSPAN2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/docurama.webp" group-title="", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/fox.webp" group-title="", FOX News
+https://www.ok.ru/videoembed/1748714331733?nochat=1&autoplay=1
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/fnr.webp" group-title="", FOX News Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/infowars.webp" group-title="", Info Wars
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/japan.webp" group-title="", Japan News English
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/law.webp" group-title="", Law & Crime
+https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/live.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/movee.webp" group-title="", Movee
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/msnbc.webp" group-title="", MSNBC
+https://www.ok.ru/videoembed/1370650975998?nochat=1&autoplay=1
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/newsmax.webp" group-title="", NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/oc.webp" group-title="", Olympic
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/redbull.webp" group-title="", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/ram.webp" group-title="", Rick & Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/stadium.webp" group-title="", Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/twc.webp" group-title="", The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/voa.webp" group-title="", VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-logo="http://streamwat.ch/media/western4u.webp" group-title="", Western4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
