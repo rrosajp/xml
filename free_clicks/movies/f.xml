@@ -1,13 +1,13 @@
 <xml>
     <items>
-        <title>Fantasia (Coming Soon)</title>
+        <title>Fantasia</title>
         <meta>
             <imdb>tt0032455</imdb>
             <content>movie</content>
             <title>Fantasia</title>
             <year>1940</year>
         </meta>
-        <link></link>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0ZhbnRhc2lhJTIwKDE5NDApL0ZhbnRhc2lhLjE5NDAuTVVMVGkuRU5HLlJVUy5JVEEuVFVSLkdSRS5BUkEuTk9SLjEwODBwLkJsdVJheS5SRU1VWC5EVFMtSEQuTUEuNy4xLkFWQy04NG40blltMHU1Lm1rdj9hPXZpZXc=</link>
     </items>
 
     <item>
@@ -151,19 +151,30 @@
             <title>Free Willy</title>
             <year>1993</year>
         </meta>
-        <link>https://apicdn.vip/drive/index.php?id=I5FPAPlWNiY%2BVSWsv66HUgh8%2BtFYp1lDQ%2BSgYvCW97M6%2FSjilFqlIRHJjgp%2BH7aiMNrZsWJ5NaYLJSpFX5uixonSzJsiozgKkGjGnDlQW7ZYUEH26dKRfzmj60WLRHqjstXGNbTVYe1MdGf1AtZDlr&ref=&res=default</link>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0ZyZWUlMjBXaWxseSUyMCgxOTkzKS9GcmVlLldpbGx5LigxOTkzKS5bMTA4MHAuQmx1UmF5LlJFTVVYXS5bRFRTLUhELk1BJTIwNS4xXS5bQVZDXS1FUFNJTE9OLm1rdj9hPXZpZXc=</link>
     </item>
 
     <item>
-        <title>Free Willy 2 - The Adventure Home (Coming Soon)</title>
+        <title>Free Willy 2 - The Adventure Home</title>
         <meta>
             <imdb>tt0113114</imdb>
             <content>movie</content>
             <title>Free Willy 2 - The Adventure Home</title>
             <year>1995</year>
         </meta>
-        <link>https://apicdn.vip/drive/index.php?id=no00cdzkAswsUuuSNbt2nQ2NL6HxbJRB4rcJLQNjs8jshqK4n0Etn5ouylbbDWT5KD8rQxFm%2BVqYg4lczs9sOaFLFgidlfRWyWbVVlzJQrwojBzeiOIJI3N3AZ%2BBUWbkTlaNZ6KuxCa4TIV9eNBaSQ&ref=&res=default</link>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0ZyZWUlMjBXaWxseSUyMDIlMjAtJTIwVGhlJTIwQWR2ZW50dXJlJTIwSG9tZSUyMCgxOTk1KS9GcmVlLldpbGx5LjIuVGhlLkFkdmVudHVyZS5Ib21lLigxOTk1KS5bMTA4MHAuV0VCXS5bRUFDMyUyMDIuMF0uW3gyNjRdLUFMRkFIRC5ta3Y/YT12aWV3</link>
     </item>
+
+    <items>
+        <title>Free Willy: Escape from Pirate's Cove</title>
+        <meta>
+            <imdb>tt1394329</imdb>
+            <content>movie</content>
+            <title>Free Willy: Escape from Pirate's Cove</title>
+            <year>2010</year>
+        </meta>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0ZyZWUlMjBXaWxseSUyMEVzY2FwZSUyMEZyb20lMjBQaXJhdGUncyUyMENvdmUlMjAoMjAxMCkvRnJlZS5XaWxseS5Fc2NhcGUuZnJvbS5QaXJhdGVzLkNvdmUuKDIwMTApLlsxMDgwcC5CbHVSYXldLltEVFMlMjA1LjFdLlt4MjY0XS1mcmVld2lsbHk0Lm1rdj9hPXZpZXc=</link>
+    </items>
 
     <item>
         <title>Frequency</title>
