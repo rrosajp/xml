@@ -728,6 +728,12 @@
     </dir>
 
     <dir>
+        <title>United States</title>
+        <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/us.m3u</link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg</thumbnail>
+    </dir>
+
+    <dir>
         <title>Uruguay</title>
         <link>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/uy.m3u</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png</thumbnail>
