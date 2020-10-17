@@ -43,7 +43,7 @@
         <link></link>
     </item>
 
-    <item>
+    <items>
         <title>John Tucker Must Die</title>
         <meta>
             <imdb>tt0455967</imdb>
@@ -52,7 +52,7 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <items>
         <title>John Wick</title>

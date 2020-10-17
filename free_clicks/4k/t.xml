@@ -1,5 +1,5 @@
 <xml>
-    <items>
+    <item>
         <title>Toy Story 3</title>
         <meta>
             <imdb>tt0435761</imdb>
@@ -8,9 +8,9 @@
             <year>2010</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovVUhEJTIwTW92aWVzL1RveSUyMFN0b3J5JTIwMyUyMCgyMDEwKS9Ub3kuU3RvcnkuMy4yMDEwLjIxNjBwLlVIRC5CbHVSYXkuUkVNVVguVFJVRUhELkFUTU9TLjcuMS5IRVZDLUNEQi5ta3Y/YT12aWV3</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>Toy Story 4</title>
         <meta>
             <imdb>tt1979376</imdb>
@@ -19,5 +19,5 @@
             <year>2019</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovVUhEJTIwTW92aWVzL1RveSUyMFN0b3J5JTIwNCUyMCgyMDE5KS9Ub3kuU3RvcnkuNC4yMDE5LjIxNjBwLlVIRC5CbHVSYXkuUkVNVVguVFJVRUhELkFUTU9TLjcuMS5IRVZDLUVQU2lMT04ubWt2P2E9dmlldw==</link>
-    </items>
+    </item>
 </xml>
