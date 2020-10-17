@@ -54,7 +54,7 @@
         <link></link>
     </item>
 
-    <item>
+    <items>
         <title>John Wick</title>
         <meta>
             <imdb>tt2911666</imdb>
@@ -63,9 +63,9 @@
             <year>2014</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>John Wick: Chapter 2</title>
         <meta>
             <imdb>tt4425200</imdb>
@@ -74,7 +74,7 @@
             <year>2017</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>John Wick: Chapter 3 – Parabellum</title>
