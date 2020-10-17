@@ -32,7 +32,7 @@
         <link>aHR0cHM6Ly9pbmRleC5pc3VtaXQud29ya2Vycy5kZXYvQmlyZHMub2YuUHJleS5BbmQudGhlLkZhbnRhYnVsb3VzLkVtYW5jaXBhdGlvbi5vZi5PbmUuSGFybGV5LlF1aW5uLjIwMjAuMjE2MHAuVUhELkJsdVJheS54MjY1LjEwYml0LkhEUi5EVFMtSEQuTUEuVHJ1ZUhELjcuMS5BdG1vcy1TV1RZQkxaL0JpcmRzLm9mLlByZXkuMjAyMC4yMTYwcC5VSEQuQmx1UmF5LngyNjUuMTBiaXQuSERSLkRUUy1IRC5NQS5UcnVlSEQuNy4xLkF0bW9zLVNXVFlCTFoubWs=</link>
     </item>
 
-    <item>
+    <items>
         <title>The Call of the Wild</title>
         <meta>
             <imdb>tt7504726</imdb>
@@ -41,9 +41,9 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Come to Daddy</title>
         <meta>
             <imdb>tt8816194</imdb>
@@ -52,9 +52,9 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>The Dark Side of Opulent</title>
         <meta>
             <imdb>tt7380006</imdb>
@@ -63,7 +63,7 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Dolittle</title>
@@ -76,7 +76,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0RvbGl0dGxlJTIwKDIwMjApL0RvbGl0dGxlLjIwMjAuMTA4MHAuQmx1UmF5LlJFTVVYLlRSVUVIRC5BVE1PUy43LjEuQVZDLVBtUC5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Don’t Let Them In</title>
         <meta>
             <imdb>tt10198072</imdb>
@@ -85,7 +85,7 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Emma.</title>
@@ -109,7 +109,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL1RoZSUyMEdlbnRsZW1lbiUyMCgyMDIwKS9UaGUuR2VudGxlbWVuLjIwMTkuMTA4MHAuQmx1UmF5LlJFTVVYLlRSVUVIRC5BVE1PUy43LjEuQVZDLUxFR2kwTi5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Guns Akimbo</title>
         <meta>
             <imdb>tt6902676</imdb>
@@ -118,7 +118,7 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Homeward</title>
@@ -131,7 +131,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0hvbWV3YXJkJTIwKDIwMjApL0hvbWV3YXJkLjIwMjAuMTA4MHAuV0VCLkFDMy41LjEuaDI2NC1FVk8ubWt2P2E9dmlldw==</link>
     </item>
 
-    <item>
+    <items>
         <title>The Invisible Man</title>
         <meta>
             <imdb>tt1051906</imdb>
@@ -140,7 +140,7 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Onward</title>
@@ -153,7 +153,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL09ud2FyZCUyMCgyMDIwKS9PbndhcmQuMjAyMC4xMDgwcC5CbHVSYXkuUkVNVVguUHJvcGVyLlRSVUVIRC5BVE1PUy43LjEuQVZDLVBtUC5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Rag Doll</title>
         <meta>
             <imdb>tt5990464</imdb>
@@ -162,7 +162,7 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Sonic the Hedgehog</title>
@@ -186,7 +186,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL1N1cGVybWFuJTIwUmVkJTIwU29uJTIwKDIwMjApL1N1cGVybWFuLlJlZC5Tb24uMjAyMC4xMDgwcC5CbHVSYXkuUkVNVVguRFRTLUhELk1BLjUuMS5BVkMtT3VyQml0cy5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>You Cant Take My Daughter</title>
         <meta>
             <imdb>tt11379280</imdb>
@@ -195,7 +195,7 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>The Way Back</title>

@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>Cars</title>
         <meta>
             <imdb>tt0317219</imdb>
@@ -8,7 +8,7 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <items>
         <title>Click</title>
@@ -32,7 +32,7 @@
         <link></link>
     </items>
 
-    <item>
+    <items>
         <title>Flushed Away</title>
         <meta>
             <imdb>tt0424095</imdb>
@@ -41,7 +41,7 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Ice Age The Meltdown</title>
@@ -76,7 +76,7 @@
         <link></link>
     </items>
 
-    <item>
+    <items>
         <title>Night at the Museum</title>
         <meta>
             <imdb>tt0477347</imdb>
@@ -85,9 +85,9 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Return to Halloweentown</title>
         <meta>
             <imdb>tt0816520</imdb>
@@ -96,7 +96,7 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <items>
         <title>A Scanner Darkly</title>
@@ -120,7 +120,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL1NjYXJ5JTIwTW92aWUlMjA0JTIwKDIwMDYpL1NjYXJ5Lk1vdmllLjQuMjAwNi4xMDgwcC5CbHVSYXkuQUMzLjUuMS54MjY0LW5pa3QwLm1rdj9hPXZpZXc=</link>
     </items>
 
-    <item>
+    <items>
         <title>She's The Man</title>
         <meta>
             <imdb>tt0454945</imdb>
@@ -129,5 +129,5 @@
             <year>2006</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

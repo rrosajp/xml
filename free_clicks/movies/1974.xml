@@ -10,7 +10,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0NoaW5hdG93biUyMCgxOTc0KS9DaGluYXRvd24uMTk3NC4xMDgwcC5CbHVSYXkuUkVNVVguRFRTLUhELk1BLjUuMS5BVkMtTEVHaTBOLm1rdj9hPXZpZXc=</link>
     </item>
 
-    <item>
+    <items>
         <title>Emmanuelle</title>
         <meta>
             <imdb>tt0071464</imdb>
@@ -19,9 +19,9 @@
             <year>1974</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>The Godfather: Part II</title>
         <meta>
             <imdb>tt0071562</imdb>
@@ -30,5 +30,5 @@
             <year>1974</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>

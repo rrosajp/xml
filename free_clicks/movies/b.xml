@@ -1,5 +1,38 @@
 <xml>
     <item>
+        <title>Bad boys</title>
+        <meta>
+            <imdb>tt0112442</imdb>
+            <content>movie</content>
+            <title>Bad boys</title>
+            <year>1995</year>
+        </meta>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JhZCUyMEJveXMlMjAoMTk5NSkvQmFkLkJveXMuMTk5NS4xMDgwcC5CbHVSYXkuUkVNVVguRFRTLUhELk1BLjUuMS5BVkMtQVJPTUEubWt2P2E9dmlldw==</link>
+    </item>
+
+    <item>
+        <title>Bad boys 2</title>
+        <meta>
+            <imdb>tt0172156</imdb>
+            <content>movie</content>
+            <title>Bad boys 2</title>
+            <year>2003</year>
+        </meta>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JhZCUyMEJveXMlMjBJSSUyMCgyMDAzKS9CYWQuQm95cy5JSS4yMDAzLjEwODBwLkJsdVJheS5SRU1VWC5EVFMtSEQuTUEuNS4xLmgyNjQtRnJhTWVTVG9SLm1rdj9hPXZpZXc=</link>
+    </item>
+
+    <item>
+        <title>Bad Boys for Life</title>
+        <meta>
+            <imdb>tt1502397</imdb>
+            <content>movie</content>
+            <title>Bad Boys for Life</title>
+            <year>2020</year>
+        </meta>
+        <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JhZCUyMEJveXMlMjBmb3IlMjBMaWZlJTIwKDIwMjApL0JhZC5Cb3lzLmZvci5MaWZlLjIwMjAuMTA4MHAuQmx1UmF5LlJFTVVYLkFDMy41LjEuQVZDLUhELm1rdj9hPXZpZXc=</link>
+    </item>
+
+    <item>
         <title>A Bad Moms Christmas</title>
         <meta>
             <imdb>tt6359956</imdb>
@@ -65,7 +98,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JlYXV0eSUyMGFuZCUyMHRoZSUyMEJlYXN0JTIwKDE5OTEpL0JlYXV0eS5hbmQuVGhlLkJlYXN0LjE5OTEuTVVMVGkuRU5HLkRBTi5OT1IuU1dFLkZJTi5JQ0UuMTA4MHAuQmx1UmF5LlJFTVVYLkRUU19IRC5NQS43LjEtODRuNG5ZbTB1NS5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Becoming</title>
         <meta>
             <imdb>tt2573372</imdb>
@@ -74,9 +107,9 @@
             <year>2020</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <items>
+    <item>
         <title>Bedazzled</title>
         <meta>
             <imdb>tt0230030</imdb>
@@ -85,7 +118,7 @@
             <year>2000</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JlZGF6emxlZCUyMCgyMDAwKS9CZWRhenpsZWQuMjAwMC4xMDgwcC5CbHVSYXkuUkVNVVguVFJVRUhELjUuMS5BVkMtRnJhTWVTVG9SLm1rdj9hPXZpZXc=</link>
-    </items>
+    </item>
 
     <item>
         <title>Bedknobs and Broomsticks</title>
@@ -109,7 +142,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JlZHRpbWUlMjBTdG9yaWVzJTIwKDIwMDgpL0JlZHRpbWUuU3Rvcmllcy4oMjAwOCkuWzEwODBwLkJsdVJheV0uW0RUUyUyMDUuMV0uW3gyNjRdLUZPUk0ubWt2P2E9dmlldw==</link>
     </item>
 
-    <item>
+    <items>
         <title>Bee Movie</title>
         <meta>
             <imdb>tt0389790</imdb>
@@ -118,9 +151,9 @@
             <year>2007</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <items>
+    <item>
         <title>Bend It Like Beckham</title>
         <meta>
             <imdb>tt0286499</imdb>
@@ -129,9 +162,9 @@
             <year>2002</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JlbmQlMjBJdCUyMExpa2UlMjBCZWNraGFtJTIwKDIwMDIpL0JlbmQuSXQuTGlrZS5CZWNraGFtLjIwMDIuMTA4MHAuQmx1UmF5LlJFTVVYLkRUUy1IRC5NQS41LjEuQVZDLUREUi5ta3Y/YT12aWV3</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>My Best Friend's Wedding</title>
         <meta>
             <imdb>tt0119738</imdb>
@@ -140,9 +173,9 @@
             <year>1997</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL015JTIwQmVzdCUyMEZyaWVuZHMlMjBXZWRkaW5nJTIwKDE5OTcpL015LkJlc3QuRnJpZW5kcy5XZWRkaW5nLjE5OTcuMTA4MHAuQmx1UmF5LlJFTVVYLlRSVUVIRC41LjEuQVZDLUVQU2lMT04ubWt2P2E9dmlldw==</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>Bewitched</title>
         <meta>
             <imdb>tt0374536</imdb>
@@ -151,9 +184,9 @@
             <year>2005</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0Jld2l0Y2hlZCUyMCgyMDA1KS9CZXdpdGNoZWQuMjAwNS4xMDgwcC5XRUIuUHJvcGVyLkVBQzMuNS4xLmgyNjQtbW9ua2VlLm1rdj9hPXZpZXc=</link>
-    </items>
+    </item>
 
-    <item>
+    <items>
         <title>The Big Boss</title>
         <meta>
             <imdb>tt0067824</imdb>
@@ -162,7 +195,7 @@
             <year>1971</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <items>
         <title>Big Fat Liar</title>
@@ -175,7 +208,7 @@
         <link></link>
     </items>
 
-    <items>
+    <item>
         <title>Big Momma's House</title>
         <meta>
             <imdb>tt0208003</imdb>
@@ -184,7 +217,7 @@
             <year>2000</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JpZyUyME1vbW1hJ3MlMjBIb3VzZSUyMCgyMDAwKS9CaWcuTW9tbWEncy5Ib3VzZS4oMjAwMCkuWzEwODBwLkJsdVJheS5SRU1VWF0tSElGSS5ta3Y/YT12aWV3</link>
-    </items>
+    </item>
 
     <item>
         <title>Big Stan</title>
@@ -197,7 +230,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JpZyUyMFN0YW4lMjAoMjAwNykvQmlnLlN0YW4uMjAwNy4xMDgwcC5CbHVSYXkuRFRTLUhELk1BLjUuMS54MjY0LUNIRC5ta3Y/YT12aWV3</link>
     </item>
 
-    <items>
+    <item>
         <title>Bird Box</title>
         <meta>
             <imdb>tt2737304</imdb>
@@ -206,7 +239,7 @@
             <year>2018</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JpcmQlMjBCb3glMjAoMjAxOCkvQmlyZC5Cb3guMjAxOC4xMDgwcC5CbHVSYXkuQUFDLjIuMC54MjY0LVBUU2QubXA0P2E9dmlldw==</link>
-    </items>
+    </item>
 
     <item>
         <title>Birds of Prey</title>
@@ -230,7 +263,7 @@
         <link></link>
     </item>
 
-    <item>
+    <items>
         <title>Blackkklansman</title>
         <meta>
             <imdb>tt7349662</imdb>
@@ -239,9 +272,9 @@
             <year>2018</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Blade Runner</title>
         <meta>
             <imdb>tt0083658</imdb>
@@ -250,7 +283,7 @@
             <year>1982</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <items>
         <title>Blades of Glory</title>
@@ -263,7 +296,7 @@
         <link></link>
     </items>
 
-    <item>
+    <items>
         <title>The Blob</title>
         <meta>
             <imdb>tt0094761</imdb>
@@ -272,9 +305,9 @@
             <year>1988</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Blockers</title>
         <meta>
             <imdb>tt2531344</imdb>
@@ -283,7 +316,7 @@
             <year>2018</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Bloodshot</title>
@@ -307,7 +340,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JvaGVtaWFuJTIwUmhhcHNvZHklMjAoMjAxOCkvQm9oZW1pYW4uUmhhcHNvZHkuKDIwMTgpLlsxMDgwcC5CbHVSYXkuUkVNVVhdLltEVFMlMjA3LjFdLltBVkNdLUxFR0kwTi5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Brainstorm</title>
         <meta>
             <imdb>tt0085271</imdb>
@@ -316,7 +349,7 @@
             <year>1983</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Brawl In Cell Block 99</title>
@@ -329,7 +362,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JyYXdsJTIwaW4lMjBDZWxsJTIwQmxvY2slMjA5OSUyMCgyMDE3KS9CcmF3bC5pbi5DZWxsLkJsb2NrLjk5LjIwMTcuMTA4MHAuQmx1UmF5LlJFTVVYLkRUUy1IRC5NQS41LjEuQVZDLUVQU2lMT04ubWt2P2E9dmlldw==</link>
     </item>
 
-    <item>
+    <items>
         <title>Braveheart</title>
         <meta>
             <imdb>tt0112573</imdb>
@@ -338,9 +371,9 @@
             <year>1995</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Brave</title>
         <meta>
             <imdb>tt1217209</imdb>
@@ -349,9 +382,9 @@
             <year>2012</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Braven</title>
         <meta>
             <imdb>tt5001754</imdb>
@@ -360,7 +393,7 @@
             <year>2018</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Brazil</title>
@@ -384,7 +417,7 @@
         <link></link>
     </item>
 
-    <item>
+    <items>
         <title>Breakthrough</title>
         <meta>
             <imdb>tt7083526</imdb>
@@ -393,7 +426,7 @@
             <year>2019</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <items>
         <title>Bridget Jones's Diary</title>
@@ -406,7 +439,7 @@
         <link></link>
     </items>
 
-    <item>
+    <items>
         <title>Bringing Down The House</title>
         <meta>
             <imdb>tt0305224</imdb>
@@ -415,7 +448,7 @@
             <year>2003</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Bruce Almighty</title>
@@ -428,7 +461,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0JydWNlJTIwQWxtaWdodHklMjAoMjAwMykvQnJ1Y2UuQWxtaWdodHkuKDIwMDMpLlsxMDgwcC5CbHVSYXkuUkVNVVhdLUZSQU1FU1RPUi5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Duck Duck Goose</title>
         <meta>
             <imdb>tt4940416</imdb>
@@ -437,7 +470,7 @@
             <year>2018</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>A Bug's Life</title>

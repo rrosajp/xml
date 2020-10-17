@@ -21,7 +21,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzLzE2JTIwV2lzaGVzJTIwKDIwMTApLzE2Lldpc2hlcy4yMDEwLjEwODBwLkJsdVJheS5SRU1VWC5EVFMtSEQuTUEuNS4xLkFWQy1QVGVyLm1rdj9hPXZpZXc=</link>
     </item>
 
-    <items>
+    <item>
         <title>21 Jump Street</title>
         <meta>
             <imdb>tt1232829</imdb>
@@ -30,9 +30,9 @@
             <year>2012</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzLzIxJTIwSnVtcCUyMFN0cmVldCUyMCgyMDEyKS8yMS5KdW1wLlN0cmVldC4oMjAxMikuWzEwODBwLkJsdVJheS5SRU1VWF0tREVDSUJFTC5ta3Y/YT12aWV3</link>
-    </items>
+    </item>
 
-    <items>
+    <item>
         <title>22 Jump Street</title>
         <meta>
             <imdb>tt2294449</imdb>
@@ -41,9 +41,9 @@
             <year>2014</year>
         </meta>
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzLzIyJTIwSnVtcCUyMFN0cmVldCUyMCgyMDE0KS8yMi5KdW1wLlN0cmVldC4oMjAxNCkuWzEwODBwLkJsdVJheS5SRU1VWF0tRVBTSUxPTi5ta3Y/YT12aWV3</link>
-    </items>
+    </item>
 
-    <item>
+    <items>
         <title>28 Days Later</title>
         <meta>
             <imdb>tt0289043</imdb>
@@ -52,9 +52,9 @@
             <year>2002</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>28 Weeks Later</title>
         <meta>
             <imdb>tt0463854</imdb>
@@ -63,7 +63,7 @@
             <year>2007</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>101 Dalmatians</title>

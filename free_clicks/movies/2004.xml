@@ -10,7 +10,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL1RoZSUyMENocm9uaWNsZXMlMjBvZiUyMFJpZGRpY2slMjAoMjAwNCkvVGhlLkNocm9uaWNsZXMub2YuUmlkZGljay4yMDA0LkRpcmVjdG9yJ3MuQ3V0LjEwODBwLkJsdVJheS5EVFMuNS4xLngyNjQtWjBOMy5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Halloweentown High</title>
         <meta>
             <imdb>tt0414078</imdb>
@@ -19,9 +19,9 @@
             <year>2004</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>Harry Potter and the Prisoner of Azkaban</title>
         <meta>
             <imdb>tt0304141</imdb>
@@ -30,7 +30,7 @@
             <year>2004</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>High School Musical</title>

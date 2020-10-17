@@ -1,5 +1,5 @@
 <xml>
-    <item>
+    <items>
         <title>The Andromeda Strain</title>
         <meta>
             <imdb>tt00667697</imdb>
@@ -8,7 +8,7 @@
             <year>1971</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
     <item>
         <title>Bedknobs and Broomsticks</title>

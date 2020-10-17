@@ -10,7 +10,7 @@
         <link>aHR0cHM6Ly84NG40bjQuZ2EvMDovTW92aWVzL0FtZXJpY2FuJTIwR3JhZmZpdGklMjAoMTk3MykvQW1lcmljYW4uR3JhZmZpdGkuMTk3My4xMDgwcC5CbHVSYXkuQUMzLjIuMC5IRVZDLWQzZy5ta3Y/YT12aWV3</link>
     </item>
 
-    <item>
+    <items>
         <title>Conquest of the Planet of the Apes</title>
         <meta>
             <imdb>tt0068408</imdb>
@@ -19,9 +19,9 @@
             <year>1972</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 
-    <item>
+    <items>
         <title>The Godfather</title>
         <meta>
             <imdb>tt0068646</imdb>
@@ -30,5 +30,5 @@
             <year>1972</year>
         </meta>
         <link></link>
-    </item>
+    </items>
 </xml>
