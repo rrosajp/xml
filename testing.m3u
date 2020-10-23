@@ -1,4 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="Kids/Animation", ABC
-rtmfp://195.181.173.108/usaabc?subscribeKey=Mjf1oJqKgoRBqc1JB6Ig8XJBzIRn8A6L
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 0
+https://allsprk.tv/m3u8/0
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 1
+https://allsprk.tv/m3u8/1
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 2
+https://allsprk.tv/m3u8/2
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 3
+https://allsprk.tv/m3u8/3
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 4
+https://allsprk.tv/m3u8/4
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 5
+https://allsprk.tv/m3u8/5
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 6
+https://allsprk.tv/m3u8/6
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 7
+https://allsprk.tv/m3u8/7
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 8
+https://allsprk.tv/m3u8/8
+
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/BinaryPirate3.png" group-title="", Channel 9
+https://allsprk.tv/m3u8/9
