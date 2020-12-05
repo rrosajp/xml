@@ -1,8 +1,10 @@
 <xml>
     <item>
-        <title>1x01.Children of the Gods (1)</title>
-        <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96714.mkv</link>
-        <thumbnail>https://www.thetvdb.com/banners/episodes/72449/295696.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/72449-6.jpg</fanart>
+        <title>1x01.</title>
+        <meta>
+            <tvdb></tvdb>
+            <content>episode</content>
+        </meta>
+        <link></link>
     </item>
 </xml>
